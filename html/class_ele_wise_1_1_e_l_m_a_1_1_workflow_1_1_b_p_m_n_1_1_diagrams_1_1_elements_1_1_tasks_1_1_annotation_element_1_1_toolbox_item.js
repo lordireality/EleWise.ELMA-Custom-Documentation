@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#aaee14eece4d51a67027eb22a94cd3d3a", null ],
+    [ "ElementIcon", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#a2d8c44c79fb0778b7d9bab65b4e3e1ac", null ],
+    [ "ElementType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#a00b8cae5368655e1cf052471d4debc52", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#a905b7f4f064f0e01e75c1374f50cd3d6", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#adac4606e155a838fe3d88ea0878eeef9", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_annotation_element_1_1_toolbox_item.html#ad80cd927de76f557764943b6043d8714", null ]
+];

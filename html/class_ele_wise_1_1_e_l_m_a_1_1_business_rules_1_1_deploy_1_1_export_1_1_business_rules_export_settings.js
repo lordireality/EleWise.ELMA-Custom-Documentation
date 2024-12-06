@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_deploy_1_1_export_1_1_business_rules_export_settings =
+[
+    [ "BusinessRulesExportSettings", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_deploy_1_1_export_1_1_business_rules_export_settings.html#a4d835d1bd98ff2c6ffdb0d337800737f", null ],
+    [ "BusinessRulesUids", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_deploy_1_1_export_1_1_business_rules_export_settings.html#a3f5acfc5c4c4adec5c42bff62ed8eef6", null ]
+];

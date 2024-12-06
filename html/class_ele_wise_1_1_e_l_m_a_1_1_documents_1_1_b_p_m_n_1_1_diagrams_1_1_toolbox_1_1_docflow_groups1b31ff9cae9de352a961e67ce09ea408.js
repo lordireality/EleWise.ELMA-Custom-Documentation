@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408 =
+[
+    [ "ApprovementInPhasesElements", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408.html#a82305867b3a8f6ca3c217b7426f51c1a", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408.html#a760f1b4f73bb8d395c6dfc9f71fe7935", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408.html#aac08ae71218eaf1a5fb7f5faf5a3303a", null ],
+    [ "PanelUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408.html#a60976bf76ed3929e2d4494d26eec4c13", null ],
+    [ "ParentGroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups1b31ff9cae9de352a961e67ce09ea408.html#a230d50d9d5bc5eeb3abd8c5000e8567f", null ]
+];

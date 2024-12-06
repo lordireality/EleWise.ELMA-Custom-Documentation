@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_multi_instance_shape =
+[
+    [ "MarkerMultiInstanceShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_multi_instance_shape.html#a6be4225caa18e97dff3ea1b39ab7c561", null ],
+    [ "UpdateDecorators", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_multi_instance_shape.html#ae5865f237ed0f73e3c8203f900bfba8a", null ]
+];

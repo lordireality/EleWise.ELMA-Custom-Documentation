@@ -1,0 +1,4 @@
+var _default_entity_action_event_aggregator_8cs =
+[
+    [ "EleWise.ELMA.Events.Audit.Impl.DefaultEntityActionEventAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_events_1_1_audit_1_1_impl_1_1_default_entity_action_event_aggregator.html", "class_ele_wise_1_1_e_l_m_a_1_1_events_1_1_audit_1_1_impl_1_1_default_entity_action_event_aggregator" ]
+];

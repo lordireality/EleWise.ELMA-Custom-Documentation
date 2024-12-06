@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_toolbox_element_group =
+[
+    [ "GetElements", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_toolbox_element_group.html#a62b674432f96b502bade9c3de4b64a78", null ],
+    [ "GetGroups", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_toolbox_element_group.html#a7120ba1fc07553a05d79895200166ba1", null ]
+];

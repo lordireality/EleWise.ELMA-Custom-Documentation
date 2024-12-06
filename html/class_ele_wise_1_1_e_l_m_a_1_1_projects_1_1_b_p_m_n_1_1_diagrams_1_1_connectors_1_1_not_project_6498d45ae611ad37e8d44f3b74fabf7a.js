@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a =
+[
+    [ "NotProjectPlanApproveTaskConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#a770529e5a216f746d565314876b52832", null ],
+    [ "DefaultFirstConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#a940bf4f074fab52499c5b131ae1efc9b", null ],
+    [ "DefaultSecondConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#af1bf6873b4f4109253824b8453273318", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#a6e24d2c3395590568283775cb63173ca", null ],
+    [ "ElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#a56e8b02722c22c3991f5eed32beb5855", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html#ab258b5d6dc836f6e605ca43734ab4a9b", null ]
+];

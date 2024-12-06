@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_bd41e6cc9b2a1b3cf0b3eda7a55833dfc =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_b6bc1228f054f9f2d233dd36159661421.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_b6bc1228f054f9f2d233dd36159661421" ],
+    [ "NewStepOfApprovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_bd41e6cc9b2a1b3cf0b3eda7a55833dfc.html#ae4e70bb1cb941cb65313310499d105d4", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_bd41e6cc9b2a1b3cf0b3eda7a55833dfc.html#a19a2760d41d059969552a3042bdd45d8", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_bd41e6cc9b2a1b3cf0b3eda7a55833dfc.html#a53209c954fa0214fe5c95c5355c4dd14", null ]
+];

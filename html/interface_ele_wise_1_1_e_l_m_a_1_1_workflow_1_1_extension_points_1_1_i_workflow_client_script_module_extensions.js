@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_workflow_client_script_module_extensions =
+[
+    [ "BuildClientProcessContextScript", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_workflow_client_script_module_extensions.html#ad0bcd7a90fe559d37f459470d0b746ea", null ]
+];

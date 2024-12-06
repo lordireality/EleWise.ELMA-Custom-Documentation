@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base =
+[
+    [ "ProjectPlanObjectAdapterBase", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a3b270e2b56c459707992c02e1eaf1197", null ],
+    [ "AllManagers", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a8f70dcbe1a6dda26843f7e72a8cfcf2e", null ],
+    [ "GetProject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a42f5a034dc621f99375e9693cbc634ed", null ],
+    [ "GetTemplatePlanName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#add5467bb46c7efd56c919cfd3720d285", null ],
+    [ "HasPermissionEdit", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a71c6de21fb7bb1c5983d53bc86694bed", null ],
+    [ "HasPermissionPublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a2d5977e2a9ac69e7dd36371824eb08f6", null ],
+    [ "IsAvailableExport", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#aeebf5664b714d17c9c4ef56d39ad2f3e", null ],
+    [ "IsAvailableImport", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a4a546665e78eb26396686dac1a0118ce", null ],
+    [ "IsAvailablePublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a128cf2f75abfa8d83e164f4d24355a5b", null ],
+    [ "IsAvailableResumePublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#af0d2be311a95a9531cfd844809b84cfe", null ],
+    [ "IsAvailableSign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#af4b63358dcbc114f78a85112f8d41074", null ],
+    [ "IsAvailableToApprove", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a9a2f0413be05eef26fa8f06ab104c007", null ],
+    [ "IsObjectActive", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a63187638c92e4723b6e626ba83aa8157", null ],
+    [ "OwnerCurrentPlan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a49e61ab561e7163f1a09643da50ccd36", null ],
+    [ "UsersSign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a20775ea562d28fda1f1a22046ef5d454", null ],
+    [ "CanCheckUsersAccess", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a3fcac8b66e36e10c8e2db5077c18c255", null ],
+    [ "FinishDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a3b69732b35f21118ffece4978d1b6ff5", null ],
+    [ "IsClose", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#aef7d66fae0f1b1fd1181417bd3a75166", null ],
+    [ "IsTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a9ba2bec965b8e8e27b76af9b9ad927cf", null ],
+    [ "Manager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a0d94b4e401d3d86af4c2a67bce7af0e8", null ],
+    [ "ObjectName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a7b753f8f96d8117da8755fc27be63635", null ],
+    [ "PlanObject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a8f3e52a55b70139be9eb05f3c6e6d9f8", null ],
+    [ "StartDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a38de593bd2bb504c84c77ab798348697", null ],
+    [ "SupportProjectPhase", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_plan_1_1_project_plan_object_adapter_base.html#a5b69ff34923bb93b251c73aae8ba88eb", null ]
+];

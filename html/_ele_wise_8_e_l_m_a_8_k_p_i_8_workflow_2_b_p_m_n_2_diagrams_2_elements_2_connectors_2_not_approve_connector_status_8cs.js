@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_k_p_i_8_workflow_2_b_p_m_n_2_diagrams_2_elements_2_connectors_2_not_approve_connector_status_8cs =
+[
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Elements.Connectors.NotApproveConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_conn76ccc47882c6f9bf551f1d12de3f0755.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_conn76ccc47882c6f9bf551f1d12de3f0755" ]
+];

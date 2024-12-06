@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_improvement_filter_property_visibility =
+[
+    [ "GetFilterMetadataProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_improvement_filter_property_visibility.html#a6dc4a5590d8cd4943b189c64698b815f", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_improvement_filter_property_visibility.html#ad393172e7a21dad7a858c35c6db591e2", null ],
+    [ "UpdateProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_improvement_filter_property_visibility.html#a82ac4cc2c59ec186b31a84e54edc2594", null ]
+];

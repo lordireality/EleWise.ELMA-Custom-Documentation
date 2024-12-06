@@ -1,0 +1,4 @@
+var _task_instance_expression_permission_manager_behavior_hac_8cs =
+[
+    [ "EleWise.ELMA.Tasks.TaskInstanceExpressionPermissionManagerBehaviorHack", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_task_instance_expression_permission_manager_behavior_hack.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_task_instance_expression_permission_manager_behavior_hack" ]
+];

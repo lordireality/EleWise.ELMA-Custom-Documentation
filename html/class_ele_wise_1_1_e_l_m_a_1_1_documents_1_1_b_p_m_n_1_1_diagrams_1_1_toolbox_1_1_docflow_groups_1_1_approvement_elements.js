@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements =
+[
+    [ "ApprovementElements", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements.html#a0a40544c4c6670ebbd20f900201b73a8", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements.html#a04a04864741b63e876e0ba7859e7294f", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements.html#a204a4d273757df9e5405c0d2ad9ea04a", null ],
+    [ "PanelUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements.html#a00dfcf39cd30db7981f717a5860a4b54", null ],
+    [ "ParentGroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_docflow_groups_1_1_approvement_elements.html#a02c7b17b88778365d084d9fcc569dd02", null ]
+];

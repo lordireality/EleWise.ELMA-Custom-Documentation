@@ -1,0 +1,4 @@
+var _i_update_is_group_column_extension_8cs =
+[
+    [ "EleWise.ELMA.Runtime.Db.ExtensionPoints.IUpdateIsGroupColumnExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_extension_points_1_1_i_update_is_group_column_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_extension_points_1_1_i_update_is_group_column_extension" ]
+];

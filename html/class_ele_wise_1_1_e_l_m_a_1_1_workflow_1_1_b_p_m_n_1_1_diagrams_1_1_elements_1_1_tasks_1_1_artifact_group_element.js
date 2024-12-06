@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_artifact_group_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_artifa06ee3a0b9412347741c1ae257505be.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_artifa06ee3a0b9412347741c1ae257505be" ],
+    [ "ArtifactGroupElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_artifact_group_element.html#af2cb31fd78c6509ed7bc94bef48d2d9b", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_artifact_group_element.html#ac987abe8d92cee3f82d74fb12625a435", null ]
+];

@@ -1,0 +1,4 @@
+var _project_task_calendar_item_excluded_types_extension_8cs =
+[
+    [ "EleWise.ELMA.Projects.Components.ProjectTaskCalendarItemExcludedTypesExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_calendar_item_excluded_types_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_calendar_item_excluded_types_extension" ]
+];

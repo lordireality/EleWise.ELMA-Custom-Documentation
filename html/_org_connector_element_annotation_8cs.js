@@ -1,0 +1,4 @@
+var _org_connector_element_annotation_8cs =
+[
+    [ "EleWise.ELMA.Security.Diagrams.Elements.OrgConnectorElementAnnotation", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_diagrams_1_1_elements_1_1_org_connector_element_annotation.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_diagrams_1_1_elements_1_1_org_connector_element_annotation" ]
+];

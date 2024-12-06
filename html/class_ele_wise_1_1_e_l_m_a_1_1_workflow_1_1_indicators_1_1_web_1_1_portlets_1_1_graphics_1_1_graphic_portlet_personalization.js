@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization =
+[
+    [ "GraphicHeight", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#a3c4f1ddae334be776179254d9049e5f8", null ],
+    [ "GraphicUnits", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#a6a4012adffe9060d3090ca6d9a96ce78", null ],
+    [ "GraphicWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#a3205b1810ca204814b9ccf70f7adc397", null ],
+    [ "IsDataMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#adcb72de9b29a6ca3d02a078bee6454e8", null ],
+    [ "PeriodsCount", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#ad7dd454efca432df6d830beab3e99b13", null ],
+    [ "ProcessHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#adea6a384ef6ab5690fd4364dee8c628b", null ],
+    [ "ProcessHeaderId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#a4ea66f1bf7126b8674a1146dcec04487", null ],
+    [ "ProcessMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#a37c5956fc98d053d522f759af49b2809", null ],
+    [ "ProcessMetricId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_graphic_portlet_personalization.html#ad09270740c23085999a8dc550cb8ef7d", null ]
+];

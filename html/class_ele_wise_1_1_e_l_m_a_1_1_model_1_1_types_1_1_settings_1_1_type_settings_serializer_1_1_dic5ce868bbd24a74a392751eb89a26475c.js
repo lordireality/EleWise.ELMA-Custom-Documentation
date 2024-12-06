@@ -1,0 +1,11 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c =
+[
+    [ "PropertyDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a63473da19e5f5b6639415322b287be08", null ],
+    [ "DefaultValueAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a4f54a1860c039c5009b225918f84c7e7", null ],
+    [ "DescriptionAccessor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a017a43031ed92b9f497b597e93eeef2b", null ],
+    [ "DisplayNameAccessor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a6fe157e1a65118def7b044a72d8ba304", null ],
+    [ "JsonIgnore", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a19b92b79ad23b3492143042744b4cb48", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a8fea0ecc7d64799bc884806121fa0336", null ],
+    [ "Property", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#ab50ceb25dc5481be95cd31157cff8156", null ],
+    [ "Type", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html#a1ac3f3d04d7c39afe89cf6bc53c8f6bf", null ]
+];

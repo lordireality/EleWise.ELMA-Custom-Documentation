@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_ru_token_1_1_models =
+[
+    [ "TokenAuthenticationData", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_ru_token_1_1_models_1_1_token_authentication_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_ru_token_1_1_models_1_1_token_authentication_data" ]
+];

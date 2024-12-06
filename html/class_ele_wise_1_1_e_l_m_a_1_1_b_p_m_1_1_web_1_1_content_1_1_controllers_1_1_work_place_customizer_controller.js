@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_customizer_controller =
+[
+    [ "DisableCustomizer", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_customizer_controller.html#ade07f314e416674eb87f0b159fcf8a25", null ],
+    [ "EnableCustomizer", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_customizer_controller.html#aa230ad8b9242fd85a8adc59a10dfa91d", null ]
+];

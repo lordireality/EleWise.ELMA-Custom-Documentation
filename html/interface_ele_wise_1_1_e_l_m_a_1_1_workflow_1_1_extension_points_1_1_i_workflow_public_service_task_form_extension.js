@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_workflow_public_service_task_form_extension =
+[
+    [ "GetDescriptor", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_workflow_public_service_task_form_extension.html#a66314bd93989b5616a27b2b540d39422", null ],
+    [ "ToWebData", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_workflow_public_service_task_form_extension.html#afed2cbb2462c91673f3554ca16ef25bf", null ]
+];

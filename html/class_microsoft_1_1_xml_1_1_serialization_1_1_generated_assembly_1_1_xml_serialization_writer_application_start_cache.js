@@ -1,0 +1,5 @@
+var class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_writer_application_start_cache =
+[
+    [ "InitCallbacks", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_writer_application_start_cache.html#aea0f30fc324b0002824263460394aeb0", null ],
+    [ "Write5_ApplicationStartCache", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_writer_application_start_cache.html#abd38afe165ea05563ab43427adeed4b7", null ]
+];

@@ -1,0 +1,11 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension =
+[
+    [ "OnDeleteProcessing", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a57e793c6da4159bd3a2e18e7fa3a4ba0", null ],
+    [ "OnInsertProcessing", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#ab196d8a226b827427f64dddcde85b122", null ],
+    [ "ProcessingMergedIndexQueue", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#ab858314d1128c5726b6964e7e8e8a65f", null ],
+    [ "GetImportantProperties", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a1efc97bee18ee11de206f929921fdee1", null ],
+    [ "GetVisualDataProperties", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a3d5b4fd7f45add5eb15cbf8c30f1e392", null ],
+    [ "SupportedCard", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a1c311d68c0c6644cc58f978b16b2b266", null ],
+    [ "SupportedUids", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a99a47628f59a758ccae0323466d458e2", null ],
+    [ "Uid", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_object_handler_extension.html#a77074f8e17d4302feae408d750170c25", null ]
+];

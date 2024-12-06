@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_tasks_inform_to_portlet_personalization =
+[
+    [ "TasksInformToPortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_tasks_inform_to_portlet_personalization.html#a607c504443176f2114b775a7062fefbb", null ],
+    [ "HeaderColor", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_tasks_inform_to_portlet_personalization.html#a79cc1da9dbd1a11844d820d2e86b2a9e", null ],
+    [ "ViewName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_tasks_inform_to_portlet_personalization.html#a0777efc452101767bd0c5d5fcd2c65f1", null ]
+];

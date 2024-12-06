@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_bbcc853a2b34c5499e7717f956674100.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_bbcc853a2b34c5499e7717f956674100" ],
+    [ "ExternalSubprocessElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#abe47188f0ad81aac0d8f241399568dd9", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a2a9fafcc17e83a287887e43731a70f25", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#ae334e9cf5b44dabc27de321b4cc72099", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a9f65da3fc9867f787131216e1ce440a9", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#aeccc87345028e1b177900fdd882cf971", null ],
+    [ "InputContextMap", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a6bc1170587640ef8fb3ade35d2a60536", null ],
+    [ "OutputContextMap", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a2c2574a830cb60dc4134f2d3cc3ad5ca", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a799737f1226ce13d64845613882e8c92", null ],
+    [ "UsingPropertyMap", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html#a121a9991dbdbe99fc1f2863bec4ad76d", null ]
+];

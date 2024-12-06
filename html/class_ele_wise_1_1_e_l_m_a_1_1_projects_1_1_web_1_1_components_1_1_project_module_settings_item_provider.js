@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_module_settings_item_provider =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_module_settings_item_provider.html#aa59240201dba2c2724ba75cdc598d77f", null ]
+];

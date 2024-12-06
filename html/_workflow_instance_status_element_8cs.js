@@ -1,0 +1,5 @@
+var _workflow_instance_status_element_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.WorkflowInstanceStatusElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.WorkflowInstanceStatusElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_wob7474666dcadce4928287d78ce3d8b80.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_wob7474666dcadce4928287d78ce3d8b80" ]
+];

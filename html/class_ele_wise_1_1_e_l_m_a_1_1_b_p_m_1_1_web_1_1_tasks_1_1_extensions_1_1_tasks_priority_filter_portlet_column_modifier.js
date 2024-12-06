@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier =
+[
+    [ "AvailableFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#a1d761f06f21ced297f68ce7177bee53e", null ],
+    [ "Template", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#a74a3c5f539d3bfdb3fe4da4d7841b420", null ],
+    [ "Header", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#a01a39124a2b25b595f55324bc5a02856", null ],
+    [ "NeedHeader", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#a647909202ec5a7b65e1dca01c8d7ab21", null ],
+    [ "NeedTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#a4601bb6ff177d7cdf8faa42b7ee6176a", null ],
+    [ "UniqueName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_priority_filter_portlet_column_modifier.html#afbc7bd8fa3dcefda37a216a5cc39277c", null ]
+];

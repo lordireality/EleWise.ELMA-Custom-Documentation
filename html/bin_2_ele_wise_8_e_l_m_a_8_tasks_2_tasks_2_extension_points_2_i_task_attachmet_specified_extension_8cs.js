@@ -1,0 +1,4 @@
+var bin_2_ele_wise_8_e_l_m_a_8_tasks_2_tasks_2_extension_points_2_i_task_attachmet_specified_extension_8cs =
+[
+    [ "EleWise.ELMA.Tasks.ExtensionPoints.ITaskAttachmetSpecifiedExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_task_attachmet_specified_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_task_attachmet_specified_extension" ]
+];

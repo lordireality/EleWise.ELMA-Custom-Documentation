@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_object_group_extension =
+[
+    [ "DocumentApprovementTaskObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_object_group_extension.html#a3cb8453976435efe3ba65ba3f612808a", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_object_group_extension.html#a6feb5b1d05f96679f8f179dbe0f82eff", null ],
+    [ "MessageTypeName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_object_group_extension.html#a2b1f5d61ff6e53822845a4818760292d", null ]
+];

@@ -1,0 +1,4 @@
+var _task_changes_loader_8cs =
+[
+    [ "EleWise.ELMA.Tasks.TaskChangesLoader", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_task_changes_loader.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_task_changes_loader" ]
+];

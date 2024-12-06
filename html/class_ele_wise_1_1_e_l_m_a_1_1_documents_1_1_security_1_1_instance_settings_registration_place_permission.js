@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_instance_settings_registration_place_permission =
+[
+    [ "InstanceSettingsRegistrationPlacePermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_instance_settings_registration_place_permission.html#aa2282b00fbb15e1a735fcb0d898a7d65", null ],
+    [ "CanGrandPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_instance_settings_registration_place_permission.html#aa0795e349d1dc5c3d2da7ebb5b39608e", null ],
+    [ "GetPermissionHolderCollection", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_instance_settings_registration_place_permission.html#a09ef99340046951f60e9cc690541f5b7", null ],
+    [ "AdminPermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_instance_settings_registration_place_permission.html#a6f7645f769ff81aa166542abef6cf022", null ]
+];

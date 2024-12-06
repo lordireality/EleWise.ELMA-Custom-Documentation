@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_portlets_1_1_default_home_page_portlets_provider =
+[
+    [ "Portlets", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_portlets_1_1_default_home_page_portlets_provider.html#aa05947a03ac9e92a8ad9bec9550477a7", null ],
+    [ "CalendarPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_portlets_1_1_default_home_page_portlets_provider.html#a8bf95c6b697838c1a6c599c7a7c14116", null ]
+];

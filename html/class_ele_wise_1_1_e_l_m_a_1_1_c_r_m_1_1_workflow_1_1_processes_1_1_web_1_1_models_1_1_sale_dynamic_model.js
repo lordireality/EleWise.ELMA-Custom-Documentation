@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_sale_dynamic_model =
+[
+    [ "ReportData", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_sale_dynamic_model.html#a52146171969ed4aa000599ae2a457fc7", null ],
+    [ "SalesByStageFilter", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_sale_dynamic_model.html#a8d652032c34520acb80e9fe80a73769f", null ]
+];

@@ -1,0 +1,4 @@
+var _i_overtime_work_log_extension2_8cs =
+[
+    [ "EleWise.ELMA.Tasks.ExtensionPoints.IOvertimeWorkLogExtension2", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_overtime_work_log_extension2.html", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_overtime_work_log_extension2" ]
+];

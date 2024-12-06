@@ -1,0 +1,14 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element =
+[
+    [ "DataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b" ],
+    [ "NotificationBaseElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#ad73efee63f3928079c20b7360ea76bd2", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#a3d87410ffeb339bdffaf8ccd4b414369", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#a42a27e7aaaa69975b07e785d6cda3de0", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#a725f5f1712bd88824ba7d1bf1956c9ab", null ],
+    [ "AttachmentProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#ae43fea6c7fc4c3c866b3bd56f947684c", null ],
+    [ "AttachmentsBySingleFile", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#a4c71c4fa5347ddb2a6278d40e1004665", null ],
+    [ "NotificationTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#a7f2c3993ec2e7e5307190660196b9911", null ],
+    [ "QueueExecutionTimeoutSupported", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#ac931988e6c4c92f88000154649da0fba", null ],
+    [ "Recipients", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#acb5c403958011baccfc9e830e30bb2a4", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_base_element.html#ab4805b3a798bb27396ec5bbc1a1e1c86", null ]
+];

@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions =
+[
+    [ "IProjectWorkLogObjectSearchFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_i_project_work_log_object_search_filter.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_i_project_work_log_object_search_filter" ],
+    [ "IReAssignProjectTaskActionHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_i_re_assign_project_task_action_handler.html", null ],
+    [ "ISystemProjectMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_i_system_project_metadata.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_i_system_project_metadata" ],
+    [ "ProjectPredictionDatesTaskDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_project_prediction_dates_task_date.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_project_prediction_dates_task_date" ],
+    [ "ProjectPredictionWorkLogTaskWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_project_prediction_work_log_task_work_log.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extensions_1_1_project_prediction_work_log_task_work_log" ]
+];

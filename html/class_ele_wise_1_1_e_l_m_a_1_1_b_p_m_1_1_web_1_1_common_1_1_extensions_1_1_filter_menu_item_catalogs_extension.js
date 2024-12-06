@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_item_catalogs_extension =
+[
+    [ "FilterMenuItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_item_catalogs_extension.html#a9e2f271be890f98ad1b80d82308aeae9", null ]
+];

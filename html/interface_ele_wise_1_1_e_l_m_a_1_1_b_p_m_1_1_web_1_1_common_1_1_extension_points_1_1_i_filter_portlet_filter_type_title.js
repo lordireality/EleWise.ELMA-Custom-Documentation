@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_filter_type_title =
+[
+    [ "AvailableType", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_filter_type_title.html#a28e315c2d4ce338ddc5fe285bc7975a4", null ],
+    [ "GetTitle", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_filter_type_title.html#ab70a62367d2e6618e4aa1f1398cd69b6", null ]
+];

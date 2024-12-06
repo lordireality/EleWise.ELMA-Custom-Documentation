@@ -1,0 +1,4 @@
+var _registration_card_e_q_l_zone_panel_renderer_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.Filter.RegistrationCardEQLZonePanelRenderer", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regis52c423e276e46887e4d973d03fed1fa5.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regis52c423e276e46887e4d973d03fed1fa5" ]
+];

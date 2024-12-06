@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.CRM.Import.Web.Code.ImportManager.AssignProperties"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.CRM.Import.\lWeb.Code.ImportManager.Assign\lProperties",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Переносит значения определенных свойств из одной сущности в другую"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.CRM.Import.\lWeb.Code.ImportManager.Import\lToModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_code_1_1_import_manager.html#ab8e23ae6cdd7f57f5b0549b48b7f665f",tooltip=" "];
+}

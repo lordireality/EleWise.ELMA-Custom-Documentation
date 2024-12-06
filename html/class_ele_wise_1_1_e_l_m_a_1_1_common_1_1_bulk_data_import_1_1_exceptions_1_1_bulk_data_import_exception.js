@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_exceptions_1_1_bulk_data_import_exception =
+[
+    [ "BulkDataImportException", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_exceptions_1_1_bulk_data_import_exception.html#aa20f959bf46925e419b9d0e88ff691f0", null ]
+];

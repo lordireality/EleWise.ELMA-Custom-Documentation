@@ -1,0 +1,5 @@
+var _org_structure_portlet_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Security.Portlets.OrgStructurePortlet", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_portlets_1_1_org_structure_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_portlets_1_1_org_structure_portlet" ],
+    [ "EleWise.ELMA.BPM.Web.Security.Portlets.OrgStructurePersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_portlets_1_1_org_structure_personalization.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_portlets_1_1_org_structure_personalization" ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_document_tasks_info_view =
+[
+    [ "DocumentTasksInfoView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_document_tasks_info_view.html#a97dff838836686cb71b849b0c5b3df63", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_document_tasks_info_view.html#a5b60ac5966056f582fb320c5548d15fa", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_document_tasks_info_view.html#a61cf4583c5c1f3924e5b219a9fff51dd", null ]
+];

@@ -1,0 +1,4 @@
+var _create_task_document_action_after_registration_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.HomePage.CreateTaskDocumentActionAfterRegistration", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_home_page_1_1_cr8e4a2b0e4cb2f081ca7066022e3c434b.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_home_page_1_1_cr8e4a2b0e4cb2f081ca7066022e3c434b" ]
+];

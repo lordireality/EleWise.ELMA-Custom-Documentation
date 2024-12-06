@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_hint_shape =
+[
+    [ "WorkflowInstanceStatusHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_hint_shape.html#a9fb6fed3e6121bbc8127fe176340f39e", null ],
+    [ "DefaultHeight", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_hint_shape.html#ad8dc4241e95afba3ec3cfa9e556ea52a", null ],
+    [ "DefaultWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_hint_shape.html#ad78fc59f7bd0a0778391562ad39e5160", null ],
+    [ "Radius", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_hint_shape.html#a43ccd76bc34f350ffd665d6b4f15c6d8", null ]
+];

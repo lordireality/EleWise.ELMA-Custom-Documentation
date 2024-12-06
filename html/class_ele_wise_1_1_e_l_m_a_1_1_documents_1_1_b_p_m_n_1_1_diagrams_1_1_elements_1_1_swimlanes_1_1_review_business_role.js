@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_review_business_role =
+[
+    [ "ReviewBusinessRole", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_review_business_role.html#a45e32ae726c339b6276a394a5e01414b", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_review_business_role.html#acdef5f5d6e4dcd2c99906f7c499187ef", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_review_business_role.html#a5bf5ea7b25a33f146556bd6bafd26c84", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_review_business_role.html#aef275d911c0869788ad0021925847803", null ]
+];

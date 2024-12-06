@@ -1,0 +1,23 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.PortfolioController.Edit"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.Edit",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Страница редактирования портфеля"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.\lPortfolioPortlets",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#aee9e8809ae73b6e57618ac2435e17bcc",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.View",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#aee594c2dc84cf5c01b0100bf0a050224",tooltip="Просмотр портфеля проектов"];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.\lCreate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#a8dc745d39023996b6f44ca2bd5a54e16",tooltip="Создать портфель проектов"];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.\lDetail",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#a254836bb092fbbb6e7e1fedf15693f44",tooltip="Страница детальной информации о портфеле проектов"];
+  Node3 -> Node1 [id="edge5_Node000003_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node2 [id="edge6_Node000003_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node6 [id="edge7_Node000003_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.\lResources",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#a71edb8b1b34d6b43a8c2c82ceccaca98",tooltip="Ресурсы портфеля"];
+  Node3 -> Node7 [id="edge8_Node000003_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Projects.Web.\lControllers.PortfolioController.Save",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_portfolio_controller.html#a525f019ac6f192ead0c572515f7cc609",tooltip="Сохранить портфель проектов"];
+}

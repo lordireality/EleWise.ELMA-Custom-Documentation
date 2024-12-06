@@ -1,0 +1,4 @@
+var _i_uploaded_content_location_mapper_service_8cs =
+[
+    [ "EleWise.ELMA.Services.IUploadedContentLocationMapperService", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_i_uploaded_content_location_mapper_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_i_uploaded_content_location_mapper_service" ]
+];

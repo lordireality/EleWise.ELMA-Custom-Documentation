@@ -1,0 +1,4 @@
+var _external_book_configuration_collection_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.Configuration.ExternalBookConfigurationCollection", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection" ]
+];

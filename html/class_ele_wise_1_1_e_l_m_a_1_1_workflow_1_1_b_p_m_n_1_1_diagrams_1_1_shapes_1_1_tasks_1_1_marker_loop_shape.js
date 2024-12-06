@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_loop_shape =
+[
+    [ "MarkerLoopShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_loop_shape.html#a4269494bc0243a00a4cc3b4a1b0b5967", null ],
+    [ "UpdateDecorators", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_marker_loop_shape.html#a6357d621a8e8a92e9216b7266494a353", null ]
+];

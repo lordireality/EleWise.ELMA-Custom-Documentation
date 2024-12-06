@@ -1,0 +1,4 @@
+var _milestones_for_portfolio_projects_view_model_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Models.ProjectPortfolio.MilestonesForPortfolioProjectsViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_portfolio_1_1_milestones_8ba5ac3ba026d1dc9247c4ed6e631250.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_portfolio_1_1_milestones_8ba5ac3ba026d1dc9247c4ed6e631250" ]
+];

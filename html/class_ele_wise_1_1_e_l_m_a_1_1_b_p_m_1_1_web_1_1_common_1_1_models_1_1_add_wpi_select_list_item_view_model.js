@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_models_1_1_add_wpi_select_list_item_view_model =
+[
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_models_1_1_add_wpi_select_list_item_view_model.html#a97dbb03956aeb13661f5fc39d14844a5", null ]
+];

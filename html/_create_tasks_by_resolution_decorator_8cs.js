@@ -1,0 +1,4 @@
+var _create_tasks_by_resolution_decorator_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Decorators.Review.CreateTasksByResolutionDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_review_1_1_f4951a78bc09dc9e56504019c77c0eac.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_review_1_1_f4951a78bc09dc9e56504019c77c0eac" ]
+];

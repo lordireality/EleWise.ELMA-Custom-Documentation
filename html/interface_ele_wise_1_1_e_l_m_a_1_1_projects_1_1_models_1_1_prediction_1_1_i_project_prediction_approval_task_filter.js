@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_i_project_prediction_approval_task_filter =
+[
+    [ "ApproveStatus", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_i_project_prediction_approval_task_filter.html#a655542b756748857f9362fcba8f9ec48", null ],
+    [ "ApproveStatuses", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_i_project_prediction_approval_task_filter.html#a3bf01e925ce7bb0559c86fdc94f670e6", null ],
+    [ "ProjectPlan", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_i_project_prediction_approval_task_filter.html#a0826fe7cd5d971f00c41b6b181242111", null ]
+];

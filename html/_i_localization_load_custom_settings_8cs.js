@@ -1,0 +1,4 @@
+var _i_localization_load_custom_settings_8cs =
+[
+    [ "EleWise.ELMA.Globalization.ILocalizationLoadCustomSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_globalization_1_1_i_localization_load_custom_settings.html", "interface_ele_wise_1_1_e_l_m_a_1_1_globalization_1_1_i_localization_load_custom_settings" ]
+];

@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_ma68bd7e566c1220d2c2abb8bdf7951f59 =
+[
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_ma68bd7e566c1220d2c2abb8bdf7951f59.html#ab859002688f1dcfeef63d8530f8ba087", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_ma68bd7e566c1220d2c2abb8bdf7951f59.html#a71b875eabd29fff452efa0f751462ece", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_ma68bd7e566c1220d2c2abb8bdf7951f59.html#a5be0dd3ac395cd3f662e8e0c9cd92bcc", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_ma68bd7e566c1220d2c2abb8bdf7951f59.html#a5d4f5821dbd4a31edf827240eae36ad2", null ]
+];

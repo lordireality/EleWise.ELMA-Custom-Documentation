@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_current_user_panel_action_disable =
+[
+    [ "IsEnabled", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_current_user_panel_action_disable.html#a50921024d80162efd6663f3a0d49e7ec", null ],
+    [ "PropertyName", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_current_user_panel_action_disable.html#aedef7714993b10e925f957229a234e97", null ]
+];

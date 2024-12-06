@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_i_incoming_call_model_initializer =
+[
+    [ "ProcessExisting", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_i_incoming_call_model_initializer.html#aab58dbf9dcb5091a1ac8040bd1b0f414", null ],
+    [ "ProcessNew", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_i_incoming_call_model_initializer.html#a8478518155b3dcd17bdcdd372d127293", null ]
+];

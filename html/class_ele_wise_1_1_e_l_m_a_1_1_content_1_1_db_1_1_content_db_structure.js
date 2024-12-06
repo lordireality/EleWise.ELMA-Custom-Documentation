@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure =
+[
+    [ "AssignDefaultMenu2", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a3178a715a91b33124ffc50179997f029", null ],
+    [ "AssignDefaultWorkPlace", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a2efffb250653855d6ee0b904c02ba694", null ],
+    [ "AssignDefaultWorkplacePages", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a80bba07f67fdc0b245a3596bde52978c", null ],
+    [ "AssignDefaultWorkplacePages2", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a59426c73680122168d9bcff75720f7e4", null ],
+    [ "Convert_HomePageSetting_Page", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#adfd22b310ed84d0c589d582740acffde", null ],
+    [ "ConvertMenuItemColumns", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a8db81c3afb2f18264109efb6682abbe4", null ],
+    [ "ConvertPageFoldersSettings", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a87dabca68f11dde63f83b22f69b412da", null ],
+    [ "CreateDefaultLiteWorkPlace", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#af9a0024905d6187e4058b0a75369692a", null ],
+    [ "CreateDefaultMenu", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#ac2dddb45b66c14723e994cc64fd65f66", null ],
+    [ "CreateDefaultWorkPlase", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a4c3edc158a28bb6fe9bcbd74707c459c", null ],
+    [ "CreateStartMenu", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#aa268e82cbe67d2fc6b1e687c88e0c1b2", null ],
+    [ "DisableUserPanelActions", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a8085b423b14d09d6e3e2e2021a24b778", null ],
+    [ "FixFilterActionLink", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#abe6ee43a3223d5a0b6a89a02f6818e3f", null ],
+    [ "FixHomePageSettings", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#af81e3704f5bdb8e08cb658ed4135984e", null ],
+    [ "HomePageUsers", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a8d6a09bf06a892bdfb78dc4f68386e55", null ],
+    [ "RemovePortletProfile", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#ab4b934f7044e17b0072597ed8959bfef", null ],
+    [ "RemoveSecurityHomePagePortlets", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#ac8df6da52211accf0bba91fffc67445b", null ],
+    [ "UpdateMenu", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a80ddd76b6f9105ed105f0164dc64918b", null ],
+    [ "UpdateWorkPlaces", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a74a51803e8123e4be3784212c72ef2db", null ],
+    [ "PortletManager", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a1553145c322e01adbee2961e3e4271c9", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#a79c19a21d4bebbbd4b7d515ae6b37c0c", null ],
+    [ "References", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_db_1_1_content_db_structure.html#adf9c17cd98013001c13c3ce1a86fd2a9", null ]
+];

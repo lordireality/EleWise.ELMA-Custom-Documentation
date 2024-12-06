@@ -1,0 +1,27 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter =
+[
+    [ "AuthProviderGuid", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#ae197f83a20fa5e1c3583b22a8505af6a", null ],
+    [ "BirthDate", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a3df1288b165addac22dfb7bc025d8f48", null ],
+    [ "EMail", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a0f7daf482b5a56c5aaff1f309a7cb357", null ],
+    [ "EmployDate", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#afc8febb0d5fc55cb3837ffc84f7a2625", null ],
+    [ "FirstName", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#ae8338e874218f75fa68c2b3b0cf161d7", null ],
+    [ "ICQ", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#aa1e7b17cc19c51f95efbb981e6ba76cb", null ],
+    [ "JabberID", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a7989ef9005235e874c003e4651d5beb5", null ],
+    [ "LastName", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a068fe0f7f6f5865ede73b46ab892c096", null ],
+    [ "MiddleName", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a8732f6f2c8ab428d471ff0e25c6f1a7e", null ],
+    [ "MobilePhone", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#aad7fd0884df8af99fb97324509facc1c", null ],
+    [ "OrganizationItem", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a7b12303b77a857050161ae4e1a10fa1e", null ],
+    [ "OrganizationItemFindMode", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a5c7df49dcbe90c7c6e4742b848f2ed31", null ],
+    [ "OrganizationItemIds", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#abb8299de448858551c4596b1edd08ec8", null ],
+    [ "RoomNumber", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a9c63fe71e5f4abc6a687c4d5c3420f58", null ],
+    [ "ShowBlock", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#aab095deca7e8253cd34e626005a528b8", null ],
+    [ "ShowOnlyReplacement", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a9fc3da39d69711938ef54e2c972d6eb6", null ],
+    [ "ShowOnlySubordinate", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#ac0eebf7c7f7e03dd567e3b19396f52a9", null ],
+    [ "ShowOnlySubordinateAndSelf", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a2440a91d2da563dc575e97bd9deed004", null ],
+    [ "Skype", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a58697cda29903eebbfba5ce8926d4c17", null ],
+    [ "UserIds", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a8d185b1a168f4218586653c4f552b6b1", null ],
+    [ "UserName", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a1a09e99b011ee7698a0ba931ecc11fea", null ],
+    [ "Workers", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a4123b01cf2ebbb2b835136cb75309f97", null ],
+    [ "WorkPhone", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#a2f2b6c880555bb49849644bb356e9c7f", null ],
+    [ "YearlyBirthDate", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_models_1_1_i_user_filter.html#ac5bb1a43d67f4eeb277c4d367a5c8969", null ]
+];

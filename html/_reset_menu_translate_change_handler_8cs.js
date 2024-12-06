@@ -1,0 +1,4 @@
+var _reset_menu_translate_change_handler_8cs =
+[
+    [ "EleWise.ELMA.Content.Components.ResetMenuTranslateChangeHandler", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_components_1_1_reset_menu_translate_change_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_components_1_1_reset_menu_translate_change_handler" ]
+];

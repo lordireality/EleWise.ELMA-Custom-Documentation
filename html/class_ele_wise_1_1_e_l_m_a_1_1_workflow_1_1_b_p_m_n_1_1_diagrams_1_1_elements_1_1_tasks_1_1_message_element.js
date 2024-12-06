@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_element =
+[
+    [ "MessageElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_element.html#a84cebbc5565326cd5e0a78475764a229", null ],
+    [ "HasMessageType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_element.html#a63f82d8206724b58eae8ca3964446e50", null ]
+];

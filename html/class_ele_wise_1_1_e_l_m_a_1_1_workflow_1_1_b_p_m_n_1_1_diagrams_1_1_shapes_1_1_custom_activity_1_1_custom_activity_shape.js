@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape =
+[
+    [ "CustomActivityShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#aee60971c3554d6e92bdc08d47e2ac451", null ],
+    [ "colorFont", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#affd0f6cd70898b442984f8a8e988f72b", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#afed3ab9536f12cb9b582d1b0680f9d6f", null ],
+    [ "fontStyle", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#a24c3f0eb369d982150c5b63f8e0e04c8", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#ab174b1e0649df0eb1f5696b2b8f862f4", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_shape.html#a2f8622144fe0edac800e366ed47dc20e", null ]
+];

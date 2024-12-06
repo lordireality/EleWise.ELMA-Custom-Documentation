@@ -1,0 +1,4 @@
+var _project_from_me_tasks_portlet_personalization_converter_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Components.PortletPersonalizationConverters.ProjectFromMeTasksPortletPersonalizationConverter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convead9bda51778ec85a839cefae729e03da.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convead9bda51778ec85a839cefae729e03da" ]
+];

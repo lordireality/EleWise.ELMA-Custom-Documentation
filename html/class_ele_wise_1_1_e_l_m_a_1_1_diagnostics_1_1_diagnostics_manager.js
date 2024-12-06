@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager =
+[
+    [ "DiagnosticsManager", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a4e22314eb46c4eda983d248b7a8b9730", null ],
+    [ "BackgroundTaskEnd", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a6f17fdf0745d23016ae432200583e322", null ],
+    [ "BackgroundTaskError", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#aa2c5c661b782fa6aadb7bd800e329bb6", null ],
+    [ "BackgroundTaskStart", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#aa10097f2a51d64bcbda19a3a81676bd2", null ],
+    [ "ClearStatistics", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ad8c66a23effff57f07237af787e81dbb", null ],
+    [ "CloseCurrentSession", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a1fbfea78aec70d90f4a02ce915aa8810", null ],
+    [ "Dispose", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a108b6ee54a4a1083e370a6129ffa8ffb", null ],
+    [ "GetCounter< TCounter >", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a290616e449e0ad220f0d26f1dd6ba68f", null ],
+    [ "GetCurrentCalls", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a3f51b8dbd7dce13b2e6665b8c28b8221", null ],
+    [ "GetCurrentDiagnosticSession", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#abdc2d6518b3c0fcd69726b708b5700d3", null ],
+    [ "MessagePoint", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#adba2b31d89a326f7fbddde4f80793691", null ],
+    [ "OnEvent", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ab83b37f8ba5193f40ade5ac80cabecef", null ],
+    [ "RefreshSettings", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ac59c6a649a07639234e2f0fe43f36c78", null ],
+    [ "StartNewDiagnosticSession", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#afd0556908dc1bedefd5601ea0057435b", null ],
+    [ "WebRequestAuthorized", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a38d5dddbc2c3049156287b22ffeed250", null ],
+    [ "WebRequestEnd", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ac381680192e5d32ea96ceef9fc447bd0", null ],
+    [ "WebRequestError", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ae64ba29efb29af33f451727fb743c792", null ],
+    [ "WebRequestStart", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a3d473d41a230026897ef9354c28db66a", null ],
+    [ "CountersEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a263b35cda00e0451458706d311239b1f", null ],
+    [ "Folder", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a91c81b5d1f150a7565cdccf9d5fa7a6d", null ],
+    [ "LogManager", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#acadeb1edab91dacf1a3a874cf18f4926", null ],
+    [ "Metrics", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#ac6839e666e14a8e0c1b7ca34ec635d4a", null ],
+    [ "Settings", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#a40547b89f0d2a2453b1a986980df4c47", null ],
+    [ "EventOccured", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_diagnostics_manager.html#afab600b3dbca0cf8ebf8313cb0aa6b85", null ]
+];

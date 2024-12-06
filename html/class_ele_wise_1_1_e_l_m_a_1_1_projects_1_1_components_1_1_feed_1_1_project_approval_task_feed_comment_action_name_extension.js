@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_approval_task_feed_comment_action_name_extension =
+[
+    [ "ProjectApprovalTaskFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_approval_task_feed_comment_action_name_extension.html#a932a70f1a0d222716ce4a218f59f0500", null ],
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_approval_task_feed_comment_action_name_extension.html#a0b6eddca5b6078efeb5c9ec28176a1a5", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_approval_task_feed_comment_action_name_extension.html#ae035843747440d65fc08d520ca57c52f", null ]
+];

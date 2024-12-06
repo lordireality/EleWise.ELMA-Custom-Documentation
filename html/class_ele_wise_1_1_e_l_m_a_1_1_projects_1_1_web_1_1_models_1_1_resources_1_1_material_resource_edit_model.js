@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_material_resource_edit_model =
+[
+    [ "MaterialResourceEditModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_material_resource_edit_model.html#a9aaf41b3125e9505e0941f1f71442716", null ],
+    [ "MaterialResourceEditModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_material_resource_edit_model.html#ae1a521cffbed23a3ec50a6bace7490a7", null ],
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_material_resource_edit_model.html#a360561e4dbcf9c76ab18eed1ffc8d623", null ]
+];

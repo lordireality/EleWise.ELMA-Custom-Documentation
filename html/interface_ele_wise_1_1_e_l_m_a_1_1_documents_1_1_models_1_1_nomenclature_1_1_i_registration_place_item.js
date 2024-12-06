@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_registration_place_item =
+[
+    [ "AccountingYear", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_registration_place_item.html#a59fd9b3c69c0d9cb2be3085d9e04ef33", null ],
+    [ "RegistrationPlace", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_registration_place_item.html#a8f7b3e64e982d7be0b17e4721a2430f6", null ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_recreate_matrices_toolbar_button =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_recreate_matrices_toolbar_button.html#ae05e484376411db9c95290c89559bd76", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_recreate_matrices_toolbar_button.html#a5a9faf1460eff6300e7a693ab25cd735", null ],
+    [ "PerformanceMatrixManager", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_recreate_matrices_toolbar_button.html#a8a2ea93271cb46efd581cc8b5542a823", null ]
+];

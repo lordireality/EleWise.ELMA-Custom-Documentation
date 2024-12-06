@@ -1,0 +1,28 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers =
+[
+    [ "IBinaryFileAsyncLoader", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_binary_file_async_loader.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_binary_file_async_loader" ],
+    [ "IBinaryFileStreams", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_binary_file_streams.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_binary_file_streams" ],
+    [ "IBLOBDataManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_b_l_o_b_data_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_b_l_o_b_data_manager" ],
+    [ "IBLOBStore", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_b_l_o_b_store.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_b_l_o_b_store" ],
+    [ "IBlobStoreConfigurationService", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_blob_store_configuration_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_blob_store_configuration_service" ],
+    [ "IFileManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_file_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_file_manager" ],
+    [ "INHManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_n_h_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_n_h_manager" ],
+    [ "INHManagerRegistrar", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_n_h_manager_registrar.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_n_h_manager_registrar" ],
+    [ "IReferenceOnEntityManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_reference_on_entity_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_reference_on_entity_manager" ],
+    [ "IServerInfoManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_server_info_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_server_info_manager" ],
+    [ "IServerRestartManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_server_restart_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_server_restart_manager" ],
+    [ "ISettingsManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_settings_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_settings_manager" ],
+    [ "ITemplateFileManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_template_file_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_template_file_manager" ],
+    [ "IWebHostEnvironmentManager", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_web_host_environment_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_i_web_host_environment_manager" ],
+    [ "MemoryBLOBStore", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_memory_b_l_o_b_store.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_memory_b_l_o_b_store" ],
+    [ "NHManager", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager" ],
+    [ "NHManagerBase", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager_base" ],
+    [ "NHManagerRegisterParams", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager_register_params.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_manager_register_params" ],
+    [ "NHProviderDependentUserTypeRegistrar", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_provider_dependent_user_type_registrar.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_provider_dependent_user_type_registrar" ],
+    [ "PoolBasedSettingsService", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_pool_based_settings_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_pool_based_settings_service" ],
+    [ "PostFlushActionRunner", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_post_flush_action_runner.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_post_flush_action_runner" ],
+    [ "ServerInfoManager", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_server_info_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_server_info_manager" ],
+    [ "ServerRestartManager", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_server_restart_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_server_restart_manager" ],
+    [ "TemplateFileManager", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_template_file_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_template_file_manager" ],
+    [ "WebHostEnvironmentManager", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_web_host_environment_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_web_host_environment_manager" ]
+];

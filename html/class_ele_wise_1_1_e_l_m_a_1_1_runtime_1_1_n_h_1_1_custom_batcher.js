@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher =
+[
+    [ "CustomBatcher", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a19524d57a4adde9f5352cce57e27a5a2", null ],
+    [ "AbortBatch", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a4dd2a1faf2e23a532b093a64d626c20f", null ],
+    [ "AddToBatch", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a20345900b7489417cf0a8eff2d1ff6e7", null ],
+    [ "AddToBatchAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#ad5accd9689f374fa43e19b0ab122f427", null ],
+    [ "CancelLastQuery", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#aedcf6ab8e28f1823cf454575df596d3c", null ],
+    [ "CloseCommand", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a94d5fb25f4cda35f196b1a009418dbca", null ],
+    [ "CloseCommands", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#ad79b4aeb86614f9f6e13694285429f0a", null ],
+    [ "CloseReader", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a981b500b7b82139aff7eea8bd6e9d4dc", null ],
+    [ "Dispose", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a8dc658762fbb5686c5c5f0626a24b72e", null ],
+    [ "ExecuteBatch", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a4ba980864dc3e4ff12cea21c344f559a", null ],
+    [ "ExecuteBatchAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#adb5e3bb0e95493e465487b21130c798d", null ],
+    [ "ExecuteNonQuery", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a3cf2d445e129045971b6486d47b5d149", null ],
+    [ "ExecuteNonQueryAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a19387cc5cd9cfd282d16eb37ae162597", null ],
+    [ "ExecuteReader", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#acce3a75c12d09cdf1f709f20a4f0c7d1", null ],
+    [ "ExecuteReaderAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a6d49a3b07cc7b0bb42f6621e47cb1db5", null ],
+    [ "PrepareBatchCommand", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a9259edf586fb821093743b352d593411", null ],
+    [ "PrepareBatchCommandAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a99747a3e2bd39532dbef6288254fcc69", null ],
+    [ "PrepareCommand", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a9b75473b432573f25df2a4a2baed4d0b", null ],
+    [ "PrepareCommandAsync", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a1fbe3f7bd553cfceded88e5edef35460", null ],
+    [ "PrepareQueryCommand", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#abcd46e82fe40d3bb28ce990841c29f17", null ],
+    [ "ReleaseSavePoint", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#adf6bf1640e95804461ae19485c2f6d71", null ],
+    [ "RollBackSavePoint", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a3ed2039d0bf3b0f8514a3e779526a914", null ],
+    [ "SavePoint", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a99afdf18930549ebb37194357b1e7028", null ],
+    [ "BatchSize", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a9fccaed4a0007e6f64c4a52cb48a54d9", null ],
+    [ "HasOpenResources", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_batcher.html#a3b6280e161e5fb1bb5e98cde2d180773", null ]
+];

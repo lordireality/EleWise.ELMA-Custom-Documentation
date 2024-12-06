@@ -1,0 +1,28 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1 =
+[
+    [ "AdministrationService", "namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_administration_service.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_administration_service" ],
+    [ "AssemblyList", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_list.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_list" ],
+    [ "AssemblyLoadModel", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_load_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_load_model" ],
+    [ "AssemblyLoadService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_load_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_assembly_load_service" ],
+    [ "AuthorizationService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_authorization_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_authorization_service" ],
+    [ "BatchOperationService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_batch_operation_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_batch_operation_service" ],
+    [ "EntityChangesService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_changes_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_changes_service" ],
+    [ "EntityHeadService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_head_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_head_service" ],
+    [ "EntityService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_entity_service" ],
+    [ "FilesService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_files_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_files_service" ],
+    [ "IAssemblyLoadService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_assembly_load_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_assembly_load_service" ],
+    [ "IAuthorizationService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_authorization_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_authorization_service" ],
+    [ "IBatchOperationService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_batch_operation_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_batch_operation_service" ],
+    [ "IEntityChangesService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_changes_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_changes_service" ],
+    [ "IEntityHeadService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_head_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_head_service" ],
+    [ "IEntityService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_entity_service" ],
+    [ "IFilesService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_files_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_files_service" ],
+    [ "IMetadataService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_metadata_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_metadata_service" ],
+    [ "IPackageChangesService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_package_changes_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_package_changes_service" ],
+    [ "IStoreComponentService", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_store_component_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_i_store_component_service" ],
+    [ "ManifestList", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_manifest_list.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_manifest_list" ],
+    [ "MetadataService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_metadata_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_metadata_service" ],
+    [ "PackageChangesService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_package_changes_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_package_changes_service" ],
+    [ "PackageList", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_package_list.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_package_list" ],
+    [ "StoreComponentService", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_store_component_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1v1_1_1_store_component_service" ]
+];

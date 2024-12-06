@@ -1,0 +1,25 @@
+digraph "EleWise.ELMA.Workflow.Processes.Web.Portlets.MonitorPortletPersonalization.GetFilter"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetFilter",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Пытаемся загрузить фильтр"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetExecutorsInfo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html#a6000f9013a280e21a1281bbd0839e06e",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortlet.GetNameUrl",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet.html#afab310d37e1ca97db7ebb88e9d1837d6",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetProcessHeader",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html#a07254869c395f0e51d6c0cd7f4207d06",tooltip="Получить заголовок процесса (если он выбран)"];
+  Node4 -> Node2 [id="edge4_Node000004_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 -> Node5 [id="edge5_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetStatesInfo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html#a2c3bf01ef02a78f3434c22a9339f3709",tooltip=" "];
+  Node4 -> Node6 [id="edge6_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetStatusesInfo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html#af8cf4597e0fe743d96557991e780892b",tooltip=" "];
+  Node4 -> Node7 [id="edge7_Node000004_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Workflow.Processes.\lWeb.Portlets.MonitorPortletPersonalization.\lGetSwimlaniesInfo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html#ab2fc8063cab4985d621461ced17d8ae6",tooltip=" "];
+  Node1 -> Node5 [id="edge8_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node6 [id="edge9_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node7 [id="edge10_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

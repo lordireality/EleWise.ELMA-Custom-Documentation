@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_activity_notification_recipients =
+[
+    [ "Implementations", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_ac74a6456a1b832ff356c7bb79d47db63f.html", null ]
+];

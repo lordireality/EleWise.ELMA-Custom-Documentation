@@ -1,0 +1,13 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations =
+[
+    [ "FetchBinaryFile", "namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_fetch_binary_file.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_fetch_binary_file" ],
+    [ "BaseBackgroundOperationWithCallbacks", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_base_background_operation_with_callbacks.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_base_background_operation_with_callbacks" ],
+    [ "CallbackDelegate", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_callback_delegate.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_callback_delegate" ],
+    [ "DelegateWithArgumentBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_delegate_with_argument_builder.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_delegate_with_argument_builder" ],
+    [ "FetchBinaryFileErrorDelegateBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_fetch_binary_file_error_delegate_builder.html", null ],
+    [ "IBackgroundOperation", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_background_operation.html", null ],
+    [ "ICallbackDelegate", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_callback_delegate.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_callback_delegate" ],
+    [ "ICreatingBuilder", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_creating_builder.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_creating_builder" ],
+    [ "IErrorCallbackInvokable", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_error_callback_invokable.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_error_callback_invokable" ],
+    [ "ISuccessCallbackInvokable", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_success_callback_invokable.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_success_callback_invokable" ]
+];

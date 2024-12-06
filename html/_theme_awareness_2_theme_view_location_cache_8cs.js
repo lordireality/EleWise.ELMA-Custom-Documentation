@@ -1,0 +1,4 @@
+var _theme_awareness_2_theme_view_location_cache_8cs =
+[
+    [ "Orchard.Mvc.ViewEngines.ThemeAwareness.ThemeViewLocationCache", "class_orchard_1_1_mvc_1_1_view_engines_1_1_theme_awareness_1_1_theme_view_location_cache.html", "class_orchard_1_1_mvc_1_1_view_engines_1_1_theme_awareness_1_1_theme_view_location_cache" ]
+];

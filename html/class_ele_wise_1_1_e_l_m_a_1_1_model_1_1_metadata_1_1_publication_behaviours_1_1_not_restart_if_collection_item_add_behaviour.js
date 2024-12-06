@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_publication_behaviours_1_1_not_restart_if_collection_item_add_behaviour =
+[
+    [ "NotRestartIfCollectionItemAddBehaviour", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_publication_behaviours_1_1_not_restart_if_collection_item_add_behaviour.html#a19f855791fc8559b34bbd434729495de", null ],
+    [ "Check", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_publication_behaviours_1_1_not_restart_if_collection_item_add_behaviour.html#ae0dde321fead4b962d154cc148789262", null ]
+];

@@ -1,0 +1,25 @@
+var dir_32231dab0724ae07d0395d25c66b8fdb =
+[
+    [ "AssemblyStoreComponentInfo.cs", "_assembly_store_component_info_8cs.html", "_assembly_store_component_info_8cs" ],
+    [ "AutoDeployComponentStatus.cs", "_auto_deploy_component_status_8cs.html", "_auto_deploy_component_status_8cs" ],
+    [ "DesignerInstallerData.cs", "_designer_installer_data_8cs.html", "_designer_installer_data_8cs" ],
+    [ "ISoftInstallState.cs", "_i_soft_install_state_8cs.html", "_i_soft_install_state_8cs" ],
+    [ "ISoftInstallWorker.cs", "_i_soft_install_worker_8cs.html", "_i_soft_install_worker_8cs" ],
+    [ "IStoreComponentInfo.cs", "_i_store_component_info_8cs.html", "_i_store_component_info_8cs" ],
+    [ "ManifestStoreComponentInfo.cs", "_manifest_store_component_info_8cs.html", "_manifest_store_component_info_8cs" ],
+    [ "PackageDescription.cs", "_package_description_8cs.html", "_package_description_8cs" ],
+    [ "PackageFilter.cs", "_package_filter_8cs.html", "_package_filter_8cs" ],
+    [ "PackageInstallInfo.cs", "_package_install_info_8cs.html", "_package_install_info_8cs" ],
+    [ "PackageInstallOperationInfo.cs", "_package_install_operation_info_8cs.html", "_package_install_operation_info_8cs" ],
+    [ "PackageLevel.cs", "_package_level_8cs.html", "_package_level_8cs" ],
+    [ "PackageOperationOptions.cs", "_package_operation_options_8cs.html", "_package_operation_options_8cs" ],
+    [ "PackageService.cs", "_package_service_8cs.html", "_package_service_8cs" ],
+    [ "PackageStatus.cs", "_package_status_8cs.html", "_package_status_8cs" ],
+    [ "PackageStoreComponentInfo.cs", "_package_store_component_info_8cs.html", "_package_store_component_info_8cs" ],
+    [ "PEFile.cs", "_p_e_file_8cs.html", "_p_e_file_8cs" ],
+    [ "RequiredInstallStoreComponentsException.cs", "_required_install_store_components_exception_8cs.html", "_required_install_store_components_exception_8cs" ],
+    [ "SingleFileFileSystem.cs", "_single_file_file_system_8cs.html", null ],
+    [ "SoftInstallWorkerNotificationCallback.cs", "_soft_install_worker_notification_callback_8cs.html", "_soft_install_worker_notification_callback_8cs" ],
+    [ "StoreComponentInfoBase.cs", "_store_component_info_base_8cs.html", "_store_component_info_base_8cs" ],
+    [ "StoreComponentStatus.cs", "_store_component_status_8cs.html", "_store_component_status_8cs" ]
+];

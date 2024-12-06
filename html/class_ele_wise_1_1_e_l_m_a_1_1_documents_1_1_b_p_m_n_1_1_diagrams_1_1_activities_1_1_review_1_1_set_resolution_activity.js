@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity =
+[
+    [ "SetResolutionActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#a8d5978bec65b6560a840f47f2fa17b01", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#a904630cb671c5da5ecf2ce433b26547a", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#a267d476af8a802da31ccd2fe652fa200", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#ae1a937b345119f0cfe575128eb553441", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#a371d543390b8ad60aad5d2a694fa125c", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_set_resolution_activity.html#a418fe8eb569ae26b6b3b147f45e1a4a1", null ]
+];

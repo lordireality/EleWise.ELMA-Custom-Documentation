@@ -1,0 +1,5 @@
+var _document_movement_element_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.DocumentMovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_movement_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_movement_element" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.DocumentMovementElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_do3669b344cc8a502ee0b19fc32f2263b4.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_do3669b344cc8a502ee0b19fc32f2263b4" ]
+];

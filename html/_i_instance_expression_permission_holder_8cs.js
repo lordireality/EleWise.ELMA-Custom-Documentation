@@ -1,0 +1,4 @@
+var _i_instance_expression_permission_holder_8cs =
+[
+    [ "EleWise.ELMA.Security.Services.IInstanceExpressionPermissionHolder", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_instance_expression_permission_holder.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_instance_expression_permission_holder" ]
+];

@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status =
+[
+    [ "ProjectPlanApproveTaskConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#aae6f988212ae35a3a77de2d023191243", null ],
+    [ "DefaultFirstConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#a07c4a99f027b5ae3cc649a3f6054ee53", null ],
+    [ "DefaultSecondConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#a655f49a3e4f17014cc1d91df6573977b", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#af1d79074649e40f375c760bd9cddd868", null ],
+    [ "ElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#a140054cec1a9fa6c1459449aec1411aa", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_project_plan_approve_task_connector_status.html#ab1f73a337e5af52550654ebf249dfe3e", null ]
+];

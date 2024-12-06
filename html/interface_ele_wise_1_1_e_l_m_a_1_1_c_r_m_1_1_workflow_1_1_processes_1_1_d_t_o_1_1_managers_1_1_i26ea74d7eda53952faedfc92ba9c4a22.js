@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_i26ea74d7eda53952faedfc92ba9c4a22 =
+[
+    [ "GetUsedProcessIdentifiers", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_i26ea74d7eda53952faedfc92ba9c4a22.html#a38174c081e672dbea587ca96a1280ce4", null ],
+    [ "GetUsedProcessNames", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_i26ea74d7eda53952faedfc92ba9c4a22.html#a2ba402776fa39b66dc64d0c4c8b59e30", null ]
+];

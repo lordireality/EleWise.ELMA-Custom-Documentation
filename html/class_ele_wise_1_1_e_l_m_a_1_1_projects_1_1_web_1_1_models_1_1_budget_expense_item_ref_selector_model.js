@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_expense_item_ref_selector_model =
+[
+    [ "BudgetExpenseItemRefSelectorModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_expense_item_ref_selector_model.html#aeadbff090125784f56221043bfd1bcad", null ],
+    [ "ReadOnly", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_expense_item_ref_selector_model.html#acb81c5d50e860cd8dc35a8db570ecb49", null ]
+];

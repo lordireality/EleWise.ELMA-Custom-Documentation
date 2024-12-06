@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['parameters_0',['Parameters',['../_report_scripts_template_8cs.html#ae86d7cefd60460942daefe8196555b01',1,'Parameters:&#160;ReportScriptsTemplate.cs'],['../_custom_activity_scripts_template_8cs.html#a4a03a52b24b96b7d4b560f5053e786c2',1,'Parameters:&#160;CustomActivityScriptsTemplate.cs']]],
+  ['permissionprovider_1',['PermissionProvider',['../_calendar_portlet_8cs.html#adb0958cb6b5febbba77c5e6c76d8e3b7',1,'PermissionProvider:&#160;CalendarPortlet.cs'],['../_catalog_excel_export_permission_handler_8cs.html#a5f37b810d856cb7290e0cd3fb5432f56',1,'PermissionProvider:&#160;CatalogExcelExportPermissionHandler.cs'],['../_customize_work_place_global_permissions_delegate_8cs.html#a3257664c5314b74566e373dea1d688ba',1,'PermissionProvider:&#160;CustomizeWorkPlaceGlobalPermissionsDelegate.cs'],['../_ele_wise_8_e_l_m_a_8_b_p_m_8_web_8_reports_8_documents_2_controllers_2_web_document_report_controller_8cs.html#a8a1a2ebc6b095122b47c69b75bd72b89',1,'PermissionProvider:&#160;WebDocumentReportController.cs'],['../_create_task_toobar_button_8cs.html#a43295eca8d1149ec42e5e6f65dc74bb1',1,'PermissionProvider:&#160;CreateTaskToobarButton.cs']]],
+  ['personalizationscope_2',['PersonalizationScope',['../_project_controller_8cs.html#a32a17f74ad6f100b5c1d1e3f28374748',1,'ProjectController.cs']]],
+  ['portletpersonalization_3',['PortletPersonalization',['../_graph_controller_8cs.html#a997eac5ebfa2aa9ac1306a855f2646b3',1,'GraphController.cs']]]
+];

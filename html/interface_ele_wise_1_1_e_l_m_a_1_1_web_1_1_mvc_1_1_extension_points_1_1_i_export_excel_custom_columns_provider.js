@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_export_excel_custom_columns_provider =
+[
+    [ "GetColumns", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_export_excel_custom_columns_provider.html#aec9c2bd9f969260b73d851e0c1c9e068", null ]
+];

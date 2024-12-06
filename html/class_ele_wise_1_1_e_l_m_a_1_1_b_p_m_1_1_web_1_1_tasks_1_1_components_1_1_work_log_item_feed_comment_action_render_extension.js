@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_item_feed_comment_action_render_extension =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_item_feed_comment_action_render_extension.html#a571b6402a3767d9430bfe0f41b228385", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_item_feed_comment_action_render_extension.html#a29119f2a3b8b738ef9720a243e21a0e0", null ]
+];

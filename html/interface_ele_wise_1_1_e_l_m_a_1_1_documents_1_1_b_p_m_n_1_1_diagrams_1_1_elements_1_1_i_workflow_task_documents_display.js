@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_workflow_task_documents_display =
+[
+    [ "DisplayDocumentList", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_workflow_task_documents_display.html#ab8224bc9bf0414e9af421bb706eac197", null ],
+    [ "DisplayDocumentsPreviewTabs", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_workflow_task_documents_display.html#ac93f3489faacd129ffb93d3c3b373635", null ],
+    [ "DisplayDocumentsTabs", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_workflow_task_documents_display.html#a9a1412aec54e2898f3884d15eb8f0713", null ]
+];

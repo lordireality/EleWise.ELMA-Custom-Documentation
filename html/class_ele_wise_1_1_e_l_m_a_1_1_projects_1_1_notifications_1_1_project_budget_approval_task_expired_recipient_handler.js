@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_budget_approval_task_expired_recipient_handler =
+[
+    [ "ProjectBudgetApprovalTaskExpiredRecipientHandler", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_budget_approval_task_expired_recipient_handler.html#a2d904603bf84f23d2a32ccb95bf996b7", null ],
+    [ "GetRecipients", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_budget_approval_task_expired_recipient_handler.html#aefc7b8c2fe6175d3968b9eb088cf1a23", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_budget_approval_task_expired_recipient_handler.html#af9c8df5ce162a02c1debf65669006cad", null ]
+];

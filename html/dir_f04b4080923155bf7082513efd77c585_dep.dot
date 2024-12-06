@@ -1,0 +1,21 @@
+digraph "Web/Modules/EleWise.ELMA.Messaging.SMS.Web"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_7ee4616d7792420b09aab8c4c7e23d47 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_7ee4616d7792420b09aab8c4c7e23d47.html",tooltip=""]
+  subgraph clusterdir_f04b4080923155bf7082513efd77c585 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_f04b4080923155bf7082513efd77c585.html",tooltip=""]
+    dir_f04b4080923155bf7082513efd77c585 [shape=plaintext, label="EleWise.ELMA.Messaging.SMS.Web"];
+  dir_4a040e7eee3334f6ca0c6f00e79cfcec [label="Components", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4a040e7eee3334f6ca0c6f00e79cfcec.html",tooltip=""];
+  dir_c658e4e3a49a118b02a02d3a6e22d097 [label="Controllers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c658e4e3a49a118b02a02d3a6e22d097.html",tooltip=""];
+  dir_834322cb1003e6fd5b6404c43301b0f9 [label="Extensions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_834322cb1003e6fd5b6404c43301b0f9.html",tooltip=""];
+  dir_53cf9f61a8a2434d760609bc931e027b [label="Menu", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_53cf9f61a8a2434d760609bc931e027b.html",tooltip=""];
+  dir_b02d5f3592c1b223b7ba961798d37e7f [label="Models", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b02d5f3592c1b223b7ba961798d37e7f.html",tooltip=""];
+  dir_8b11860f876c8f710ea6ec9c854e8cfa [label="Properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_8b11860f876c8f710ea6ec9c854e8cfa.html",tooltip=""];
+  }
+  }
+}

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_models_1_1_external_report_web_data_source =
+[
+    [ "ExternalReportWebDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_models_1_1_external_report_web_data_source.html#a4705ea8aca42081913597ca0b0130f91", null ],
+    [ "GetData", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_models_1_1_external_report_web_data_source.html#a420eb6955e04fd14c637225aa6d7e6c1", null ]
+];

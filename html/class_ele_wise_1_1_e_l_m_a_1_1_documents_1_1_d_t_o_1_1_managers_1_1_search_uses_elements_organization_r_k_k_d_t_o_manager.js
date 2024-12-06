@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_d_t_o_1_1_managers_1_1_search_uses_elements_organization_r_k_k_d_t_o_manager =
+[
+    [ "SearchUsesElementsOrganizationRKKDTOManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_d_t_o_1_1_managers_1_1_search_uses_elements_organization_r_k_k_d_t_o_manager.html#a0d2a6b74bf55c40c26b9df7bdb3006be", null ],
+    [ "FindDocument", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_d_t_o_1_1_managers_1_1_search_uses_elements_organization_r_k_k_d_t_o_manager.html#a51f993fcad7364dbd650a5658f254b48", null ]
+];

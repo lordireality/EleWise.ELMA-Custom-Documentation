@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_mess8d4b070162b02cd8b45ab125cf750d1f.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_mess8d4b070162b02cd8b45ab125cf750d1f" ],
+    [ "MessageSendElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a3bf0cc6725950c5e3a013ae7d802dba0", null ],
+    [ "HasMessageType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#aa7d77228ebf6c8027541c04af8375c10", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#ad5a8801471811660f99269fc304d85bd", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a7709213abd5954f3380781b216ec34b4", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#ae4a0b4989e6e8279542d90df165688ce", null ],
+    [ "MessageParamMapping", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a031ce3e047e641de394c53c0aac192e2", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a8968876b32c8bb8c7b3aecbd31fffcbc", null ],
+    [ "UIDMessage", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a399b0575ff62628ea4ac06c7f3d264f3", null ],
+    [ "UIDVariableInstance", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_message_send_element.html#a925388e02f063ed884cc985823520848", null ]
+];

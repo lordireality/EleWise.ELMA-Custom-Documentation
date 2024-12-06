@@ -1,0 +1,4 @@
+var _conflict_convert_references_object_8cs =
+[
+    [ "EleWise.ELMA.Documents.Extensions.ConflictConvertReferencesObject", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_conflict_convert_references_object.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_conflict_convert_references_object" ]
+];

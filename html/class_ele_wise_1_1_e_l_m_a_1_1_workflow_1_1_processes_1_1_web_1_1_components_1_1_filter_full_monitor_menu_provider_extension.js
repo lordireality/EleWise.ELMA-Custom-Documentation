@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_full_monitor_menu_provider_extension =
+[
+    [ "GetTreeNodeParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_full_monitor_menu_provider_extension.html#a59383126728b77b97d678929135c4d0e", null ],
+    [ "SupportedFilter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_full_monitor_menu_provider_extension.html#a5a3ce301542a9650d0cc364e554ba61a", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_full_monitor_menu_provider_extension.html#a9dfd03d85a7daa4a843c87b6edd623b8", null ],
+    [ "ContentActionRegistry", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_full_monitor_menu_provider_extension.html#a4f266150d87a7dd49d0b692de68e965d", null ]
+];

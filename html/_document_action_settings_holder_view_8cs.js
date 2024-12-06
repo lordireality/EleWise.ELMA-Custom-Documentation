@@ -1,0 +1,5 @@
+var _document_action_settings_holder_view_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Models.DocumentActionSettingsHolderView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_document_action_settings_holder_view.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_document_action_settings_holder_view" ],
+    [ "EleWise.ELMA.Documents.Web.Models.DocumentActionChapterStateInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_document_action_chapter_state_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_document_action_chapter_state_info" ]
+];

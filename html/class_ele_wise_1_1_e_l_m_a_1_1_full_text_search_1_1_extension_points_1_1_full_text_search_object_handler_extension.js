@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension =
+[
+    [ "FullTextSearchObjectHandlerExtension", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#ad65659cc6eb1534083d5edafb7bad320", null ],
+    [ "OnDeleteProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a36d16d36f0cbc949f5e196e9f7602242", null ],
+    [ "OnInsertProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a6b745c9e22a8e34d8a91e6b97aecf128", null ],
+    [ "ProcessingMergedIndexQueue", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a6a3002b81c152381c8ae41b5c5bb644f", null ],
+    [ "GetImportantProperties", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a8b8a2eb9d06256584de389c0219aa618", null ],
+    [ "GetVisualDataProperties", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a468df2c823fccc61ba9f816277535b1a", null ],
+    [ "SupportedCard", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a2c89ea177dfbdb1183ffaf13dcfda9c2", null ],
+    [ "SupportedUids", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a16e19bb247c7a92e336749c3418293b5", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_full_text_search_object_handler_extension.html#a968a2f10475306571ac5db1bef571a3c", null ]
+];

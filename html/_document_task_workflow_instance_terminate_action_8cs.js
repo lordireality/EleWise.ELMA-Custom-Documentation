@@ -1,0 +1,4 @@
+var _document_task_workflow_instance_terminate_action_8cs =
+[
+    [ "EleWise.ELMA.Documents.Components.DocumentTaskWorkflowInstanceTerminateAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_task_workflow_instance_terminate_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_task_workflow_instance_terminate_action" ]
+];

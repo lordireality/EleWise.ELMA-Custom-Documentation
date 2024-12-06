@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_comment_documents_action_web_handler =
+[
+    [ "BeforeCreateProcess", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_comment_documents_action_web_handler.html#ab5eaa8a3fc72d3e99e56a0868875a450", null ],
+    [ "AuthenticationService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_comment_documents_action_web_handler.html#aa4e630496ae4eae867b443c2b7c1aaa8", null ]
+];

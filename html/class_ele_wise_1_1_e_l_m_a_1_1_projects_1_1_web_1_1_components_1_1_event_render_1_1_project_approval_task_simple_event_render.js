@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_event_render_1_1_project_approval_task_simple_event_render =
+[
+    [ "CreateEventData", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_event_render_1_1_project_approval_task_simple_event_render.html#a25433baa32ac3cce5bb6df7f1db591c6", null ],
+    [ "GetExtraViewBlock", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_event_render_1_1_project_approval_task_simple_event_render.html#a6b27c653d52e0be0eac7d155a823aa69", null ],
+    [ "Actions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_event_render_1_1_project_approval_task_simple_event_render.html#ad8c5923a3710675cbc952ed3419b372f", null ],
+    [ "Objects", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_event_render_1_1_project_approval_task_simple_event_render.html#a7e5efa4df7b9c27c4b221a27f1ee8c4b", null ]
+];

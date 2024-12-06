@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_sale_funnel_property_view_item_adjustment =
+[
+    [ "Adjust", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_sale_funnel_property_view_item_adjustment.html#a89b3609738e9f4613a26a4fc1275ceef", null ]
+];

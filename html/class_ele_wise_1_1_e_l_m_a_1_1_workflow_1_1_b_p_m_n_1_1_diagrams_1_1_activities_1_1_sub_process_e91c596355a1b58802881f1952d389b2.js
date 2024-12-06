@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_e91c596355a1b58802881f1952d389b2 =
+[
+    [ "InternalSubProcessActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_e91c596355a1b58802881f1952d389b2.html#aa21987aa270a64a22c817c095b5fef70", null ],
+    [ "GetSubProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_e91c596355a1b58802881f1952d389b2.html#ad9d3792385ba99c275cef5c2e7257236", null ]
+];

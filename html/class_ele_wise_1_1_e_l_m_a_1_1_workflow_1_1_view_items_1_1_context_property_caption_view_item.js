@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_view_items_1_1_context_property_caption_view_item =
+[
+    [ "ContextPropertyCaptionViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_view_items_1_1_context_property_caption_view_item.html#a1df5c7013a51560080a98b607e84ecc2", null ]
+];

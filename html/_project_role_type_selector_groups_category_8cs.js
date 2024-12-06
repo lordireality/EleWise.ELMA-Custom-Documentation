@@ -1,0 +1,4 @@
+var _project_role_type_selector_groups_category_8cs =
+[
+    [ "EleWise.ELMA.Projects.Components.ProjectRoleTypeSelectorGroupsCategory", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_role_type_selector_groups_category.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_role_type_selector_groups_category" ]
+];

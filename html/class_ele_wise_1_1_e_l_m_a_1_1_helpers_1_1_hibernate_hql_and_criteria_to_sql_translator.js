@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_helpers_1_1_hibernate_hql_and_criteria_to_sql_translator =
+[
+    [ "HibernateHqlAndCriteriaToSqlTranslator", "class_ele_wise_1_1_e_l_m_a_1_1_helpers_1_1_hibernate_hql_and_criteria_to_sql_translator.html#a880b8fdeca21739ff8770592be9b36d5", null ]
+];

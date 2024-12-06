@@ -1,0 +1,9 @@
+var _task_links_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.TaskCalendarItemLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_task_calendar_item_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_task_calendar_item_link" ],
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.AccessRequestTaskLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_access_request_task_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_access_request_task_link" ],
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.ApprovalTaskLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_approval_task_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_approval_task_link" ],
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.TaskLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_task_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_task_link" ],
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.ReplacementTaskLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_replacement_task_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_replacement_task_link" ],
+    [ "EleWise.ELMA.BPM.Web.Tasks.Extensions.QuestionLink", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_question_link.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_question_link" ]
+];

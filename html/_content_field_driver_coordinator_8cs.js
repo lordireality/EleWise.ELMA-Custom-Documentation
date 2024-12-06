@@ -1,0 +1,4 @@
+var _content_field_driver_coordinator_8cs =
+[
+    [ "Orchard.ContentManagement.Drivers.Coordinators.ContentFieldDriverCoordinator", "class_orchard_1_1_content_management_1_1_drivers_1_1_coordinators_1_1_content_field_driver_coordinator.html", "class_orchard_1_1_content_management_1_1_drivers_1_1_coordinators_1_1_content_field_driver_coordinator" ]
+];

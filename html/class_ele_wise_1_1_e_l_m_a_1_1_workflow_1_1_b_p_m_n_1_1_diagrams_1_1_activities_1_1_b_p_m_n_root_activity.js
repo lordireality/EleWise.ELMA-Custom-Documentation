@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_b_p_m_n_root_activity =
+[
+    [ "Info", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_b_p_m_n_root_activity_1_1_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_b_p_m_n_root_activity_1_1_info" ],
+    [ "BPMNRootActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_b_p_m_n_root_activity.html#a7b6b8208e4eca02c3b16092ad3be2f82", null ],
+    [ "IsStartElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_b_p_m_n_root_activity.html#a02f30eb5118b82333706f57a5021852c", null ]
+];

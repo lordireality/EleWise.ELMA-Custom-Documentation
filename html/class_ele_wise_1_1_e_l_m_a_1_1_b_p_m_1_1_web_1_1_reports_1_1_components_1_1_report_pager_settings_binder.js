@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_components_1_1_report_pager_settings_binder =
+[
+    [ "BindModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_components_1_1_report_pager_settings_binder.html#adf467e96e7d5e387a89b932b46de7cff", null ]
+];

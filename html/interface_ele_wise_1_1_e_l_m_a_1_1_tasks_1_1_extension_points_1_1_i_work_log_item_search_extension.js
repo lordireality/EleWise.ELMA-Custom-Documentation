@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_work_log_item_search_extension =
+[
+    [ "SetupCriteria", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_work_log_item_search_extension.html#ad15c36d19a3118879c339b03704feb8a", null ]
+];

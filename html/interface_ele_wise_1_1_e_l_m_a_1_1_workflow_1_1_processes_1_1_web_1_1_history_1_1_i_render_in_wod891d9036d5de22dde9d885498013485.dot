@@ -1,0 +1,27 @@
+digraph "EleWise.ELMA.Workflow.Processes.Web.History.IRenderInWorkflowInstanceHistory"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.IRenderInWorkflowInstance\lHistory",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Нужно рендерить в истории по экземпляру"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderCreateSubTaskHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskAddCommentHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_add_comment_history.html",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskCompleteHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_complete_history.html",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskCreateHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_create_history.html",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskEscalationHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_escalation_history.html",tooltip="Нужно рендерить в истории по экземпляру"];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskMarkReadHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_mark_read_history.html",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskRedirectHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_redirect_history.html",tooltip=" "];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderTaskStartWorkHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_task_start_work_history.html",tooltip=" "];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.Workflow.Processes.\lWeb.History.RenderWasClosedComment\lHistory",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_was_closed_comment_history.html",tooltip=" "];
+}

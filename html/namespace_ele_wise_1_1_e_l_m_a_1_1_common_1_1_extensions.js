@@ -1,0 +1,10 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions =
+[
+    [ "CatalogFilterPermissionResolver", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_catalog_filter_permission_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_catalog_filter_permission_resolver" ],
+    [ "FilterPortletCheckPermissionDefaultExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_default_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_default_extensions" ],
+    [ "FilterPortletCheckPermissionExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_extensions" ],
+    [ "HistoryPanelViewItemBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_history_panel_view_item_builder.html", null ],
+    [ "IFilterPermissionResolver", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_i_filter_permission_resolver.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_i_filter_permission_resolver" ],
+    [ "IFilterPropertiesExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_i_filter_properties_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_i_filter_properties_extension" ],
+    [ "SoftDeletableCatalogChecker", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_soft_deletable_catalog_checker.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_soft_deletable_catalog_checker" ]
+];

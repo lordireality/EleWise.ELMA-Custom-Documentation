@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape =
+[
+    [ "WebDiagrammerBaseRectangleElementShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#a4d42ea060f77c510320269a7337c1e1c", null ],
+    [ "BackgroundColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#ade8d602c86741384c576717389ebcdd8", null ],
+    [ "Height", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#a4ff240e8550408160433ee098652e25b", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#ab001c08aa53b00ef7e31cf5c2300d96b", null ],
+    [ "StrokeWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#af77ffa785e811f209dd70ba2b390e40b", null ],
+    [ "Width", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_base_rectangle_element_shape.html#a014755d52e716b21f9e19647b5ad0959", null ]
+];

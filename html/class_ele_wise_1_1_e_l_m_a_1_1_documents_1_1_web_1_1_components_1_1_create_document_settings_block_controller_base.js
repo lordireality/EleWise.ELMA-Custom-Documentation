@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_create_document_settings_block_controller_base =
+[
+    [ "CreateDocumentSettingsBlockControllerBase", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_create_document_settings_block_controller_base.html#ab2f6bee3289b47b9b15eb459320cb839", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_create_document_settings_block_controller_base.html#a7f53fe0e85fe2f905a112fae205c19b9", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_create_document_settings_block_controller_base.html#afa0343a871cf09fe962e0a51909ca263", null ]
+];

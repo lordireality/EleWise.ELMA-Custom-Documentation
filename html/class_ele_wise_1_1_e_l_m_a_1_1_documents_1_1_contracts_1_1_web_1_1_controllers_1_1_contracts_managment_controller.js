@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_controllers_1_1_contracts_managment_controller =
+[
+    [ "Permissions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_controllers_1_1_contracts_managment_controller.html#a050c5a95df40f824f214a945f4384ad7", null ],
+    [ "FolderManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_controllers_1_1_contracts_managment_controller.html#a9bce8834853d899990f08637fb844a5f", null ]
+];

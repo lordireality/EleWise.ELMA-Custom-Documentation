@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item =
+[
+    [ "ElementIcon", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item.html#aaf4175e3b0fd7eb109ddfe83d08b72af", null ],
+    [ "ElementType", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item.html#a78f96200ed996e8d1f747bbada68b1d5", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item.html#a82897b325b663318db44ef7ee993c29a", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item.html#ae1a200336ac158831b9b9afc017628e4", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_business_rule_element_1_1_toolbox_item.html#a53f347e7ccf36cb3f7be27c81607ea9d", null ]
+];

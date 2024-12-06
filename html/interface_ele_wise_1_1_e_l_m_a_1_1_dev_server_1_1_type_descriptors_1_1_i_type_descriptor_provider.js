@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_i_type_descriptor_provider =
+[
+    [ "GetTypeDescriptors", "interface_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_i_type_descriptor_provider.html#a86d4a21848357f03abca2972417726ae", null ]
+];

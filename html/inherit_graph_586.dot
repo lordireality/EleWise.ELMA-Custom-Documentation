@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.PrepareMultipleSignModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_prepare_multiple_sign_model.html",tooltip=" "];
+  Node0 -> Node1 [id="edge957_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.MultipleAcquaintanceSignModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_acquaintance_sign_model.html",tooltip=" "];
+  Node0 -> Node2 [id="edge958_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.MultipleApprovementSignModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html",tooltip=" "];
+  Node0 -> Node3 [id="edge959_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.MultipleDocumentsSignModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_sign_model.html",tooltip=" "];
+  Node0 -> Node4 [id="edge960_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.PrepareMultipleSignEvery\lTimeModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_prepare_multiple_sign_every_time_model.html",tooltip=" "];
+  Node0 -> Node5 [id="edge961_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.PrepareMultipleSignOneTimeModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_prepare_multiple_sign_one_time_model.html",tooltip=" "];
+}

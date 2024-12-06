@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model =
+[
+    [ "SmartTaskViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a911b2caebaceee7f596b21bb3b3f1545", null ],
+    [ "AnyFile", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ab3819f4a639583d90cca6128aadfca88", null ],
+    [ "ApprovalTask", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#aa48707ff6976dcc84f09124c8ae8fb94", null ],
+    [ "HasAttachments", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#aaacfc54135a3ae1aba39184c55575206", null ],
+    [ "HasAttachmentsSpecified", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ac6a7695365553fa2746e95737ff7e3c2", null ],
+    [ "IsAvailableApproval", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ade8c59ddb21dac37592d0cc470960d28", null ],
+    [ "IsAvailableChangeControl", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#af1f831f1d0955330453ad40a84ae316e", null ],
+    [ "IsAvailableClose", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a728a4377e0050d82a610abd78e8bf96d", null ],
+    [ "IsAvailableCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a0adc7614a44aa12fdf008f845efd793f", null ],
+    [ "IsAvailableControlledAction", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ab8f04ee9687bd82c0c90cf9430d1e8bc", null ],
+    [ "IsAvailableCreateApproval", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a8322699ff3bb87aa27f88fcccc663302", null ],
+    [ "IsAvailableDateChange", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a0ca604f0a044b59108f2a6b3e6658264", null ],
+    [ "IsAvailableEdit", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a7d6ddf3b241278d0947edbe6bbb58a13", null ],
+    [ "IsAvailableInCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ad7774d7e28b099f484ee28083149a8d4", null ],
+    [ "IsAvailableProlong", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a9ca3ed73157fda0bffdc6090fd7c5b93", null ],
+    [ "IsAvailableReAssign", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a5cd83d136f93f6932de0e70c138360b0", null ],
+    [ "IsAvailableSetCompletePercent", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#aabe987dc41e01dd9ffa6ff216c96737b", null ],
+    [ "IsAvailableStartWork", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#ac2a20e945ffeb518ee6f6cd3e261ff57", null ],
+    [ "NeedApproval", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a2718c7378974b032d42ce5291f9f154d", null ],
+    [ "NeedCoexecuters", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a97f0dfb6864a129bf5e9030b522830f4", null ],
+    [ "NeedHistory", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#a2b8bafcf0cfd669c29ed618012054350", null ],
+    [ "PeriodText", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_smart_task_view_model.html#abf2377dc20cafee311fca31e5642176a", null ]
+];

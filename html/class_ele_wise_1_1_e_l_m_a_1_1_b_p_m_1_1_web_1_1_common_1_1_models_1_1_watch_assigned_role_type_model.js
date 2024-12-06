@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_models_1_1_watch_assigned_role_type_model =
+[
+    [ "WatchAssignedRoleTypeModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_models_1_1_watch_assigned_role_type_model.html#a40b99045669c6301d7ef78935f20a2c7", null ],
+    [ "DisableDelete", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_models_1_1_watch_assigned_role_type_model.html#a72b4d178dc4ea3ad11fb692272ceda2e", null ]
+];

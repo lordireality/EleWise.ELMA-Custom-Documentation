@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_blue_rectangle_element_shape =
+[
+    [ "WebDiagrammerBlueRectangleElementShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_web_diagrammer_blue_rectangle_element_shape.html#a86703396fabbf391f78cd3c82fd11ecb", null ]
+];

@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_model_1_1_i_full_text_search_provider_settings =
+[
+    [ "BindAndSaveToGlobalSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_model_1_1_i_full_text_search_provider_settings.html#ade4ca7562f6672a7d3b74dbc9f2131cd", null ]
+];

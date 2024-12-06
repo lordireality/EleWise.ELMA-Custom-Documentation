@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager =
+[
+    [ "MetadataItemHeaderDtoManager", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager.html#a054061cfa5955c5e778738bf9adb6e77", null ],
+    [ "GetGlobalModuleNames", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager.html#afb9b9937c5af9c686213e6ff90fb8f8c", null ],
+    [ "GetObjectsUidsFromDependencies", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager.html#a3cd1916cc58be1f13ab7a3af4caad0c3", null ],
+    [ "DependenciesExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager.html#af379f554f34c32e1c9ed2fc7569a2069", null ],
+    [ "MetadataItemHeaderManager", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_metadata_item_header_dto_manager.html#a23457ffccf33df6888fddcacf7df22e8", null ]
+];

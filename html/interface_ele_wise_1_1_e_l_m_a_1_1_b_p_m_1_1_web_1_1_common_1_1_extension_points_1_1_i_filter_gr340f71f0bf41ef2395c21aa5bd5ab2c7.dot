@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.BPM.Web.Common.ExtensionPoints.IFilterGridStateCreator"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Common.\lExtensionPoints.IFilterGridState\lCreator",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Создание GridState для фильтра"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Workflow.Processes.\lWeb.Components.WorkflowInstanceBase\lFilterCreator",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_base_filter_creator.html",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Workflow.Processes.\lWeb.Components.WorkflowInstanceFilter\lCreator",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_filter_creator.html",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Workflow.Web.\lComponents.TaskBaseFilterGridState\lCreator",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+}

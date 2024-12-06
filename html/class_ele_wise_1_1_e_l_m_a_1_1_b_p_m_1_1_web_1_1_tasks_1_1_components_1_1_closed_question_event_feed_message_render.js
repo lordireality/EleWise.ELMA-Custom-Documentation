@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render.html#ac645711c0972cb3df6016738f0dc5e28", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render.html#a4fd1f850cd4facb4a8f842680267be60", null ],
+    [ "ParentAddInfo", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render.html#accea73267d9e2e100843772bc452fa57", null ],
+    [ "AuditManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render.html#ad3810f393d3476effe871d8398398526", null ]
+];

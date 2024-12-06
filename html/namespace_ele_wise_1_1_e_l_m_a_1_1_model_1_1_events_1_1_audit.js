@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit =
+[
+    [ "EntityAuditAction", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_action" ],
+    [ "EntityAuditActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_action_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_action_provider" ],
+    [ "EntityAuditObject", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object" ],
+    [ "EntityAuditObjectProvider", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object_provider" ],
+    [ "EntityAuditObjectType", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object_type.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_events_1_1_audit_1_1_entity_audit_object_type" ]
+];

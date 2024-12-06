@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_lead_tab_view_tasks =
+[
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_lead_tab_view_tasks.html#aec6a76a0c7b0780d17bf12c66447b3eb", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_lead_tab_view_tasks.html#afe52e310d160c2b0a87506a107c2a571", null ]
+];

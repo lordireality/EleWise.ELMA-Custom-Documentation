@@ -1,0 +1,26 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service =
+[
+    [ "CanEditVisible", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a7eac2d07c853838e5e2a4dcd5a9158e8", null ],
+    [ "CheckBookConnection", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ac760ed02d3df02ebddccfb19929ee15c", null ],
+    [ "CheckConnection", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#aec76fb2d1898bd14fb29866473133433", null ],
+    [ "CheckConnectionConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a1f0bb72d81186d93ea594a793cbbe1c7", null ],
+    [ "CheckProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a0e6c3785f78818def784d8aad0d53848", null ],
+    [ "ConfigUidByBookId", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#abf1bcfcbe9bb89ff1b87b16077721c07", null ],
+    [ "DeleteConnectionSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a1c9bd828f97883916c9db5b372c05980", null ],
+    [ "DisableConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a3117e8d60fafdc526cc3fd97e1b92215", null ],
+    [ "EnableConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ae35ebce2e5c8b3d855b5eaa24da3dcb5", null ],
+    [ "GetConnection", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ad6ca4c7e8004978aa83ec822b0196aaa", null ],
+    [ "GetConnections", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ad29bd32f0d457cb65770c731975e1cbf", null ],
+    [ "GetCurrentConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#adb629d93be1b33653ec852a0879d9643", null ],
+    [ "GetCurrentConfigurationWithInit", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a55bd56ab1f16e62f51ac65929e722234", null ],
+    [ "GetFullConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ad0ee7f990f0330f6e3c18dd7bafcfedc", null ],
+    [ "GetProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a4a7a1fab18c9f0fe9fb3f260488ea850", null ],
+    [ "GetProviderByBookId", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ad77d16ae31310d7e85793967a63cd354", null ],
+    [ "LoadConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#ac19863e5c71f588c4e6eb99c5e4beb26", null ],
+    [ "RebootConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a0d787bbdfd8f0db7d842ece4fd69f506", null ],
+    [ "SaveConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#acf843774f7abd02c19ea5cce8100de69", null ],
+    [ "SaveConfigurationAndPublish", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a893a3ae2318b5efa2605df51d6bb6b94", null ],
+    [ "SaveConnection", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a803f0fe6221e50568faa275a7582afd0", null ],
+    [ "SaveConnectionAndPublish", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#acfecd2da0e420d84d161da40a477b332", null ],
+    [ "SaveNamespaceMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_integration_external_data_service.html#a6cd7220860bddd0ad4279815b4a93bbd", null ]
+];

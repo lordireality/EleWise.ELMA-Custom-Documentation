@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_u_i_2_admin_2_notification_2_notification_manager_8cs =
+[
+    [ "Orchard.UI.Admin.Notification.NotificationManager", "class_orchard_1_1_u_i_1_1_admin_1_1_notification_1_1_notification_manager.html", "class_orchard_1_1_u_i_1_1_admin_1_1_notification_1_1_notification_manager" ]
+];

@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule =
+[
+    [ "BusinessRulesHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_1_1_business_rules_history_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_1_1_business_rules_history_model" ]
+];

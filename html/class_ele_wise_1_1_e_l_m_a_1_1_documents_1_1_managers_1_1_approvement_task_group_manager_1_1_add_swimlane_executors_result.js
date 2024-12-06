@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_approvement_task_group_manager_1_1_add_swimlane_executors_result =
+[
+    [ "AddSwimlaneExecutorsResult", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_approvement_task_group_manager_1_1_add_swimlane_executors_result.html#a9715f8208f3cdcc030c8aabac00e1026", null ],
+    [ "CreatedTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_approvement_task_group_manager_1_1_add_swimlane_executors_result.html#ae528dbb635ed5b7b341837b19c2eb077", null ],
+    [ "IgnoredUsers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_approvement_task_group_manager_1_1_add_swimlane_executors_result.html#ae54abf11ba9d11c5e10c6ef8e8609bb3", null ]
+];

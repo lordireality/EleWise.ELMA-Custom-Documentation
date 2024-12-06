@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_security =
+[
+    [ "ModulePermissionsPageProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_security_1_1_module_permissions_page_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_security_1_1_module_permissions_page_provider" ],
+    [ "ModuleReportsPermissionSettings", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_security_1_1_module_reports_permission_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_security_1_1_module_reports_permission_settings" ]
+];

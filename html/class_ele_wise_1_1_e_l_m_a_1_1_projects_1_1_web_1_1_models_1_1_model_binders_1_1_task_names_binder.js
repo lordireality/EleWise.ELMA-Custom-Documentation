@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_model_binders_1_1_task_names_binder =
+[
+    [ "BindModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_model_binders_1_1_task_names_binder.html#aade508bb0bf67c95a7f9cfb0d698214c", null ]
+];

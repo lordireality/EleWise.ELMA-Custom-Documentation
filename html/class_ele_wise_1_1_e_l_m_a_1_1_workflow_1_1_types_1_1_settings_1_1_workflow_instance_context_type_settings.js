@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_instance_context_type_settings =
+[
+    [ "WorkflowInstanceContextTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_instance_context_type_settings.html#ae30e931747e70fbc2ef50b3eafbec1ec", null ],
+    [ "WorkflowInstanceContextTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_instance_context_type_settings.html#a5f54f2bb1d50d00db50ace442b4ec762", null ]
+];

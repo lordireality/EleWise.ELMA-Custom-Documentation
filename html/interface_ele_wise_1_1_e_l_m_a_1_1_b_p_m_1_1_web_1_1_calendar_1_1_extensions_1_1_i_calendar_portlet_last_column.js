@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_i_calendar_portlet_last_column =
+[
+    [ "LastColumnCellData", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_i_calendar_portlet_last_column.html#a22a1d14eb7335906538bc90f4adac801", null ],
+    [ "EntityTypeUid", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_i_calendar_portlet_last_column.html#a0c7e3fb54c7eb7d536efa5b1b0697987", null ]
+];

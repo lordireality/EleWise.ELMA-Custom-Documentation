@@ -1,0 +1,5 @@
+var _ele_wise_8_e_l_m_a_8_b_p_m_8_web_8_common_2_extensions_2_filter_portlet_extensions_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Common.Extensions.FilterPortletExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_portlet_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_portlet_extensions" ],
+    [ "HtmlExtension", "_ele_wise_8_e_l_m_a_8_b_p_m_8_web_8_common_2_extensions_2_filter_portlet_extensions_8cs.html#ae3586b9fe537a39930b9196f3ddf33e9", null ]
+];

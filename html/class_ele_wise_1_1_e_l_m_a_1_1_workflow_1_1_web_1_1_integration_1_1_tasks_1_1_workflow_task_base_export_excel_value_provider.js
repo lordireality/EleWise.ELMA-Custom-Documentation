@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_workflow_task_base_export_excel_value_provider =
+[
+    [ "GetValue", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_workflow_task_base_export_excel_value_provider.html#acd343ddb72ad92199f4fd751bd2493f0", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_workflow_task_base_export_excel_value_provider.html#a4e4e138c128286e4d3432d07a12a2d7d", null ]
+];

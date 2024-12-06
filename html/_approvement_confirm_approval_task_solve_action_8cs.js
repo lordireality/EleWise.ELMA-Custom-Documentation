@@ -1,0 +1,4 @@
+var _approvement_confirm_approval_task_solve_action_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Integration.Portlets.ApprovementConfirmApprovalTaskSolveAction", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa" ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_marketing_base_questions_history_part_provider =
+[
+    [ "CheckEntity", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_marketing_base_questions_history_part_provider.html#a638d5faf4b357a7b009e92ce5c0436b6", null ],
+    [ "CheckEventActionObject", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_marketing_base_questions_history_part_provider.html#a7d69a59268e6e6cbd083c7fc73ba17ce", null ]
+];

@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model =
+[
+    [ "GetCountGroups", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model.html#a3801e03c020aff0eb007124cbaddc201", null ],
+    [ "GetGroup", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model.html#af64a665876ae6048c880b3b660b15d88", null ],
+    [ "DocumentVersionStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model.html#af091cba39fa2b6cea9de3b36bb5e6220", null ],
+    [ "GroupStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model.html#a360405da6ab7da1b0d52547ad2ee06ad", null ],
+    [ "SingleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_document_version_approvement_status_model.html#a963f561c0f9e6ca07613b68603552a1c", null ]
+];

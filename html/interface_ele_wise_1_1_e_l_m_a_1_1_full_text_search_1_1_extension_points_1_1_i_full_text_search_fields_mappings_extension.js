@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_fields_mappings_extension =
+[
+    [ "MappingFields", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_fields_mappings_extension.html#ab6e6a185614fd6c3b9d4268e7f77d0c3", null ],
+    [ "MappingFields", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_fields_mappings_extension.html#a8f378cd07ddd2239ff08b45fac11b1a7", null ],
+    [ "MappingFields", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_fields_mappings_extension.html#a75f7a0542c1a5660dd65a9c794df4269", null ]
+];

@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions =
+[
+    [ "ICurrentControllersFilterService", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_i_current_controllers_filter_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_i_current_controllers_filter_service" ],
+    [ "ReplacementTaskAssignment", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_replacement_task_assignment.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_replacement_task_assignment" ],
+    [ "TaskFilterPermissionResolver", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_permission_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_permission_resolver" ],
+    [ "TaskFilterPortletCheckPermissionExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_portlet_check_permission_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_portlet_check_permission_extensions" ],
+    [ "WorkLogItemFilterPermissionResolver", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_work_log_item_filter_permission_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_work_log_item_filter_permission_resolver" ]
+];

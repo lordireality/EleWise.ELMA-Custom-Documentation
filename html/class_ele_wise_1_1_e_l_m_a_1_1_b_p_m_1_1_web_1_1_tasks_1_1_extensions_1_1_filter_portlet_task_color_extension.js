@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_task_color_extension =
+[
+    [ "AvailableFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_task_color_extension.html#a6c355058562e755558ce720c09c8e706", null ],
+    [ "Template", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_task_color_extension.html#a003b9e390ea11098ecfaf86ab9120134", null ]
+];

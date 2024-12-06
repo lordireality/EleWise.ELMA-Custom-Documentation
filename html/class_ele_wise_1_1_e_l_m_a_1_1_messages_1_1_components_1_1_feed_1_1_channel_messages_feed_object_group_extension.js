@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_channel_messages_feed_object_group_extension =
+[
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_channel_messages_feed_object_group_extension.html#adf581688ddf45a3b9c65643dec462085", null ],
+    [ "MessageTypeName", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_channel_messages_feed_object_group_extension.html#aa678893156641db3018f76a3d16392f1", null ],
+    [ "MessageTypeCssClass", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_channel_messages_feed_object_group_extension.html#a946455aa177c3bae6ba42bd655cb8986", null ]
+];

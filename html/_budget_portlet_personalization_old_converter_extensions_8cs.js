@@ -1,0 +1,4 @@
+var _budget_portlet_personalization_old_converter_extensions_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Components.PortletPersonalizationConverters.BudgetPortletPersonalizationOldConverterExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convedddb1a4974718cdb2c59d1e54719a68e.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convedddb1a4974718cdb2c59d1e54719a68e" ]
+];

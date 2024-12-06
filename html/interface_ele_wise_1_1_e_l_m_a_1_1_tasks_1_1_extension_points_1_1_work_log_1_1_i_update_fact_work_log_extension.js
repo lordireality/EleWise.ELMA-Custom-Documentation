@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_work_log_1_1_i_update_fact_work_log_extension =
+[
+    [ "Can", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_work_log_1_1_i_update_fact_work_log_extension.html#a9f3cc0975dc8d48cc3617575b7c8e244", null ],
+    [ "UpdateFactWorkLog", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_work_log_1_1_i_update_fact_work_log_extension.html#a7b966effb195968adaf8fe4c1deaff27", null ]
+];

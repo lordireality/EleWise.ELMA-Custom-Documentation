@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension =
+[
+    [ "FullTextSearchFolderHandlerExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#a365e11661789ee1781ea7166c6ead04a", null ],
+    [ "ProcessingMergedIndexQueue", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#abc0a42b11e93d69eed344b13c84c4055", null ],
+    [ "GetImportantProperties", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#ad6edba8adfd21192acfacd5272104a39", null ],
+    [ "SupportedCard", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#a1714e94737e38395ff67d499a5aa9d36", null ],
+    [ "SupportedUids", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#a07cf96cb66ea2f9e077253c299b61f5b", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_folder_handler_extension.html#ae301f00924450221fdf96a1e0ba2b221", null ]
+];

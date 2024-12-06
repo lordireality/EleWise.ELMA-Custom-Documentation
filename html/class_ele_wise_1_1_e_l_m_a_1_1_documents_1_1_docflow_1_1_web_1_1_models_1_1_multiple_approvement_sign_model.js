@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model =
+[
+    [ "MultipleApprovementSignModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html#a02c3d80e70b135de6b9159d2647114a4", null ],
+    [ "MultipleApprovementSignModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html#a3cce58850dd1d2552271f0742ec76480", null ],
+    [ "GetTaskSignTextUrl", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html#a6a4af909050383380fce93fcc34ab4da", null ],
+    [ "IsVersionAttrSignNeededFunc", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html#a5d3cff134e486de78385f8d32c530d56", null ],
+    [ "TaskAttributesDigitalSignatureInputId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement_sign_model.html#aacba62ac4c43dcd46c900aed60775575", null ]
+];

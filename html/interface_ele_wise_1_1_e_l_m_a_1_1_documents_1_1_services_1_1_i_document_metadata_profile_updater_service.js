@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_document_metadata_profile_updater_service =
+[
+    [ "CreateProfiles", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_document_metadata_profile_updater_service.html#a5a4d3c63a93bfe1a8bb494d1222feb50", null ],
+    [ "UpdateProfiles", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_document_metadata_profile_updater_service.html#a1e8cf009bf58fe789f58a7d86275dfcc", null ]
+];

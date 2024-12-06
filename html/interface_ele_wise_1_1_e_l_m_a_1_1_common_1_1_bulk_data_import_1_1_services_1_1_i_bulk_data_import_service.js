@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_service =
+[
+    [ "GetImportProgressInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_service.html#ab87599d6b063e0744e136be4154f79ab", null ],
+    [ "Import", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_service.html#ae391456a845437ddbb6b7c1ebd3e7056", null ]
+];

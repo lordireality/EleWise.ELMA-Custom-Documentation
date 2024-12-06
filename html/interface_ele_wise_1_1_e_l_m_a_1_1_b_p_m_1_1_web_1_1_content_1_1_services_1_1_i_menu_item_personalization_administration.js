@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_i_menu_item_personalization_administration =
+[
+    [ "GetTransformedItem", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_i_menu_item_personalization_administration.html#ab1453aca20ea370a4d8c8384669dcb1f", null ],
+    [ "ResetState", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_i_menu_item_personalization_administration.html#ad3f7c348e285374dcd9f967a863a3fea", null ],
+    [ "SaveState", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_i_menu_item_personalization_administration.html#aebbc6e7e72222c1409bf7b1d3ce8a854", null ]
+];

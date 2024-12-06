@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_i_b_p_m_n_element_context_action =
+[
+    [ "IsSupported", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_i_b_p_m_n_element_context_action.html#a2a86d6efd228d4b0fe9e29eb7630f47c", null ],
+    [ "ActionUid", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_i_b_p_m_n_element_context_action.html#a89af6c2bab5a9bda6ba7ac0cb5ad35e5", null ],
+    [ "Image", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_i_b_p_m_n_element_context_action.html#a240021224d1f81adff2ce82c30cb854c", null ],
+    [ "Text", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_i_b_p_m_n_element_context_action.html#a4d3e4c266588b3e196a91b8405f78989", null ]
+];

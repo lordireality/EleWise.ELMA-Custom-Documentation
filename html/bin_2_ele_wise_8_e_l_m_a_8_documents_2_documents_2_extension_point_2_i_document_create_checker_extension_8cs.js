@@ -1,0 +1,4 @@
+var bin_2_ele_wise_8_e_l_m_a_8_documents_2_documents_2_extension_point_2_i_document_create_checker_extension_8cs =
+[
+    [ "EleWise.ELMA.Documents.ExtensionPoint.IDocumentCreateCheckerExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extension_point_1_1_i_document_create_checker_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extension_point_1_1_i_document_create_checker_extension" ]
+];

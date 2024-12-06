@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info =
+[
+    [ "DocumentGenerationTemplateInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a6ff2c8f7d37f629e1da08f176e2ddd75", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a0607c628f588c81bcdc899f82c46e03c", null ],
+    [ "ContextVarUid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a634be5e7dca8614945d31644189f3261", null ],
+    [ "DocumentId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a5814cb185e848f4ed7da6e408cb1d09a", null ],
+    [ "FileName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#aff6c1999dc2d7be8f9864fc0d761a9d2", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a136be245dea70fad493ac9dbb758f6b1", null ],
+    [ "ResultPropertyUid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a01cb1a37b7555c28e138ba43274eab21", null ],
+    [ "TemplateFileId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a44db4bc2df9c28b2a77b229c87e90b41", null ],
+    [ "TemplateType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_template_info.html#a8d8ceba4760583a40a9838dd09fb51ea", null ]
+];

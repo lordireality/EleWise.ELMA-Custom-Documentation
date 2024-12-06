@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_query_rec =
+[
+    [ "ReportBodyQueryRec", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_query_rec.html#a00377bcd11dd2dcc8b872179aeee1dc4", null ],
+    [ "FromStage", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_query_rec.html#a0dbd5d642bd650d6022103c7e098e34c", null ],
+    [ "SalesCount", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_query_rec.html#a3495c52e3bf9085710cc88635d8c880e", null ],
+    [ "ToStage", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_query_rec.html#ad1faffad546982d5d80987df27bc8fc7", null ]
+];

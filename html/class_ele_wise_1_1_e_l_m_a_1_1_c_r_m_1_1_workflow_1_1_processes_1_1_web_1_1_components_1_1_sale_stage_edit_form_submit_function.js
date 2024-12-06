@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_edit_form_submit_function =
+[
+    [ "FunctionName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_edit_form_submit_function.html#a020ed7b4b519af7d9eca639820c71c41", null ],
+    [ "SupportFormViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_edit_form_submit_function.html#abaaccb956f15743f40d2b6f8b6d85b49", null ]
+];

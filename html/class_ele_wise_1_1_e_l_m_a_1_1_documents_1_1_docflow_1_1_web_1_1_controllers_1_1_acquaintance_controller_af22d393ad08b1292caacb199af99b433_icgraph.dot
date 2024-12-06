@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Controllers.AcquaintanceController.InitAcquaintanceList"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.AcquaintanceController.\lInitAcquaintanceList",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Сформировать новый список ознакомления"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.AcquaintanceController.Create",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_acquaintance_controller.html#a74df791a462ea3437e828fd527dfa6f9",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Reports.\lDocuments.Docflow.Controllers.Web\lDocumentReportController.SaveToHtmlAndSend",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_docflow_1_1_controllef9eac51d86ea65ea505f25f3f8be7d39.html#a4bf6e233809aa76d8c8f330080d2ea3e",tooltip="Экспорт закэшированого отчета в веб-документ"];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.RouteController.Send\lToAcquaintance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_route_controller.html#a4433625d832c9b16dc27ee3ccd57f142",tooltip="Выполнение отправки на согласование"];
+}

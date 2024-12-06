@@ -1,0 +1,18 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public =
+[
+    [ "AuthorizeUserEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_authorize_user_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_authorize_user_event_args" ],
+    [ "IAuthorizationServiceEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_authorization_service_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_authorization_service_event_handler" ],
+    [ "IPublicMetadataFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_filter.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_filter" ],
+    [ "IPublicMetadataGroupInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_group_info.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_group_info" ],
+    [ "IPublicMetadataInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_info.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_info" ],
+    [ "IPublicMetadataProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_metadata_provider" ],
+    [ "IPublicService", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service" ],
+    [ "IPublicServiceEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_event_handler" ],
+    [ "IPublicServiceMethod", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_method.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_method" ],
+    [ "IPublicServiceMethodsProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_methods_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_i_public_service_methods_provider" ],
+    [ "PublicMetadataService", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_metadata_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_metadata_service" ],
+    [ "PublicServiceException", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_exception" ],
+    [ "PublicServiceMethod", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method" ],
+    [ "PublicServiceMethodEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method_event_args" ],
+    [ "PublicServiceMethodExecutor", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method_executor.html", "class_ele_wise_1_1_e_l_m_a_1_1_services_1_1_public_1_1_public_service_method_executor" ]
+];

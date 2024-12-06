@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_artifact_data_object_activity =
+[
+    [ "ArtifactDataObjectActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_artifact_data_object_activity.html#ae1f387423efd9c81da44ca155dec4a36", null ]
+];

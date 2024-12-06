@@ -1,0 +1,4 @@
+var _channel_message_view_extensions_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Integration.Messages.ChannelMessageViewExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_messages_1_1_channel_message_view_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_messages_1_1_channel_message_view_extensions" ]
+];

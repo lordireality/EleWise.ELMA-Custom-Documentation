@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_controllers_1_1_exchange_rates_1_1_automatic_currency_import_controller =
+[
+    [ "Index", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_controllers_1_1_exchange_rates_1_1_automatic_currency_import_controller.html#a45c6103b3136f6316f0eee9c61e450f3", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_controllers_1_1_exchange_rates_1_1_automatic_currency_import_controller.html#aab73f856e1245ff1ae800df13c0ae4ff", null ]
+];

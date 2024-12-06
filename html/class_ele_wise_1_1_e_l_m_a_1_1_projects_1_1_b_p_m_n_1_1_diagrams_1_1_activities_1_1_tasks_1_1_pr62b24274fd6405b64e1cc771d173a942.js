@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942 =
+[
+    [ "ProjectBudgetApprovalTaskActivity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942.html#a94d2feae6c65289194db9949bdc5eb7f", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942.html#a6c21ec82a95da7245a26814e5860bd7a", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942.html#ae5fd33f8ae54738fc3d070f558a5dac6", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942.html#a822654226dbb16b595adaa8ea5d05739", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr62b24274fd6405b64e1cc771d173a942.html#af07c5e322625ac0087a56ec92779b268", null ]
+];

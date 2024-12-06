@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_workflow_8_processes_2_ele_wise_2_e_l_m_a_2_workflow_2_extensions_2_filter3bca8d20eb70810241a42e9e71cf58c1 =
+[
+    [ "EleWise.ELMA.Workflow.Extensions.FilterPortletCheckPermissionExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_filter_portlet_check_permission_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_filter_portlet_check_permission_extensions" ]
+];

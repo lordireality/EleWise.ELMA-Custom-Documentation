@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2 =
+[
+    [ "OrganizationItemRecipientForNotification", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2.html#a97d6ff104830359805305906744af27f", null ],
+    [ "GetRecipients", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2.html#a969f538e81e19ce21e2b28a403522ce1", null ],
+    [ "Structures", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2.html#a6bbccbb4b87fc65176ce8685d267e9e2", null ]
+];

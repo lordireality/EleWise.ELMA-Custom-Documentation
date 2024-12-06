@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_approvement_business_role =
+[
+    [ "ApprovementBusinessRole", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_approvement_business_role.html#a6a3839e13d483c3ba0a710534743e393", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_approvement_business_role.html#ab6afc130a7c017659c37304575822f38", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_approvement_business_role.html#a03512b90bd838cb9afa0984f73fdff29", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_approvement_business_role.html#a58b1e1edce693b540e965026278bff8d", null ]
+];

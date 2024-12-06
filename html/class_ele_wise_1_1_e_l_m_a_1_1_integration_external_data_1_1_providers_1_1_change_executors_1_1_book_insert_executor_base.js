@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_executor_base =
+[
+    [ "BookInsertExecutorBase", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_executor_base.html#a44ed4ea774a4266337257df5d420c444", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_executor_base.html#af02a7c6e1a78a4818df49cbcdb49d801", null ]
+];

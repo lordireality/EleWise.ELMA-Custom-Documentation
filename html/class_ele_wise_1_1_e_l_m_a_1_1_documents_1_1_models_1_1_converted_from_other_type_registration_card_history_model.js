@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_converted_from_other_type_registration_card_history_model =
+[
+    [ "ConvertedFromOtherTypeRegistrationCardHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_converted_from_other_type_registration_card_history_model.html#a4ef6fc09d0b896e52a5637c001c19c44", null ]
+];

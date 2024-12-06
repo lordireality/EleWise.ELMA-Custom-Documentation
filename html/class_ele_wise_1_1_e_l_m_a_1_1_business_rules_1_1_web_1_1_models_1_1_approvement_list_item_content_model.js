@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_models_1_1_approvement_list_item_content_model =
+[
+    [ "ApprovementListItemContentModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_models_1_1_approvement_list_item_content_model.html#a0ad7cbf8f0d64b9b9f76caf76a36adc7", null ],
+    [ "Type", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_models_1_1_approvement_list_item_content_model.html#abd82151aa88705833976896ebad4b2ea", null ]
+];

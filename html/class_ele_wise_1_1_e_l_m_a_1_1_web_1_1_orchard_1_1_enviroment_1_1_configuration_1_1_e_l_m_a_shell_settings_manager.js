@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_orchard_1_1_enviroment_1_1_configuration_1_1_e_l_m_a_shell_settings_manager =
+[
+    [ "ELMAShellSettingsManager", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_orchard_1_1_enviroment_1_1_configuration_1_1_e_l_m_a_shell_settings_manager.html#a257c21cfdba5bedddb4da571d142c850", null ],
+    [ "LoadSettings", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_orchard_1_1_enviroment_1_1_configuration_1_1_e_l_m_a_shell_settings_manager.html#aefb40b75585cb70d98bdbca55bd80b75", null ],
+    [ "SaveSettings", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_orchard_1_1_enviroment_1_1_configuration_1_1_e_l_m_a_shell_settings_manager.html#aa85630c4a6e968b904e6e1b3a46ff691", null ]
+];

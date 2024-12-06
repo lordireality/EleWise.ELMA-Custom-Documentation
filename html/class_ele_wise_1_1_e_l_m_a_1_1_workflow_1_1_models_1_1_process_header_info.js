@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info =
+[
+    [ "ProcessHeaderInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#ade3cbee5b00afd14375072d41c78fd34", null ],
+    [ "AssignToMeCount", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#aed320eedf61bf8fea1d9f2a57d31acb6", null ],
+    [ "AvailableCount", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a499edf47316bc50e416262dfd68dcc94", null ],
+    [ "CallbackFunction", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a014127975f254ddd2d63524e24f4114d", null ],
+    [ "CompleteCount", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a4cce775eaae406184630e7c3533b8ebb", null ],
+    [ "HasProblemMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a746be763a61671a729085faa1d312303", null ],
+    [ "HasWarningMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#ac231d554893fab0dae64d17204848699", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#ab12d7b1e8c496c87c97800fb064d9f92", null ],
+    [ "InstanceFilter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a4fb774aa53deea8f70f205a5532e47c5", null ],
+    [ "InterruptedCount", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#adff39a1ee41f2e53671f014d44a230e6", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#aa49e824c6f939d69e9e28581c2ce32dc", null ],
+    [ "Order", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#ae196a8376d2984c1fa3e8211ccf855c6", null ],
+    [ "OwnerId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a32f611bbbc4884b84c8aed466d34894d", null ],
+    [ "OwnerName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a382be2c4c69f6d137f5a726bf8e537ef", null ],
+    [ "OwnerType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#aefe8a945aa42632496f4492b2468615a", null ],
+    [ "ParentId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a2d2b4cecfc948a33f36490933363d548", null ],
+    [ "ParentProcessId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a379335bfb6c480f6a12795192f23ed11", null ],
+    [ "SecondTab", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#aba3d02cd4bb53adef8e7a6580d98e48b", null ],
+    [ "SelectedTab", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#ab43cf755dc86cb17bd1d0afbd7c1e8c2", null ],
+    [ "ShowGoodMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#acdc0544720aa67f84e2f5f9d743516cd", null ],
+    [ "ShowIndicatorMode", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a2ad3b22407f47ae8e9b2272a2b68930c", null ],
+    [ "ShowProblemMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a748a250e6729a2bb86741cf59e91f350", null ],
+    [ "ShowWarningMetric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a251bca9ee8b24011e80b6e89dd758eb0", null ],
+    [ "Status", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_process_header_info.html#a342f5d1630423c7dfe9cfe94bcd1992c", null ]
+];

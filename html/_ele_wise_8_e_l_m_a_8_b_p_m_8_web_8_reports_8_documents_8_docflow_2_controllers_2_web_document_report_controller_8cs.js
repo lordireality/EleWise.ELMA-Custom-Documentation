@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_b_p_m_8_web_8_reports_8_documents_8_docflow_2_controllers_2_web_document_report_controller_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Reports.Documents.Docflow.Controllers.WebDocumentReportController", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_docflow_1_1_controllef9eac51d86ea65ea505f25f3f8be7d39.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_docflow_1_1_controllef9eac51d86ea65ea505f25f3f8be7d39" ]
+];

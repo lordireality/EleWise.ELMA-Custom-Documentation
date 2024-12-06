@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_dynamic_report_data =
+[
+    [ "SaleDynamicReportData", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_dynamic_report_data.html#a3fb58d29c61bb97571296ae691c56152", null ],
+    [ "Body", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_dynamic_report_data.html#a2350d8819e006602abd18ea3cb96e91c", null ],
+    [ "Footer", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_dynamic_report_data.html#a9ce27d100f7bb885392bab4fad1cb177", null ]
+];

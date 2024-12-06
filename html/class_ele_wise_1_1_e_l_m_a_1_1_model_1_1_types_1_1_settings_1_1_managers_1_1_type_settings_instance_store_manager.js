@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager =
+[
+    [ "TypeSettingsInstanceStoreManager", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager.html#a27c840cb048fbb461dc4d7f45784c38a", null ],
+    [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager.html#afc7b58359bb8fc275895438e7e66219c", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager.html#af2623f281ca65a634589b0459887253a", null ]
+];

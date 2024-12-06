@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_permission_managment_service_extension =
+[
+    [ "GetPermissionForBase", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_permission_managment_service_extension.html#a5640b4ed006a47357648d195c5605884", null ]
+];

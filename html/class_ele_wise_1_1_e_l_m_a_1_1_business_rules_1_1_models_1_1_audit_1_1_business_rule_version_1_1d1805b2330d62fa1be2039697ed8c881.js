@@ -1,0 +1,10 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881 =
+[
+    [ "CommentBusinessRuleVersionHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#ae64e0b56562163dcad7e849d13d7371c", null ],
+    [ "Attachments", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#a3c55c65e5a2a1c76385ce52524b32b98", null ],
+    [ "ChangedProperties", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#a1108ba9025bb2c4d5ee3361bf7e548b7", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#af304e0c35f82cd43859dccbbd99be2c6", null ],
+    [ "Comments", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#aef59af5ad0ee597ee83f589f378ac1a9", null ],
+    [ "NewEntity", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#ab7fe7d914badfdba554fe2a0ed8532b8", null ],
+    [ "OldEntity", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html#a79ad1e2cb35eaed952cb00a0e08d7a80", null ]
+];

@@ -1,0 +1,4 @@
+var _process_metric_values_type_settings_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Types.Settings.ProcessMetricValuesTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_process_metric_values_type_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_process_metric_values_type_settings" ]
+];

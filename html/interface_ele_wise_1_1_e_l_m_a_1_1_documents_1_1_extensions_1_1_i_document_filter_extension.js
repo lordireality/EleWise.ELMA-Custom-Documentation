@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_i_document_filter_extension =
+[
+    [ "AddFilterCriteris", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_i_document_filter_extension.html#a276b13b7728d8641e2b61a30a1b629e6", null ]
+];

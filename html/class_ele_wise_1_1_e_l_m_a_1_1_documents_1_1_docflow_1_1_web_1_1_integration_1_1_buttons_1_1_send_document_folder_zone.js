@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone =
+[
+    [ "SendDocumentFolderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone.html#a4e4f991c05e3bbe8de7f186ce08a98d6", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone.html#ada7a751da8d9b94593e4d444ceb3cac6", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone.html#a32cf226fd8dc295678f4de4a3da7defe", null ]
+];

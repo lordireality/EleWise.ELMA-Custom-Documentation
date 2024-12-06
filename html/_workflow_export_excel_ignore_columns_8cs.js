@@ -1,0 +1,4 @@
+var _workflow_export_excel_ignore_columns_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.WorkflowExportExcelIgnoreColumns", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_workflow_export_excel_ignore_columns.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_workflow_export_excel_ignore_columns" ]
+];

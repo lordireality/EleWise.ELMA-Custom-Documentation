@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj6b4e8a49d5e69ad5cf88b632783f4c07.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj6b4e8a49d5e69ad5cf88b632783f4c07" ],
+    [ "ProjectBudgetApprovalTaskElement", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a4e12d34b83013562bc9ce886eb04b907", null ],
+    [ "GetVisiblePropertyUids", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a5ed325f614587cf104f4d999ac3b7dad", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a38a2ba0d6be1d63d35f3dd83b223b778", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#ad2095c923d474819265ff2b8929ce386", null ],
+    [ "BudgetId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a188d82c3bf40744478f440cb71ce54d9", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a9f9d17b47ba22d27afac26412529d315", null ],
+    [ "DefaultRouteTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#a4c574867516d5999985c8e5a5f1e91a1", null ],
+    [ "FormSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#aabd64d645cb74e855f5a112b838acfd5", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html#abd235dfffca56bbe923fe22cf47ad96f", null ]
+];

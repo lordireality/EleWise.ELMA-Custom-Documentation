@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_models_1_1_role_map_page_item_create_model =
+[
+    [ "AssignedRoleTypeModels", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_models_1_1_role_map_page_item_create_model.html#ae0ca90f0a168337c0454c467b379754d", null ],
+    [ "MapItemRoleTypeSelectorModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_models_1_1_role_map_page_item_create_model.html#af5a14edaa96ccbdfd668cfe876bed01e", null ]
+];

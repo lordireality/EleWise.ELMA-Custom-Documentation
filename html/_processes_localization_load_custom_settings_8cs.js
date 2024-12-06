@@ -1,0 +1,4 @@
+var _processes_localization_load_custom_settings_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Globalization.ProcessesLocalizationLoadCustomSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings" ]
+];

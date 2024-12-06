@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model =
+[
+    [ "TrustedSignCertificatesEditModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model.html#afcfcae88a5a29bfad1e8123e6548770d", null ],
+    [ "CryptoProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model.html#a171401e5582b73f3102b7cf7e6164504", null ],
+    [ "IsCurrentUser", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model.html#ae8810015cc6809a971710f323b7a4b99", null ],
+    [ "SignFromTrustedCertsOnly", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model.html#aa1fac40df035964ef51e6d6e42e24071", null ],
+    [ "User", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_edit_model.html#a11bd2980ac42cd5f6922f338b3f6f00a", null ]
+];

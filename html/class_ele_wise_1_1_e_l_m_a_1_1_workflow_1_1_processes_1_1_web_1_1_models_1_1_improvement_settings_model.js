@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_improvement_settings_model =
+[
+    [ "ProcessList", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_improvement_settings_model.html#a83b73184ac242e910fa516f13b416242", null ]
+];

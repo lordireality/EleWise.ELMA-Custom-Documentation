@@ -1,0 +1,11 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity =
+[
+    [ "CustomActivityActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#adfdbec2240c5a3566b5d6be0299ad798", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#a83304780654608ae405af18c73831ebb", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#aa6e6d1924b81d9d71fa7687e77fd8043", null ],
+    [ "CustomActivityHeaderManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#a1e51dbbc7767dc86990abd3efb42ea83", null ],
+    [ "CustomActivityScriptingService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#a365c818d075f6214016298215e721839", null ],
+    [ "ExternalCustomActivityService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#ab757b1f7b641c3db082f36c179b8248b", null ],
+    [ "UnitOfWorkManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#ab79ad27d88fc5670612732f49be4f293", null ],
+    [ "WorkflowQueueItemManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html#ab8411a05a5b364bcefe795e91d13ec67", null ]
+];

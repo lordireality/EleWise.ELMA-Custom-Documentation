@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_abstract_single_type_descriptor_provider =
+[
+    [ "AbstractSingleTypeDescriptorProvider", "class_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_abstract_single_type_descriptor_provider.html#a813ae44dbccba1694c8405bf1116e1a3", null ],
+    [ "GetTypeDescriptors", "class_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_abstract_single_type_descriptor_provider.html#a208bc5926912e8edb22a292b6e70702a", null ]
+];

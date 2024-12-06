@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller =
+[
+    [ "ApprovalConfirm", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#af440c7ca7f0f93a4f4c23d06a66f79ec", null ],
+    [ "ApprovalPartialConfirm", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a04e248d0106a4b11aa2378fd1a37140a", null ],
+    [ "ApprovalUnConfirm", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ad006f3bcf3e6395ef5a11c4ff51b4896", null ],
+    [ "Delete", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a94ca94748c65cd94b511651ca99c5ebd", null ],
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a4b56983f1fe36bf2663b819a07eaa9b7", null ],
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a55350e3dcf71d2720b2befd5352cf243", null ],
+    [ "Index", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ae350a930dbeb6d81b19fad9219547beb", null ],
+    [ "NotifyTaskAction", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ac3223c041cd24e482b52ad43043d5fc9", null ],
+    [ "ReAssign", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ac383511c2a6bdf38e14329c7f2f93d00", null ],
+    [ "ReAssignWorkLogItemPopup", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ad558f05a9f79cd6737b4872cfba6a98f", null ],
+    [ "StatusChangeToConfirm", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#aff68318c1f8976751071738051b69881", null ],
+    [ "StatusChangeToReopen", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a1b31dae0d02298b019daa330e7079282", null ],
+    [ "StatusChangeToUnconfirm", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a79665800665b3205ff9e797d7057ac7c", null ],
+    [ "WorkLogItemEditor", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a2a57c3b985e30669381eda484bec9cec", null ],
+    [ "WorkLogItemEditPopup", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a21e740bafc4efa5c643a7114090ea52e", null ],
+    [ "WorkLogItemEditPopup", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#aeaf539aa041bd6c518df4c15d50868dd", null ],
+    [ "WorkLogObject", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ac17bf590ae9da34c1e9144cb9cde0c51", null ],
+    [ "CommentActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#aad630ebee8eacec31e410b6d75a3a1d3", null ],
+    [ "CurrentUser", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a3d1b82a54504699b81232f47270d0856", null ],
+    [ "EntityActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ac5c6a2ab9d82a48537b5e13e47c0356a", null ],
+    [ "UnitOfWorkManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a67b80de43ea7ae158bb55a22369c0e1a", null ],
+    [ "WorkLogItemManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#a98494f276165c7f2987309bac6557b92", null ],
+    [ "WorkLogManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_controllers_1_1_work_log_item_controller.html#ad9da188700f40c0a4849b8b7682293c4", null ]
+];

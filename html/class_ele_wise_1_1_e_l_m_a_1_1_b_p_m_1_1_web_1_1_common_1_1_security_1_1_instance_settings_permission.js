@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_security_1_1_instance_settings_permission =
+[
+    [ "InstanceSettingsPermission", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_security_1_1_instance_settings_permission.html#a77f657d4733d80a673bc2cef130f60eb", null ],
+    [ "CanGrandPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_security_1_1_instance_settings_permission.html#a6749d11083e19b7a72d89de1e748e88e", null ],
+    [ "GetPermissionHolderCollection", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_security_1_1_instance_settings_permission.html#a57468ee35b08c319e32c737be16f2ed8", null ]
+];

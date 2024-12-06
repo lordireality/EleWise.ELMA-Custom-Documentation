@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_web_1_1_components_1_1_oktell_user_settings_model_handler =
+[
+    [ "Process", "class_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_web_1_1_components_1_1_oktell_user_settings_model_handler.html#a79766288236941fb970536ebe8375ad6", null ]
+];

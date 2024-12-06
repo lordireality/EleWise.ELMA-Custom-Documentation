@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_tasa3e19e88d5a55b25ef2eeb6ecd668650 =
+[
+    [ "DocumentTaskRemovedExecutorHistoryCreateAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_tasa3e19e88d5a55b25ef2eeb6ecd668650.html#a4a83fc8f64d69325e527b0583aef47ff", null ],
+    [ "ActionChapterUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_tasa3e19e88d5a55b25ef2eeb6ecd668650.html#a78015bc7c0dd4ef52e8a48172c4fa60f", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_tasa3e19e88d5a55b25ef2eeb6ecd668650.html#a7f4a903a989439aa4fa170157d9fbc4e", null ]
+];

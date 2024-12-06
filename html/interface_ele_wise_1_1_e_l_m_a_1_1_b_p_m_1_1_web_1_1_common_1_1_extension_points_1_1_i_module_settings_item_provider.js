@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_module_settings_item_provider =
+[
+    [ "Check", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_module_settings_item_provider.html#ac8287ace310a0177b1d17c36a3682694", null ],
+    [ "GetItems", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_module_settings_item_provider.html#afdca0610c759152dbc3a28bdc2264599", null ]
+];

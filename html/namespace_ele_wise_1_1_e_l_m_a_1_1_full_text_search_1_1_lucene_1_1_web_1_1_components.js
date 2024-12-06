@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_lucene_1_1_web_1_1_components =
+[
+    [ "LuceneFullTextSearchProviderSettingsRender", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_lucene_1_1_web_1_1_components_1_1_lucene_ful5f79f8e7fe42aac229ae2027f2ca5540.html", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_lucene_1_1_web_1_1_components_1_1_lucene_ful5f79f8e7fe42aac229ae2027f2ca5540" ]
+];

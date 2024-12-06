@@ -1,0 +1,13 @@
+var namespace_orchard_1_1_file_systems_1_1_dependencies =
+[
+    [ "ActivatedExtensionDescriptor", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_activated_extension_descriptor.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_activated_extension_descriptor" ],
+    [ "DefaultAssemblyProbingFolder", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_assembly_probing_folder.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_assembly_probing_folder" ],
+    [ "DefaultDependenciesFolder", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_dependencies_folder.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_dependencies_folder" ],
+    [ "DefaultExtensionDependenciesManager", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_extension_dependencies_manager.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_default_extension_dependencies_manager" ],
+    [ "DependencyDescriptor", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dependency_descriptor.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dependency_descriptor" ],
+    [ "DependencyReferenceDescriptor", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dependency_reference_descriptor.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dependency_reference_descriptor" ],
+    [ "DynamicModuleVirtualPathProvider", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dynamic_module_virtual_path_provider.html", "class_orchard_1_1_file_systems_1_1_dependencies_1_1_dynamic_module_virtual_path_provider" ],
+    [ "IAssemblyProbingFolder", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_assembly_probing_folder.html", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_assembly_probing_folder" ],
+    [ "IDependenciesFolder", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_dependencies_folder.html", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_dependencies_folder" ],
+    [ "IExtensionDependenciesManager", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_extension_dependencies_manager.html", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_extension_dependencies_manager" ]
+];

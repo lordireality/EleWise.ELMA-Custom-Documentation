@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_property_metadata_additional_attributes_attribute =
+[
+    [ "PropertyMetadataAdditionalAttributesAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_property_metadata_additional_attributes_attribute.html#a92496da4eaedc3dea32b8a6c9cc42bc8", null ],
+    [ "AdditionalAttributes", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_property_metadata_additional_attributes_attribute.html#a09cd09bf66d0d1729cfaf93bd06fcf76", null ]
+];

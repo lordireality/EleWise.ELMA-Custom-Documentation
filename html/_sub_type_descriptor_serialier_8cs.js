@@ -1,0 +1,4 @@
+var _sub_type_descriptor_serialier_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Extensions.SubTypeDescriptorSerialier", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_sub_type_descriptor_serialier.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_sub_type_descriptor_serialier" ]
+];

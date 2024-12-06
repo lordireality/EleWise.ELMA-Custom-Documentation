@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_organization_sub_diagram_type_convention =
+[
+    [ "OrganizationSubDiagramTypeConvention", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_organization_sub_diagram_type_convention.html#aac23d8a019118f2a7617da0976205dbc", null ]
+];

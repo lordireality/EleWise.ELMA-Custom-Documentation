@@ -1,0 +1,4 @@
+var _document_full_text_search_result_model_8cs =
+[
+    [ "EleWise.ELMA.Documents.FullTextSearch.Model.DocumentFullTextSearchResultModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_model_1_1_document_full_text_search_result_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_model_1_1_document_full_text_search_result_model" ]
+];

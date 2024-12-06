@@ -1,0 +1,4 @@
+var _filter_model_registration_card_filter_properties_zone_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.Filter.FilterModelRegistrationCardFilterPropertiesZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381" ]
+];

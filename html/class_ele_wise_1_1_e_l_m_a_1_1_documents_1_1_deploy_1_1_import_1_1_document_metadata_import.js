@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_import =
+[
+    [ "CreateFakeChapter", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_import.html#a3980e85f0aa2e161c4d0a70bd0006f14", null ]
+];

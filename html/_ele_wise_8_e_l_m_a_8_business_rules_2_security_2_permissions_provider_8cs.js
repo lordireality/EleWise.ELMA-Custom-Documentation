@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_business_rules_2_security_2_permissions_provider_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Security.PermissionsProvider", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_security_1_1_permissions_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_security_1_1_permissions_provider" ]
+];

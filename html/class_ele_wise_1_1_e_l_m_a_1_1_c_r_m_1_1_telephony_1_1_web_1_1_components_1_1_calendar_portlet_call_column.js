@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_components_1_1_calendar_portlet_call_column =
+[
+    [ "LastColumnCellData", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_components_1_1_calendar_portlet_call_column.html#a9d98b671a0a6ad0eb9f466c91713218e", null ],
+    [ "EntityTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_components_1_1_calendar_portlet_call_column.html#a8b16e27c9b28b63f2f64a2498b932136", null ]
+];

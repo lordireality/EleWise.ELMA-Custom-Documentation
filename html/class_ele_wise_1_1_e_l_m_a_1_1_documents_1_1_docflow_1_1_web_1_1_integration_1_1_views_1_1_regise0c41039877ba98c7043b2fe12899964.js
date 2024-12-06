@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regise0c41039877ba98c7043b2fe12899964 =
+[
+    [ "RegistrationCardIdEditDocumentFormExtensionZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regise0c41039877ba98c7043b2fe12899964.html#a9fb6b0bb356ffd1f226cadcfca02fd97", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regise0c41039877ba98c7043b2fe12899964.html#ad111e4308ec3b8fb8d98e7e51d090cfd", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regise0c41039877ba98c7043b2fe12899964.html#a7ccdc9e4264de7a1ab5b7b8bfebb1e06", null ]
+];

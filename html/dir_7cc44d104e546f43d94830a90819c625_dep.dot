@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.Documents.Contracts.Web/Integration/ToolBar"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_78668754bef10beed14241ccd87831fc {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Integration", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_78668754bef10beed14241ccd87831fc.html",tooltip=""]
+  dir_7cc44d104e546f43d94830a90819c625 [label="ToolBar", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_7cc44d104e546f43d94830a90819c625.html",tooltip=""];
+  }
+}

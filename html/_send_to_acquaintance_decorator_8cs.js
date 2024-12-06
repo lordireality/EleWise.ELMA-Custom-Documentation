@@ -1,0 +1,4 @@
+var _send_to_acquaintance_decorator_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Decorators.Acquaintance.SendToAcquaintanceDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_acquaintanc619504ce13484450297e82fa1a7e36e1.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_acquaintanc619504ce13484450297e82fa1a7e36e1" ]
+];

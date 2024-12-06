@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_project_portlet_page_update_service =
+[
+    [ "CopyPortletsFromProjectTemplate", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_project_portlet_page_update_service.html#a61575a21c000aebb222d902baac77bc8", null ],
+    [ "ProjectPagePath", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_project_portlet_page_update_service.html#a2cc33b0c5a44c9f6773019246de865f3", null ],
+    [ "ResetSharedPersonalization", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_project_portlet_page_update_service.html#ae6cb8b8be446a4abf00c65c80def57b6", null ],
+    [ "UpdateProjectByTemplate", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_project_portlet_page_update_service.html#af2c22cc20ecb70a7862998a803462794", null ]
+];

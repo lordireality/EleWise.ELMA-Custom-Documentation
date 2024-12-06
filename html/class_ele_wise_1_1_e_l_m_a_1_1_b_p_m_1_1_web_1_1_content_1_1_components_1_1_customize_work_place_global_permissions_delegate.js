@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_customize_work_place_global_permissions_delegate =
+[
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_customize_work_place_global_permissions_delegate.html#a177b46fb07ecf7baf3d49b9e44c9d82e", null ],
+    [ "SecurityService", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_customize_work_place_global_permissions_delegate.html#a4131172bd16211b281f180d4a4d9d91d", null ]
+];

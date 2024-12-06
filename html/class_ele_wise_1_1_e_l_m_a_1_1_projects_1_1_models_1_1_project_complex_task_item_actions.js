@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_project_complex_task_item_actions =
+[
+    [ "ProjectComplexTaskItemActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_project_complex_task_item_actions.html#a0ef54ac3ab70cd0cec3c76c3689f1267", null ]
+];

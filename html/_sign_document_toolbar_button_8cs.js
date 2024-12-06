@@ -1,0 +1,5 @@
+var _sign_document_toolbar_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.SignDocumentToolbarZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sign_document_toolbar_zone.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sign_document_toolbar_zone" ],
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.SignDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sign_document_toolbar_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sign_document_toolbar_button" ]
+];

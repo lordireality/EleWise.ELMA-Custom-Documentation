@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_s_d_k_2_ele_wise_2_e_l_m_a_2_notifications_2_i_notification_manager_8cs =
+[
+    [ "EleWise.ELMA.Notifications.INotificationManager", "interface_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_i_notification_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_i_notification_manager" ]
+];

@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3 =
+[
+    [ "VersionAttributesChecked", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html#ae9318358b6176ae3cd645202d40988e0", null ],
+    [ "VersionAttributesId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html#a65ee6d194119b2e57759d7fa23a5fecf", null ],
+    [ "VersionContentChecked", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html#aaa42913525c2789f1449d49a720b4d5f", null ],
+    [ "VersionContentId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html#a823f5fdd9e098b87c62db3685e6a248e", null ],
+    [ "VersionId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html#afab74425827f829614b2924a839a7c94", null ]
+];

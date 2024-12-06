@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_deploy_1_1_import_1_1_material_resource_plan_item_import_save_actions =
+[
+    [ "MaterialResourcePlanItemImportSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_deploy_1_1_import_1_1_material_resource_plan_item_import_save_actions.html#a015353355217ddd2b5b79271aae0a915", null ],
+    [ "CanBeSaved", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_deploy_1_1_import_1_1_material_resource_plan_item_import_save_actions.html#a58dcc144ff243f2bd3c702282ec4fddc", null ],
+    [ "ExecPreSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_deploy_1_1_import_1_1_material_resource_plan_item_import_save_actions.html#ad8170b0862d27bef4b26ed487d6384e8", null ],
+    [ "IsSupported", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_deploy_1_1_import_1_1_material_resource_plan_item_import_save_actions.html#ae37846b332b40deb76cd5473d6e42ba1", null ]
+];

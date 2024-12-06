@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_i_global_settings_module_permission =
+[
+    [ "AdminPermission", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_i_global_settings_module_permission.html#affa2c606e7a7807eb8391d6ffcd86569", null ]
+];

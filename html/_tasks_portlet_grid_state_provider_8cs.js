@@ -1,0 +1,4 @@
+var _tasks_portlet_grid_state_provider_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Components.TasksPortletGridStateProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_portlet_grid_state_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_portlet_grid_state_provider" ]
+];

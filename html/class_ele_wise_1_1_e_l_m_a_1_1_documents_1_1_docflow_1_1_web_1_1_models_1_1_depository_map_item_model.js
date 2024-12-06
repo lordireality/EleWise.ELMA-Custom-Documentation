@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_depository_map_item_model =
+[
+    [ "IsEditable", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_depository_map_item_model.html#a8d139c8703123a8d1baaf9d7721b0121", null ]
+];

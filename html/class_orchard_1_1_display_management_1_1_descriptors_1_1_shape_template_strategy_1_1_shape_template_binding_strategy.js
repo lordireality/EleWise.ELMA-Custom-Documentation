@@ -1,0 +1,7 @@
+var class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_shape_template_binding_strategy =
+[
+    [ "ShapeTemplateBindingStrategy", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_shape_template_binding_strategy.html#ae3f8d84e7d88db87b7d1c929805b58e6", null ],
+    [ "Discover", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_shape_template_binding_strategy.html#a29771f2b1bb86b2410ec85762923b964", null ],
+    [ "DisableMonitoring", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_shape_template_binding_strategy.html#a1d6195e682c070da775e6c1a7352babe", null ],
+    [ "Logger", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_shape_template_binding_strategy.html#a6ef464fa5d6b31c7c74e773083f6b58e", null ]
+];

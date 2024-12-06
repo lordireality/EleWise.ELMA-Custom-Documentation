@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_curr977888c00a895e2608205b1000237e5a =
+[
+    [ "CurrentUserRecipientForNotification", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_curr977888c00a895e2608205b1000237e5a.html#a22f4de93d86d61fbba7a5e300dbcd622", null ],
+    [ "GetRecipients", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_curr977888c00a895e2608205b1000237e5a.html#aa33a0c3c882b3aa865ba9bb235426623", null ]
+];

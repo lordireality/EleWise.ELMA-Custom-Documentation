@@ -1,0 +1,10 @@
+var _ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs =
+[
+    [ "ApprovalStatusEnum", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20c", [
+      [ "None", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20ca6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "Confirm", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20ca70d9be9b139893aa6c69b5e77e614311", null ],
+      [ "Unconfirm", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20cab122b82e021f3dbcef46b3fcefbebfb0", null ],
+      [ "Terminated", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20cafba9c4daa2dd29d1077d32d965320ac1", null ],
+      [ "WasClosed", "_ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_a_p_i_2_models_2_approval_status_enum_8cs.html#ad98e8e1f75ba8634eb1177324391f20ca5719a144ef8e3167ec6c6eb62ee841f9", null ]
+    ] ]
+];

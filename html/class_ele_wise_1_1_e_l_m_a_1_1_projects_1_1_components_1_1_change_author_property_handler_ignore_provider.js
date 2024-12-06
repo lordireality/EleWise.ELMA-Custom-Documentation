@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_change_author_property_handler_ignore_provider =
+[
+    [ "ChangeAuthorPropertyHandlerIgnoreProvider", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_change_author_property_handler_ignore_provider.html#aff979ad5d14f5ee6a3796aa1c54a985d", null ],
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_change_author_property_handler_ignore_provider.html#a278b8a580f4867d6531275e828714875", null ],
+    [ "Ignore", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_change_author_property_handler_ignore_provider.html#abed3261028e74c7646e206c065b06843", null ]
+];

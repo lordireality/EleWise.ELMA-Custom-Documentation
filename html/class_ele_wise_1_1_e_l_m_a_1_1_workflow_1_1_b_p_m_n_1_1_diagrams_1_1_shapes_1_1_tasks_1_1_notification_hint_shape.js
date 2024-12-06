@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_notification_hint_shape =
+[
+    [ "NotificationHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_notification_hint_shape.html#aac478935b16b416b87f639b22843a249", null ],
+    [ "DefaultHeight", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_notification_hint_shape.html#ac76adc4acca2975e1e061739fec6d9f6", null ],
+    [ "DefaultWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_notification_hint_shape.html#afd26e7241ca33992d9cd99ae3e1c6e63", null ],
+    [ "Radius", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_notification_hint_shape.html#a3cbb1f8303e7737e0ac3176575679a67", null ]
+];

@@ -1,0 +1,4 @@
+var _assigment_info_add_task_workforce_filter_provider_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Components.FilterProviders.AssigmentInfoAddTaskWorkforceFilterProvider", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a" ]
+];

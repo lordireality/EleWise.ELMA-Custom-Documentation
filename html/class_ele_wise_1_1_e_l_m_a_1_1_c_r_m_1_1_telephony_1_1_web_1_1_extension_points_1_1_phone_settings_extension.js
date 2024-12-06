@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_phone_settings_extension =
+[
+    [ "IsReplacePhoneStringByLink", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_phone_settings_extension.html#ab442c6e9d7a4dacc2337804d3d5c3cb3", null ]
+];

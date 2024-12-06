@@ -1,0 +1,4 @@
+var _i_sync_permission_holder_extension_point_8cs =
+[
+    [ "EleWise.ELMA.Security.ExtensionPoints.ISyncPermissionHolderExtensionPoint", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_sync_permission_holder_extension_point.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_sync_permission_holder_extension_point" ]
+];

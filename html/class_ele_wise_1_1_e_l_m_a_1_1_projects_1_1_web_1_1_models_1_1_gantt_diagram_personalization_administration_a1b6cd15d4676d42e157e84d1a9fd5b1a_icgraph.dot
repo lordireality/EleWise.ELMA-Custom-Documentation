@@ -1,0 +1,17 @@
+digraph "EleWise.ELMA.Projects.Web.Models.GanttDiagramPersonalizationAdministration.LoadTreeState"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.GanttDiagramPersonalization\lAdministration.LoadTreeState",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Загрузить свёрнутость задач плана проекта"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lGetTasks",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_base_controller.html#a3deebb8d09faa9f3e37a2de7862852bf",tooltip="Получить задачи для диаграммы"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lNetworkDiagram",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#aa22680c9b9e85bdddbc24a0ad020d7fa",tooltip="Сетевой график"];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lModels.GanttDiagramPersonalization\lAdministration.SaveTreeState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_gantt_diagram_personalization_administration.html#aa8807e2295aadf08246a51f7add1a608",tooltip="Сохранить свёрнутость задачи плана проекта"];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lSaveTreeState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#ab91c2466124d3d49b9a7f52ab89bdb58",tooltip=" "];
+}

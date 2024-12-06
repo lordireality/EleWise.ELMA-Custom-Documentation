@@ -1,0 +1,4 @@
+var _add_material_resource_plan_item_filter_provider_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Components.FilterProviders.AddMaterialResourcePlanItemFilterProvider", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_add_mate123dc4cbbb02b45a72ef9148c3bc4e71.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_add_mate123dc4cbbb02b45a72ef9148c3bc4e71" ]
+];

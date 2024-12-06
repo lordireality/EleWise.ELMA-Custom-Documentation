@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b =
+[
+    [ "GroupInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#a5ea34841e17b86655b2210a87a889da9", null ],
+    [ "GroupInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#abe073230a614d636d8dd366fde6c148f", null ],
+    [ "ApprovementList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#a110dda222ef760d810da8352672374bf", null ],
+    [ "CurrentStage", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#a256073749ee93997cacc89dd261ebbdc", null ],
+    [ "IsApprovementStage", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#a8f6368b8084772817dea24989903d64b", null ],
+    [ "Tasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementcdc50fd7a5980d65577096d67f55370b.html#a9e419c0dbe544df91f4eb1736dad084e", null ]
+];

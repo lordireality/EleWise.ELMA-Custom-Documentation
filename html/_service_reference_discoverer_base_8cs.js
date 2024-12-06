@@ -1,0 +1,4 @@
+var _service_reference_discoverer_base_8cs =
+[
+    [ "EleWise.ELMA.Scripts.ServiceReference.ServiceReferenceDiscovererBase", "class_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_service_reference_discoverer_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_service_reference_discoverer_base" ]
+];

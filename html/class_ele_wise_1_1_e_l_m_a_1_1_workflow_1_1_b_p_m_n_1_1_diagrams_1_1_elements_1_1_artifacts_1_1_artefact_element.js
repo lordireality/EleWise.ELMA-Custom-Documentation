@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_artifacts_1_1_artefact_element =
+[
+    [ "ArtefactElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_artifacts_1_1_artefact_element.html#ab38d6e1e940d70f88eb2d0720efef25b", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_artifacts_1_1_artefact_element.html#abf095cacf110764837a468d1ae095b29", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_artifacts_1_1_artefact_element.html#a486f9dbce3266cdc85176fc8d2f4855e", null ]
+];

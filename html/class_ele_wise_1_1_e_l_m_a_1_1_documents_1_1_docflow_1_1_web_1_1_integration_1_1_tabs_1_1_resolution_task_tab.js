@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_resolution_task_tab =
+[
+    [ "IdTabPanal", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_resolution_task_tab.html#aa971a828da6b056e867e510db6362f70", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_resolution_task_tab.html#a8668d26992e2a11676bbfb3eb25b0ebf", null ]
+];

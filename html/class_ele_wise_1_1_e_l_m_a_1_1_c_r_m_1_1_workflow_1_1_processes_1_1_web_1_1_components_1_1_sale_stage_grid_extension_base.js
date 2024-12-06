@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_grid_extension_base =
+[
+    [ "Apply< T >", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_grid_extension_base.html#a912d78689d0b33b72f8cc4703890ea8b", null ],
+    [ "MatchUniqueName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_stage_grid_extension_base.html#a867dbb12b11264622aa39fc2dac9a50b", null ]
+];

@@ -1,0 +1,4 @@
+var _i_client_post_registration_action_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.IClientPostRegistrationAction", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_i_client_post_registration_action.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_i_client_post_registration_action" ]
+];

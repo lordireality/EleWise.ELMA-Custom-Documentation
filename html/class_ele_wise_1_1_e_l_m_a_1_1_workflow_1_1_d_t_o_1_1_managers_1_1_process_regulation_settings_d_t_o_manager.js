@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_process_regulation_settings_d_t_o_manager =
+[
+    [ "ProcessRegulationSettingsDTOManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_process_regulation_settings_d_t_o_manager.html#a72a6c38c75f364bde2f21c743c9b7781", null ],
+    [ "LoadRegulationGlobalSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_process_regulation_settings_d_t_o_manager.html#af41e9d866c71ab02645429aec3a508ea", null ],
+    [ "SaveRegulationGlobalSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_process_regulation_settings_d_t_o_manager.html#a784c1a3200bada4cd2810cfa85d7892d", null ]
+];

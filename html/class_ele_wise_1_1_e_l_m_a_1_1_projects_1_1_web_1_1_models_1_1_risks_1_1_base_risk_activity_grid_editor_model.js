@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_base_risk_activity_grid_editor_model =
+[
+    [ "BaseRiskActivityGridEditorModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_base_risk_activity_grid_editor_model.html#a8c859b581265eb7cf4c62761cf8bf412", null ],
+    [ "BaseRiskActivityGridEditorModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_base_risk_activity_grid_editor_model.html#a40d6c4db8408f8f0b66c23e2a66f7af6", null ],
+    [ "CanEdit", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_base_risk_activity_grid_editor_model.html#af041635b3778ce4468f6725d1f2a941b", null ],
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_base_risk_activity_grid_editor_model.html#a7435f2e499375d3b4c36017e043ab555", null ]
+];

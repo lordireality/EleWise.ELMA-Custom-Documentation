@@ -1,0 +1,5 @@
+var _external_subprocess_element_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.SubProcess.ExternalSubprocessElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_external_subprocess_element" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.SubProcess.ExternalSubprocessElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_bbcc853a2b34c5499e7717f956674100.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_bbcc853a2b34c5499e7717f956674100" ]
+];

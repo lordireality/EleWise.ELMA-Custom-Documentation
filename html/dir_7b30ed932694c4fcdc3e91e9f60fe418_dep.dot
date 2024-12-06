@@ -1,0 +1,32 @@
+digraph "Web/Modules/EleWise.ELMA.Documents.Web"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_7ee4616d7792420b09aab8c4c7e23d47 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_7ee4616d7792420b09aab8c4c7e23d47.html",tooltip=""]
+  subgraph clusterdir_7b30ed932694c4fcdc3e91e9f60fe418 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_7b30ed932694c4fcdc3e91e9f60fe418.html",tooltip=""]
+    dir_7b30ed932694c4fcdc3e91e9f60fe418 [shape=plaintext, label="EleWise.ELMA.Documents.Web"];
+  dir_7e3c239121821acc22a19c106c823294 [label="Attributes", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7e3c239121821acc22a19c106c823294.html",tooltip=""];
+  dir_3ef6931c1060d364db395f8614a41e77 [label="Components", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3ef6931c1060d364db395f8614a41e77.html",tooltip=""];
+  dir_741f580ca00bad23e8876774fa3c4f71 [label="ContentLinkTypeProviders", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_741f580ca00bad23e8876774fa3c4f71.html",tooltip=""];
+  dir_6deb799e1f1a23a1f27f861fb427f9b6 [label="Controllers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_6deb799e1f1a23a1f27f861fb427f9b6.html",tooltip=""];
+  dir_bb2b354f858ce2dff8287c28ed5b0e49 [label="Exceptions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_bb2b354f858ce2dff8287c28ed5b0e49.html",tooltip=""];
+  dir_d74d38a67c711ae572c3abe6956e2b4f [label="ExtensionPoints", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d74d38a67c711ae572c3abe6956e2b4f.html",tooltip=""];
+  dir_2c995f03970d651ddab85695f220f5ce [label="Extensions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2c995f03970d651ddab85695f220f5ce.html",tooltip=""];
+  dir_a076539297ccd9c8f491096d3801baf1 [label="FullTextSearch", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a076539297ccd9c8f491096d3801baf1.html",tooltip=""];
+  dir_79ac58736bdc90bf3f89be4cd05b9a90 [label="History", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_79ac58736bdc90bf3f89be4cd05b9a90.html",tooltip=""];
+  dir_7adfb910a5ea3d2d17f011f648d9e30d [label="Inputs", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7adfb910a5ea3d2d17f011f648d9e30d.html",tooltip=""];
+  dir_1f085e6e33e216c632fae5773cbf334f [label="Integration", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_1f085e6e33e216c632fae5773cbf334f.html",tooltip=""];
+  dir_59f7762674b76d273f1fa2eb57deadb0 [label="Menu", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_59f7762674b76d273f1fa2eb57deadb0.html",tooltip=""];
+  dir_023c37926037916ea22ba90a361d338f [label="Models", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_023c37926037916ea22ba90a361d338f.html",tooltip=""];
+  dir_a4a0b8d20c8922cfbf34b6b52e110b3d [label="Portlets", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a4a0b8d20c8922cfbf34b6b52e110b3d.html",tooltip=""];
+  dir_2f0e9541a67db077c9beb100e4fef3aa [label="Properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2f0e9541a67db077c9beb100e4fef3aa.html",tooltip=""];
+  dir_d1a78c165151f1039d2a942d362e1d3e [label="Services", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d1a78c165151f1039d2a942d362e1d3e.html",tooltip=""];
+  dir_3febf638a1ea7161a51c6d22c8ee7a56 [label="TemplateInputs", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3febf638a1ea7161a51c6d22c8ee7a56.html",tooltip=""];
+  }
+  }
+}

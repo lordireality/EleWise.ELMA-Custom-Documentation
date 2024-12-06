@@ -1,0 +1,4 @@
+var _entity_create_on_load_model_binder_provider_8cs =
+[
+    [ "EleWise.ELMA.Web.Mvc.Extensions.EntityCreateOnLoadModelBinderProvider", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extensions_1_1_entity_create_on_load_model_binder_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extensions_1_1_entity_create_on_load_model_binder_provider" ]
+];

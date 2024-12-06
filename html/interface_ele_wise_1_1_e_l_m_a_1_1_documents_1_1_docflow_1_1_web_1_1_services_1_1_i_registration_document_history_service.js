@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_services_1_1_i_registration_document_history_service =
+[
+    [ "Add", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_services_1_1_i_registration_document_history_service.html#ad810a91acd0ef9058c088cf4b607f31c", null ],
+    [ "Get", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_services_1_1_i_registration_document_history_service.html#a4d4317fb700274b4cd06f86f33cf9121", null ]
+];

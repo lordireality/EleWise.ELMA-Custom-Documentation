@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape =
+[
+    [ "InternalSubprocessHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape.html#a660d7713c86d3dde579dff898ba6f968", null ],
+    [ "DefaultHeight", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape.html#ac034d5610191940f6038d906e39b25e7", null ],
+    [ "DefaultWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape.html#a0b13202eea58d61c13203466cdb5be44", null ],
+    [ "Radius", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape.html#a8583ba63f390a3670097d727c0e388e5", null ],
+    [ "SubProcessDecoratorPosition", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_internal_subprocess_hint_shape.html#a65d1895295e5d7e0743937d8f57e1b0d", null ]
+];

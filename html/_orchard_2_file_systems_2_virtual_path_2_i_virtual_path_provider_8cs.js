@@ -1,0 +1,4 @@
+var _orchard_2_file_systems_2_virtual_path_2_i_virtual_path_provider_8cs =
+[
+    [ "Orchard.FileSystems.VirtualPath.IVirtualPathProvider", "interface_orchard_1_1_file_systems_1_1_virtual_path_1_1_i_virtual_path_provider.html", "interface_orchard_1_1_file_systems_1_1_virtual_path_1_1_i_virtual_path_provider" ]
+];

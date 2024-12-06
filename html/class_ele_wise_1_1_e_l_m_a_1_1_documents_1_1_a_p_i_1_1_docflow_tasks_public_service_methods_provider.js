@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_docflow_tasks_public_service_methods_provider =
+[
+    [ "DocflowTasksPublicServiceMethodsProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_docflow_tasks_public_service_methods_provider.html#a6ff5ddb5c559e9c32278a5b3c596141c", null ],
+    [ "GetMethods", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_docflow_tasks_public_service_methods_provider.html#a88cf8d7b4bb8ce58bff3bcc5c4688e1b", null ]
+];

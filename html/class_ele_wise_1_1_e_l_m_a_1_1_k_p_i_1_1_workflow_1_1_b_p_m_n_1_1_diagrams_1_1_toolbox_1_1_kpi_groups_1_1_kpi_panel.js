@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel =
+[
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel.html#ac21401658e8a518adc581c358348a83f", null ],
+    [ "PanelUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel.html#aaa6a086a4f1e6a9e7613eee463852a40", null ],
+    [ "Title", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel.html#ad9816e07de027d81646e13a4e316ba78", null ]
+];

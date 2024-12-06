@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info =
+[
+    [ "ShortCollectionItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html#a84e029a212dd64db9473135d39c206bb", null ],
+    [ "ShortCollectionItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html#ae349e793927fab2b4da94c0d79fafa44", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html#a20a475eab7d993492c9bfb84caa929b3", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html#a5e1e02b830ec1d4aa7ede9e254dfb900", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html#a6f7181061f3ac82d960cfc6ab889656a", null ]
+];

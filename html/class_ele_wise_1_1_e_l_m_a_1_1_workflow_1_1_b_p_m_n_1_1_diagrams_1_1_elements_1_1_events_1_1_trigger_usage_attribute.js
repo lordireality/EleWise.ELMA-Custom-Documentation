@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute =
+[
+    [ "TriggerUsageAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute.html#a7fc08285efbc4b166f50628b97c1d2a5", null ],
+    [ "BoundaryInterrupting", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute.html#aad3759aaa232b55ff1581f9d44a8d452", null ],
+    [ "End", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute.html#a9f2f344383491d0828305293132f7f8b", null ],
+    [ "Intermediate", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute.html#a906e90a77679b3e0133658795bd475a9", null ],
+    [ "Start", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_events_1_1_trigger_usage_attribute.html#a4653e9ee08fd4419748b1d432e54ab59", null ]
+];

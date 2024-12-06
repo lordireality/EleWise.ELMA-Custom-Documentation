@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_change_permissions_on_document_swimlane_changed_handler =
+[
+    [ "ChangePermissionsOnDocumentSwimlaneChangedHandler", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_change_permissions_on_document_swimlane_changed_handler.html#a89afb0a72bcddd5e96af950ed58c253f", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_change_permissions_on_document_swimlane_changed_handler.html#a03ff8da39fa6171b02fa0d01988be933", null ]
+];

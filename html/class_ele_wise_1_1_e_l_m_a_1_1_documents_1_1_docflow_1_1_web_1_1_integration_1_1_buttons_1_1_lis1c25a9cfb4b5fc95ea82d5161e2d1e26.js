@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_lis1c25a9cfb4b5fc95ea82d5161e2d1e26 =
+[
+    [ "ListReservNumberDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_lis1c25a9cfb4b5fc95ea82d5161e2d1e26.html#a732f2d85b4f0bdb809fc30b2f267797a", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_lis1c25a9cfb4b5fc95ea82d5161e2d1e26.html#a630ce096abd7706a864afaaa04535961", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_lis1c25a9cfb4b5fc95ea82d5161e2d1e26.html#a75069272363f1257ec3719f37dc2aab0", null ]
+];

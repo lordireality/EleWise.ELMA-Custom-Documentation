@@ -1,0 +1,18 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types =
+[
+    [ "Settings", "namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_settings.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_settings" ],
+    [ "DocumentFolderSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_folder_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_folder_settings" ],
+    [ "DocumentFolderTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_folder_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_folder_type_descriptor" ],
+    [ "DocumentPropertyTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_property_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_property_type_descriptor" ],
+    [ "DocumentTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_template.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_template" ],
+    [ "DocumentTemplatesList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list" ],
+    [ "DocumentTemplatesListTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list_type_descriptor" ],
+    [ "DocumentTemplatesListTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list_type_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_templates_list_type_settings" ],
+    [ "DocumentTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_type_descriptor" ],
+    [ "DocumentTypeGuid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_type_guid.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_document_type_guid" ],
+    [ "MoneyWrapperDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_money_wrapper_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_money_wrapper_descriptor" ],
+    [ "RegistrationCardPropertyTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_property_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_property_type_descriptor" ],
+    [ "RegistrationCardTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_type_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_type_descriptor" ],
+    [ "RegistrationCardTypeGuid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_type_guid.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_registration_card_type_guid" ],
+    [ "SendInfoWrapper", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_send_info_wrapper.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_types_1_1_send_info_wrapper" ]
+];

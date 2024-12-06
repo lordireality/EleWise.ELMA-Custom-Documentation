@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points =
+[
+    [ "IProductionScheduleProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_production_schedule_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_production_schedule_provider" ],
+    [ "IResourceCalendarValidator", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator.html", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator" ]
+];

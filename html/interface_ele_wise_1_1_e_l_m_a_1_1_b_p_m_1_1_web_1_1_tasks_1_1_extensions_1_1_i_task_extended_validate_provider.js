@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_extended_validate_provider =
+[
+    [ "CheckType", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_extended_validate_provider.html#a5930a0c55496ef68a8ae29d32b97b968", null ],
+    [ "RenderExtendedControl", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_extended_validate_provider.html#a48110f5346536a6c3239ead3f30958b5", null ],
+    [ "SubmitClick", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_extended_validate_provider.html#a1d2f153b22431459b6dd7a5b2e55dfe3", null ]
+];

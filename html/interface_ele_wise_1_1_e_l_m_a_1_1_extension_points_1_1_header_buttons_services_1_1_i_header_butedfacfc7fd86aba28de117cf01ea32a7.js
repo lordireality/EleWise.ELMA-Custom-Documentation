@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_header_buttons_services_1_1_i_header_butedfacfc7fd86aba28de117cf01ea32a7 =
+[
+    [ "IsAvailable", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_header_buttons_services_1_1_i_header_butedfacfc7fd86aba28de117cf01ea32a7.html#a05fdd9df7dd6e528482e1dd9bef5c441", null ],
+    [ "IsAvailable", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_header_buttons_services_1_1_i_header_butedfacfc7fd86aba28de117cf01ea32a7.html#a25e5d0bfdd3fc54941c118153c8bf195", null ]
+];

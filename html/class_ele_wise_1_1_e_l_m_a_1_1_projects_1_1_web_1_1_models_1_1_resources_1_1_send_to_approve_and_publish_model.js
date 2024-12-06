@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_send_to_approve_and_publish_model =
+[
+    [ "HasPublishConflicts", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_send_to_approve_and_publish_model.html#a397a658d5dbdeedb49c39fc87191cb51", null ],
+    [ "PublishingPlans", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_send_to_approve_and_publish_model.html#a9bc8dc147aec84d9b23311754b26f9b4", null ],
+    [ "SendToApprovingPlans", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_send_to_approve_and_publish_model.html#a82a0b5478d03eaf5f549ea5dbea0aaeb", null ],
+    [ "SetExecutorsPlans", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_send_to_approve_and_publish_model.html#a27d2dc11898a426029ed0d8f9a5ad75a", null ]
+];

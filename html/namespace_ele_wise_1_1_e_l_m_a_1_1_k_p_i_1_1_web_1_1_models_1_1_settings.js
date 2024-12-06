@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings =
+[
+    [ "IndicatorSelectorItem", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_indicator_selector_item.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_indicator_selector_item" ],
+    [ "IndicatorSettingsModel", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_indicator_settings_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_indicator_settings_model" ],
+    [ "MindMapSettings", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_mind_map_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_mind_map_settings" ],
+    [ "MyDepartmentSettings", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_my_department_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_my_department_settings" ],
+    [ "PerformanceItemFilterSettings", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_performance_item_filter_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_settings_1_1_performance_item_filter_settings" ]
+];

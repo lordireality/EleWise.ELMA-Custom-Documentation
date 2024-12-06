@@ -1,0 +1,4 @@
+var _content_part_field_definition_builder_8cs =
+[
+    [ "Orchard.ContentManagement.MetaData.Builders.ContentPartFieldDefinitionBuilder", "class_orchard_1_1_content_management_1_1_meta_data_1_1_builders_1_1_content_part_field_definition_builder.html", "class_orchard_1_1_content_management_1_1_meta_data_1_1_builders_1_1_content_part_field_definition_builder" ]
+];

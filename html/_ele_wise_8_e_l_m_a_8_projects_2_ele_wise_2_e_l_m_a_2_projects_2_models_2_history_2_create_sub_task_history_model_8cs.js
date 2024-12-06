@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_projects_2_ele_wise_2_e_l_m_a_2_projects_2_models_2_history_2_create_sub_task_history_model_8cs =
+[
+    [ "EleWise.ELMA.Projects.Models.History.CreateSubTaskHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_create_sub_task_history_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_create_sub_task_history_model" ]
+];

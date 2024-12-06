@@ -1,0 +1,4 @@
+var _reserv_number_document_toolbar_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.ReservNumberDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277" ]
+];

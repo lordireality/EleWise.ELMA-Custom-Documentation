@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_approval_results_service =
+[
+    [ "DocumentApprovalResultsService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_approval_results_service.html#a1a6643ebf3e621765d44b5c7e84fc9cc", null ],
+    [ "GetApprovalResults", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_approval_results_service.html#ab48d66a56e487aebef06ead649fb4b41", null ],
+    [ "Logger", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_approval_results_service.html#adad9337eff4bb6049be3535460f0c4e0", null ]
+];

@@ -1,0 +1,4 @@
+var _i_external_connection_settings_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.Connections.IExternalConnectionSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_connections_1_1_i_external_connection_settings.html", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_connections_1_1_i_external_connection_settings" ]
+];

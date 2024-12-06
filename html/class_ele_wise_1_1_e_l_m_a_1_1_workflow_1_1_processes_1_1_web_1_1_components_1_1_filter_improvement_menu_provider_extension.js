@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_improvement_menu_provider_extension =
+[
+    [ "GetTreeNodeParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_improvement_menu_provider_extension.html#afdd1d9ded91ae1af473d2741325a9ecd", null ],
+    [ "SupportedFilter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_improvement_menu_provider_extension.html#a81b0eb6dcb154aa5cfaaa4b1b3a94ad9", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_improvement_menu_provider_extension.html#af63121763e19ffec2553ac050e04aa97", null ],
+    [ "ContentActionRegistry", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_improvement_menu_provider_extension.html#a3d3d9d1483f1c69b8b2b26261b07aece", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_default_home_page_portlets_provider =
+[
+    [ "Portlets", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_default_home_page_portlets_provider.html#aef412fd1699780cdd35233dc990909c5", null ],
+    [ "TasksPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_portlets_1_1_default_home_page_portlets_provider.html#a89c8d5e31e043dc59513c2cea189753a", null ]
+];

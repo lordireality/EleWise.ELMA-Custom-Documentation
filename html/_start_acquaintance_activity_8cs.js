@@ -1,0 +1,4 @@
+var _start_acquaintance_activity_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Activities.Acquaintance.StartAcquaintanceActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintancde1339db943514b2fd174de8a18552e9.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintancde1339db943514b2fd174de8a18552e9" ]
+];

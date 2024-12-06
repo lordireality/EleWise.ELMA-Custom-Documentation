@@ -1,0 +1,15 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_doa085b46161e32c03a24f6cb4cb12255e.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_doa085b46161e32c03a24f6cb4cb12255e" ],
+    [ "DocumentGenerationElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#adc98f431f6c7855ac4cff04ce1c491c4", null ],
+    [ "GetAvaiableOutputElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a48c562d4c4a21188613e196bddf58d1f", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a41ac8959605d5f109a23894ba917209e", null ],
+    [ "HtmlFooter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a458fdcc2320194eaa33b940487b94b85", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a876c59a7e2064773b6b92b30dbbb8aa2", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a3658e68bbeb9cb023b9c39a37267d7d1", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a7425cdf7780c75f2ee735fa25ed0166a", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a2fdf98ee8f46909bf01d949d646eab0a", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a4f920fa47ae67fabc385c195101df100", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a5404f24d97ff70ff0aa613a70ce21c67", null ],
+    [ "Templates", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_generation_element.html#a95a43db6c7c6fd68450a679c10a1f6fd", null ]
+];

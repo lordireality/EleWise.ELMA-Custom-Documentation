@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.ExportAcquaintanceListToolbarButton.GetItems"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Buttons.ExportAcquaintance\lListToolbarButton.GetItems",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Buttons.ExportAcquaintance\lListToolbarButton.InsertItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_exp789ef94d3c5c5b8fa22f21c12e36d6a0.html#a34c60b25665ee93a37a03ad669ebc9b7",tooltip=" "];
+}

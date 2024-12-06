@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_portlets_1_1_ac9b618c6b9eedbbe22fa0c20d090adbda =
+[
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_portlets_1_1_ac9b618c6b9eedbbe22fa0c20d090adbda.html#aba46c2c7f0c327e77dd04cc868880884", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_portlets_1_1_ac9b618c6b9eedbbe22fa0c20d090adbda.html#af43c88975c3a12ad17de5918ed8c79ad", null ]
+];

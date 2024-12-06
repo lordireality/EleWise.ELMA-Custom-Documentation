@@ -1,0 +1,4 @@
+var _class_metadata_parts_container_8cs =
+[
+    [ "EleWise.ELMA.Templates.TemplateGenerator.ClassMetadataPartsContainer", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_class_metadata_parts_container.html", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_class_metadata_parts_container" ]
+];

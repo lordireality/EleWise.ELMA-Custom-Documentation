@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service =
+[
+    [ "GetConflictFindingProcessStatus", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service.html#a58a5ce0dc01d1bacd2b0a5d281dd0302", null ],
+    [ "RemoveFindingConflictProgressFromDictionary", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service.html#a009b090e5eac033fbf31e2d8b8aa4653", null ],
+    [ "StartConflictFindingProcess", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service.html#a060b3d8c7586586927a66cd98feccfc7", null ]
+];

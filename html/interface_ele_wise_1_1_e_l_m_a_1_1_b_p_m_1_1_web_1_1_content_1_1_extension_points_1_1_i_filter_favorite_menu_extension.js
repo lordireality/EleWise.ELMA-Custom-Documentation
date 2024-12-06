@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_filter_favorite_menu_extension =
+[
+    [ "GetFilterTreeCode", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_filter_favorite_menu_extension.html#a5acfcf96c70231d39840d1ff4c91a128", null ],
+    [ "GetFilterTreeTypeUid", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_filter_favorite_menu_extension.html#a3d9c61101e59fc03d73bec19e5e5842d", null ],
+    [ "HasMenuItemCode", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_filter_favorite_menu_extension.html#a22dc277fa8fa6dd904b2f8dada427dde", null ]
+];

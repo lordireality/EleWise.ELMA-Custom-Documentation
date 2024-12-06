@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_type_settings_instance_store =
+[
+    [ "ChangeTypeSettingsInstanceStore", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_type_settings_instance_store.html#a76e6e62587827cf6787fa717b671e912", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_type_settings_instance_store.html#a7ce501213628c766ab4f3fd607c3c768", null ]
+];

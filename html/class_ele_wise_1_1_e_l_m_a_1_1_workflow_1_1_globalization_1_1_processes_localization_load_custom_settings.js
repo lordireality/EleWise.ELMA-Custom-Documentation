@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings =
+[
+    [ "ProcessesLocalizationLoadCustomSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings.html#ad4d6be0c68ac8d102608446a17773c4a", null ],
+    [ "GetNewSettingObj", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings.html#a1f658d19072812b6f8a114693fd8178c", null ]
+];

@@ -1,0 +1,5 @@
+var _workflow_instance_manager_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Managers.WorkflowInstanceManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_managers_1_1_workflow_instance_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_managers_1_1_workflow_instance_manager" ],
+    [ "EleWise.ELMA.Workflow.Managers.WorkflowInstanceManager.ContextVarInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_managers_1_1_workflow_instance_manager_1_1_context_var_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_managers_1_1_workflow_instance_manager_1_1_context_var_info" ]
+];

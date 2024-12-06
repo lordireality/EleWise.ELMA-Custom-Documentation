@@ -1,0 +1,4 @@
+var _fetch_binary_file_builder_8cs =
+[
+    [ "EleWise.ELMA.Model.BackgroundOperations.FetchBinaryFile.FetchBinaryFileBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_fetch_binary_file_1_1_fetch_binary_file_builder.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_fetch_binary_file_1_1_fetch_binary_file_builder" ]
+];

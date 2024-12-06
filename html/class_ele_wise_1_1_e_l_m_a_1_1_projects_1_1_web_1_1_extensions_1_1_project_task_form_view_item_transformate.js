@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_task_form_view_item_transformate =
+[
+    [ "Transformate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_task_form_view_item_transformate.html#aa2a3a9d0076b836072a2aa93e755a7c5", null ],
+    [ "SecurityService", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_task_form_view_item_transformate.html#a0222f2541e70c81dd558aa85c66dbb9e", null ]
+];

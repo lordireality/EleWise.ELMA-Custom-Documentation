@@ -1,0 +1,4 @@
+var _project_budget_approval_task_form_settings_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Elements.Tasks.ProjectBudgetApprovalTaskFormSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj5dbc37882d6ebd54c18b6c844f4f6d39.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj5dbc37882d6ebd54c18b6c844f4f6d39" ]
+];

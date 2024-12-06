@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_module_permissions_portlet_provider =
+[
+    [ "UseOnPortlet", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_module_permissions_portlet_provider.html#ac9385ab7375fd1347333cba7d6d8b973", null ]
+];

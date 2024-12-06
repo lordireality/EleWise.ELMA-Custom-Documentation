@@ -1,0 +1,4 @@
+var _business_rule_approval_task_feed_comment_action_name_exten_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Components.BusinessRuleApprovalTaskFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components_1_1_business_rule_approval_task_feed_comment_action_name_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components_1_1_business_rule_approval_task_feed_comment_action_name_extension" ]
+];

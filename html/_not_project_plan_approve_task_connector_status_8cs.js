@@ -1,0 +1,4 @@
+var _not_project_plan_approve_task_connector_status_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Connectors.NotProjectPlanApproveTaskConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_6498d45ae611ad37e8d44f3b74fabf7a" ]
+];

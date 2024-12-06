@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_info_channel_role_type_selector_project_role_items =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_info_channel_role_type_selector_project_role_items.html#a5e78a815a45330631fc41b0caab8143b", null ],
+    [ "Category", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_info_channel_role_type_selector_project_role_items.html#a41fcd631874b54af7069e85d8cbfaec3", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_info_channel_role_type_selector_project_role_items.html#a72636aa075f94e026e1e69d891ad1d18", null ]
+];

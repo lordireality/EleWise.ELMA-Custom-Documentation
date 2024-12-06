@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_notifications_1_1_kpi_notifications_data_source =
+[
+    [ "KpiNotificationsDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_notifications_1_1_kpi_notifications_data_source.html#a46807e89f2c5d3dbe9a03af2350f37cd", null ]
+];

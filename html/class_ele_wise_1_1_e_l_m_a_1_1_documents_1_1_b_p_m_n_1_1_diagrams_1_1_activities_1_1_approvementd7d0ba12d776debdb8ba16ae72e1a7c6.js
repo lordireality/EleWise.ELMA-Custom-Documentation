@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6 =
+[
+    [ "ApprovementRouteSettingsActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#a8bcd32c5d1a27859371ffec19df78ace", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#ad9b45a9e50852cbe72563c59d2799858", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#a402759802307185f2b34b9d0781eee51", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#afa204dbfdfe71a4d4bac39768c0cd90f", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#a46fa70275298a4ecb32054be92106bfc", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvementd7d0ba12d776debdb8ba16ae72e1a7c6.html#adb1522fe672d60e3895c809e5f36825f", null ]
+];

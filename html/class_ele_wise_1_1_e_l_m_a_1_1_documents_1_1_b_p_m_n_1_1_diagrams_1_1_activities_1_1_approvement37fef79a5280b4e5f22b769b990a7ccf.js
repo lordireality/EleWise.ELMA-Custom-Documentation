@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf =
+[
+    [ "SendToApprovementActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#a84671c4f6c0efffa547df532971d6c46", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#ac653147277693e11736920de227e8d5a", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#a4adfc7a0538e9dbfebecf8d2fa6f63b9", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#a1f478b41912b4e7423ce9df6a6e7df71", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#a92cc640a445f58d9c00273900a740962", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement37fef79a5280b4e5f22b769b990a7ccf.html#ab7169ccbe0fc2c6f0c27d673d3915a5a", null ]
+];

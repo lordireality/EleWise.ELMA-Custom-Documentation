@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces =
+[
+    [ "IApprovementListSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_approvement_list_settings.html", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_approvement_list_settings" ],
+    [ "IBusinessRuleHistoryModel", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_business_rule_history_model.html", null ],
+    [ "IBusinessRuleVersionHistoryModel", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_business_rule_version_history_model.html", null ],
+    [ "IGlobalVariableHistoryModel", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_global_variable_history_model.html", null ],
+    [ "IHierarchyEntityInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_hierarchy_entity_info.html", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_interfaces_1_1_i_hierarchy_entity_info" ]
+];

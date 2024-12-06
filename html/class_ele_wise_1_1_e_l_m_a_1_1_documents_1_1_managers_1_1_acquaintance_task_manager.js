@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager =
+[
+    [ "AcquaintanceTaskManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#af9b488804a2eae4ce5e8ffe2f8fa2fea", null ],
+    [ "AddNewItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a00eb705dd479f5aa72340fbed76ea77a", null ],
+    [ "Assign", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a4077932a7685a6aced86713c26c2af77", null ],
+    [ "CancelTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#ab79bf841ebe6f9a5496a58239e9c1b07", null ],
+    [ "CancelTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#aa876a844be4d034f45d5fe2e3f1d69af", null ],
+    [ "CanClose", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a3a197f14bb1e63bc8828b7f9ea182a9c", null ],
+    [ "CanComplete", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a77194ac08179f5d3179303bdb93fa640", null ],
+    [ "CanReAssign", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a8537a4c473ec8bfd08c54aecb5d40e1c", null ],
+    [ "CanStartWork", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a111a9990ed25dc5b86a94c723dd93a16", null ],
+    [ "Close", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a3b43f4696169838e44690e9f379b7b17", null ],
+    [ "CloseByAuthor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a8de542e641e31c2fd9a5d200f1e5dd61", null ],
+    [ "CompleteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a40a39e6669704902f95f5962155a5ea0", null ],
+    [ "CompleteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#acac2a6caf02aa60d05f2c0eaeb186452", null ],
+    [ "GetActive", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a2e0de85379d6d27fc8d40e9f08ebe338", null ],
+    [ "GetTasksByList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a3c640a83e02030849b1a372561c7b296", null ],
+    [ "RaiseCommentActionEvent", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#ac8f5a4ccbb4b0bafba3671b125328450", null ],
+    [ "ReAssign", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a70ace967bdac63c2c4e1633bd1996be2", null ],
+    [ "SaveContentDigitalSignature", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#ac99e96e4c68254a8adcd7b506d124a7f", null ],
+    [ "SaveDigitalSignature", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#ab9c20d12605bf74881d6e1737c86158c", null ],
+    [ "StartWork", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#ae0259e32d61f5a47f8538f38285a3373", null ],
+    [ "DocumentTaskContextService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a394bc2d45005c7a575a73d64e038cc69", null ],
+    [ "DocumentTaskSettingsModule", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a95b6444ea679ed4004acb85dae39c179", null ],
+    [ "EntityActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#aa10e0def2ae536c0db9a7f4993142dd9", null ],
+    [ "LockManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a40c6441efe32a48c864ef0f101c8f381", null ],
+    [ "SignCryptoProviderService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_manager.html#a8e8606c9929690f182c18415e46f5c13", null ]
+];

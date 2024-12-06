@@ -1,0 +1,27 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_collections =
+[
+    [ "CustomPagination", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_custom_pagination.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_custom_pagination" ],
+    [ "DelegatePagination", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_delegate_pagination.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_delegate_pagination" ],
+    [ "IInheritedSet", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_inherited_set.html", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_inherited_set" ],
+    [ "InheritedOrderSet", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_inherited_order_set.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_inherited_order_set" ],
+    [ "InheritedSet", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_inherited_set.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_inherited_set" ],
+    [ "IPagination", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_pagination.html", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_pagination" ],
+    [ "IUntypedCollectionProxy", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_untyped_collection_proxy.html", "interface_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_i_untyped_collection_proxy" ],
+    [ "LazyHashedSet", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_lazy_hashed_set.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_lazy_hashed_set" ],
+    [ "LazyPagination", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_lazy_pagination.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_lazy_pagination" ],
+    [ "MultiKeyDictionary", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_multi_key_dictionary.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_multi_key_dictionary" ],
+    [ "ObjectTypeEqualityComparer", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_object_type_equality_comparer.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_object_type_equality_comparer" ],
+    [ "PagingQueryEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_paging_query_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_paging_query_event_args" ],
+    [ "SafeEnumerator", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_safe_enumerator.html", "class_ele_wise_1_1_e_l_m_a_1_1_collections_1_1_safe_enumerator" ],
+    [ "Add", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a0c694b3a35739cd8bd89b4cd4a197cd1", null ],
+    [ "Add", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#afa9f630aee6351b0f821b96ff58e8cc9", null ],
+    [ "AddToSet", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a53fb6d0345a0e7dac538833fdcafd5a6", null ],
+    [ "Clear", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a3584a789c1be4301c2b923af84a57348", null ],
+    [ "Contains", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#afb97097ef208ba6568dfdbffe609f06c", null ],
+    [ "DoQueryDelegate< T >", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#ae2db8ade06354c53e29a80c76e80a8fe", null ],
+    [ "GetEnumerator", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#afba401bdcfa28d306f8095a115c39bc5", null ],
+    [ "Remove", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a826a8c8ad7694ce574e3f4fab1012d5d", null ],
+    [ "UntypedICollectionProxy", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#ac4a95990ca60088ce524c6074c8d228e", null ],
+    [ "UntypedIDictionaryProxy", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a49c4ea4bfd1cff4d5e5a9dd116a6518d", null ],
+    [ "UntypedISetProxy", "namespace_ele_wise_1_1_e_l_m_a_1_1_collections.html#a4c6a74c78f90f4deadd133d8ce697675", null ]
+];

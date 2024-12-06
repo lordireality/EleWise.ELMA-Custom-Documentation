@@ -1,0 +1,28 @@
+var interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider =
+[
+    [ "GetEra", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#affb35a4c444bdd1121103442afb22d01", null ],
+    [ "GetEraName", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#adb1dc23eb469b55a90b3bd4f1eefbf2b", null ],
+    [ "GetShortEraName", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#afe2a171cef7e52521d0506140c0e94bc", null ],
+    [ "AllDateFormats", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a8f0fcfaca9c80682c033a9df91d409ba", null ],
+    [ "AllDateTimeFormats", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#abbe49d65f1785d85e5aa7471ddd732bc", null ],
+    [ "AllTimeFormats", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a92329db170972035c36670e7ee1a1d2d", null ],
+    [ "AmPmDesignators", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#af43f4befdc0b07ea6ff5c2c65a402eed", null ],
+    [ "AmPmPrefix", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#afca697eae796a3547a0774fd9dacd569", null ],
+    [ "DateSeparator", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a212e7b8571d83881aba1b0cc3db8225d", null ],
+    [ "DayNames", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a562f2f1e0150c77a27b34f5ab79d3539", null ],
+    [ "DayNamesMin", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#ab291bde60fd7deb4f575932e274f3d31", null ],
+    [ "DayNamesShort", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#aefa6a049bd83ecdd378d379e6d3ca299", null ],
+    [ "FirstDay", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a49c9a85783f6ef5ad92ef122416d909f", null ],
+    [ "LongDateFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#aaf7dbbf288974f25d86edcf32e0739dd", null ],
+    [ "LongDateTimeFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a09bb159793eb31bac60d705de09dcdbe", null ],
+    [ "LongTimeFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a618759db38f9b5c91a2b0d5adb539501", null ],
+    [ "MonthNames", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#adbbbc66703cdccf64fcd4f860cfd157d", null ],
+    [ "MonthNamesGenitive", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#aff4add716c431294d40924feb49039b0", null ],
+    [ "MonthNamesShort", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a080b80083173a33e4407cbaa5f3d1562", null ],
+    [ "MonthNamesShortGenitive", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#ababfac9638af7b5f34b441e5d59d4e77", null ],
+    [ "ShortDateFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a4178904c517675ab0a88306a13e05933", null ],
+    [ "ShortDateTimeFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a431a7f9248f7237e0a43659cac18b55a", null ],
+    [ "ShortTimeFormat", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a4be8e6ecca9d4bd26d360f0fae557c78", null ],
+    [ "TimeSeparator", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#ac46e771b21bb5c1bda4fb09c03feff7a", null ],
+    [ "Use24HourTime", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html#a692d6872c58ead534e760be7652ea8f2", null ]
+];

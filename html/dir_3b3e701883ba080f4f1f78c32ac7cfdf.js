@@ -1,0 +1,26 @@
+var dir_3b3e701883ba080f4f1f78c32ac7cfdf =
+[
+    [ "FilterDocumentFolder", "dir_c9abd5ed55188e3b15f8c37f5909f5ec.html", "dir_c9abd5ed55188e3b15f8c37f5909f5ec" ],
+    [ "__Resources_ActionFolderActions.cs", "_____resources___action_folder_actions_8cs.html", null ],
+    [ "__Resources_FavoritesFolderActions.cs", "_____resources___favorites_folder_actions_8cs.html", null ],
+    [ "__Resources_FilterDocumentFolderActions.cs", "_____resources___filter_document_folder_actions_8cs.html", null ],
+    [ "__Resources_IActionFolder.cs", "_____resources___i_action_folder_8cs.html", null ],
+    [ "__Resources_IFavoritesFolder.cs", "_____resources___i_favorites_folder_8cs.html", null ],
+    [ "__Resources_IFilterDocumentFolder.cs", "_____resources___i_filter_document_folder_8cs.html", null ],
+    [ "__Resources_IFilterDocumentFolder_IBaseFilter.cs", "_____resources___i_filter_document_folder___i_base_filter_8cs.html", null ],
+    [ "__Resources_IMyDocumentFolder.cs", "_____resources___i_my_document_folder_8cs.html", null ],
+    [ "__Resources_MyDocumentFolderActions.cs", "_____resources___my_document_folder_actions_8cs.html", null ],
+    [ "_NamespaceInfo.cs", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_models_2_folders_2___namespace_info_8cs.html", null ],
+    [ "ActionFolderActions.cs", "_action_folder_actions_8cs.html", "_action_folder_actions_8cs" ],
+    [ "FavoritesFolderActions.cs", "_favorites_folder_actions_8cs.html", "_favorites_folder_actions_8cs" ],
+    [ "FilterDocumentFolderActions.cs", "_filter_document_folder_actions_8cs.html", "_filter_document_folder_actions_8cs" ],
+    [ "FoldersUpdatePermissionsNotification.cs", "_folders_update_permissions_notification_8cs.html", null ],
+    [ "IActionFolder.cs", "_i_action_folder_8cs.html", "_i_action_folder_8cs" ],
+    [ "IActionFolderFilter.cs", "_i_action_folder_filter_8cs.html", "_i_action_folder_filter_8cs" ],
+    [ "IFavoritesFolder.cs", "_i_favorites_folder_8cs.html", "_i_favorites_folder_8cs" ],
+    [ "IFilterDocumentFolder.cs", "_i_filter_document_folder_8cs.html", "_i_filter_document_folder_8cs" ],
+    [ "IFilterDocumentFolderFilter.cs", "_i_filter_document_folder_filter_8cs.html", "_i_filter_document_folder_filter_8cs" ],
+    [ "IHasOwner.cs", "_i_has_owner_8cs.html", "_i_has_owner_8cs" ],
+    [ "IMyDocumentFolder.cs", "_i_my_document_folder_8cs.html", "_i_my_document_folder_8cs" ],
+    [ "MyDocumentFolderActions.cs", "_my_document_folder_actions_8cs.html", "_my_document_folder_actions_8cs" ]
+];

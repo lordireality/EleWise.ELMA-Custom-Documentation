@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity =
+[
+    [ "RegistrationDocumentActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#a9576302abc8c2bd0ec69af79942431c3", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#ad283e8458b51fd084c89ecbde5bffdb6", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#a960b646b1e4dc6162401b7ecfa391e9c", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#a792da747f0504f505a2df3f05ffcfeaf", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#abe556e7b569fbddb769d5e7ddb1c69d6", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_registration_document_activity.html#a298bbc0fc8ef809022aaed0e22d59b0d", null ]
+];

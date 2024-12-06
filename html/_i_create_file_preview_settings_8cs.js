@@ -1,0 +1,4 @@
+var _i_create_file_preview_settings_8cs =
+[
+    [ "EleWise.ELMA.FilePreview.LocalService.Services.ICreateFilePreviewSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings" ]
+];

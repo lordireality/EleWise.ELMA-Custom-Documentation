@@ -1,0 +1,26 @@
+digraph "Web/Modules/EleWise.ELMA.BusinessRules.Web"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_7ee4616d7792420b09aab8c4c7e23d47 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_7ee4616d7792420b09aab8c4c7e23d47.html",tooltip=""]
+  subgraph clusterdir_e46483da9f373966ce645ecac7252ff4 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_e46483da9f373966ce645ecac7252ff4.html",tooltip=""]
+    dir_e46483da9f373966ce645ecac7252ff4 [shape=plaintext, label="EleWise.ELMA.BusinessRules.Web"];
+  dir_0d9a0dd7eb5021f161b33c935f375d8e [label="Binders", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_0d9a0dd7eb5021f161b33c935f375d8e.html",tooltip=""];
+  dir_d342b6e4fab5682e5727f5d22fb9b7fc [label="Components", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d342b6e4fab5682e5727f5d22fb9b7fc.html",tooltip=""];
+  dir_4cced4dd749b4f5eb254884cd38a4ae7 [label="Controllers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4cced4dd749b4f5eb254884cd38a4ae7.html",tooltip=""];
+  dir_f6758e41c79af5e916b63205063f7412 [label="ExtensionPoints", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_f6758e41c79af5e916b63205063f7412.html",tooltip=""];
+  dir_95fb628c917c27c4542eb2cdb53d95de [label="Extensions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_95fb628c917c27c4542eb2cdb53d95de.html",tooltip=""];
+  dir_c3659048d7c3f661348961f79b1b8f0b [label="Helpers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c3659048d7c3f661348961f79b1b8f0b.html",tooltip=""];
+  dir_7dcd5fd71fd1ed826f31cdf3242e6ad1 [label="Html", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7dcd5fd71fd1ed826f31cdf3242e6ad1.html",tooltip=""];
+  dir_7b09961f50207b2ac5a36985964cf18c [label="Models", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7b09961f50207b2ac5a36985964cf18c.html",tooltip=""];
+  dir_b983d7e7392fb5d2946f03acd867c47a [label="Portlet", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b983d7e7392fb5d2946f03acd867c47a.html",tooltip=""];
+  dir_c7ff2b854c3d02fa2cf8eaf8d62ee17b [label="Properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c7ff2b854c3d02fa2cf8eaf8d62ee17b.html",tooltip=""];
+  dir_518af72076981756c6ac098762b21d75 [label="TemplateInputs", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_518af72076981756c6ac098762b21d75.html",tooltip=""];
+  }
+  }
+}

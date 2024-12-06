@@ -1,0 +1,4 @@
+var _registration_user_settings_block_controller_base_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.RegistrationUserSettingsBlockControllerBase", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_use03f24abe9c256f0852515951a1ece0cc.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_use03f24abe9c256f0852515951a1ece0cc" ]
+];

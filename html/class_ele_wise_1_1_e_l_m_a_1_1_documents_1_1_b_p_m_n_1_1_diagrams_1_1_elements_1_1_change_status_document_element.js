@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_statusbde586713430c066ddee2fb39b36de85.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_statusbde586713430c066ddee2fb39b36de85" ],
+    [ "ChangeStatusDocumentElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element.html#a195e1672630bfecf35354cececd55c93", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element.html#aeadfe8719c2ac940c3621529403d412b", null ],
+    [ "ChangeStatusInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element.html#ae11a8d46bf2f0239d4be6d21b19d3f01", null ],
+    [ "MultipleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element.html#ae3d5f9a9caefad67d39924422e8310ee", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_change_status_document_element.html#a9228c19165d5c2469a81d00dc0b3c2ea", null ]
+];

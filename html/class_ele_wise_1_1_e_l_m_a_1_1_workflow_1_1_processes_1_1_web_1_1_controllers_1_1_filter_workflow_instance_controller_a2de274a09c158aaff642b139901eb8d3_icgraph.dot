@@ -1,0 +1,23 @@
+digraph "EleWise.ELMA.Workflow.Processes.Web.Controllers.FilterWorkflowInstanceController.FillFilter"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.FilterWorkflowInstance\lController.FillFilter",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Посчтитать типы фильтров в подсвойствах"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.FilterWorkflowInstance\lController.BaseIndexModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_filter_workflow_instance_controller.html#a9ba554f2296a77442204bfc0ea912a22",tooltip="Модель для фильтрации экземпляров процесса"];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.ImprovementController.Index",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_improvement_controller.html#a42b7cf82a1f9c5e89b6d9f4c84272e37",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.MonitorController.Index",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_monitor_controller.html#af060bc9a1c843377f47a66aa5ee80f7c",tooltip="Главная страница монитора процессов"];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.MyProcessesController.Index",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_my_processes_controller.html#aafe5bc73aa5f449643b3dce4b419ad10",tooltip="Мои процессы"];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.ImprovementController.Search",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_improvement_controller.html#ab15554412c26695cbeb59d56796ba964",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.MonitorController.Search",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_monitor_controller.html#a78f89fa4c2d933f70131468382d4c234",tooltip=" "];
+  Node2 -> Node8 [id="edge7_Node000002_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Workflow.Processes.\lWeb.Controllers.MyProcessesController.Search",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_my_processes_controller.html#a1cdc71b72803ef0eb273147af75ab891",tooltip=" "];
+}

@@ -1,0 +1,4 @@
+var _process_localization_file_resolver_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Globalization.ProcessLocalizationFileResolver", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_localization_file_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_localization_file_resolver" ]
+];

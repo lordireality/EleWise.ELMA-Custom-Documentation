@@ -1,0 +1,5 @@
+var interface_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_i_placement_file_parser =
+[
+    [ "Parse", "interface_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_i_placement_file_parser.html#a32a5ed6ccf027f311a23ce292cc37a59", null ],
+    [ "ParseText", "interface_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_i_placement_file_parser.html#aa39a13236bb59c2b6e729fd9a2730440", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions =
+[
+    [ "CatalogInstancePermissionNotFound", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions_1_1_catalog_instance_permission_not_found.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions_1_1_catalog_instance_permission_not_found" ]
+];

@@ -1,0 +1,13 @@
+var namespace_orchard_1_1_environment_1_1_extensions_1_1_loaders =
+[
+    [ "CoreExtensionLoader", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_core_extension_loader.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_core_extension_loader" ],
+    [ "DynamicExtensionLoader", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_dynamic_extension_loader.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_dynamic_extension_loader" ],
+    [ "ExtensionCompilationReference", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_compilation_reference.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_compilation_reference" ],
+    [ "ExtensionLoaderBase", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_loader_base.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_loader_base" ],
+    [ "ExtensionProbeEntry", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_probe_entry.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_probe_entry" ],
+    [ "ExtensionReferenceProbeEntry", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_reference_probe_entry.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_extension_reference_probe_entry" ],
+    [ "IExtensionLoader", "interface_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_i_extension_loader.html", "interface_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_i_extension_loader" ],
+    [ "PrecompiledExtensionLoader", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_precompiled_extension_loader.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_precompiled_extension_loader" ],
+    [ "RawThemeExtensionLoader", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_raw_theme_extension_loader.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_raw_theme_extension_loader" ],
+    [ "ReferencedExtensionLoader", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_referenced_extension_loader.html", "class_orchard_1_1_environment_1_1_extensions_1_1_loaders_1_1_referenced_extension_loader" ]
+];

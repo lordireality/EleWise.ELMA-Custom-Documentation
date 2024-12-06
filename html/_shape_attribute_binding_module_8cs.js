@@ -1,0 +1,4 @@
+var _shape_attribute_binding_module_8cs =
+[
+    [ "Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingModule", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_binding_module.html", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_binding_module" ]
+];

@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings =
+[
+    [ "WorkLogSettings", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ae0e90e40ff8279b6dc3344ea2430e77a", null ],
+    [ "AssignedRoleTypesNotAffectLimitationWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ac9ac5a94e9c65662ad059730f56ea6a1", null ],
+    [ "AssignedRoleTypesNotificationErrorAutoWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a7879902d9941b86268566caa82cebca9", null ],
+    [ "AutoApproveMyWorklog", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a6ba577df3b7b0d7b1f610c2a6c724493", null ],
+    [ "DisableOvertime", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ac906a511b3505b01eac795b3dd819dbb", null ],
+    [ "DisablePutWorkLogToCompletedTasks", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a0fb2a70512b923b5bcd8c81be2e248dd", null ],
+    [ "EmptyLineCount", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a4019b637d7669dfd846a89f46166a211", null ],
+    [ "GroupListNotAffectLimitationWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a14c64579e126704e1c442ddbe54c0c56", null ],
+    [ "GroupNotificationErrorAutoWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#acfd9c10143983e5169127a1bbac0455f", null ],
+    [ "GroupTasks", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#aa3e348e4f212a36213637bc2ab348e0c", null ],
+    [ "LimitDayHours", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ac8a507f8b3c9a405a5873e26cdc8fbc0", null ],
+    [ "LimitDayReport", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a8056134cf80e13a231dcd577b2eb0b1f", null ],
+    [ "OrganizationItemListNotAffectLimitationWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a1fb37b0a660e0386bce951fd2aeaa431", null ],
+    [ "OrganizationItemNotificationErrorAutoWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ac6a73db7f1e5590741a293f442db4c53", null ],
+    [ "PeriodicityAutomaticSendingWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a276bfc426153a4d0996fc1d2ba6f87f9", null ],
+    [ "PeriodicityAutomaticSendingWorkLogString", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#acc593802ff2ccc0ac3ac15db769935f8", null ],
+    [ "ReportNotificationsApprovalEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ad52e210b2f9f8ff5ba4b3a8b94bd775c", null ],
+    [ "ReportNotificationsChangeEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#aa1d41c5d3ff343d9ba046f821eb4ad0f", null ],
+    [ "ReportNotificationsEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a07a433a39711dc9b41ceb90a75b92789", null ],
+    [ "ReportUnconfirmComment", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ac8f6b03b18f925443cdd1bee95d25841", null ],
+    [ "UsersListNotAffectLimitationWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#a77150fd102d63b34dba87c4fd03cee4a", null ],
+    [ "UsersNotificationErrorAutoWorkLogIds", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#acc30032f2c9b125c00df8da5bffa6b8a", null ],
+    [ "WorkLogEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_work_log_settings.html#ad107032a5cecd7eecfea34fa32e4b8c6", null ]
+];

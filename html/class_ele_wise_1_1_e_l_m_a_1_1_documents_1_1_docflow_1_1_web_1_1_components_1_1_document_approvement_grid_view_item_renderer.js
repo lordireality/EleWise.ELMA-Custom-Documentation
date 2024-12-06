@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_grid_view_item_renderer =
+[
+    [ "Count", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_grid_view_item_renderer.html#adb1c964f023d4698823a5126ae3da0ab", null ],
+    [ "IsHideEmpty", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_grid_view_item_renderer.html#a407c5bda18fec8929a884b6b180508ff", null ]
+];

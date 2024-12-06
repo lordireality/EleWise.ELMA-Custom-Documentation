@@ -1,0 +1,4 @@
+var _base_background_operation_with_callbacks_8cs =
+[
+    [ "EleWise.ELMA.Model.BackgroundOperations.BaseBackgroundOperationWithCallbacks", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_base_background_operation_with_callbacks.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_base_background_operation_with_callbacks" ]
+];

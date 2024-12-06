@@ -1,0 +1,4 @@
+var _document_reference_default_selected_columns_provider_8cs_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Components.DocumentReferenceDefaultSelectedColumnsProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_reference_default_selected_columns_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_reference_default_selected_columns_provider" ]
+];

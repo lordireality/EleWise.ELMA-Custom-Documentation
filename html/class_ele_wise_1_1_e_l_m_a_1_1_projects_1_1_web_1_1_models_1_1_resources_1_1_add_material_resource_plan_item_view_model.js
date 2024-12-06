@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model =
+[
+    [ "AddMaterialResourcePlanItemViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model.html#aca0a57f3a3ca1e7a3843a0d452469cfb", null ],
+    [ "AddMaterialResourcePlanItemViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model.html#aed6fd39acc2bb44ee46020acc1f099cf", null ],
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model.html#af4c3f8a4674386151c8a9f0ec3a21678", null ],
+    [ "ExcludeIdList", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model.html#a44e1fd565508ff2ddac792382bc991e8", null ],
+    [ "Prefix", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_material_resource_plan_item_view_model.html#a7cf277aa1e1ded66b84f2cb8643070f5", null ]
+];

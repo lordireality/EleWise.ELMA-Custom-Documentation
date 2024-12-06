@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_i_filter_menu_provider_extension =
+[
+    [ "GetTreeNodeParameters", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_i_filter_menu_provider_extension.html#abdf4787b330efbb605f6301fc60fc033", null ],
+    [ "SupportedFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_i_filter_menu_provider_extension.html#ad0d7db2cc92a02c1fc635581d38a4d83", null ]
+];

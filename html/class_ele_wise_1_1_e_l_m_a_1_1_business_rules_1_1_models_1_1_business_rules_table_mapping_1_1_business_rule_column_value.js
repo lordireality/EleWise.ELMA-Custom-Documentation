@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_mapping_1_1_business_rule_column_value =
+[
+    [ "BusinessRuleColumnValue", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_mapping_1_1_business_rule_column_value.html#ab37f632a66499e693d4733d56dcce281", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_mapping_1_1_business_rule_column_value.html#a1217b8ee08dc39c7d0707c06c5a79fa4", null ],
+    [ "Value", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_mapping_1_1_business_rule_column_value.html#a6a8d077d9ed27b9a0c43602a634a2073", null ]
+];

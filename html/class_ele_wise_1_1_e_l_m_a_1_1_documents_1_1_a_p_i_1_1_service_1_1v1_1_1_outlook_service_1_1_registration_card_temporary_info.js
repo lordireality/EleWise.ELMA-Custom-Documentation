@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_registration_card_temporary_info =
+[
+    [ "RegistrationCardTemporaryInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_registration_card_temporary_info.html#aee0acc0962fd1ecf0d631ff47bb4e159", null ],
+    [ "ApplyTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_registration_card_temporary_info.html#aed6efc0f72808f2e72e38c6675d05ea4", null ]
+];

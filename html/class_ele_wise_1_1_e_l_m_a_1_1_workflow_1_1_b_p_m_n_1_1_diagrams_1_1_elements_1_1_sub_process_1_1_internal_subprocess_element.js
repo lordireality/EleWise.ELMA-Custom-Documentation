@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_internal_subprocess_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_5bea3ed277c75af185fe0910c2be4a83.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_5bea3ed277c75af185fe0910c2be4a83" ],
+    [ "InternalSubprocessElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_internal_subprocess_element.html#a99453b63ba3fa8418fbc586d8c5414c6", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_internal_subprocess_element.html#ac8592e5a66aad1d50824ebf394284810", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_internal_subprocess_element.html#a1dfc6c9892bc460412aa123182345f0e", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_internal_subprocess_element.html#afd3e0cfd29107e737391b361c703964d", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_unfolded_subprocess_shape =
+[
+    [ "UnfoldedSubprocessShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_unfolded_subprocess_shape.html#a575865aa09e79c96feec878aab11d6f0", null ],
+    [ "Paint", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_unfolded_subprocess_shape.html#a5ca9ef4f09b839f100556857af164ed1", null ]
+];

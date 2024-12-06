@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_audit_event_permission_checker =
+[
+    [ "HasPermission", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_audit_event_permission_checker.html#a9dc097bbcfb9f1c5cd3be5f04f95dd34", null ]
+];

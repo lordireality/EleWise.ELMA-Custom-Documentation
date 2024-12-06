@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_security_1_1_query_function_results =
+[
+    [ "CurrentUserQueryResult", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_query_function_results_1_1_current_user_query_result.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_query_function_results_1_1_current_user_query_result" ]
+];

@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_components_2_default_digital_signature_type_8cs =
+[
+    [ "EleWise.ELMA.Documents.Components.DefaultDigitalSignatureType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_default_digital_signature_type.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_default_digital_signature_type" ]
+];

@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.BPM.Web.Common.Services.WatchListService.CreateAssignedRoleTypeModel"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Common.\lServices.WatchListService.Create\lAssignedRoleTypeModel",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Common.\lControllers.WatchController.Full\lListPopup",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_watch_controller.html#a4aa2bb141290989efa9db5058060a5b7",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentMetadataController.\lSettings",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_metadata_controller.html#a5d37c8c0eb204194156c732ec1db6534",tooltip=" "];
+}

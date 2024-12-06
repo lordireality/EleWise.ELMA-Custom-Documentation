@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_projects_2_ele_wise_2_e_l_m_a_2_projects_2_d_t_o_2_managers_2_i_life_cycle_d_t_o_manager_8cs =
+[
+    [ "EleWise.ELMA.Projects.DTO.Managers.ILifeCycleDTOManager", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_d_t_o_1_1_managers_1_1_i_life_cycle_d_t_o_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_d_t_o_1_1_managers_1_1_i_life_cycle_d_t_o_manager" ]
+];

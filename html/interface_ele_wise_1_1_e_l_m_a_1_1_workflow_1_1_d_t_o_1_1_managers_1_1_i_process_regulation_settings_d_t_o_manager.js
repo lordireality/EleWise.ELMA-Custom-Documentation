@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_i_process_regulation_settings_d_t_o_manager =
+[
+    [ "LoadRegulationGlobalSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_i_process_regulation_settings_d_t_o_manager.html#a2b95c29d68e465211f7af58ca7e62ae7", null ],
+    [ "SaveRegulationGlobalSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_d_t_o_1_1_managers_1_1_i_process_regulation_settings_d_t_o_manager.html#add4d7f846559fcea7516a4a1a0ee0b41", null ]
+];

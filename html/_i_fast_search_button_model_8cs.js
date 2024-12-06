@@ -1,0 +1,4 @@
+var _i_fast_search_button_model_8cs =
+[
+    [ "EleWise.ELMA.Web.Mvc.Html.FilterSearchForm.IFastSearchButtonModel", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_html_1_1_filter_search_form_1_1_i_fast_search_button_model.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_html_1_1_filter_search_form_1_1_i_fast_search_button_model" ]
+];

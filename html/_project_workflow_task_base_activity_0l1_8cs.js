@@ -1,0 +1,4 @@
+var _project_workflow_task_base_activity_0l1_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Activities.Tasks.ProjectWorkflowTaskBaseActivity< TElement >", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_prb59ff50fe08af16c2ce1c3b7b87fed24.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_prb59ff50fe08af16c2ce1c3b7b87fed24" ]
+];

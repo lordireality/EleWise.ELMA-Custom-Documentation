@@ -1,0 +1,4 @@
+var _complete_percent_project_task_solve_model_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Models.CompletePercentProjectTaskSolveModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_complete_percent_project_task_solve_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_complete_percent_project_task_solve_model" ]
+];

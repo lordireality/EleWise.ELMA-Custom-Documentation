@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity =
+[
+    [ "ActivityReport", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_activity_report.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_activity_report" ],
+    [ "ActivityReportPage", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_activity_report_page.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_activity_report_page" ],
+    [ "CurrentCallsReportPage", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_current_calls_report_page.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_current_calls_report_page" ],
+    [ "IActivityReportPage", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_i_activity_report_page.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_activity_1_1_i_activity_report_page" ]
+];

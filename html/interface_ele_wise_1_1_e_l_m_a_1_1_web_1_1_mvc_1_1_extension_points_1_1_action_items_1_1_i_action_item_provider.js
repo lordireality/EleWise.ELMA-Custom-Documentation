@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_action_items_1_1_i_action_item_provider =
+[
+    [ "GetItems", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_action_items_1_1_i_action_item_provider.html#a3b99547a36a943317d20c6f1647dd460", null ],
+    [ "InsertItems", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_action_items_1_1_i_action_item_provider.html#ae8112f39f2ef22b03ec98394054234a0", null ]
+];

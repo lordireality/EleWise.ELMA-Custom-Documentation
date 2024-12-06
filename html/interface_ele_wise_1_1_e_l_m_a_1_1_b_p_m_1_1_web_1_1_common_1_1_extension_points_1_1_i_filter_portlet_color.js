@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_color =
+[
+    [ "AvailableFilterType", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_color.html#aa8a93f8abf3413e08acfeab8631a311a", null ],
+    [ "Template", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet_color.html#a44d40d004c987836ef458cce400cd804", null ]
+];

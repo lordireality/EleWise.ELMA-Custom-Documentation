@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_exceptions_1_1_o_data_connection_exception =
+[
+    [ "ODataConnectionException", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_exceptions_1_1_o_data_connection_exception.html#a2ea83e25b3270d547f649c7b34a50e1b", null ]
+];

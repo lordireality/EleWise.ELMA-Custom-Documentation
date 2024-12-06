@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration =
+[
+    [ "Common", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_common.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_common" ],
+    [ "ExecutedTaskInfos", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_executed_task_infos.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_executed_task_infos" ],
+    [ "Tasks", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_tasks.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_tasks" ],
+    [ "WorkflowInstanceObjectViewItemProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_workflow_instance_object_view_item_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_workflow_instance_object_view_item_provider" ]
+];

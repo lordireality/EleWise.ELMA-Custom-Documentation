@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_catalogs_extension =
+[
+    [ "SetParameters", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_catalogs_extension.html#a28b15694a7f56cf68adae08e49fd7f7b", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_catalogs_extension.html#a3f2f73115de711791f3a0cd55e5b3da2", null ],
+    [ "FilterMenuProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_catalogs_extension.html#a205945d1fe4ddb22c046be009953e57c", null ]
+];

@@ -1,0 +1,5 @@
+var _send_document_folder_toolbar_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.SendDocumentFolderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_send_document_folder_zone" ],
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.SendDocumentFolderToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sen77056b63a658580475c62d3c14a05fe1.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sen77056b63a658580475c62d3c14a05fe1" ]
+];

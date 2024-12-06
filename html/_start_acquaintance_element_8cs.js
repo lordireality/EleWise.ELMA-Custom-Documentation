@@ -1,0 +1,5 @@
+var _start_acquaintance_element_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Elements.Acquaintance.StartAcquaintanceElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element" ],
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Elements.Acquaintance.StartAcquaintanceElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_e3793112f2f301edb542782e538c28c0.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_e3793112f2f301edb542782e538c28c0" ]
+];

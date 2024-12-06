@@ -1,0 +1,25 @@
+var dir_47b1102a45e878b56b08918feea0807a =
+[
+    [ "TemplateGenerator", "dir_8fd9af8d732c926f80a3b720fe975427.html", "dir_8fd9af8d732c926f80a3b720fe975427" ],
+    [ "DefaultNotificationFlow.cs", "_default_notification_flow_8cs.html", "_default_notification_flow_8cs" ],
+    [ "EntityActionNotificationHandler.cs", "_entity_action_notification_handler_8cs.html", null ],
+    [ "EntityActionNotificationUnitOfWorkListener.cs", "_entity_action_notification_unit_of_work_listener_8cs.html", null ],
+    [ "EventNotification.cs", "_event_notification_8cs.html", "_event_notification_8cs" ],
+    [ "EventNotificationProvider.cs", "_event_notification_provider_8cs.html", "_event_notification_provider_8cs" ],
+    [ "NotificationGenerationData.cs", "_notification_generation_data_8cs.html", "_notification_generation_data_8cs" ],
+    [ "NotificationManager.cs", "_ele_wise_8_e_l_m_a_8_s_d_k_2_ele_wise_2_e_l_m_a_2_notifications_2_impl_2_notification_manager_8cs.html", "_ele_wise_8_e_l_m_a_8_s_d_k_2_ele_wise_2_e_l_m_a_2_notifications_2_impl_2_notification_manager_8cs" ],
+    [ "NotificationPartialExtensionTemplate.cs", "_notification_partial_extension_template_8cs.html", "_notification_partial_extension_template_8cs" ],
+    [ "NotificationPartialTemplate.cs", "_notification_partial_template_8cs.html", "_notification_partial_template_8cs" ],
+    [ "NotificationRecipientItem.cs", "_notification_recipient_item_8cs.html", "_notification_recipient_item_8cs" ],
+    [ "NotificationRecipientSet.cs", "_notification_recipient_set_8cs.html", "_notification_recipient_set_8cs" ],
+    [ "NotificationRecipientSetFromUsers.cs", "_notification_recipient_set_from_users_8cs.html", null ],
+    [ "NotificationTemplate.cs", "_notification_template_8cs.html", "_notification_template_8cs" ],
+    [ "NotificationTemplateBase.cs", "_notification_template_base_8cs.html", "_notification_template_base_8cs" ],
+    [ "NotificationTemplateEmbeddedDataSource.cs", "_notification_template_embedded_data_source_8cs.html", "_notification_template_embedded_data_source_8cs" ],
+    [ "NotificationTemplateFileInfo.cs", "_notification_template_file_info_8cs.html", "_notification_template_file_info_8cs" ],
+    [ "NotificationTemplateFilter.cs", "_notification_template_filter_8cs.html", "_notification_template_filter_8cs" ],
+    [ "NotificationTemplateFilterCondition.cs", "_notification_template_filter_condition_8cs.html", "_notification_template_filter_condition_8cs" ],
+    [ "NotificationTemplateLoader.cs", "_notification_template_loader_8cs.html", "_notification_template_loader_8cs" ],
+    [ "NotificationTemplateObject.cs", "_notification_template_object_8cs.html", "_notification_template_object_8cs" ],
+    [ "NotificationTemplateWrapper.cs", "_notification_template_wrapper_8cs.html", "_notification_template_wrapper_8cs" ]
+];

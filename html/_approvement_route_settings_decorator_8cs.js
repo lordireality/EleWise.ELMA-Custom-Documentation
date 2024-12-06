@@ -1,0 +1,4 @@
+var _approvement_route_settings_decorator_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Decorators.ApprovementByStages.ApprovementRouteSettingsDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvementd9f294541877ef3f502c4a7974adb5fe.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvementd9f294541877ef3f502c4a7974adb5fe" ]
+];

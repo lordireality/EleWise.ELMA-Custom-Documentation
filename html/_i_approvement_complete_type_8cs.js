@@ -1,0 +1,4 @@
+var _i_approvement_complete_type_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.ExtensionPoints.IApprovementCompleteType", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extension_points_1_1_i_approvement_complete_type.html", "interface_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extension_points_1_1_i_approvement_complete_type" ]
+];

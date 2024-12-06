@@ -1,0 +1,4 @@
+var _default_not_approve_connector_status_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Elements.Connectors.DefaultNotApproveConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_78583b0aed67a16246dfac31a2b4fb0d.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_78583b0aed67a16246dfac31a2b4fb0d" ]
+];

@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.Projects.Web.Models.Resources.ResourcesGridBaseEditorModel.DeleteFromEntity"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.Resources.ResourcesGrid\lBaseEditorModel.DeleteFromEntity",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Удаление записи из коллекции"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lModels.Resources.ResourcesGrid\lBaseEditorModel.UpdateEntityForJson",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_grid_base_editor_model.html#a91ecb6603a8c219a20c1ef6d91d36fd3",tooltip="Обновить Entity из клиентских данных json."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lSaveProjectPlan",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_base_controller.html#a9dcb2eb202215b2a123568f3c3bd276f",tooltip="Сохранение плана проекта."];
+}

@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render =
+[
+    [ "CanRender", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render.html#a2ed74b3182891be09f885615dba60ae8", null ],
+    [ "CreateEventData", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render.html#acd7557f631a8932215f8560b894c2684", null ],
+    [ "GetExtraViewBlock", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render.html#a4286e5bd13a292d687fcca7fb7b120ab", null ],
+    [ "Actions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render.html#a89b0078002d27f4a2ad1c84c15f1cd63", null ],
+    [ "Objects", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_registration_card_simple_event_render.html#a770f0960cb4ffd08dfa28e25553b89c9", null ]
+];

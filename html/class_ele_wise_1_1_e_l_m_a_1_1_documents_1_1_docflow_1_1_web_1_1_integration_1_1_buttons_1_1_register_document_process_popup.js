@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup =
+[
+    [ "RegisterDocumentProcessPopup", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup.html#a725d24bc61d7c77225a943d9793693d6", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup.html#af001792ebaad6eeaeee10fc47a892673", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup.html#a1d63a875bc186f8302cf1eee2a425dce", null ]
+];

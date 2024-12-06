@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_solve_approval_task_view =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_solve_approval_task_view.html#ad9a3bc6016003f3d1164a00f837bb6ae", null ],
+    [ "Render", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_solve_approval_task_view.html#a91d3971f5e968416cdb6758d8d517ab3", null ]
+];

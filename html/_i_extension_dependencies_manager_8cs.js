@@ -1,0 +1,4 @@
+var _i_extension_dependencies_manager_8cs =
+[
+    [ "Orchard.FileSystems.Dependencies.IExtensionDependenciesManager", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_extension_dependencies_manager.html", "interface_orchard_1_1_file_systems_1_1_dependencies_1_1_i_extension_dependencies_manager" ]
+];

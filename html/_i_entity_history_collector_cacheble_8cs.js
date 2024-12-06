@@ -1,0 +1,4 @@
+var _i_entity_history_collector_cacheble_8cs =
+[
+    [ "EleWise.ELMA.History.ExtensionPoints.IEntityHistoryCollectorCacheble", "interface_ele_wise_1_1_e_l_m_a_1_1_history_1_1_extension_points_1_1_i_entity_history_collector_cacheble.html", "interface_ele_wise_1_1_e_l_m_a_1_1_history_1_1_extension_points_1_1_i_entity_history_collector_cacheble" ]
+];

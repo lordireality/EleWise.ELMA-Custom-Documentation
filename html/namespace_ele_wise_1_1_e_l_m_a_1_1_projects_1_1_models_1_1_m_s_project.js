@@ -1,0 +1,13 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project =
+[
+    [ "Mappings", "namespace_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_mappings.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_mappings" ],
+    [ "ImportProjectInfo", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_import_project_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_import_project_info" ],
+    [ "InnerProjectTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_inner_project_task.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_inner_project_task" ],
+    [ "MergeProjectPlanModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_merge_project_plan_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_merge_project_plan_model" ],
+    [ "MSProjectTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_m_s_project_task.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_m_s_project_task" ],
+    [ "ProjectUserMerged", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_project_user_merged.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_project_user_merged" ],
+    [ "ResourceAssignmentMerged", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_resource_assignment_merged.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_resource_assignment_merged" ],
+    [ "ResourceMerged", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_resource_merged.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_resource_merged" ],
+    [ "TaskLinkMerged", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_task_link_merged.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_task_link_merged" ],
+    [ "TaskMerged", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_task_merged.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_m_s_project_1_1_task_merged" ]
+];

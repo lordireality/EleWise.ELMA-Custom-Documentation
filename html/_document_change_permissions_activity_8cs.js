@@ -1,0 +1,4 @@
+var _document_change_permissions_activity_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Activities.Plugins.DocumentChangePermissionsActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_ddfe217923f74f5ee9c87fa4a582b33d.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_ddfe217923f74f5ee9c87fa4a582b33d" ]
+];

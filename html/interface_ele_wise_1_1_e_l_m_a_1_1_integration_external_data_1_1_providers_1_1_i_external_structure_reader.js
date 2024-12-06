@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_i_external_structure_reader =
+[
+    [ "GetFullConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_i_external_structure_reader.html#a35b0e9b26771aa7ebd5a0adccdf120c1", null ]
+];

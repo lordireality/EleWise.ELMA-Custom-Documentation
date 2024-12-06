@@ -1,0 +1,5 @@
+var _control_data_element_8cs =
+[
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Elements.DataAcquisition.ControlDataElement", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222" ],
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Elements.DataAcquisition.ControlDataElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_data45972e03ce43ecd43f5fe647d55fa304.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_data45972e03ce43ecd43f5fe647d55fa304" ]
+];

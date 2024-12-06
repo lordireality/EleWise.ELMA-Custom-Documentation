@@ -1,0 +1,21 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.DiagramBaseController.GetProductionSchedule"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lGetProductionSchedule",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lControllers.ResourceDiagramController.\lGetData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_resource_diagram_controller.html#a52a2e1ad7207236cb38ceefb82d599e0",tooltip="Получение данных для диаграммы"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lGetDiagramCalendars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_base_controller.html#a2609f68e673dfc3ca697a85fc8ce0dfa",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lGetCalendars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_base_controller.html#aa858670b17978eb60f50c2621b9169e4",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lControllers.ResourcesOptimizer\lController.GetPlansHistogramData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_resources_optimizer_controller.html#a6604cbbe003d9362d9cf5eb62f35b40a",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramCompareController.\lGetDiagramCalendars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_compare_controller.html#ab85d56a41824f78d4baec4c641c2c582",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramCompareController.\lGetData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_compare_controller.html#a027f653c8be4b31475eb269b98d8dea9",tooltip=" "];
+}

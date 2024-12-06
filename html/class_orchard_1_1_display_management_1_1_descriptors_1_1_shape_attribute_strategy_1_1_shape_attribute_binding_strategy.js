@@ -1,0 +1,5 @@
+var class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_binding_strategy =
+[
+    [ "ShapeAttributeBindingStrategy", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_binding_strategy.html#ace6be6bca98e588fb63fddad2cce682c", null ],
+    [ "Discover", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_binding_strategy.html#afb9dc520a99308e5c92e25fa6860dc25", null ]
+];

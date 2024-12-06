@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.ICertificateSelection\lOnMultipleSigningWeb",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html",tooltip="Выбор сертификата для множественного подписания"];
+  Node0 -> Node1 [id="edge934_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Components.CertificateSelection\lEveryTimeContent",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_certificate_selection_every_time_content.html",tooltip=" "];
+  Node0 -> Node2 [id="edge935_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Components.CertificateSelection\lOneTimeContent",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_certificate_selection_one_time_content.html",tooltip=" "];
+}

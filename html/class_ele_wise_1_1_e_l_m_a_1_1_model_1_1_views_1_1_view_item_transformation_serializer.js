@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_view_item_transformation_serializer =
+[
+    [ "ViewItemTransformationSerializer", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_view_item_transformation_serializer.html#aa97436196a083ec31f9262d8f63ff883", null ]
+];

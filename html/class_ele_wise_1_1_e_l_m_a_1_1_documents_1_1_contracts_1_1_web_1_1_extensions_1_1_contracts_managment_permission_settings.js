@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings =
+[
+    [ "Url", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings.html#a42b01df32a7b13c03a70a162b641c8e1", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings.html#ab0b6088b7ff73020628e2ae64f302123", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings.html#a21ea2cad5786278b07bd5eab8e2e6ac5", null ],
+    [ "ModuleUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings.html#a30e14adb7a5f04efa72a138b14d1d2d4", null ],
+    [ "Text", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_extensions_1_1_contracts_managment_permission_settings.html#a46b2a8cc7d8859e57e30bc412b507b6f", null ]
+];

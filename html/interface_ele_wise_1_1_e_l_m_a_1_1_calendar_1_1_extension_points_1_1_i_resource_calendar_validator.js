@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator =
+[
+    [ "CanDelete", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator.html#a2f5ec9a153f99fcc744854e82e35f8ca", null ]
+];

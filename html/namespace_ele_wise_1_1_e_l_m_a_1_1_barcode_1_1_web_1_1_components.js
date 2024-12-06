@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_components =
+[
+    [ "BarcodeUserSettingsBlockControllerBase", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_components_1_1_barcode_user_settings_block_controller_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_components_1_1_barcode_user_settings_block_controller_base" ]
+];

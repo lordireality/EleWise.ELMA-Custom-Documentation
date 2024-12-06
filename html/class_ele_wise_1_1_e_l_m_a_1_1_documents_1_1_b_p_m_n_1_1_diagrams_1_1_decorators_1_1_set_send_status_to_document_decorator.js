@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_set_send_status_to_document_decorator =
+[
+    [ "SetSendStatusToDocumentDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_set_send_status_to_document_decorator.html#aca47b7772330a5d9eea0bf30e3938b75", null ],
+    [ "CreatePaths", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_set_send_status_to_document_decorator.html#ad19c25929380791285b54a431fe97bf7", null ]
+];

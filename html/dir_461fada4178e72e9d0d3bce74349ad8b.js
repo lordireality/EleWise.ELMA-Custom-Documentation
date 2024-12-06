@@ -1,0 +1,6 @@
+var dir_461fada4178e72e9d0d3bce74349ad8b =
+[
+    [ "IPermissionProvider.cs", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_i_permission_provider_8cs.html", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_i_permission_provider_8cs" ],
+    [ "Permission.cs", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_permission_8cs.html", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_permission_8cs" ],
+    [ "PermissionStereotype.cs", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_permission_stereotype_8cs.html", "_ele_wise_8_e_l_m_a_8_s_d_k_8_web_2_orchard_2_security_2_permissions_2_permission_stereotype_8cs" ]
+];

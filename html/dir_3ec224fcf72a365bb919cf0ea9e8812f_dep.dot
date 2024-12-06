@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.BusinessRules.Web/Components/Toolbar/BusinessRuleVersion"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_e4317b014122b5cab96909219f7cdda1 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Toolbar", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_e4317b014122b5cab96909219f7cdda1.html",tooltip=""]
+  dir_3ec224fcf72a365bb919cf0ea9e8812f [label="BusinessRuleVersion", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_3ec224fcf72a365bb919cf0ea9e8812f.html",tooltip=""];
+  }
+}

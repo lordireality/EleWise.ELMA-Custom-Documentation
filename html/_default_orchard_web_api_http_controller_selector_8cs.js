@@ -1,0 +1,4 @@
+var _default_orchard_web_api_http_controller_selector_8cs =
+[
+    [ "Orchard.WebApi.DefaultOrchardWebApiHttpControllerSelector", "class_orchard_1_1_web_api_1_1_default_orchard_web_api_http_controller_selector.html", "class_orchard_1_1_web_api_1_1_default_orchard_web_api_http_controller_selector" ]
+];

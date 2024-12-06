@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension =
+[
+    [ "WorkflowInstanceFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension.html#a8ce24b1c06b980d95a56554c6f9ac42e", null ],
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension.html#a11d080123b5f60bc1c83ae6f2c26f370", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension.html#a9c50acb2e16258aaa0d5c888bcfb7536", null ]
+];

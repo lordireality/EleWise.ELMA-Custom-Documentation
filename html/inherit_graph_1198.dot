@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="IModelBinder",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge2033_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Reports.\lComponents.ReportPagerSettingsBinder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_components_1_1_report_pager_settings_binder.html",tooltip=" "];
+  Node0 -> Node2 [id="edge2034_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Contracts.\lWeb.Binders.ContractStepsJsonBinder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_web_1_1_binders_1_1_contract_steps_json_binder.html",tooltip=" "];
+  Node0 -> Node3 [id="edge2035_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lModels.ModelBinders.ExecutorBinder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_model_binders_1_1_executor_binder.html",tooltip=" "];
+  Node0 -> Node4 [id="edge2036_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lModels.ModelBinders.ResourceBinder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_model_binders_1_1_resource_binder.html",tooltip=" "];
+  Node0 -> Node5 [id="edge2037_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lModels.ModelBinders.TaskNamesBinder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_model_binders_1_1_task_names_binder.html",tooltip=" "];
+}

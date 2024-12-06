@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_code_generation_1_1_process_instance_metrics_generator =
+[
+    [ "ProcessInstanceMetricsGenerator", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_code_generation_1_1_process_instance_metrics_generator.html#a42d9f54f761fd7c9b28be70fb892348b", null ],
+    [ "GetBaseClass", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_code_generation_1_1_process_instance_metrics_generator.html#a1964da2c4cfc7bd00e06acab11ff5e02", null ]
+];

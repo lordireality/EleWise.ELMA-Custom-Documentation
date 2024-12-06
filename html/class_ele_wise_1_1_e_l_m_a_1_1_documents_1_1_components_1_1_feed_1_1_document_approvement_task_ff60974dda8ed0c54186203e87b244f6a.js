@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a =
+[
+    [ "DocumentApprovementTaskFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a.html#a459da3f70abc40fe257696064cee7341", null ],
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a.html#a5ba6b4f7d9c824de4ee6903ea5849ac3", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a.html#a5656e65508c7de6cc59420c741a5db1e", null ]
+];

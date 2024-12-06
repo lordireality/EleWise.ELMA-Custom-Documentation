@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_feed_comment_action_name_extension =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_feed_comment_action_name_extension.html#a0e4adef05c4e4f5e43a12c4d1943a313", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_feed_comment_action_name_extension.html#a502c1048b28532ff4c8c1bf2195fac7d", null ]
+];

@@ -1,0 +1,4 @@
+var _test_import_extension_base_parameters_8cs =
+[
+    [ "EleWise.ELMA.Deploy.Import.ExtensionPoints.TestImportExtensionBaseParameters", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_test_import_extension_base_parameters.html", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_test_import_extension_base_parameters" ]
+];

@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_command_service =
+[
+    [ "GetCommand", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_command_service.html#a2f5765b4676f4d0ccba1ed8da8e1d857", null ],
+    [ "Reset", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_command_service.html#a7bac1ddbfb06aa5d2d62dc34204dc88d", null ],
+    [ "SetCommand", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_services_1_1_i_bulk_data_import_command_service.html#ab0c21648af5b7af523b47d935ca60ff7", null ]
+];

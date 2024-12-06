@@ -1,0 +1,12 @@
+digraph "EleWise.ELMA.Web.Mvc.Html.CustomMessagesPager.CustomMessagesPager.ToString"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Web.Mvc.Html.\lCustomMessagesPager.CustomMessages\lPager.ToString",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Web.Mvc.Html.\lCustomMessagesPager.CustomMessages\lPager.RenderRightSideOfPager",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_html_1_1_custom_messages_pager_1_1_custom_messages_pager.html#a6d7fd94f8f4eff882387e905c6dac9ce",tooltip=" "];
+  Node2 -> Node1 [id="edge2_Node000002_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

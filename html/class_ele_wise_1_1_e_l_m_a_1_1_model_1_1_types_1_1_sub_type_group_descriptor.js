@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor =
+[
+    [ "SubTypeGroupDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#aa2f6ac2da6175589825261ed2147d88d", null ],
+    [ "CheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#abb4a3a7f55c8f530ad261f2c94fd5f32", null ],
+    [ "CreateSettingsForFilterProperty", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#aa8adf1bcbfed190b2c1708d2b0f08f6b", null ],
+    [ "GetFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a8ee87bf49a570583d63791f4d1e80aec", null ],
+    [ "GetSubTypes", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a54395f76b97eb59daea7967cb982365f", null ],
+    [ "HasRealColumn", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a81551135505bb32d61eb6573b53a0849", null ],
+    [ "IsEmpty", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#aa9d6d447a46dcdedbfc3ef30c9cd995d", null ],
+    [ "IsEmptyOrDefault", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#afbef0fa86b31582a3174119abfbb6ae2", null ],
+    [ "IsPublicApplicationDisplayEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a08b2c636ef832775ab23776e7008813f", null ],
+    [ "IsPublicApplicationEditorEnabled", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a7de069e4a01785b168ccc313ba36dc6b", null ],
+    [ "IsVisibleForMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a7070ab249344bf101559faea5359123d", null ],
+    [ "CanBeNullable", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#af279d41b3ec3965eeeead38c97009c88", null ],
+    [ "DefaultNullableValue", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a12fa9bf992262d66a0cc30cd67c67120", null ],
+    [ "IsAvailibleEditPropertyTable", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a8532e18a477a46dfa981de3216171c42", null ],
+    [ "IsGroup", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a7c1dc4257d702773456b0ae1ce6f0fc2", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#af7080485f189ec68b5865824a7d091f9", null ],
+    [ "ParentUid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#af25abdbefeeef8d51bc9b05dd8a10281", null ],
+    [ "SettingsType", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a40d0edfc4b1add68330f3559f6bd46fc", null ],
+    [ "SubTypes", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a8528b4d68360f7a69bf391c31e60ad9f", null ],
+    [ "SubTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a9cc1df6beea4e42ea0ea14139d51aac2", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#ab97a8bd6eaa0399f9b4aa685279eb2a9", null ],
+    [ "UseForEntity", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a2eac104051f47550d58ecc79fd02d3b7", null ],
+    [ "UseForId", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#a3847020b79a4b2bc4483f4cce9d16171", null ],
+    [ "Visible", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_sub_type_group_descriptor.html#ac596c7f200f34fac87c111b1efffc274", null ]
+];

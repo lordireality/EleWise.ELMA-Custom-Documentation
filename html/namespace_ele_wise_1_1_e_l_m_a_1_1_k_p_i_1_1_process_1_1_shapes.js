@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes =
+[
+    [ "ClusterShape", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_cluster_shape.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_cluster_shape" ],
+    [ "ObjectManagementShape", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_object_management_shape.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_object_management_shape" ],
+    [ "OrganizationItemShape", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_organization_item_shape.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_organization_item_shape" ],
+    [ "ProcessArrowShape", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_process_arrow_shape.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_process_1_1_shapes_1_1_process_arrow_shape" ]
+];

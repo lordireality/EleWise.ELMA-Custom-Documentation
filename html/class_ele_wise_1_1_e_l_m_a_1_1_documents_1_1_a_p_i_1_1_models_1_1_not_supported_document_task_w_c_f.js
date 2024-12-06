@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_models_1_1_not_supported_document_task_w_c_f =
+[
+    [ "NotSupportedDocumentTaskWCF", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_models_1_1_not_supported_document_task_w_c_f.html#a851521807b08230b11d3f4700f2188cb", null ],
+    [ "NotSupportedDocumentTaskWCF", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_models_1_1_not_supported_document_task_w_c_f.html#a4a5c7beceb4a4a423c824d9933e22f9d", null ]
+];

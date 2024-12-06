@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_create_document_subtask_with_digital_signature_action_handler =
+[
+    [ "CreateDocumentSubtaskWithDigitalSignatureActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_create_document_subtask_with_digital_signature_action_handler.html#a883f6e251cdc074ce3c26bccbe78fd4d", null ],
+    [ "ProcessBeforeCreate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_create_document_subtask_with_digital_signature_action_handler.html#a46b2865a6b8b1ac05c15798512233b8d", null ],
+    [ "ProcessBeforeSave", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_create_document_subtask_with_digital_signature_action_handler.html#a185e393a0eb14fe430a5b457cb4001d4", null ]
+];

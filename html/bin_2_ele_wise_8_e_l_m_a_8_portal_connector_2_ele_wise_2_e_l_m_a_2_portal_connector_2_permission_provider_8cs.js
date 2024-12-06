@@ -1,0 +1,4 @@
+var bin_2_ele_wise_8_e_l_m_a_8_portal_connector_2_ele_wise_2_e_l_m_a_2_portal_connector_2_permission_provider_8cs =
+[
+    [ "EleWise.ELMA.PortalConnector.PermissionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_portal_connector_1_1_permission_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_portal_connector_1_1_permission_provider" ]
+];

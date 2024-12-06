@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization =
+[
+    [ "Components", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_components.html", null ],
+    [ "ProcessesLocalizationLoadCustomSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_processes_localization_load_custom_settings" ],
+    [ "ProcessGlobalizationSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_globalization_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_globalization_settings" ],
+    [ "ProcessLocalizationFileResolver", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_localization_file_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_globalization_1_1_process_localization_file_resolver" ]
+];

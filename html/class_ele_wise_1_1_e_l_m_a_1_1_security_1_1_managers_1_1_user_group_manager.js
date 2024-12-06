@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager =
+[
+    [ "UserGroupManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a6bc7e2b78d3a5e6145b2184040fcb5e3", null ],
+    [ "CheckUserInGroup", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a0f227628065f7995bd900e4a939a6f82", null ],
+    [ "CreateUsersByGroupSQLQuery", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a3527851ed464187b8c83644aa4c39f1f", null ],
+    [ "ExportRules", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a08f7d24646ec42e14dc9092ef60d8e28", null ],
+    [ "GetGroupsByIds", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#abf556f6023921432ac269d1d4ee2336a", null ],
+    [ "GetGroupsByUser", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a3f201e0fad8bd0fc40e3d88d1b98f5b0", null ],
+    [ "GetGroupsByUser", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a3c8b50076d8ba9c04765d84e25ca3b8b", null ],
+    [ "GetGroupsByUserQuery", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a735d0781978744f591183ac17099d0e6", null ],
+    [ "GetGroupsByUserQuery", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a63de4f5951d1cda3deb6adb7e344787a", null ],
+    [ "GetMaxGroupUsersCount", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a24b74716821ca2c18ea6d6c93c806185", null ],
+    [ "GetUsersByGroup", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#ad622499a35ea21463fd901e151237dd7", null ],
+    [ "GetUsersByGroup", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a18a636d3067e81fab1e5894d2e10e73b", null ],
+    [ "GetUsersByGroup", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a13b6ac293b5844a14526186bcca2212a", null ],
+    [ "GetUsersByGroup", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a3362ac7ffc9862d9d96cdb3fb3d2e8ba", null ],
+    [ "GetUsersByGroupAsEntity", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#acd0a34467f65299e5a92cc7e6d239516", null ],
+    [ "GetUsersByManyGroups", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#ab20731b1a5cae0880632dfd775cafbf8", null ],
+    [ "HasCircle", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a133248689f920f61721da1e94de337e2", null ],
+    [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#aae9d7c90f5caebfa47bb2aca73c50ef9", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a1ce4b9bbe054a2adb2b37d01def8055f", null ],
+    [ "SetupAutoFilter", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#a94286c7afb2e1826eb3a14a4a1fc06e1", null ],
+    [ "SetupFilter", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#ac501999953f0dc167ab73994f812a526", null ],
+    [ "TransformationProvider", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html#ae1527aa7d860b3d7b4e401fd3d8bf76e", null ]
+];

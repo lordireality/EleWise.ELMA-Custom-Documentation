@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_complete_percent_project_task_solve_model =
+[
+    [ "CompletePercentModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_complete_percent_project_task_solve_model.html#aca874d7226153038590021f8aecdd5ce", null ]
+];

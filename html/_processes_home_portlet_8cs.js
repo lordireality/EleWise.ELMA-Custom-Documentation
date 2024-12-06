@@ -1,0 +1,5 @@
+var _processes_home_portlet_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.Portlets.ProcessesHomePortlet", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet" ],
+    [ "EleWise.ELMA.Workflow.Processes.Web.Portlets.ProcessesHomePortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet_personalization.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet_personalization" ]
+];

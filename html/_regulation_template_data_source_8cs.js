@@ -1,0 +1,4 @@
+var _regulation_template_data_source_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Templates.RegulationTemplateDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_templates_1_1_regulation_template_data_source.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_templates_1_1_regulation_template_data_source" ]
+];

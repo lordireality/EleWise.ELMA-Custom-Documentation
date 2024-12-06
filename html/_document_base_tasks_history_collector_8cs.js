@@ -1,0 +1,4 @@
+var _document_base_tasks_history_collector_8cs =
+[
+    [ "EleWise.ELMA.Documents.Components.DocumentBaseTasksHistoryCollector", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_base_tasks_history_collector.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_base_tasks_history_collector" ]
+];

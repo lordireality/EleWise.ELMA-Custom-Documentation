@@ -1,0 +1,38 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models =
+[
+    [ "ApiMethodResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_method_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_method_response" ],
+    [ "ApiServiceVersionResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_service_version_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_service_version_response" ],
+    [ "ApiVersionResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_version_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_api_version_response" ],
+    [ "AuthResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_auth_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_auth_response" ],
+    [ "CheckPermissionRequest", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_check_permission_request.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_check_permission_request" ],
+    [ "CheckPermissionResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_check_permission_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_check_permission_response" ],
+    [ "DeletedIdsPackage", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_deleted_ids_package.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_deleted_ids_package" ],
+    [ "EntityChangesResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_changes_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_changes_response" ],
+    [ "EntityChangesSyncRequest", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_changes_sync_request.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_changes_sync_request" ],
+    [ "EntityFormData", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_form_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_form_data" ],
+    [ "EntityQueryRequest", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_query_request.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_query_request" ],
+    [ "EntityQueryResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_query_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_entity_query_response" ],
+    [ "IClientSessionDataSets", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_client_session_data_sets.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_client_session_data_sets" ],
+    [ "IPackageChanges", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_package_changes.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_package_changes" ],
+    [ "IPackageChangesFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_package_changes_filter.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_package_changes_filter" ],
+    [ "IPublicApplication", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application" ],
+    [ "IPublicApplicationCompatibilityError", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application_compatibility_error.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application_compatibility_error" ],
+    [ "IPublicApplicationToken", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application_token.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_application_token" ],
+    [ "IPublicCacheData", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_cache_data.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_cache_data" ],
+    [ "IPublicClientCacheToken", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_client_cache_token.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_client_cache_token" ],
+    [ "IPublicClientSession", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_client_session.html", "interface_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_i_public_client_session" ],
+    [ "JwtAuthResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_jwt_auth_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_jwt_auth_response" ],
+    [ "LogOutResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_log_out_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_log_out_response" ],
+    [ "PackageBase", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_base" ],
+    [ "PackageChangesResponse", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_response.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_response" ],
+    [ "PackageChangesSyncData", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_sync_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_sync_data" ],
+    [ "PackageChangesSyncRequest", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_sync_request.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_package_changes_sync_request" ],
+    [ "PackagesCacheData", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_packages_cache_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_packages_cache_data" ],
+    [ "PropertyFormItemData", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_property_form_item_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_property_form_item_data" ],
+    [ "PublicApplicationCompatibilityError", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_public_application_compatibility_error.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_public_application_compatibility_error" ],
+    [ "UpdateIdPackage", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_update_id_package.html", "class_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models_1_1_update_id_package" ],
+    [ "PackageChangesStatus", "namespace_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models.html#a6152957db729f66604e932be97e80b18", [
+      [ "New", "namespace_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models.html#a6152957db729f66604e932be97e80b18a03c2e7e41ffc181a4e84080b4710e81e", null ],
+      [ "Completed", "namespace_ele_wise_1_1_e_l_m_a_1_1_a_p_i_1_1_models.html#a6152957db729f66604e932be97e80b18a07ca5050e697392c9ed47e6453f1453f", null ]
+    ] ]
+];

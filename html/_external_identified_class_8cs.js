@@ -1,0 +1,4 @@
+var _external_identified_class_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.Models.ExternalIdentifiedClass", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_models_1_1_external_identified_class.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_models_1_1_external_identified_class" ]
+];

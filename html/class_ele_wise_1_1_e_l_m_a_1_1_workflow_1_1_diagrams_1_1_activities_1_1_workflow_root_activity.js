@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity =
+[
+    [ "WorkflowRootActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a091f00e0218f514fd17d55720d3e7272", null ],
+    [ "ActivityCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a02b8797c3d99408781feaa8cd09d5ddc", null ],
+    [ "CacheMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a7aaf2d715a384c82609a5f66f1c12760", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a3d68121ef75f37702cb3586bfab2432a", null ],
+    [ "GetInstance", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a37cafcb54dec923a840fb125b9bd5624", null ],
+    [ "GetTrackingService", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a3fe5447198f4fffe2c0be1771215de97", null ],
+    [ "IsStartElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a234bacc3144fc41e482b2711fbb2f6cd", null ],
+    [ "LoadFromDiagram", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a061be1256fdd1da66f02625d3dbd37e2", null ],
+    [ "OnBookmarkResumed", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a3e82da493cfdefd001d8c02cf848cc27", null ],
+    [ "ProcessActivityCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a0d1050f826317f8012487468e14228f1", null ],
+    [ "QueueActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#acf8448e405288742313c3d8c774b6b2a", null ],
+    [ "ScheduleActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a3e53bcff7e9a1b80d9d1d9a4c783df62", null ],
+    [ "Activities", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a56279ad20a1c388c99e605305107b236", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#ab6f074c24adb07d6e7c85b8f9c1a34e6", null ],
+    [ "Diagram", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a2635bd74c61f6d01627de4009c157bb2", null ],
+    [ "Session", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a30373fb198a94b267dd9ed95311cfe8e", null ],
+    [ "SessionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a724a8e568780ff8d49394b8bc9e921a3", null ],
+    [ "StartActivityUid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a3f29f51d025e77eb6b3e01782ea4e4a2", null ],
+    [ "WorkflowActivityInfos", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#ac4154ccbe284f45ac0433467e9f7d75c", null ],
+    [ "WorkflowInstanceManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a1d41a3960cf6217ad32a166ac0cbb44a", null ],
+    [ "WorkflowQueueItemManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#a88ae0a53f750c5323770ac4f3e0af272", null ],
+    [ "WorkflowQueueService", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#af63edc20a524fb20c609c4b599cc0492", null ],
+    [ "WorkflowRuntimeService", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_workflow_root_activity.html#af5b4f4241475de19a83eca9fd81a0e41", null ]
+];

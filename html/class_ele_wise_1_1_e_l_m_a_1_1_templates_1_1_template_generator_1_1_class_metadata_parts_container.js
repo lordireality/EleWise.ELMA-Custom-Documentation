@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_class_metadata_parts_container =
+[
+    [ "ClassMetadataPartsContainer", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_class_metadata_parts_container.html#a2b239663ee4357da88d3d50f92e21561", null ],
+    [ "GetClassMetadataParts", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_class_metadata_parts_container.html#a8914437c426a80e349a901c6bcf71e70", null ]
+];

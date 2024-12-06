@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_folder_filter_fast_save_extended_fields =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_folder_filter_fast_save_extended_fields.html#a32841773d8ba770fc2e0d4f072d6fac9", null ],
+    [ "ClientValidateFunction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_folder_filter_fast_save_extended_fields.html#afa0d9d4d63514ba3c8d10bad91462479", null ],
+    [ "ExtendedDataFilter", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_folder_filter_fast_save_extended_fields.html#a8ebfc07e06127f3cc4ee3b2382a96f3b", null ],
+    [ "Render", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_folder_filter_fast_save_extended_fields.html#a4648915101a63d19fe0ad6e9d9936207", null ]
+];

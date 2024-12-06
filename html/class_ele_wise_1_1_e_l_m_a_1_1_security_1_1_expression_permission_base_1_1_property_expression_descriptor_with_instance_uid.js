@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_expression_permission_base_1_1_property_expression_descriptor_with_instance_uid =
+[
+    [ "PropertyExpressionDescriptorWithInstanceUid", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_expression_permission_base_1_1_property_expression_descriptor_with_instance_uid.html#a336ac141076812d40999b1dd17e1b338", null ],
+    [ "PropertyExpressionDescriptorWithInstanceUid", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_expression_permission_base_1_1_property_expression_descriptor_with_instance_uid.html#acd608c67ec73f4503219b2e66c15f67a", null ],
+    [ "GetExpressionName", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_expression_permission_base_1_1_property_expression_descriptor_with_instance_uid.html#afee8f56ab30423b29fca2eadf814a6e4", null ],
+    [ "RoleType", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_expression_permission_base_1_1_property_expression_descriptor_with_instance_uid.html#a85cfdedc275196d75c1983d4ec4dae15", null ]
+];

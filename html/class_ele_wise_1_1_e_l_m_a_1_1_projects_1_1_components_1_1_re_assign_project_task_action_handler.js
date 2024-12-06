@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_re_assign_project_task_action_handler =
+[
+    [ "ReAssignProjectTaskActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_re_assign_project_task_action_handler.html#a6dda0d90266a5d11bebea6a3a70bfbfa", null ],
+    [ "BeforeCreateProcess", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_re_assign_project_task_action_handler.html#ae0f3aead34588ec66eed9a63c799481b", null ]
+];

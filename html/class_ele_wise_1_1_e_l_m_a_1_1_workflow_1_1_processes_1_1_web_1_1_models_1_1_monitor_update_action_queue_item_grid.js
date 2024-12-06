@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_monitor_update_action_queue_item_grid =
+[
+    [ "GetActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_monitor_update_action_queue_item_grid.html#a31f04dcc39be25154c51f2e9e96b909b", null ],
+    [ "Data", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_monitor_update_action_queue_item_grid.html#ad916e0d1db168689b4d7053199d24a03", null ]
+];

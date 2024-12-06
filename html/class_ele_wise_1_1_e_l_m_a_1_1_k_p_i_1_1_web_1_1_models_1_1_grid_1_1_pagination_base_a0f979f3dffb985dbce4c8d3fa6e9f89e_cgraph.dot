@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.KPI.Web.Models.Grid.PaginationBase.TryExecuteQuery"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.KPI.Web.Models.\lGrid.PaginationBase.TryExecuteQuery",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Executes the query if it has not already been executed."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.KPI.Web.Models.\lGrid.PaginationBase.Count",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_grid_1_1_pagination_base.html#a8e261d46021502ee2593ff2197dadf09",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.KPI.Web.Models.\lGrid.PaginationBase.ExecuteQuery",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_grid_1_1_pagination_base.html#a35f1f0f9443ed023ff628412d4e6d620",tooltip="Calls Queryable.Skip/Take to perform the pagination."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.KPI.Web.Models.\lGrid.PaginationBase.Fetch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_grid_1_1_pagination_base.html#a1503ac73e3c7f13abf5045f904b25422",tooltip=" "];
+}

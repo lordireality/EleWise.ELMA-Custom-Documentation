@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_info =
+[
+    [ "BookInsertInfo", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_info.html#a452cf6c02cf89fd9e91b50cea9461c24", null ],
+    [ "BookConfiguration", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_info.html#ac5fd601ff2e13855f1ff6d8061fc4691", null ]
+];

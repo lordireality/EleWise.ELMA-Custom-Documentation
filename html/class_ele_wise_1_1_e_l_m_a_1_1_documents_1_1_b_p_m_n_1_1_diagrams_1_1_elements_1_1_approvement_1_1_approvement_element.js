@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1f6bfec23dfbd0cc65f8f726b5ca794cf.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1f6bfec23dfbd0cc65f8f726b5ca794cf" ],
+    [ "ApprovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a1606014ccdc192b8df2ef2e14a013e4a", null ],
+    [ "CheckRequired", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#ad2a6876f22ba1050368ec292f4b9ca6d", null ],
+    [ "GenerateName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#afea98f50f3b824d722f67cce0ca91306", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#ab60474659b489d418dbec4183ab5a66b", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#ace2a8a67e51ec2f1923bfba777308243", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a81e926124937cdafe2fe8eb5ba9add36", null ],
+    [ "ActivityListFromContext", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a49b359dbae08f92ce1d7e5a69612d93c", null ],
+    [ "ApprovementWithRouteApprovement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#aa170706bd5ccba455325c38a9b852172", null ],
+    [ "CanCheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#ad1595a4689d735230935b8e676ecd5ca", null ],
+    [ "ContextLinkedUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#acbc5c5f2fc09e47db4e1b2ec0bf751ad", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a7c49c949a2a02966a97e4f9de5b69b2e", null ],
+    [ "DisplayDocumentList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#aa00bb2816d3d7fb298b33d720234bbb8", null ],
+    [ "DisplayDocumentsPreviewTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a3fd3048971775bfd7bdf0df0df170f8c", null ],
+    [ "DisplayDocumentsTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a91c230d8c7598922449072204a21656e", null ],
+    [ "EcpNotRequiredWorkers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a0414a3adb42951f8161678d8be925106", null ],
+    [ "EcpRequired", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a1964a0a769557a822701767e718b2e95", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a7afa5b8bf42b92e6f155e49e3edc9db3", null ],
+    [ "MultipleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a1742b107cace3bdfcccd1500cb36e4fd", null ],
+    [ "OutputCancel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#abfa3cc4c1f26a36fa9a2cf5c914264dd", null ],
+    [ "RouteMatchingGuid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a4389eb6c885cb9f9a4bce722cafa0aea", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a5c42c94b2819f641ab56913a4229b2a7", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#aeb7de7093428ac62cb239688f7fdb665", null ],
+    [ "UseGroupName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html#a103cd1a4361742daecb4a6eaab7bff87", null ]
+];

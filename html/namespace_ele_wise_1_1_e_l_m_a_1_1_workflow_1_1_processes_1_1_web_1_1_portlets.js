@@ -1,0 +1,17 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets =
+[
+    [ "MonitorPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet" ],
+    [ "MonitorPortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_monitor_portlet_personalization" ],
+    [ "MyProcessesPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet" ],
+    [ "MyProcessesPortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization" ],
+    [ "ProcessesHomePortlet", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet" ],
+    [ "ProcessesHomePortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet_personalization.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_processes_home_portlet_personalization" ],
+    [ "StartProcessPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_start_process_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_start_process_portlet" ],
+    [ "StartProcessPortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_start_process_portlet_personalization.html", null ],
+    [ "MyProcessesViewMode", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets.html#ac9d1cf16aac826a850cf424e92312377", [
+      [ "None", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets.html#ac9d1cf16aac826a850cf424e92312377a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "ShowAll", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets.html#ac9d1cf16aac826a850cf424e92312377a4e86de30fa86048437962111d923c3ca", null ],
+      [ "ShowSelected", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets.html#ac9d1cf16aac826a850cf424e92312377a4052e4c09448e373041ec50ac0e6448c", null ],
+      [ "ShowByFilter", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets.html#ac9d1cf16aac826a850cf424e92312377a391c8f33bdaedebd6139e0cfe427405f", null ]
+    ] ]
+];

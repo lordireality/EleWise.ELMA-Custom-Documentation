@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions =
+[
+    [ "IsAvailableApproval", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a6e14fe736e285a6f5f817b27ab4a3358", null ],
+    [ "IsAvailableBreakCurrentControl", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a6d136cb49c09ad8b062965f6d12790c9", null ],
+    [ "IsAvailableChangeControl", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#ad16f917070d95808855a9034fe5bd7c4", null ],
+    [ "IsAvailableClose", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#ae175007617f40d5c09e3366b5a7ad100", null ],
+    [ "IsAvailableCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#aa012f3424cfdb62cab077b4ed99513d8", null ],
+    [ "IsAvailableControlledAction", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#abae8587ce51ebcbaa00083da634cd624", null ],
+    [ "IsAvailableCopy", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a55a60266f54e5d6c783c09914e8e204c", null ],
+    [ "IsAvailableCreateApproval", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a3bbf745a9a98469a987a1e1ce7af907d", null ],
+    [ "IsAvailableCreateSubtask", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a42019b1c87acf84a093bb7d5f6558b05", null ],
+    [ "IsAvailableDateChange", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#abc7015474d953c9b5b48fcb9c97de4a0", null ],
+    [ "IsAvailableDateChange", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a1b180058e1601440de725ceefcab60e9", null ],
+    [ "IsAvailableDeleteWatches", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a0122e32cc0cc3191fb6e282e9113bd2d", null ],
+    [ "IsAvailableEdit", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a21fbd7716ac6188a1a01a898b92aaf7b", null ],
+    [ "IsAvailableInCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#ada7f00d942e710a4c0daa208746f6f22", null ],
+    [ "IsAvailableReAssign", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#afddee65cdcc0205ac80e8502093f286f", null ],
+    [ "IsAvailableSchedule", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a5f353909f9cb460dddc79c97843426cc", null ],
+    [ "IsAvailableStartWork", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a21b9b6cdfac631c8283de276ba6eff48", null ],
+    [ "IsAvailableTakeCurrentControl", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a260f2d871ee90956a0c62728469c3bf8", null ],
+    [ "IsAvailableWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#aa20914cd36519293c93cf6fda00bb8d7", null ],
+    [ "IsAvaliableMarkRead", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#ace5da5c2c2b91fc08e2d434fbb731393", null ],
+    [ "CanScheduleTasks", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#aa27ca3e417e096d907a1ec95f1b976de", null ],
+    [ "TaskBaseManager", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_managers_1_1_task_workflow_actions.html#a93ea8ad314339a6c88f01fc7dca12971", null ]
+];

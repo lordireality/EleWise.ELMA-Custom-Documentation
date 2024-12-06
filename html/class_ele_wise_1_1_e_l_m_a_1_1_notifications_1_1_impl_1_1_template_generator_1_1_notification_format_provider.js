@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_impl_1_1_template_generator_1_1_notification_format_provider =
+[
+    [ "NotificationFormatProvider", "class_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_impl_1_1_template_generator_1_1_notification_format_provider.html#a842ddccd3d7b69ba8c05f697168bb11e", null ]
+];

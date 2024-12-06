@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement6eeef6e4d03c1721225a923171055a55 =
+[
+    [ "DocumentVersionCompareActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement6eeef6e4d03c1721225a923171055a55.html#a32d95d1a3e7c0a00141be58b5eaf06a5", null ]
+];

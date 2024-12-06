@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_i_metadata_item_header_dto_manager =
+[
+    [ "GetGlobalModuleNames", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_i_metadata_item_header_dto_manager.html#a60a89f1427b020995f0777a29b83a082", null ],
+    [ "GetObjectsUidsFromDependencies", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_managers_1_1_i_metadata_item_header_dto_manager.html#a90e8be6db0cad30181981cc8119a8703", null ]
+];

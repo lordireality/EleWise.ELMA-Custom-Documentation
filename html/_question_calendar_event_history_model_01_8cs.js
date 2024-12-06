@@ -1,0 +1,4 @@
+var _question_calendar_event_history_model_01_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Integration.History.QuestionCalendarEventHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_history_1_1_question_calendar_event_history_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_history_1_1_question_calendar_event_history_model" ]
+];

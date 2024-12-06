@@ -1,0 +1,8 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension =
+[
+    [ "CanUseForReplacementTaskType", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension.html#afbcf8da104cf00edd08fad9f95f7e05b", null ],
+    [ "CreatePropertyCriteria", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension.html#a0151eb78f0bdbfb0654a8a438d0de1a6", null ],
+    [ "GetProjections", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension.html#a9e87baaf48cefa6c574bb539ba306005", null ],
+    [ "IsPropertyReadOnly", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension.html#ab3e59455636aa5998955f4d91381b015", null ],
+    [ "ReplaceProperty", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_replacement_task_remap_objects_filter_extension.html#ac475d91ec6afec3cf1476c0b5dd82ca6", null ]
+];

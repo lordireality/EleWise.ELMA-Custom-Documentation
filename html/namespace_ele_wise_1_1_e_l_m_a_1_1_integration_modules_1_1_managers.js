@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers =
+[
+    [ "IntegrationModuleHeaderManager", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_module_header_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_module_header_manager" ],
+    [ "IntegrationModuleManager", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_module_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_module_manager" ],
+    [ "IntegrationModulesGroupManager", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_modules_group_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_managers_1_1_integration_modules_group_manager" ]
+];

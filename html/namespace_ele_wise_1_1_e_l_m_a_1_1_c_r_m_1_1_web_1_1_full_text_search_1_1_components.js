@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_full_text_search_1_1_components =
+[
+    [ "CRMFullTextSearchModeuleSettingsRender", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_full_text_search_1_1_components_1_1_c_r_m_full_20a037a591949baf276e9412e51c0a4d.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_full_text_search_1_1_components_1_1_c_r_m_full_20a037a591949baf276e9412e51c0a4d" ]
+];

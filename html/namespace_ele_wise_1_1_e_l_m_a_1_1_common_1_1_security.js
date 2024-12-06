@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security =
+[
+    [ "CatalogInstancesPermissionBase", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_catalog_instances_permission_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_catalog_instances_permission_base" ],
+    [ "FilterInstanceDefaultPermission", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_instance_default_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_instance_default_permission" ],
+    [ "FilterInstanceSettingsPermission", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_instance_settings_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_instance_settings_permission" ],
+    [ "FilterRoleTypes", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_role_types.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_security_1_1_filter_role_types" ]
+];

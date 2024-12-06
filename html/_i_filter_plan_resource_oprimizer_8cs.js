@@ -1,0 +1,4 @@
+var _i_filter_plan_resource_oprimizer_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.ExtensionPoints.IFilterPlanResourceOprimizer", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extension_points_1_1_i_filter_plan_resource_oprimizer.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extension_points_1_1_i_filter_plan_resource_oprimizer" ]
+];

@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit =
+[
+    [ "EditCollectionActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args" ],
+    [ "IEntityCollectionPropertyHistoryProcessing", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_i_entity_collection_property_history_processing.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_i_entity_collection_property_history_processing" ],
+    [ "WatchEntityActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_watch_entity_action_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_watch_entity_action_handler" ]
+];

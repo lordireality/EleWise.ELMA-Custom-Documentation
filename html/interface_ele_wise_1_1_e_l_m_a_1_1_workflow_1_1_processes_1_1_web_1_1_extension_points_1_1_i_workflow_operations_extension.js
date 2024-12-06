@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_workflow_operations_extension =
+[
+    [ "GetCollapsiblePanel", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_workflow_operations_extension.html#a429ef8bd6a5f715862d1b820e1960c57", null ],
+    [ "GetOperationsGrid", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_workflow_operations_extension.html#a5d0381d6121937489fa14cd05c9993aa", null ],
+    [ "OperationToString", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_workflow_operations_extension.html#aabfa56b822eeadb07574577c9e561ff5", null ],
+    [ "RenderOperations", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_workflow_operations_extension.html#ac98f1dae273cfe35dbdfa62316b762f1", null ]
+];

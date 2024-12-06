@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.BPM.Web.Common.Controllers.LicenseController.InstallComponentsPopup"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Common.\lControllers.LicenseController.Install\lComponentsPopup",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Common.\lControllers.LicenseController.Install\lComponents",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_license_controller.html#a79b8739fd34448ab0b45afb7e1fa87be",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Common.\lControllers.LicenseController.To\lInstallWithRestart",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_license_controller.html#ade05986ae3c9f3a95fec796b3e3b9b91",tooltip="Фильтр компонентов, для установки которых нужен перезапуск сервера"];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BPM.Web.Common.\lControllers.LicenseController.To\lInstall",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_license_controller.html#a8d78dc254792fb23993756fc96ed459f",tooltip=" "];
+}

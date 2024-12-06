@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_projects_2_ele_wise_2_e_l_m_a_2_projects_2_models_2_project_metadata_head_0d27277511beb5f217ae576886c3666e =
+[
+    [ "EleWise.ELMA.Projects.Models.ProjectMetadataPermission", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_project_metadata_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_project_metadata_permission" ]
+];

@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_code_generation_1_1_public_api_1_1_public_api_services_description =
+[
+    [ "PublicApiServicesDescription", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_code_generation_1_1_public_api_1_1_public_api_services_description.html#a52bc0d05739db9c810b5d427f6716628", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_analysis_1_1_shapes_1_1_gauges_1_1_implementation_1_1_traffic_light_gauge =
+[
+    [ "TrafficLightGauge", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_analysis_1_1_shapes_1_1_gauges_1_1_implementation_1_1_traffic_light_gauge.html#ad8bd3873fa15e2d785551321e68ac7fa", null ],
+    [ "UpdateDesignMode", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_analysis_1_1_shapes_1_1_gauges_1_1_implementation_1_1_traffic_light_gauge.html#af3d4978785ed7ea5ca2348539548faac", null ]
+];

@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_export_excel_styled_value_provider =
+[
+    [ "GetStyledValue", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_export_excel_styled_value_provider.html#a0c6faa779d4ee4f9d0ef714dd4f629e5", null ]
+];

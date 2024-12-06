@@ -1,0 +1,6 @@
+var _kpi_groups_8cs =
+[
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Toolbox.KpiGroups.KpiPanel", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_kpi_panel" ],
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Toolbox.KpiGroups.ApprovementElements", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements" ],
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Toolbox.KpiGroups.DataAcquisitionElements", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_g140e1698c9b6e09a15298d004b6f3639.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_g140e1698c9b6e09a15298d004b6f3639" ]
+];

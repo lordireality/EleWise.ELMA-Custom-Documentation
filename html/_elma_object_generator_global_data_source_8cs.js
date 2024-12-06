@@ -1,0 +1,4 @@
+var _elma_object_generator_global_data_source_8cs =
+[
+    [ "EleWise.ELMA.Templates.TemplateGenerator.ElmaObjectGeneratorGlobalDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_elma_object_generator_global_data_source.html", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_elma_object_generator_global_data_source" ]
+];

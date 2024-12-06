@@ -1,0 +1,4 @@
+var _i_extension_monitoring_coordinator_8cs =
+[
+    [ "Orchard.Environment.Extensions.IExtensionMonitoringCoordinator", "interface_orchard_1_1_environment_1_1_extensions_1_1_i_extension_monitoring_coordinator.html", "interface_orchard_1_1_environment_1_1_extensions_1_1_i_extension_monitoring_coordinator" ]
+];

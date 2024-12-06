@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_transformation_1_1_personal_menu_item_transformation_serializer =
+[
+    [ "PersonalMenuItemTransformationSerializer", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_transformation_1_1_personal_menu_item_transformation_serializer.html#aa9f05c222a44601947f91c43e58f83ae", null ]
+];

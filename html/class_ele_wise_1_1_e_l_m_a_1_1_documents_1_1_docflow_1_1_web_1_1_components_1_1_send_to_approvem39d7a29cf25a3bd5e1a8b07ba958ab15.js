@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_send_to_approvem39d7a29cf25a3bd5e1a8b07ba958ab15 =
+[
+    [ "CanRender", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_send_to_approvem39d7a29cf25a3bd5e1a8b07ba958ab15.html#a6ab5aa710340fdfbe07cc1b5d691d05a", null ],
+    [ "Render", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_send_to_approvem39d7a29cf25a3bd5e1a8b07ba958ab15.html#a994ce4dfe8083b970946a26349bc66b4", null ]
+];

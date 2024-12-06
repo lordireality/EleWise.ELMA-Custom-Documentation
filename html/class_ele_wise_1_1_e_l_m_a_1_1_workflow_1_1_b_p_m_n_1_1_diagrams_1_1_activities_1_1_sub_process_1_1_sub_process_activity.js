@@ -1,0 +1,15 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity =
+[
+    [ "SubProcessActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a7f6aa43098c21cda2def6116a7ecfb8e", null ],
+    [ "AddMembers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#afc68fef47ea2ba5c96cb75eee3f27672", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a89decbc5586a753b66fdec560e4b1cd5", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#aec2f84bd9275d31d2807d2f3e102ef68", null ],
+    [ "ExecuteSubProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a798b719298f8383c6d165d951f54e013", null ],
+    [ "GetSubProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a01098388bd00690cd1ad27d7bcbea19b", null ],
+    [ "OnSubInstanceCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#ab969fb823df6c80b1395e9a955e3cf68", null ],
+    [ "OnSubInstanceRunning", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#ae3151f812982881803dcbc830f226e97", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a2e577b10daf7f1ed8816c45421a32c32", null ],
+    [ "ProcessHeaderManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a98934f8a49b010a24b53b82fd362dfaa", null ],
+    [ "WorkflowInstanceManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a4a3d9f34d0ec13f1dfbf388bf5679967", null ],
+    [ "WorkflowProcessManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_1_1_sub_process_activity.html#a87a74c3d7f271759489e6fea0062e236", null ]
+];

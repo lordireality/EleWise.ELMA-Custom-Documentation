@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_base_execute_metadata_property_extension =
+[
+    [ "BaseExecuteMetadataPropertyExtension", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_base_execute_metadata_property_extension.html#a9bd484e170535ef0179db914c07f064f", null ],
+    [ "MetadataPropertyProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_base_execute_metadata_property_extension.html#a0e55af490748d1937e2de6c49a6feba7", null ]
+];

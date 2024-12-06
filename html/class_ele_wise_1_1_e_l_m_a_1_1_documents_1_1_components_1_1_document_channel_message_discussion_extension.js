@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_channel_message_discussion_extension =
+[
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_channel_message_discussion_extension.html#ae80130a349b72886655a84631c4e3480", null ],
+    [ "UpdateMessageObjectsNames", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_channel_message_discussion_extension.html#ac109bfd965c5b10af63fe835f4d6c099", null ]
+];

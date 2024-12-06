@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit =
+[
+    [ "CategoryContractorChangeAccessActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_category_contractor_change_access_action_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_category_contractor_change_access_action_event_args" ],
+    [ "ContractorChangeAccessActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_contractor_change_access_action_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_contractor_change_access_action_event_args" ],
+    [ "ContractorSlaveActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_contractor_slave_action_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_contractor_slave_action_event_args" ],
+    [ "CrmPermissionsInfo", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_crm_permissions_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_audit_1_1_crm_permissions_info" ]
+];

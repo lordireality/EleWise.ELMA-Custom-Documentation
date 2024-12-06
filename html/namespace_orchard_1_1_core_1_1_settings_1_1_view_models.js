@@ -1,0 +1,5 @@
+var namespace_orchard_1_1_core_1_1_settings_1_1_view_models =
+[
+    [ "SiteCulturesViewModel", "class_orchard_1_1_core_1_1_settings_1_1_view_models_1_1_site_cultures_view_model.html", "class_orchard_1_1_core_1_1_settings_1_1_view_models_1_1_site_cultures_view_model" ],
+    [ "SiteSettingsPartViewModel", "class_orchard_1_1_core_1_1_settings_1_1_view_models_1_1_site_settings_part_view_model.html", "class_orchard_1_1_core_1_1_settings_1_1_view_models_1_1_site_settings_part_view_model" ]
+];

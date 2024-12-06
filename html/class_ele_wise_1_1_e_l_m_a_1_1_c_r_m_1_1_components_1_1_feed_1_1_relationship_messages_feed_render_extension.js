@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_feed_1_1_relationship_messages_feed_render_extension =
+[
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_feed_1_1_relationship_messages_feed_render_extension.html#af27d0db08734dc4b8c4f595b68fe685a", null ],
+    [ "MessageTypeCssClass", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_feed_1_1_relationship_messages_feed_render_extension.html#ac79c09bc921dab5ecacdbe69b91e2694", null ]
+];

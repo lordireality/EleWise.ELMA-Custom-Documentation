@@ -1,0 +1,23 @@
+digraph "EleWise.ELMA.BPM.Web.Calendar.Extensions.ConfigDataModelExtension.BaseTimeIntervalCollectionDeserialize"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Calendar.\lExtensions.ConfigDataModelExtension.\lBaseTimeIntervalCollectionDeserialize",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Десериализовать коллекцию базовых интервалов рабочего времени"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Calendar.\lControllers.ProductionScheduleController.\lEditBaseTimeInterval",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_controllers_1_1_production_schedule_controller.html#a1ae749c4c131b0b7413477916f7aaf8d",tooltip="Редактировать базовый временной интервал"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Calendar.\lControllers.ProductionScheduleController.\lEnableBaseConfigAdvancedMode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_controllers_1_1_production_schedule_controller.html#aca6e74f482926dd6e0bdcb7f81b8323f",tooltip="Включить режим расширенной настройки"];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.ProductionSchedule\lModule.Web.Controllers.Exceptional\lDayController.EnableExceptionalDayConfig\lAdvancedMode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_production_schedule_module_1_1_web_1_1_controllers_1_1_exceptional_day_controller.html#accd6c71aa4051fe43b244331b3d29797",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.BPM.Web.Calendar.\lControllers.ProductionScheduleController.\lEnableWeekDayCollectionConfigAdvancedMode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_controllers_1_1_production_schedule_controller.html#a0fa7af859a838c265ca42b0c466a6032",tooltip="Включить расширенный режим для работы с коллекцией дней недели"];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.BPM.Web.Calendar.\lControllers.ProductionScheduleController.\lEnableWeekDayConfigAdvancedMode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_controllers_1_1_production_schedule_controller.html#a311695c40803b24878dfb3c97fac9fcb",tooltip="Включить расширенный режим настройки дня недели"];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.BPM.Web.Calendar.\lModels.ProductionScheduleConfigModel.\lProductionScheduleConfigModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_models_1_1_production_schedule_config_model.html#a9d1092776b9690ae76e1f2d0001302d5",tooltip="Ctor."];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.BPM.Web.Calendar.\lControllers.ProductionScheduleController.\lSaveBaseTimeInterval",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_controllers_1_1_production_schedule_controller.html#a5bf2e26bc8e25975210c203c0a44829a",tooltip="Сохранить базовый временной интервал"];
+}

@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_folders_1_1_favorites_folder_actions =
+[
+    [ "FavoritesFolderActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_folders_1_1_favorites_folder_actions.html#aa10638775deb2064a7fc6a758063f885", null ]
+];

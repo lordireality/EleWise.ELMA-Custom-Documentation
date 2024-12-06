@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.BPM.Web.Calendar.ExtensionPoints.IProductionScheduleMode"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Calendar.\lExtensionPoints.IProductionScheduleMode",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Режим отображения производственного календаря"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Calendar.\lExtensions.ProductionScheduleListMode",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_production_schedule_list_mode.html",tooltip="Отображение производственного календаря в виде списка"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.ProductionSchedule\lModule.Web.Extensions.ProductionSchedule\lCalendarMode",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_production_schedule_module_1_1_web_1_1_extensions_1_1_production_schedule_calendar_mode.html",tooltip=" "];
+}

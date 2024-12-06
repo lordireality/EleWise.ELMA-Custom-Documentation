@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_global_value_template_generator_1_1_elma_enum_s_q_l_parser_global_value =
+[
+    [ "ElmaEnumSQLParserGlobalValue", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_global_value_template_generator_1_1_elma_enum_s_q_l_parser_global_value.html#a373b5d0ab043ccdc00b5de77f8ccbe02", null ],
+    [ "Parse", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_global_value_template_generator_1_1_elma_enum_s_q_l_parser_global_value.html#afe50d5f69179dcfd03e4cbe8b577220b", null ]
+];

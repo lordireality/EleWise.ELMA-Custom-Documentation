@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_column_settings =
+[
+    [ "ReadOnly", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_column_settings.html#a906a0672fce17dde4464a4fa8c220c41", null ]
+];

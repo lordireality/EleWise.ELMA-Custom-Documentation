@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_filter_type_title_extensions =
+[
+    [ "AvailableType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_filter_type_title_extensions.html#ac75d74a4af5d640d41708b8cf68ff50e", null ],
+    [ "GetTitle", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_filter_portlet_filter_type_title_extensions.html#ac3b06551759d603c00937a5856a2d9bd", null ]
+];

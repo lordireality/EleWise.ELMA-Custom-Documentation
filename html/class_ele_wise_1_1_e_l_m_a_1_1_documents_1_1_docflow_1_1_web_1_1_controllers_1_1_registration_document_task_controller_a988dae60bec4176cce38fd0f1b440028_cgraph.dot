@@ -1,0 +1,29 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Controllers.RegistrationDocumentTaskController.Execute"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.RegistrationDocument\lTaskController.Execute",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.RegistrationCardController.\lRegister",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_card_controller.html#ab224c6c5dc22ce7643dc48d812d8c95d",tooltip="Регистрайция документа"];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lInitParentFolder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#a0ca6d82914ee3c4fe90fd8053c02950d",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lValidateFolder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#aa8b8654d91b0b08f4f57c436a5fdb64e",tooltip="Провалидировать папку"];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lInitVersion",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#a4f3e99da31d2711627a467f02fc8b4cc",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lCreateDocumentByTemplate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#a3f0f22b1504b80221c12af23f231b2f0",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lExecuteTemplate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#aa00469e99c418fbd25bf930e4a234752",tooltip=" "];
+  Node6 -> Node8 [id="edge7_Node000006_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lExecuteTemplateToString",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#aa7e1a5b00464d797020a0bfaf9ea608e",tooltip=" "];
+  Node5 -> Node9 [id="edge8_Node000005_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lUseTemplate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#aec1e60b5e059307c38aeff7fafe3e6d4",tooltip=" "];
+  Node2 -> Node10 [id="edge9_Node000002_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentController.\lSaveDocumentFromView",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_controller.html#a2544a485dcdd4b7e70c8c1425a3a957f",tooltip="Сохранить документ из модели отображения"];
+  Node10 -> Node5 [id="edge10_Node000010_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node10 -> Node9 [id="edge11_Node000010_Node000009",color="steelblue1",style="solid",tooltip=" "];
+}

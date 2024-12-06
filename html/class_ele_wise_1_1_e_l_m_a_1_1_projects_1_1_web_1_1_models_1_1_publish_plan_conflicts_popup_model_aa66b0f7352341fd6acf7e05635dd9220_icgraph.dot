@@ -1,0 +1,23 @@
+digraph "EleWise.ELMA.Projects.Web.Models.PublishPlanConflictsPopupModel.DerialiazeConflicts"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.PublishPlanConflictsPopup\lModel.DerialiazeConflicts",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lPublish",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#abe1b4d69fb71deffed0e3378da22767c",tooltip="Публиковать указанную версию черновика плана проекта."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lAutoPublish",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#aad4d20bb91c62f1bf5ba708a136911dc",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lApprove",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#a3073ad81a3a9cbb5ac61969f63a3d25a",tooltip="Утвердить план проекта"];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lAutoPublishSetExecutors",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#a3c711e74353301ead284c09f7bfb7764",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lPublishDraft",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#ad37b89c9b2697f4343a151be33033a61",tooltip="Публиковать указанную версию черновика плана проекта."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lPublish",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#abf6f95b7f8b343a51f7538bd0508b998",tooltip="Публикация плана проекта"];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Projects.Web.\lControllers.ResourcesOptimizer\lController.SaveSendToApproveAndPublish",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_resources_optimizer_controller.html#a77f6a4859c286fb23219e9d3e2725ed2",tooltip="Публикация и отправка на утверждение"];
+}

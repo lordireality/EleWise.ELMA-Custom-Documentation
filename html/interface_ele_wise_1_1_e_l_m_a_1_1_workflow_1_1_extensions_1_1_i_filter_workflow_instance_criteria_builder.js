@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_filter_workflow_instance_criteria_builder =
+[
+    [ "GetInstancesByEntityAddCriteria", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_filter_workflow_instance_criteria_builder.html#a34bfdafd1f058dea4da1f06d073b1b2f", null ],
+    [ "EntityType", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_filter_workflow_instance_criteria_builder.html#a7a75ff4f1a16039b3640279e491d35e0", null ],
+    [ "EntityTypeUids", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_filter_workflow_instance_criteria_builder.html#a279f20c5f7cf6f7b1736b7f1f0786498", null ]
+];

@@ -1,0 +1,4 @@
+var _workflow_role_type_filter_property_editor_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.Components.WorkflowRoleTypeFilterPropertyEditor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_role_type_filter_property_editor.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_role_type_filter_property_editor" ]
+];

@@ -1,0 +1,4 @@
+var _change_status_matrix_shape_8cs =
+[
+    [ "EleWise.ELMA.KPI.Workflow.BPMN.Diagrams.Shapes.MatrixApprovement.ChangeStatusMatrixShape", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix99ee8ea0168bf5a2af3ecd276af323cc.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix99ee8ea0168bf5a2af3ecd276af323cc" ]
+];

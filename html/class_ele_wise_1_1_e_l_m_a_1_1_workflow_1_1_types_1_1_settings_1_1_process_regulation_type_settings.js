@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_process_regulation_type_settings =
+[
+    [ "ProcessRegulationTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_process_regulation_type_settings.html#a9cb100ca1821b0ad74cdf5db91d72abb", null ],
+    [ "ProcessRegulationTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_process_regulation_type_settings.html#ad98d434581b5f9d257c79bd2ea578773", null ]
+];

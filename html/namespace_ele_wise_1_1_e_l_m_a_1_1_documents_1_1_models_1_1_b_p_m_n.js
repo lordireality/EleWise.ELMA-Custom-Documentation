@@ -1,0 +1,25 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n =
+[
+    [ "AssignDocumentTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_assign_document_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_assign_document_task_actions" ],
+    [ "CreateDocumentTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_create_document_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_create_document_task_actions" ],
+    [ "DocumentEditTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_document_edit_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_document_edit_task_actions" ],
+    [ "DocumentTaskGroupBaseActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_document_task_group_base_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_document_task_group_base_actions" ],
+    [ "IAssignDocumentTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_assign_document_task.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_assign_document_task" ],
+    [ "IAssignDocumentTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_assign_document_task_filter.html", null ],
+    [ "ICreateDocumentTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_create_document_task.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_create_document_task" ],
+    [ "ICreateDocumentTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_create_document_task_filter.html", null ],
+    [ "IDocumentEditTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_document_edit_task.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_document_edit_task" ],
+    [ "IDocumentEditTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_document_edit_task_filter.html", null ],
+    [ "IDocumentTaskGroupBase", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_document_task_group_base.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_document_task_group_base" ],
+    [ "IRegistrationDocumentTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_registration_document_task.html", null ],
+    [ "IRegistrationDocumentTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_registration_document_task_filter.html", null ],
+    [ "ISendDocumentTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_document_task.html", null ],
+    [ "ISendToAcquaintanceTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_acquaintance_task.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_acquaintance_task" ],
+    [ "ISendToAcquaintanceTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_acquaintance_task_filter.html", null ],
+    [ "ISendToApprovementTask", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_approvement_task.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_approvement_task" ],
+    [ "ISendToApprovementTaskFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_i_send_to_approvement_task_filter.html", null ],
+    [ "RegistrationDocumentTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_registration_document_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_registration_document_task_actions" ],
+    [ "SendDocumentTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_document_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_document_task_actions" ],
+    [ "SendToAcquaintanceTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_to_acquaintance_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_to_acquaintance_task_actions" ],
+    [ "SendToApprovementTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_to_approvement_task_actions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_send_to_approvement_task_actions" ]
+];

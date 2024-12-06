@@ -1,0 +1,29 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info =
+[
+    [ "ActionType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#aeb07b176f1ee9cf85480cbd178f758ba", [
+      [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#aeb07b176f1ee9cf85480cbd178f758baaec211f7c20af43e742bf2570c3cb84f9", null ],
+      [ "Remove", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#aeb07b176f1ee9cf85480cbd178f758baa1063e38cb53d94d386f21227fcd84717", null ]
+    ] ],
+    [ "PermissionType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774ce", [
+      [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774ceaf19dbf2edb3a0bd74b0524d960ff21eb", null ],
+      [ "Download", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774cea801ab24683a4a8c433c6eb40c48bcd9d", null ],
+      [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774cea7dce122004969d56ae2e0245cb754d35", null ],
+      [ "Issue", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774cea642facf67e0ad311eee88b3ab8381590", null ],
+      [ "Full", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a744707889eb6da2c2f49f87b44b774ceabbd47109890259c0127154db1af26c75", null ]
+    ] ],
+    [ "RoleType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9e", [
+      [ "ContextVarUser", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9ead3e5084b01836b26cb7141c902b85f80", null ],
+      [ "ContextVarGroup", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9ea9be379ccbc5734a964ed1424bd5ae581", null ],
+      [ "ContextVarStructure", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9ea0c707d9af319ca7e2bf15a35820b8115", null ],
+      [ "Group", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9ea03937134cedab9078be39a77ee3a48a0", null ],
+      [ "Structure", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9eadc4c71563b9bc39a65be853457e6b7b6", null ],
+      [ "Author", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9730440f52744ba5737cd42fd5117f9eaa517747c3d12f99244ae598910d979c5", null ]
+    ] ],
+    [ "DocumentChangePermissionsInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a9c55faea8df8bb81d6b2aafae562e14e", null ],
+    [ "Action", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#aa73b257acdc2d8de5b990be1c6d336ee", null ],
+    [ "ApplyToRelated", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a14b66e79890a4242e69501fe0624d7c6", null ],
+    [ "Documents", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#ad6582df304e8f491a894f2f1f420c633", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a544f46cece12a4691fae3a36b1b36ce1", null ],
+    [ "Permissions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a0c409bac2de54acf7bfe2e671e82889a", null ],
+    [ "Roles", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_document_change_permissions_info.html#a5c3e82e89479a3797ea50363e1b509e2", null ]
+];

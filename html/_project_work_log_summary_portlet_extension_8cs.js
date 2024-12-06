@@ -1,0 +1,4 @@
+var _project_work_log_summary_portlet_extension_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Extensions.ProjectWorkLogSummaryTableExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_work_log_summary_table_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_work_log_summary_table_extension" ]
+];

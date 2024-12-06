@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history =
+[
+    [ "CanRender", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#ab1a8aa8204db1a5fc22a7567118db432", null ],
+    [ "GetExtraViewBlock", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#aa6f0fc192e65cc96c71b03273db098cf", null ],
+    [ "RenderAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#a25e129d32e0b858ed3c4959d1139228f", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#a2d14229c17ead1b4af1cf238447de433", null ]
+];

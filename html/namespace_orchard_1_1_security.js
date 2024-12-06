@@ -1,0 +1,25 @@
+var namespace_orchard_1_1_security =
+[
+    [ "Permissions", "namespace_orchard_1_1_security_1_1_permissions.html", "namespace_orchard_1_1_security_1_1_permissions" ],
+    [ "Providers", "namespace_orchard_1_1_security_1_1_providers.html", "namespace_orchard_1_1_security_1_1_providers" ],
+    [ "AlwaysAccessibleAttribute", "class_orchard_1_1_security_1_1_always_accessible_attribute.html", null ],
+    [ "Authorizer", "class_orchard_1_1_security_1_1_authorizer.html", "class_orchard_1_1_security_1_1_authorizer" ],
+    [ "CheckAccessContext", "class_orchard_1_1_security_1_1_check_access_context.html", "class_orchard_1_1_security_1_1_check_access_context" ],
+    [ "CreateUserParams", "class_orchard_1_1_security_1_1_create_user_params.html", "class_orchard_1_1_security_1_1_create_user_params" ],
+    [ "CurrentUserWorkContext", "class_orchard_1_1_security_1_1_current_user_work_context.html", "class_orchard_1_1_security_1_1_current_user_work_context" ],
+    [ "DefaultMembershipValidationService", "class_orchard_1_1_security_1_1_default_membership_validation_service.html", "class_orchard_1_1_security_1_1_default_membership_validation_service" ],
+    [ "IAuthenticationService", "interface_orchard_1_1_security_1_1_i_authentication_service.html", "interface_orchard_1_1_security_1_1_i_authentication_service" ],
+    [ "IAuthorizationService", "interface_orchard_1_1_security_1_1_i_authorization_service.html", "interface_orchard_1_1_security_1_1_i_authorization_service" ],
+    [ "IAuthorizationServiceEventHandler", "interface_orchard_1_1_security_1_1_i_authorization_service_event_handler.html", "interface_orchard_1_1_security_1_1_i_authorization_service_event_handler" ],
+    [ "IAuthorizer", "interface_orchard_1_1_security_1_1_i_authorizer.html", "interface_orchard_1_1_security_1_1_i_authorizer" ],
+    [ "IEncryptionService", "interface_orchard_1_1_security_1_1_i_encryption_service.html", "interface_orchard_1_1_security_1_1_i_encryption_service" ],
+    [ "IMembershipService", "interface_orchard_1_1_security_1_1_i_membership_service.html", "interface_orchard_1_1_security_1_1_i_membership_service" ],
+    [ "IMembershipSettings", "interface_orchard_1_1_security_1_1_i_membership_settings.html", "interface_orchard_1_1_security_1_1_i_membership_settings" ],
+    [ "IMembershipValidationService", "interface_orchard_1_1_security_1_1_i_membership_validation_service.html", "interface_orchard_1_1_security_1_1_i_membership_validation_service" ],
+    [ "ISslSettingsProvider", "interface_orchard_1_1_security_1_1_i_ssl_settings_provider.html", "interface_orchard_1_1_security_1_1_i_ssl_settings_provider" ],
+    [ "IUser", "interface_orchard_1_1_security_1_1_i_user.html", "interface_orchard_1_1_security_1_1_i_user" ],
+    [ "NullMembershipService", "class_orchard_1_1_security_1_1_null_membership_service.html", "class_orchard_1_1_security_1_1_null_membership_service" ],
+    [ "OrchardSecurityException", "class_orchard_1_1_security_1_1_orchard_security_exception.html", "class_orchard_1_1_security_1_1_orchard_security_exception" ],
+    [ "SecurityFilter", "class_orchard_1_1_security_1_1_security_filter.html", "class_orchard_1_1_security_1_1_security_filter" ],
+    [ "StandardPermissions", "class_orchard_1_1_security_1_1_standard_permissions.html", "class_orchard_1_1_security_1_1_standard_permissions" ]
+];

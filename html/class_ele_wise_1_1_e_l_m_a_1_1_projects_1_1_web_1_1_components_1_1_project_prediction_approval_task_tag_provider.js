@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_prediction_approval_task_tag_provider =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_prediction_approval_task_tag_provider.html#abb5600a70d037e2d7dfeffc270215c58", null ],
+    [ "GetTagText", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_prediction_approval_task_tag_provider.html#a4a3d350639b9107ba768c344af648324", null ]
+];

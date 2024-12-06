@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder_provider =
+[
+    [ "GetModelBinders", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder_provider.html#aab3cc6d30944911016e1fb52f18f5740", null ]
+];

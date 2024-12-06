@@ -1,0 +1,4 @@
+var _package_manager_folder_8cs =
+[
+    [ "EleWise.ELMA.Packaging.Components.PackageManager.PackageManagerFolder", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_package_manager_1_1_package_manager_folder.html", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_package_manager_1_1_package_manager_folder" ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_run_with_elevated_privilegies_service_cache_key_formatter =
+[
+    [ "RunWithElevatedPrivilegiesServiceCacheKeyFormatter", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_run_with_elevated_privilegies_service_cache_key_formatter.html#a11d62abb34814896d61052fde5ecd605", null ],
+    [ "Format", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_run_with_elevated_privilegies_service_cache_key_formatter.html#ae89a4d744b80317cbfda35f3bc2e3e3b", null ]
+];

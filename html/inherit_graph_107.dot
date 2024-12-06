@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.BPM.Web.Common.\lExtensionPoints.IFilterPortlet",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_filter_portlet.html",tooltip="Точка расширения для переопределения отображения портлета \"Данные по фильтру\"."];
+  Node0 -> Node1 [id="edge506_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Common.\lExtensions.FilterPortletExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_portlet_extensions.html",tooltip="Компонент, реализующий точку расширения IFilterPortlet."];
+  Node1 -> Node2 [id="edge507_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.CRM.Web.Extensions.\lMarketingFilterPortletExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_extensions_1_1_marketing_filter_portlet_extensions.html",tooltip=" "];
+  Node1 -> Node3 [id="edge508_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lExtensions.ProjectFilterPortlet\lExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_filter_portlet_extensions.html",tooltip="Компонент, реализующий точку расширения IFilterPortlet."];
+  Node0 -> Node4 [id="edge509_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BPM.Web.Tasks.\lExtensions.TasksFilterPortletExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_filter_portlet_extensions.html",tooltip="Расширение портлета \"Данные по фильтру\" для задач"];
+  Node0 -> Node5 [id="edge510_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Workflow.Processes.\lWeb.Extensions.FilterPortletExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_filter_portlet_extensions.html",tooltip="Компонент, реализующий точку расширения IFilterPortlet."];
+}

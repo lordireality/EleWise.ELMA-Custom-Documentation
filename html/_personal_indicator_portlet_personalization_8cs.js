@@ -1,0 +1,4 @@
+var _personal_indicator_portlet_personalization_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Indicators.Web.Portlets.Graphics.PersonalIndicatorPortletPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_per29e28d8e90924c3a816fb3b20b71c2b5.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_portlets_1_1_graphics_1_1_per29e28d8e90924c3a816fb3b20b71c2b5" ]
+];

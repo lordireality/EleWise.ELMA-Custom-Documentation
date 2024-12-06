@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_bace19abb9cd512c71aa9503940a1199 =
+[
+    [ "ExternalSubProcessActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_bace19abb9cd512c71aa9503940a1199.html#a1c0d8ecdac410c7afedda6f63010014d", null ],
+    [ "GetSubProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_bace19abb9cd512c71aa9503940a1199.html#a24045359726ca743d91baacd2d5dfb35", null ],
+    [ "OnSubInstanceCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_bace19abb9cd512c71aa9503940a1199.html#a413ab234d02d4ca970e1d94ff47d1473", null ],
+    [ "OnSubInstanceRunning", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_sub_process_bace19abb9cd512c71aa9503940a1199.html#ab1a91f1d600fa698a14cefda6796db80", null ]
+];

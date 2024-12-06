@@ -1,0 +1,8 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection =
+[
+    [ "GetBookConfigByName", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection.html#af0f527c012f586161405ffd1b9fd1b24", null ],
+    [ "GetBookConfigByUid", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection.html#a66a7e293f57a90f2119a7f279a413a99", null ],
+    [ "Load", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection.html#aec031c2861edfc9a6bf4daab0bcb8cac", null ],
+    [ "Load", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection.html#ab5b99fd2586862cb980a8038a61090f5", null ],
+    [ "ConfigUid", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_i_external_book_configuration_collection.html#a94c0d2863839679056c6fd4c11cd8f80", null ]
+];

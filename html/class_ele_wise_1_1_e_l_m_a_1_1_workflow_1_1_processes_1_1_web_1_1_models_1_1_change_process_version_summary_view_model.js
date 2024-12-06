@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_change_process_version_summary_view_model =
+[
+    [ "AddedProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_change_process_version_summary_view_model.html#ad8de8b2ea15433616c971582d86bd4a4", null ],
+    [ "CurrentProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_change_process_version_summary_view_model.html#a6b6a76c1220006fc352ffe516931b0ba", null ],
+    [ "NewProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_change_process_version_summary_view_model.html#a3d6b06ce9b0df80f6ed380f041e76c67", null ],
+    [ "RemovedProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_change_process_version_summary_view_model.html#a32bc46471dd50e0cf0b1c8d6224a28a6", null ]
+];

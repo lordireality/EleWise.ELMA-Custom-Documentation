@@ -1,0 +1,4 @@
+var _document_search_by_registration_card_view_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Views.DocumentSearchByRegistrationCardView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_docum9eda789b11e564a962024bf51f80a2e0.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_docum9eda789b11e564a962024bf51f80a2e0" ]
+];

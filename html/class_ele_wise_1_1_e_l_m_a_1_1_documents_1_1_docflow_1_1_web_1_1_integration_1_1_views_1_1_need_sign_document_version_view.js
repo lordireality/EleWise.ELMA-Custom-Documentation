@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_need_sign_document_version_view =
+[
+    [ "NeedSignDocumentVersionView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_need_sign_document_version_view.html#ac2606727c2b6ac9d5a2a8c024b9bc7e1", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_need_sign_document_version_view.html#a9406b99442a1eef4ccd186038e5214d4", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_need_sign_document_version_view.html#ad99b113c89961ac01e6211f2ee99ece4", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_code_generation_1_1_c_sharp_1_1_nodes_1_1_namespace_import_declaration_syntax =
+[
+    [ "NamespaceImportDeclarationSyntax", "class_ele_wise_1_1_e_l_m_a_1_1_code_generation_1_1_c_sharp_1_1_nodes_1_1_namespace_import_declaration_syntax.html#a3101dbd2e2c37ecd47ddb283773df69a", null ],
+    [ "InternalGenerate", "class_ele_wise_1_1_e_l_m_a_1_1_code_generation_1_1_c_sharp_1_1_nodes_1_1_namespace_import_declaration_syntax.html#a6750aa0b95a630ded9c12b4f5827c678", null ]
+];

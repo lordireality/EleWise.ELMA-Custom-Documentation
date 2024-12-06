@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj4c0ce4a738307d94b95b4504e2594113.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj4c0ce4a738307d94b95b4504e2594113" ],
+    [ "ProjectPlanApprovalTaskElement", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#a95e32a11e5db1ee3327f178256191902", null ],
+    [ "GetVisiblePropertyUids", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#a5d266d27c4371a142356a1c365b8ecf6", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#a227bf86426bbffc2d753aa7c12da8aaa", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#aff57c64a5523b0e681353bb3c7801ff4", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#a782af295a66c71c98bf4ce075b345631", null ],
+    [ "DefaultRouteTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#ae2ad99d3d982607ab4c6a21ef00ef1a6", null ],
+    [ "FormSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#ab55e4e4e45b0c03e8ff4de4d32f774c6", null ],
+    [ "ProjectPlanId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#abbf46b3be325aea0d381ba24ce92e4bb", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_plan_approval_task_element.html#a30b0faf1574dff24a4462c25bbcf35e3", null ]
+];

@@ -1,0 +1,25 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services =
+[
+    [ "DataProtectionCryptographyService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_data_protection_cryptography_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_data_protection_cryptography_service" ],
+    [ "FileCatalogModuleEnumerator", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_file_catalog_module_enumerator.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_file_catalog_module_enumerator" ],
+    [ "FileStatePersistenceService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_file_state_persistence_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_file_state_persistence_service" ],
+    [ "IAuthenticationService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_authentication_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_authentication_service" ],
+    [ "ICryptographyService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_cryptography_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_cryptography_service" ],
+    [ "IModuleEnumerator", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_module_enumerator.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_module_enumerator" ],
+    [ "IModuleLoaderService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_module_loader_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_module_loader_service" ],
+    [ "IsolatedStorageStatePersistenceService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_isolated_storage_state_persistence_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_isolated_storage_state_persistence_service" ],
+    [ "IStatePersistenceService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_state_persistence_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_state_persistence_service" ],
+    [ "IWorkItemExtensionService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_work_item_extension_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_work_item_extension_service" ],
+    [ "IWorkItemTypeCatalogService", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_work_item_type_catalog_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_i_work_item_type_catalog_service" ],
+    [ "LoadedModuleInfo", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_loaded_module_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_loaded_module_info" ],
+    [ "ModuleEnumeratorException", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_enumerator_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_enumerator_exception" ],
+    [ "ModuleLoaderService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_loader_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_loader_service" ],
+    [ "ModuleLoadException", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_load_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_module_load_exception" ],
+    [ "ReflectionModuleEnumerator", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_reflection_module_enumerator.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_reflection_module_enumerator" ],
+    [ "ServiceMissingException", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_service_missing_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_service_missing_exception" ],
+    [ "StatePersistenceException", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_state_persistence_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_state_persistence_exception" ],
+    [ "StreamStatePersistenceService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_stream_state_persistence_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_stream_state_persistence_service" ],
+    [ "WindowsPrincipalAuthenticationService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_windows_principal_authentication_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_windows_principal_authentication_service" ],
+    [ "WorkItemExtensionService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_work_item_extension_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_work_item_extension_service" ],
+    [ "WorkItemTypeCatalogService", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_work_item_type_catalog_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_services_1_1_work_item_type_catalog_service" ]
+];

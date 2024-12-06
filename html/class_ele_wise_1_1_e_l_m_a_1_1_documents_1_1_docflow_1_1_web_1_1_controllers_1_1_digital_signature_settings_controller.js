@@ -1,0 +1,17 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller =
+[
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a8b7278dfa9a1bd304e7b644d665c809f", null ],
+    [ "GetDigitalSignatureTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a30db25ff9e1d126db320079bc030490a", null ],
+    [ "ProvidersList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#ab496bb97288dac43c29a4f96e536995c", null ],
+    [ "SaveSignCryptoProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a55a95046b46ae2c08ebb335c095c2900", null ],
+    [ "TrustedSignCertificatesCurrentEdit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#aac541e8b69086c28b58776a239eb771c", null ],
+    [ "TrustedSignCertificatesEdit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a6ac3493c295ffb23aca753a47fa6ff4b", null ],
+    [ "View", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a2d167d713e8eaff48144b96b8e27761e", null ],
+    [ "CryptoProviders", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#ad02a3ace29dc02fdf6dc146747d374a4", null ],
+    [ "Settings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a4d3e3c8b1b9e47313c60f986c8fd0c10", null ],
+    [ "SettingsModule", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#ac474bd827f91d5a275c21ee00729defa", null ],
+    [ "SignCryptoProviderService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#aad7f29d7433c71a657d4dec1a4f963a6", null ],
+    [ "TrustedSignCertificatesService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#aec89b2ab1da9c5d55f407dea4a157c06", null ],
+    [ "UserCryptoManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a45440e63e79d73ab26e7a1b5e39c8140", null ],
+    [ "UserManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_digital_signature_settings_controller.html#a897a0785abbb3880b7dbe9132fd2a35c", null ]
+];

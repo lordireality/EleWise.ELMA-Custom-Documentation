@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_answer_feed_comment_action_render_extension =
+[
+    [ "CommentAddInfo", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_answer_feed_comment_action_render_extension.html#a5d79519795c8242cc39b0252678a650e", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_answer_feed_comment_action_render_extension.html#a1c5b6d432ddbbe23ca5738cb4a332b3e", null ]
+];

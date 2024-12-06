@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte1f94379bfb5302b31ab0efc10e9e7d3 =
+[
+    [ "ContextVarSelector", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte1f94379bfb5302b31ab0efc10e9e7d3.html#adcfe64306a5aa891e0ed92b93ddc55e9", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte1f94379bfb5302b31ab0efc10e9e7d3.html#af0d80960b041c4ff0eb67f68bfc44db1", null ],
+    [ "RelationTypes", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte1f94379bfb5302b31ab0efc10e9e7d3.html#acc7b2bbd6816c3e79da12e659f992854", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte1f94379bfb5302b31ab0efc10e9e7d3.html#afe00ca7d8a6f3b6cb3ec2eb1b1157a90", null ]
+];

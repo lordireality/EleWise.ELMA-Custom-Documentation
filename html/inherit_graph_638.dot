@@ -1,0 +1,35 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.Documents.Web.\lHistory.IRenderInDocumentHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_i_render_in_document_history.html",tooltip="Рендерить в истории по документу"];
+  Node0 -> Node1 [id="edge987_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Web.\lHistory.RenderInDocumentHistoryBase",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_in_document_history_base.html",tooltip=" "];
+  Node1 -> Node2 [id="edge988_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.History.RenderDocumentTaskAddComment\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html",tooltip=" "];
+  Node1 -> Node3 [id="edge989_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskAddComment\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html",tooltip=" "];
+  Node1 -> Node4 [id="edge990_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskClose\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_close_history.html",tooltip=" "];
+  Node4 -> Node5 [id="edge991_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Docflow.\lWeb.History.RenderByDocumentTaskClose\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_by_document_task_close_history.html",tooltip=" "];
+  Node1 -> Node6 [id="edge992_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskComplete\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_complete_history.html",tooltip=" "];
+  Node1 -> Node7 [id="edge993_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskControl\lCompleteHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_control_complete_history.html",tooltip=" "];
+  Node1 -> Node8 [id="edge994_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskCreate\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_create_history.html",tooltip=" "];
+  Node1 -> Node9 [id="edge995_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskInComplete\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_in_complete_history.html",tooltip=" "];
+  Node1 -> Node10 [id="edge996_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskMarkRead\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_mark_read_history.html",tooltip=" "];
+  Node1 -> Node11 [id="edge997_Node000001_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskRedirect\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_redirect_history.html",tooltip=" "];
+  Node1 -> Node12 [id="edge998_Node000001_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskStart\lWorkHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_start_work_history.html",tooltip=" "];
+  Node1 -> Node13 [id="edge999_Node000001_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskTerminate\lHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_terminate_history.html",tooltip=" "];
+}

@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization =
+[
+    [ "Components", "namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_components.html", null ],
+    [ "DocumentLocalizationFileResolver", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_file_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_file_resolver" ],
+    [ "DocumentLocalizationLoadCustomSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_load_custom_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_load_custom_settings" ],
+    [ "DocumentsGlobalizationSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_documents_globalization_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_documents_globalization_settings" ]
+];

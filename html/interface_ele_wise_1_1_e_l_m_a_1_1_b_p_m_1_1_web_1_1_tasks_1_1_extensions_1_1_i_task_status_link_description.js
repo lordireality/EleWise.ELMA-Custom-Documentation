@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_status_link_description =
+[
+    [ "CheckType", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_status_link_description.html#a2ff683794722dac9219e47571d5a87b6", null ],
+    [ "Description", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_task_status_link_description.html#a61f7c1c343a42e3262005cdd6754ed62", null ]
+];

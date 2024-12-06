@@ -1,0 +1,4 @@
+var _composite_root_entity_attribute_8cs =
+[
+    [ "EleWise.ELMA.Workflow.CodeGeneration.CompositeRootEntityAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_code_generation_1_1_composite_root_entity_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_code_generation_1_1_composite_root_entity_attribute" ]
+];

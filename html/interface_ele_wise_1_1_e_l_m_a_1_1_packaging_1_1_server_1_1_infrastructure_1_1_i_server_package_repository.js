@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_infrastructure_1_1_i_server_package_repository =
+[
+    [ "GetMetadataPackage", "interface_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_infrastructure_1_1_i_server_package_repository.html#adfa5e4a49fda678e0e45ab091a74045f", null ],
+    [ "RemovePackage", "interface_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_infrastructure_1_1_i_server_package_repository.html#a7b1c95c322993fb271639271959b2b00", null ]
+];

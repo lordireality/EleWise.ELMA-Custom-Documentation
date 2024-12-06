@@ -1,0 +1,4 @@
+var _i_document_storage_settings_block_controller_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Extensions.IDocumentStorageSettingsBlockController", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_i_document_storage_settings_block_controller.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_i_document_storage_settings_block_controller" ]
+];

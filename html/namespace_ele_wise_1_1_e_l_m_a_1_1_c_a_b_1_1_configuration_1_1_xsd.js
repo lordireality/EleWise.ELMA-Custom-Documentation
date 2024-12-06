@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd =
+[
+    [ "ModuleInfoElement", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_module_info_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_module_info_element" ],
+    [ "RoleElement", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_role_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_role_element" ],
+    [ "SolutionProfileElement", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_solution_profile_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_configuration_1_1_xsd_1_1_solution_profile_element" ]
+];

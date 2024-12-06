@@ -1,0 +1,25 @@
+var namespace_nemerle_1_1_core =
+[
+    [ "AssemblyFindException", "class_nemerle_1_1_core_1_1_assembly_find_exception.html", null ],
+    [ "AssertionException", "class_nemerle_1_1_core_1_1_assertion_exception.html", "class_nemerle_1_1_core_1_1_assertion_exception" ],
+    [ "bool", "interface_nemerle_1_1_core_1_1bool.html", null ],
+    [ "byte", "interface_nemerle_1_1_core_1_1byte.html", null ],
+    [ "char", "interface_nemerle_1_1_core_1_1char.html", null ],
+    [ "decimal", "interface_nemerle_1_1_core_1_1decimal.html", null ],
+    [ "double", "interface_nemerle_1_1_core_1_1double.html", null ],
+    [ "float", "interface_nemerle_1_1_core_1_1float.html", null ],
+    [ "int", "interface_nemerle_1_1_core_1_1int.html", null ],
+    [ "list", "class_nemerle_1_1_core_1_1list.html", "class_nemerle_1_1_core_1_1list" ],
+    [ "long", "interface_nemerle_1_1_core_1_1long.html", null ],
+    [ "MatchFailureException", "class_nemerle_1_1_core_1_1_match_failure_exception.html", null ],
+    [ "NullMatchException", "class_nemerle_1_1_core_1_1_null_match_exception.html", null ],
+    [ "object", "interface_nemerle_1_1_core_1_1object.html", null ],
+    [ "option", "class_nemerle_1_1_core_1_1option.html", "class_nemerle_1_1_core_1_1option" ],
+    [ "sbyte", "interface_nemerle_1_1_core_1_1sbyte.html", null ],
+    [ "short", "interface_nemerle_1_1_core_1_1short.html", null ],
+    [ "string", "interface_nemerle_1_1_core_1_1string.html", null ],
+    [ "uint", "interface_nemerle_1_1_core_1_1uint.html", null ],
+    [ "ulong", "interface_nemerle_1_1_core_1_1ulong.html", null ],
+    [ "ushort", "interface_nemerle_1_1_core_1_1ushort.html", null ],
+    [ "ValueOption", "struct_nemerle_1_1_core_1_1_value_option.html", "struct_nemerle_1_1_core_1_1_value_option" ]
+];

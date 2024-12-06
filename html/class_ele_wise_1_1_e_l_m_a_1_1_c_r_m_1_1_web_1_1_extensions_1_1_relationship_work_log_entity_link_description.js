@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_extensions_1_1_relationship_work_log_entity_link_description =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_extensions_1_1_relationship_work_log_entity_link_description.html#aaabd1bb30b7006339a5c0df394b9344b", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_extensions_1_1_relationship_work_log_entity_link_description.html#ae5a6036601717a584602d5aee1e2f2c6", null ]
+];

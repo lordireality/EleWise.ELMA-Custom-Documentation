@@ -1,0 +1,4 @@
+var _http_request_optional_parameters_builder_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Models.BackgroundOperations.HttpRequest.HttpRequestOptionalParametersBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82" ]
+];

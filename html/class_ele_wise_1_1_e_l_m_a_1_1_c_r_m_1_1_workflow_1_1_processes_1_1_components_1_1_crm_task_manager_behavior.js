@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_components_1_1_crm_task_manager_behavior =
+[
+    [ "CrmTaskManagerBehavior", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_components_1_1_crm_task_manager_behavior.html#aedafe99621aca73575ce4caf78fdadb8", null ],
+    [ "OnCreateCriteria", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_components_1_1_crm_task_manager_behavior.html#a6f6449cbac57a8127576a5f6cfa495c4", null ]
+];

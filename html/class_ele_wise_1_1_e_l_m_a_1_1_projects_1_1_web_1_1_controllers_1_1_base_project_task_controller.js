@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller =
+[
+    [ "BreakControl", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#afd4cbb283605b8ddc013a35964329a1b", null ],
+    [ "CreateRelatedGridData", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#aa1e196580c1e159f44fe98567182f953", null ],
+    [ "DoClose", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#ab1324cebd3833771f6718d91ae1dc2b3", null ],
+    [ "DoCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#abe302e4eff12e82e8c84bd97fa109864", null ],
+    [ "DoInCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a473af41ab2e503947540e34a7d01bedc", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#ab408f676258947d1d1bda7e2a73222bc", null ],
+    [ "GetManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#aa48d366a9fa18caff8a8a40ee2ae4316", null ],
+    [ "NotifyRelatedTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a1e2e525d55f43519cde704c690e7f475", null ],
+    [ "PredictionSave", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a6d81b4562a2b6a3174cb3a4a41e39669", null ],
+    [ "RelatedTasks", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#ab855906f5e1cddc0e33945015335e813", null ],
+    [ "ScheduleAddDays", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#afdda246abdbefd3c5f0e1fcad3dadfab", null ],
+    [ "ScheduleAddDays", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#aa2542d986d8d73ff2b86243ca80401aa", null ],
+    [ "ScheduleAddDuration", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#af7023cbdd0220e1ccea3da474bc51687", null ],
+    [ "ScheduleAddDuration", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#aa181a3c202ccb9075aff0ad643b32e84", null ],
+    [ "SetCurrentMenuItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a8d9f889e38b38e62c89e2ac3930a3d52", null ],
+    [ "SetPredictionPopup", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a69017fce68875e0eca718f4ee7344846", null ],
+    [ "StartWork", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a04fd12189552ae657fbb870e129b8646", null ],
+    [ "TakeControl", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a19f2587413657245107e1623c15df2c3", null ],
+    [ "CommentActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#aef7220b57d1209a57050554993552180", null ],
+    [ "CurrentUser", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a2b5cad6364e00c5ccdd6489e5f7e5ce6", null ],
+    [ "Logger", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#ae3dc7f0c0a07204d83afe0314152ad15", null ],
+    [ "ProductionCalendarService", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a5d22d34beecfef1ae9a0236ccc12af6c", null ],
+    [ "ProjectPredictionApprovalTaskManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a968ee299b82baed57a71c34ecd170cf9", null ],
+    [ "ProjectTaskBaseManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a7f2abeecf9bddceaf07d847c774abbd7", null ],
+    [ "WorkLogManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_base_project_task_controller.html#a3a46352319a73fe8e01d4c423953277f", null ]
+];

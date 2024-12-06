@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_decorator =
+[
+    [ "ApprovementDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_decorator.html#a7fbf5c19c559055dabdc8622f67f18fa", null ],
+    [ "CreatePaths", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_decorator.html#a102307d5e1a169bffeb4875f30e24e20", null ]
+];

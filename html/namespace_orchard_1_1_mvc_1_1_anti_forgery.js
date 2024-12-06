@@ -1,0 +1,5 @@
+var namespace_orchard_1_1_mvc_1_1_anti_forgery =
+[
+    [ "AntiForgeryAuthorizationFilter", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_anti_forgery_authorization_filter.html", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_anti_forgery_authorization_filter" ],
+    [ "ValidateAntiForgeryTokenOrchardAttribute", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_validate_anti_forgery_token_orchard_attribute.html", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_validate_anti_forgery_token_orchard_attribute" ]
+];

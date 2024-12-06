@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_convert_registration_card_web_extension =
+[
+    [ "CreateModel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_convert_registration_card_web_extension.html#a5107cdd404bbf86b16621b9eb64b09b1", null ],
+    [ "SetValue", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_convert_registration_card_web_extension.html#a2f04a297a763e4e6cf11b68f973cc904", null ]
+];

@@ -1,0 +1,11 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components =
+[
+    [ "Feed", "namespace_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_feed.html", null ],
+    [ "CloneTaskKpiActionExtendedModelWebHandler", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_clone_task_kpi_action_extended_model_web_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_clone_task_kpi_action_extended_model_web_handler" ],
+    [ "CreateSubSmartTaskActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_create_sub_smart_task_action_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_create_sub_smart_task_action_handler" ],
+    [ "KpiControlPanelFilterPermissionResolver", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_kpi_control_panel_filter_permission_resolver.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_kpi_control_panel_filter_permission_resolver" ],
+    [ "KpiSecurityCacheSetIdAction", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_kpi_security_cache_set_id_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_kpi_security_cache_set_id_action" ],
+    [ "KPITaskUpdatePackages", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_k_p_i_task_update_packages.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_k_p_i_task_update_packages" ],
+    [ "NotificationMindMapFunctions", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_notification_mind_map_functions.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_notification_mind_map_functions" ],
+    [ "SMARTTaskWatchProvider", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_s_m_a_r_t_task_watch_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_components_1_1_s_m_a_r_t_task_watch_provider" ]
+];

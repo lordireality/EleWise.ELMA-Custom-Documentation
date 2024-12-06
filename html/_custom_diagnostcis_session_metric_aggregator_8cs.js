@@ -1,0 +1,4 @@
+var _custom_diagnostcis_session_metric_aggregator_8cs =
+[
+    [ "EleWise.ELMA.Diagnostics.Metrics.Impl.Aggregators.CustomDiagnostcisSessionMetricAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_custom_diagn353440fc472d8511e284b85f35ba3ade.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_custom_diagn353440fc472d8511e284b85f35ba3ade" ]
+];

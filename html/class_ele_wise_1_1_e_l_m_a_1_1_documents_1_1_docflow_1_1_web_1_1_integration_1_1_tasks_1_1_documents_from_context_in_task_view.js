@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view =
+[
+    [ "DocumentsFromContextInTaskView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view.html#a5f63f44dd4c5ecf2379fe521a6ad67e7", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view.html#a8d2754e45a9b15146ae843f774d82253", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view.html#a7f1d192481e47bc4c0b849c6745c5ff7", null ]
+];

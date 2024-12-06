@@ -1,0 +1,4 @@
+var _base_entity_action_unit_of_work_listener_8cs =
+[
+    [ "EleWise.ELMA.Events.Audit.Impl.BaseEntityActionUnitOfWorkListener", "class_ele_wise_1_1_e_l_m_a_1_1_events_1_1_audit_1_1_impl_1_1_base_entity_action_unit_of_work_listener.html", "class_ele_wise_1_1_e_l_m_a_1_1_events_1_1_audit_1_1_impl_1_1_base_entity_action_unit_of_work_listener" ]
+];

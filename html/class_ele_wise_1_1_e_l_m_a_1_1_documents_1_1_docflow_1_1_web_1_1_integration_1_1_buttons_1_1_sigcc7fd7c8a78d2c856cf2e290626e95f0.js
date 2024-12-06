@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sigcc7fd7c8a78d2c856cf2e290626e95f0 =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sigcc7fd7c8a78d2c856cf2e290626e95f0.html#a33d5b137ee66b505fc64ff9812b034b8", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sigcc7fd7c8a78d2c856cf2e290626e95f0.html#a9c231c0af8d587784b31ea48d8ee27e0", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regis84012c30b37eb55a5df2f8f617672391 =
+[
+    [ "IdTabPanal", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regis84012c30b37eb55a5df2f8f617672391.html#a3354f07e6d8e5a8cabfe29945ee8d655", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_regis84012c30b37eb55a5df2f8f617672391.html#afe6019600579490d23de2345a649ee4b", null ]
+];

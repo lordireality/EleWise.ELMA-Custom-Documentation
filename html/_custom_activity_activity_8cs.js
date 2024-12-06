@@ -1,0 +1,4 @@
+var _custom_activity_activity_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Activities.Approvement.CustomActivityActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_custom_activity_activity" ]
+];

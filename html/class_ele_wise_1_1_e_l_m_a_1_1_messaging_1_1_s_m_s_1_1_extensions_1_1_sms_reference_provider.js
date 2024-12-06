@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_s_m_s_1_1_extensions_1_1_sms_reference_provider =
+[
+    [ "GetDefaultReferences", "class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_s_m_s_1_1_extensions_1_1_sms_reference_provider.html#a7afbb80a95d38a07bc695591afc5c468", null ]
+];

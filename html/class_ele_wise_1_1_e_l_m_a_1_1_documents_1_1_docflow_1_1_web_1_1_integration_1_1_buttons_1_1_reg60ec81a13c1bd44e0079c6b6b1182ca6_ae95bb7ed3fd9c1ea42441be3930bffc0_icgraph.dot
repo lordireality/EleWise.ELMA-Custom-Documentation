@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.RegisterExistsDocumentToolbarButton.GetItems"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Buttons.RegisterExists\lDocumentToolbarButton.GetItems",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Получить список активных элементов для анализа в других точках"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Buttons.RegisterExists\lDocumentToolbarButton.InsertItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_reg60ec81a13c1bd44e0079c6b6b1182ca6.html#a43abe043e60a9d3446fc4a86e75e72d3",tooltip="Обработать корневой активный элемент"];
+}

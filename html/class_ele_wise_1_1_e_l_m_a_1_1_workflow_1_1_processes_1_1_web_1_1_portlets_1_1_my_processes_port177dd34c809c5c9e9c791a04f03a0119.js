@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_port177dd34c809c5c9e9c791a04f03a0119 =
+[
+    [ "ProcessItemList", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_port177dd34c809c5c9e9c791a04f03a0119.html#a42ef5195645d3be828a2f30bbc270dee", null ],
+    [ "Processes", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_port177dd34c809c5c9e9c791a04f03a0119.html#a343c46985f94c3356f80fb5c0d35a65b", null ]
+];

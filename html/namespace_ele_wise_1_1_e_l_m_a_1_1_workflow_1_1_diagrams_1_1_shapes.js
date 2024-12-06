@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes =
+[
+    [ "Decorators", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_decorators.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_decorators" ],
+    [ "IBorderDecoratable", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_i_border_decoratable.html", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_i_border_decoratable" ],
+    [ "RectanglePathWithImage", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_rectangle_path_with_image.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_rectangle_path_with_image" ]
+];

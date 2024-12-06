@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity =
+[
+    [ "CatalogEditActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity.html#a32bd1a63a2a4c87b0a8b5f937375149a", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity.html#add59327e919a2fd25841cf59bfc1bb5d", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity.html#abc7513f2cf8187fc6acafccaa59aebdc", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity.html#ac8d1942385db9ac492fdfd7bff0c446a", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_catalog_edit_activity.html#a7176515a8d52acbf0bd978015149d2e6", null ]
+];

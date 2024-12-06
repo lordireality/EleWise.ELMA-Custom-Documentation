@@ -1,0 +1,4 @@
+var _approvement_unconfirm_task_solve_action_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Portlets.ApprovementUnconfirmTaskSolveAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_portlets_1_1_ape00d9f912a99aa0181931f03304ce8da.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_portlets_1_1_ape00d9f912a99aa0181931f03304ce8da" ]
+];

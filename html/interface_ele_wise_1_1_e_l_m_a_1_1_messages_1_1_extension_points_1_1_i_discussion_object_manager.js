@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_extension_points_1_1_i_discussion_object_manager =
+[
+    [ "GetDiscussionObjects", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_extension_points_1_1_i_discussion_object_manager.html#a8dcf08f4e042dc81cd3b3314b3f24e6c", null ]
+];

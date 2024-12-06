@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_script_designer_1_1_translate_data_1_1_root_code_item_type_settings =
+[
+    [ "RootCodeItemTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_script_designer_1_1_translate_data_1_1_root_code_item_type_settings.html#afae6b7a99480712308742b1122775753", null ]
+];

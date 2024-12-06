@@ -1,0 +1,26 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules =
+[
+    [ "Audit", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_audit.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_audit" ],
+    [ "BPMApps", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_apps.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_apps" ],
+    [ "BPMN", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_b_p_m_n" ],
+    [ "CodeGeneration", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_code_generation.html", null ],
+    [ "Components", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components" ],
+    [ "Db", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_db.html", null ],
+    [ "Deploy", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_deploy.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_deploy" ],
+    [ "DTO", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_d_t_o.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_d_t_o" ],
+    [ "DynamicAPI", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_dynamic_a_p_i.html", null ],
+    [ "Exceptions", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions" ],
+    [ "ExtensionPoints", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extension_points.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extension_points" ],
+    [ "Extensions", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions" ],
+    [ "Managers", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers" ],
+    [ "Model", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_model.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_model" ],
+    [ "Models", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models" ],
+    [ "Notifications", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_notifications.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_notifications" ],
+    [ "Properties", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_properties.html", null ],
+    [ "Scripts", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_scripts.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_scripts" ],
+    [ "Security", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_security.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_security" ],
+    [ "Services", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_services.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_services" ],
+    [ "Settings", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_settings.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_settings" ],
+    [ "ViewItems", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items" ],
+    [ "Web", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web" ]
+];

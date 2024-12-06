@@ -1,0 +1,4 @@
+var _document_movement_activity_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Activities.Plugins.DocumentMovementActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_document_movement_activity.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_plugins_1_1_document_movement_activity" ]
+];

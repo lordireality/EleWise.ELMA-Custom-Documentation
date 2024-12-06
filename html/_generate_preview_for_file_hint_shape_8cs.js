@@ -1,0 +1,4 @@
+var _generate_preview_for_file_hint_shape_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Shapes.Plugins.GeneratePreviewForFileHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_gen7b03dd2be5d21feec707b0cbb3290c48.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_gen7b03dd2be5d21feec707b0cbb3290c48" ]
+];

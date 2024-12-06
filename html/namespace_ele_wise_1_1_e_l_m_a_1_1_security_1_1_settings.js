@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings =
+[
+    [ "ExternalMembershipModuleSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_module_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_module_settings" ],
+    [ "ExternalMembershipSettingsHolder", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_settings_holder.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_settings_holder" ],
+    [ "ExternalMembershipSettingsHolderItem", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_settings_holder_item.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_external_membership_settings_holder_item" ],
+    [ "IExternalMembershipModuleSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_i_external_membership_module_settings.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_settings_1_1_i_external_membership_module_settings" ]
+];

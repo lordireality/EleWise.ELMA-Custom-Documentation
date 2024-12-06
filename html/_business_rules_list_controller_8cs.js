@@ -1,0 +1,4 @@
+var _business_rules_list_controller_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Web.Controllers.BusinessRulesListController", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rules_list_controller.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rules_list_controller" ]
+];

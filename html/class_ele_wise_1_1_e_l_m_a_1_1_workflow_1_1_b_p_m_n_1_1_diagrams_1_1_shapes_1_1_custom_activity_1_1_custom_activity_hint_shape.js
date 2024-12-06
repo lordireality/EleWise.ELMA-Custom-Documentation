@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_hint_shape =
+[
+    [ "CustomActivityHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_hint_shape.html#a5d825a95ce9b26243dea543255e556fc", null ],
+    [ "DefaultHeight", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_hint_shape.html#a2f973038336ff5d6c0c0c03087265c7b", null ],
+    [ "DefaultWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_hint_shape.html#a7606fb3e072511c5fef065605d27ab01", null ],
+    [ "Radius", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_custom_activity_1_1_custom_activity_hint_shape.html#af0d35cb313bb0c8c68448d90a0574d75", null ]
+];

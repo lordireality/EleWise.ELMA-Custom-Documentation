@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_static_parameters =
+[
+    [ "OrgItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_static_parameters.html#ab8b82e4a195500e473911cb955892836", null ],
+    [ "PositionKindName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_static_parameters.html#a3ce47ed5d119636c7159db3b7fbb8929", null ]
+];

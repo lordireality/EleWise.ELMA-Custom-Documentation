@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.Workflow.Web.Integration.Tasks.TasksGridExtensionBase"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Workflow.Web.\lIntegration.Tasks.TasksGridExtensionBase",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="IDynamicGridExtension",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Workflow.Web.\lIntegration.Tasks.AllTasksGrid\lExtension",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_all_tasks_grid_extension.html",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Workflow.Web.\lIntegration.Tasks.MyTasksPortlet\lGridExtension",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_my_tasks_portlet_grid_extension.html",tooltip=" "];
+}

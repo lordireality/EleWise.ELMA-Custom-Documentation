@@ -1,0 +1,10 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32 =
+[
+    [ "CommentGlobalVariableHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#ae5906134e956ca6ed7dbdaf6b6e7fef4", null ],
+    [ "Attachments", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#ac3a6c6a4d0aab78fc39f7afc5df4fd7d", null ],
+    [ "ChangedProperties", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#accc0679efa32c84c295e884207dd555c", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#a6e18f15b800784d984b924de1972c337", null ],
+    [ "Comments", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#a4d5b8b44dff6133ea440a6974aac4af6", null ],
+    [ "NewEntity", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#abada4d18799500eb95f614a293dddd37", null ],
+    [ "OldEntity", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html#a748d867784046165fbe201ecabeb8393", null ]
+];

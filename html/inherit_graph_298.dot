@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.BPM.Web.Security.\lExtensionPoints.IProfileActionProviderPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_profile_action_provider_point.html",tooltip="Точка расширения провайдеров для отображения действий с пользователем"];
+  Node0 -> Node1 [id="edge809_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Calendar.\lExtensions.CalendarEventProfileAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_calendar_event_profile_action.html",tooltip="Отображение действий с пользователем в календаре"];
+  Node0 -> Node2 [id="edge810_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Security.\lExtensionPoints.ProfileActionProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_provider.html",tooltip="Провайдер действий, собераемых из действий, помеченных атрибутом ProfileActionAttribute,..."];
+  Node0 -> Node3 [id="edge811_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Tasks.\lExtensions.TaskProfileActions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_task_profile_actions.html",tooltip=" "];
+  Node0 -> Node4 [id="edge812_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Messages.Web.\lExtensions.MessageProfileActions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_extensions_1_1_message_profile_actions.html",tooltip=" "];
+  Node0 -> Node5 [id="edge813_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.vCard.Web.Components.\lAddPopupProfileBtn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1v_card_1_1_web_1_1_components_1_1_add_popup_profile_btn.html",tooltip=" "];
+}

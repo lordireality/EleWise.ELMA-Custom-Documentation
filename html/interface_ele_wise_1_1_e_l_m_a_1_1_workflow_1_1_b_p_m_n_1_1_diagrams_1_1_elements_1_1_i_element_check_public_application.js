@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_element_check_public_application =
+[
+    [ "CheckPublicApplicationCompatibility", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_element_check_public_application.html#a2801c019fd2812ef34bbac3596b4de62", null ],
+    [ "CanCheckPublicApplicationCompatibility", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_element_check_public_application.html#a56de29c8a170a071929e62414e085750", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_conta5b45fafd85b3498185821e975090133 =
+[
+    [ "ContextVarRecipientForNotification", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_conta5b45fafd85b3498185821e975090133.html#a5f73ca122a49e128148fddc8ba38683b", null ],
+    [ "GetRecipients", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_conta5b45fafd85b3498185821e975090133.html#a0a90808cbe70238170b52ae1ef407b6f", null ]
+];

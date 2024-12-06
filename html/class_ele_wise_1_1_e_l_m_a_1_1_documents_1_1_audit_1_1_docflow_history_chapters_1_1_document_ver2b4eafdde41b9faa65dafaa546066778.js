@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_ver2b4eafdde41b9faa65dafaa546066778 =
+[
+    [ "DocumentVersionSignAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_ver2b4eafdde41b9faa65dafaa546066778.html#a83313884083ecc9a0fd32f27b2f515f6", null ],
+    [ "ActionChapterUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_ver2b4eafdde41b9faa65dafaa546066778.html#ac53d3a33f0ca99ec03b48e31e4f2bc1a", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_ver2b4eafdde41b9faa65dafaa546066778.html#ada5dc908cdaf673f1bef203c2b2c0d8f", null ]
+];

@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder =
+[
+    [ "SubProjectBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ae524568c82853a40d53b096f27efff32", null ],
+    [ "AddDocOnEndTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a8772ffd64211e4fc9ed459ab046498b7", null ],
+    [ "AddDocOnEndTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ad3b03c48e2147836ac9904d6f5192869", null ],
+    [ "AddToPlan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#aba13a07c0c22defdf2019262dc013eba", null ],
+    [ "Attachments", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#aaaf36009bd56b5dcf2ef39aa6177f817", null ],
+    [ "Attachments", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a6aeefeae5ae0e02fedd73da2c7b61205", null ],
+    [ "Category", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a218c71d92395b42f7169df5d13048d16", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a264b702e0acab054750ca36b2ac94fd7", null ],
+    [ "DocumentAttachments", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a3344624afbc30e8511763d8da299bb90", null ],
+    [ "DocumentAttachments", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a8decf515e0eed60248da7ef348a3076e", null ],
+    [ "EndDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a54e4395e2a56444a98e3f024376dfc9f", null ],
+    [ "Executor", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a4cb997a35740b8acd5e3a9812761e8a4", null ],
+    [ "Executor", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a59e40f71fea092454d7f140689efb58f", null ],
+    [ "Executor", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a82157f372333c20f71c2079e6a9a79da", null ],
+    [ "Executor", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ada4aed617518cab979de6c406738c1d7", null ],
+    [ "Harmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a7838c0324a32f44ee1e00db2d709f7aa", null ],
+    [ "Harmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a1f678c60fe13f186a4cec2c7fb56a5d0", null ],
+    [ "Harmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a1cd701c5abeaecf8f2561c93be4dd6b7", null ],
+    [ "PlanWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ab68fbeb3e9ca1d37db6d451702aca6a9", null ],
+    [ "PlanWorkLog", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a37128c715b0d5581c3fa97ac32b1bcb4", null ],
+    [ "Priority", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ad8c093f429ef3a110cb8f1c265cb750b", null ],
+    [ "StartDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#a912aaf56b451ebddb9cba0460f2834cf", null ],
+    [ "Subject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_managers_1_1_sub_project_builder.html#ad842fb30caa282b9a76e669896713df5", null ]
+];

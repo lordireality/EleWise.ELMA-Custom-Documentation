@@ -1,0 +1,4 @@
+var _relationship_comment_history_part_provider_8cs =
+[
+    [ "EleWise.ELMA.CRM.Web.Components.RelationshipCommentHistoryPartProvider", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_comment_history_part_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_comment_history_part_provider" ]
+];

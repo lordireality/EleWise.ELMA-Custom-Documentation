@@ -1,0 +1,22 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.BPM.Web.Security.\lExtensionPoints.ICurrentUserPanel\lAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_current_user_panel_action.html",tooltip="Элемент действия в панели информации о текущем пользователе"];
+  Node0 -> Node1 [id="edge799_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Content.\lExtensionPoints.ICurrentUserPanel\lActionDisable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_current_user_panel_action_disable.html",tooltip=" "];
+  Node1 -> Node2 [id="edge800_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Calendar.\lMenu.UserPanelCalendarAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_menu_1_1_user_panel_calendar_action.html",tooltip="Иконка в блоке информации о текущем пользователе"];
+  Node1 -> Node4 [id="edge801_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BPM.Web.Tasks.\lMenu.UserPanelTasksAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_user_panel_tasks_action.html",tooltip="Иконка в блоке информации о текущем пользователе"];
+  Node1 -> Node5 [id="edge802_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Messages.Web.\lMenu.UserPanelMessagesAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_menu_1_1_user_panel_messages_action.html",tooltip="Иконка в блоке информации о текущем пользователе"];
+  Node0 -> Node3 [id="edge803_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Security.\lExtensionPoints.CurrentUserPanel\lAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_current_user_panel_action.html",tooltip="Элемент действия в панели информации о текущем пользователе - базовая реализация"];
+  Node3 -> Node2 [id="edge804_Node000003_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node4 [id="edge805_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node5 [id="edge806_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

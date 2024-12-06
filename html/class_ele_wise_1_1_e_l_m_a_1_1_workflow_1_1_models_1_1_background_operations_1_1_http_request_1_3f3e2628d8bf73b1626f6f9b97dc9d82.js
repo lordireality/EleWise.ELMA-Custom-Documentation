@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82 =
+[
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82.html#a2ef7762e028ed6eabb6300dd3ddb1427", null ],
+    [ "WhenCompleted< TContext >", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82.html#a8926805374595507e9a94483720f96dd", null ],
+    [ "Headers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_3f3e2628d8bf73b1626f6f9b97dc9d82.html#ab2e66c0f98ff2dcc5267ae71dfe033ec", null ]
+];

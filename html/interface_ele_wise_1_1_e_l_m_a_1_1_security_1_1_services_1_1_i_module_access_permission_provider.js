@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_module_access_permission_provider =
+[
+    [ "GetModuleAccessPermissions", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_module_access_permission_provider.html#a2489066d9d1a7227c28ccfca2c629c9c", null ]
+];

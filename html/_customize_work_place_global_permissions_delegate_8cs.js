@@ -1,0 +1,5 @@
+var _customize_work_place_global_permissions_delegate_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Content.Components.CustomizeWorkPlaceGlobalPermissionsDelegate", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_customize_work_place_global_permissions_delegate.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_customize_work_place_global_permissions_delegate" ],
+    [ "PermissionProvider", "_customize_work_place_global_permissions_delegate_8cs.html#a3257664c5314b74566e373dea1d688ba", null ]
+];

@@ -1,0 +1,18 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions =
+[
+    [ "DbAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_action" ],
+    [ "DbCreateColumnAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_column_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_column_action" ],
+    [ "DbCreateForeignKeyAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_foreign_key_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_foreign_key_action" ],
+    [ "DbCreateTableAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_table_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_table_action" ],
+    [ "DbCreateUniqueIndexAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_unique_index_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_create_unique_index_action" ],
+    [ "DbDeleteColumnAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_delete_column_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_delete_column_action" ],
+    [ "DbDeleteTableAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_delete_table_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_delete_table_action" ],
+    [ "DbRenameColumnAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_rename_column_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_rename_column_action" ],
+    [ "DbRenameTableAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_rename_table_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_rename_table_action" ],
+    [ "DbSqlAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_sql_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_sql_action" ],
+    [ "DbUpdateAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_update_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_update_action" ],
+    [ "DbUpdateIsGroupColumnAction", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_update_is_group_column_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_db_update_is_group_column_action" ],
+    [ "IActionsHolder", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_actions_holder.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_actions_holder" ],
+    [ "IDbAction", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_db_action.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_db_action" ],
+    [ "IDbCreateTableActionExtender", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_db_create_table_action_extender.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_db_1_1_actions_1_1_i_db_create_table_action_extender" ]
+];

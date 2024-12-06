@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_docflow_settings_module_controller =
+[
+    [ "DocflowSettingsModuleController", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_docflow_settings_module_controller.html#af2df18e28c354ab5783fc27f3fee06b6", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_docflow_settings_module_controller.html#a19066699603d11cd6d44306870720378", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_docflow_settings_module_controller.html#a5c1bb36d929aa35d6e16514d8d1b10d6", null ]
+];

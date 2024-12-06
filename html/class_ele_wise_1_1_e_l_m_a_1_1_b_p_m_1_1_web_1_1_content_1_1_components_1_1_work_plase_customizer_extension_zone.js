@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_work_plase_customizer_extension_zone =
+[
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_work_plase_customizer_extension_zone.html#ad66e4ad97df34ececcd09055e6081e73", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_work_plase_customizer_extension_zone.html#abea61256cdd93913e3311dc29c9d1753", null ]
+];

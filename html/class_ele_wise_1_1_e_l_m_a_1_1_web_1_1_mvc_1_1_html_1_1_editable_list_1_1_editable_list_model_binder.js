@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_html_1_1_editable_list_1_1_editable_list_model_binder =
+[
+    [ "BindModel", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_html_1_1_editable_list_1_1_editable_list_model_binder.html#ab6f7bafc674eff961ad3c1097986b30b", null ]
+];

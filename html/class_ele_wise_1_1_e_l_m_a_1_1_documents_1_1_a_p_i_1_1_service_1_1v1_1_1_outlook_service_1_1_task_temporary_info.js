@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_task_temporary_info =
+[
+    [ "TaskTemporaryInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_task_temporary_info.html#a6ed48cc4b63a998b0b5ab8bd317f7c8d", null ],
+    [ "ApplyTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_outlook_service_1_1_task_temporary_info.html#a1e18823c5ba66738be6b46c5fe6315ec", null ]
+];

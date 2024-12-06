@@ -1,0 +1,21 @@
+digraph "EleWise.ELMA.Messages.Web.Models.ChannelMessageViewInfo.UpdateChannels"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Messages.Web.\lModels.ChannelMessageViewInfo.\lUpdateChannels",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Обновляет инфоканалы."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelSetModel.\lSetChannels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_information_channel_set_model.html#ae25b233f38299a22d9f2eac412e6268c",tooltip="Инициализация каналов."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelTable\lSetModel.ChannelsCount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_information_channel_table_set_model.html#ac8cdd77e60c10ccb7916cbe848f6dba5",tooltip="Возвращает количество каналов в соответствии с типом TypeChannels."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Messages.Web.\lModels.ChannelSelectorInfo.ChannelsCount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_channel_selector_info.html#aad53536ae905d560e96d51efd4ab725e",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelTable\lSetModel.GetChannels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_information_channel_table_set_model.html#af3486f00b4392f6b6e31136a39ede75b",tooltip="Возвращает все каналы в соответствии с типом TypeChannels и соответственно списку ids."];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Messages.Web.\lModels.ChannelSelectorInfo.Channels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_channel_selector_info.html#a5c1b1f9f237ee51375aa428ef36053bf",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelSetModel.\lMaxCountChannels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_information_channel_set_model.html#a6015ad74db6cfceda7c8153cf921d0dc",tooltip="Максимальное количество отображаемых каналов в контроле выбора каналов."];
+}

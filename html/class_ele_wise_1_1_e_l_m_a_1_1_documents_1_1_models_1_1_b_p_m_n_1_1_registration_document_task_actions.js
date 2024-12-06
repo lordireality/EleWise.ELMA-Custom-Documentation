@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_registration_document_task_actions =
+[
+    [ "RegistrationDocumentTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_b_p_m_n_1_1_registration_document_task_actions.html#acfcf912d0f5ce97d46038ee824fca7d2", null ]
+];

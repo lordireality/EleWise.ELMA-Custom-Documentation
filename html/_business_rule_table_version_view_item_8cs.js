@@ -1,0 +1,4 @@
+var _business_rule_table_version_view_item_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.ViewItems.BusinessRuleVersion.BusinessRuleTableVersionViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rule_version_1_1_busind41ffdd024eb81588f1bbe8d168128cc.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rule_version_1_1_busind41ffdd024eb81588f1bbe8d168128cc" ]
+];

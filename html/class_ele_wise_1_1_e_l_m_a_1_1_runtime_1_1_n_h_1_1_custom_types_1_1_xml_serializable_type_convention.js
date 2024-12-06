@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_types_1_1_xml_serializable_type_convention =
+[
+    [ "XmlSerializableTypeConvention", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_custom_types_1_1_xml_serializable_type_convention.html#a6cbced95f72bfb5bbf9210e7a9a1201a", null ]
+];

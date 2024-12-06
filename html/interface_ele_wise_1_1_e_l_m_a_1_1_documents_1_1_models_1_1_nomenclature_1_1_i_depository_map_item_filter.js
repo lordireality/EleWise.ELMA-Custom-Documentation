@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_depository_map_item_filter =
+[
+    [ "Depository", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_depository_map_item_filter.html#a22bd7091d5e851a2683a6b48425e5a23", null ],
+    [ "DocumentType", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_nomenclature_1_1_i_depository_map_item_filter.html#a93d62588e41455ed28f9e1ace6c35aa8", null ]
+];

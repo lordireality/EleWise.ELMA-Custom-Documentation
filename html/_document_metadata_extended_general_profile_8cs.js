@@ -1,0 +1,4 @@
+var _document_metadata_extended_general_profile_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Views.DocumentMetadataExtendedGeneralProfile", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_docum0ff8815df6fc5de5eed98edd15420588.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_docum0ff8815df6fc5de5eed98edd15420588" ]
+];

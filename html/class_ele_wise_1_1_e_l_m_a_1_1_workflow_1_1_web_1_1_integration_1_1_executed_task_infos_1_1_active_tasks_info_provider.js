@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_executed_task_infos_1_1_active_tasks_info_provider =
+[
+    [ "GetData", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_executed_task_infos_1_1_active_tasks_info_provider.html#a3bb12b95b331adf23a123cc4662db1ab", null ],
+    [ "GetInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_executed_task_infos_1_1_active_tasks_info_provider.html#a7cb95b13ee9c8b4b9f8d94166cf3bfea", null ]
+];

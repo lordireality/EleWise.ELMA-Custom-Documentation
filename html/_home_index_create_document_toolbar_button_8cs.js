@@ -1,0 +1,4 @@
+var _home_index_create_document_toolbar_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Integration.Buttons.HomeIndexCreateDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button" ]
+];

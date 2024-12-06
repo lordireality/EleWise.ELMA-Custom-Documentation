@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_extensions_1_1_contractor_sales_tab_view_item_builder =
+[
+    [ "ContractorSalesTabViewItemBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_extensions_1_1_contractor_sales_tab_view_item_builder.html#a317078ad0244d5a3e82d9f77ed4f0280", null ]
+];

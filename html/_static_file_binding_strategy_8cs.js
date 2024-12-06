@@ -1,0 +1,4 @@
+var _static_file_binding_strategy_8cs =
+[
+    [ "Orchard.DisplayManagement.Descriptors.ResourceBindingStrategy.StaticFileBindingStrategy", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy" ]
+];

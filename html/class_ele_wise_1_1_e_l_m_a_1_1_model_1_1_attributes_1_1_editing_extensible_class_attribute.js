@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_editing_extensible_class_attribute =
+[
+    [ "EditingExtensibleClassAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_editing_extensible_class_attribute.html#a72b26b470e0b5be76dbd84fb504d4412", null ]
+];

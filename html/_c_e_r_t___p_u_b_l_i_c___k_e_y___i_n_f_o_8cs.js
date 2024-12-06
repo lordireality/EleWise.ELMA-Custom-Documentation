@@ -1,0 +1,4 @@
+var _c_e_r_t___p_u_b_l_i_c___k_e_y___i_n_f_o_8cs =
+[
+    [ "EleWise.ELMA.Documents.DigitalSignature.CERT_PUBLIC_KEY_INFO", "struct_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_digital_signature_1_1_c_e_r_t___p_u_b_l_i_c___k_e_y___i_n_f_o.html", "struct_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_digital_signature_1_1_c_e_r_t___p_u_b_l_i_c___k_e_y___i_n_f_o" ]
+];

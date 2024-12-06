@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_components_1_1_user_task_document_from_element_resolver =
+[
+    [ "UserTaskDocumentFromElementResolver", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_components_1_1_user_task_document_from_element_resolver.html#a74ba8540eeefc306626c8f44a69df3f9", null ],
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_components_1_1_user_task_document_from_element_resolver.html#a04256ba5fa9761654a09eea8466e549c", null ]
+];

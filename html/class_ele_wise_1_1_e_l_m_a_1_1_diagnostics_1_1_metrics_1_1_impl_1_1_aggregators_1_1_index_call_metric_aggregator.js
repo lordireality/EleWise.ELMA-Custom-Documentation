@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_index_call_metric_aggregator =
+[
+    [ "IndexCallMetricAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_index_call_metric_aggregator.html#a4482c2c37248cbf210b4b59a11632226", null ],
+    [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_index_call_metric_aggregator.html#a816bedfd8b77fc1229a27812aa1654dc", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure =
+[
+    [ "Parent", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure.html#ae20029e5cbc41d8610115df69fc97ead", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure.html#a814159c21085a05bc87e0d3481b77229", null ]
+];

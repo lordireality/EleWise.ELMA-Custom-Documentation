@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_process_access_group_controller =
+[
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_process_access_group_controller.html#a8c216885e06165219c4ea7ece5a4bba5", null ],
+    [ "ProcessHeaderManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_process_access_group_controller.html#ab6248a714ba26f9f01e91e5f8a53a1fb", null ],
+    [ "UserGroupManager", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_process_access_group_controller.html#acdf294ca051359cb4395086f087fb548", null ]
+];

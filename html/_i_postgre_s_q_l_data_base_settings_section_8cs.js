@@ -1,0 +1,4 @@
+var _i_postgre_s_q_l_data_base_settings_section_8cs =
+[
+    [ "EleWise.ELMA.Extensions.PostgreSQL.IPostgreSQLDataBaseSettingsSection", "interface_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_i_postgre_s_q_l_data_base_settings_section.html", "interface_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_i_postgre_s_q_l_data_base_settings_section" ]
+];

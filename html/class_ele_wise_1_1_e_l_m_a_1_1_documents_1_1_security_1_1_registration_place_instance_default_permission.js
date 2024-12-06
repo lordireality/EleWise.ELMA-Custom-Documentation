@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_registration_place_instance_default_permission =
+[
+    [ "RegistrationPlaceInstanceDefaultPermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_registration_place_instance_default_permission.html#a708538c049857c1b346fbc1ad0827c36", null ],
+    [ "CreatePermissions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_registration_place_instance_default_permission.html#ab3062b789835ca94e7c9223930e61e95", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_security_1_1_registration_place_instance_default_permission.html#a779ebffcbee33d577e2b0a062458daf4", null ]
+];

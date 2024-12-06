@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_appro5e8be5b9672687d445f47cdea85b386e =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_appro5e8be5b9672687d445f47cdea85b386e.html#ade2a5ed972472286073ca0cbe087c720", null ],
+    [ "RenderExtendedControl", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_appro5e8be5b9672687d445f47cdea85b386e.html#a2befb9023c476fed8cab823d21d2da02", null ],
+    [ "SubmitClick", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_appro5e8be5b9672687d445f47cdea85b386e.html#a75edff01bde469fbf4cafe0ad1af6e44", null ]
+];

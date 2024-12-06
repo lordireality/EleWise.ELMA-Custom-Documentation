@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extension_points_1_1_i_document_create_notifier_extension =
+[
+    [ "Notifier", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extension_points_1_1_i_document_create_notifier_extension.html#a254b0817b671089e2fd2597ba1fc9af9", null ]
+];

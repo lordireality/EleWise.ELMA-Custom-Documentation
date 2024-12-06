@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider =
+[
+    [ "ApplyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider.html#af1f791858902ae76934e440ea402b5b1", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider.html#a024946c304e3074c0ecc65a492d450ce", null ],
+    [ "GetFilterProviderData", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider.html#a28914af86072df4d4b7a9196a3d3a8e0", null ],
+    [ "PeriodicityManager", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider.html#a0678f9bd684f00d6175c4c48fc75ea81", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_matrix_1_1_add_template_periodicity_filter_provider.html#a34ee0234fd5eefc165798f8a3b487d8d", null ]
+];

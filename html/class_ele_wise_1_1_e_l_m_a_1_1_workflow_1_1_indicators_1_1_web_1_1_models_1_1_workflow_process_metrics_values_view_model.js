@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_values_view_model =
+[
+    [ "Metric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_values_view_model.html#a1449c56f3dc29ec5213eb9936f1cad35", null ],
+    [ "PeriodText", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_values_view_model.html#a8803c9cc3204473d24996bdbc8bdda8d", null ],
+    [ "ProcessValues", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_values_view_model.html#a281aab79509f73af8ab168f041485b69", null ]
+];

@@ -1,0 +1,5 @@
+var class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_shape_placement_parsing_strategy =
+[
+    [ "ShapePlacementParsingStrategy", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_shape_placement_parsing_strategy.html#a4bd04b426a043a3c1da5273b528ef43e", null ],
+    [ "Discover", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_shape_placement_parsing_strategy.html#a0ff60961ba28f0f9e485d8c1764c3a77", null ]
+];

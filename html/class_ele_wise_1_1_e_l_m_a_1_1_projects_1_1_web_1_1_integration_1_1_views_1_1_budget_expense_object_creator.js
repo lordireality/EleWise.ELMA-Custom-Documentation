@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_integration_1_1_views_1_1_budget_expense_object_creator =
+[
+    [ "IsBase", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_integration_1_1_views_1_1_budget_expense_object_creator.html#a95995a8f6feba473aebc9aebb9685c66", null ]
+];

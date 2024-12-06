@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.BPM.Web.Content.Services.MenuItemPersonalizationAdministration.GetTransformedItem"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Content.\lServices.MenuItemPersonalization\lAdministration.GetTransformedItem",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Получить трансформированный элемент менюТрансформированный элемент меню"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Content.\lControllers.MenuPersonalItemController.\lChangeMenuItemOrder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_menu_personal_item_controller.html#abbad732765e4049018f134bc2ccf3628",tooltip="Поменять порядок элемента меню"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Content.\lControllers.MenuPersonalItemController.\lDisableMenuItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_menu_personal_item_controller.html#afc4987b344e0576f11ca498782c54296",tooltip="Отключить элемент веб-меню"];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BPM.Web.Content.\lControllers.MenuPersonalItemController.\lSavePersonalItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_menu_personal_item_controller.html#a9eecae5a622cc06be0be95693a48549c",tooltip="Сохранить элемент меню"];
+}

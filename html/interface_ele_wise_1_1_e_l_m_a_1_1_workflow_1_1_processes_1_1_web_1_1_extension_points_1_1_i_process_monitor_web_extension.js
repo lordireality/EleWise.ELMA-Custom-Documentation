@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_process_monitor_web_extension =
+[
+    [ "RenderInfoPagePanel", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_process_monitor_web_extension.html#a2b7761060b719b2f49d7b747feadf899", null ],
+    [ "RenderProcessListItemTitle", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extension_points_1_1_i_process_monitor_web_extension.html#afac8a5939e2ff3ade8dd3f68d5b05001", null ]
+];

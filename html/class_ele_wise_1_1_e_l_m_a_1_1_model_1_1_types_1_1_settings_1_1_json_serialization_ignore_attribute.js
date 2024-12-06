@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_json_serialization_ignore_attribute =
+[
+    [ "JsonSerializationIgnoreAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_json_serialization_ignore_attribute.html#a0dc1b384f696d73e17749a12fb4613c8", null ]
+];

@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter =
+[
+    [ "SalesByStageFilter", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a0bcdbb9aebcddba3f4a7ef167fce9cff", null ],
+    [ "FunnelId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a668d34cf721cfd9d36244e4a23909715", null ],
+    [ "ActiveOnly", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#aeee1abda98dafb613523e5597afe0c8c", null ],
+    [ "ClosedStatus", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a24ab0cf8fb06b746e1a02ca43ae7d649", null ],
+    [ "FromStageId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a07ed2d7a43a951f2e7db768f41a4c1c0", null ],
+    [ "Funnel", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a50ede3466dec9079022430512431fff7", null ],
+    [ "Period", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a2492647269ada2dbb45aa32102e2661d", null ],
+    [ "Responsibles", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a03fe81f76a1ebfb3b147f1587b3ffc12", null ],
+    [ "StageMovedUp", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#a501f5c34ef35769e2ae1cf722e79542e", null ],
+    [ "ToStageId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_by_stage_filter.html#ab34cec134660ac813a3130f5c5cb370a", null ]
+];

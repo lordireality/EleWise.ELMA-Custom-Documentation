@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_extension_points_1_1_i_feed_comment_action_render_extension =
+[
+    [ "ActionName", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_extension_points_1_1_i_feed_comment_action_render_extension.html#a90b348059547ff9c5b5a29f033378c4e", null ],
+    [ "CommentAddInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_extension_points_1_1_i_feed_comment_action_render_extension.html#a3442d2fdfa34ac1e1c03b27ae902eaf9", null ],
+    [ "IsSupport", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_extension_points_1_1_i_feed_comment_action_render_extension.html#a53c6c4465654504eefa630426ff57b4a", null ]
+];

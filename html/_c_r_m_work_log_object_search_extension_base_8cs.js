@@ -1,0 +1,4 @@
+var _c_r_m_work_log_object_search_extension_base_8cs =
+[
+    [ "EleWise.ELMA.CRM.Components.WorkLog.CRMWorkLogObjectSearchExtensionBase", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_c_r_m_work_log_object_search_extension_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_c_r_m_work_log_object_search_extension_base" ]
+];

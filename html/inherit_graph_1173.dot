@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="IFullTextSearchModuleSettings\lRender",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge1899_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.CRM.Web.Full\lTextSearch.Components.CRMFullText\lSearchModeuleSettingsRender",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_full_text_search_1_1_components_1_1_c_r_m_full_20a037a591949baf276e9412e51c0a4d.html",tooltip="Точка расширения отображения и редактирования настроек модуля полнотекстового поиска в CRM."];
+  Node0 -> Node2 [id="edge1900_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Web.\lFullTextSearch.Components.Documents\lFullTextSearchModeuleSettingsRender",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_full_text_search_1_1_components_1_1_documen97cbb3c234162d8c3539c27922540c9e.html",tooltip="Точка расширения отображения и редактирования настроек модуля полнотекстового поиска в документах"];
+}

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_milestone_filter_portlet_available_property_uids =
+[
+    [ "AvailableFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_milestone_filter_portlet_available_property_uids.html#a2eee704a97c0ce8bdf7d521ea0abe3c4", null ],
+    [ "AvailablePropertyUids", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_milestone_filter_portlet_available_property_uids.html#a87482015a77c6121fa1fd914e533aad8", null ]
+];

@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6 =
+[
+    [ "PrepareMultipleSign", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html#af01d7de6dfde2bd9f312fbb64e0cbaed", null ],
+    [ "RenderMultipleSignCheckBox", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html#ac4d113f73e053311b18c472c6735bdcb", null ],
+    [ "ReviewModel", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html#aad792bd8d1f83f4580387241252abd4e", null ],
+    [ "Uid", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html#a4715350aec18d9e4576b0181624ea224", null ]
+];

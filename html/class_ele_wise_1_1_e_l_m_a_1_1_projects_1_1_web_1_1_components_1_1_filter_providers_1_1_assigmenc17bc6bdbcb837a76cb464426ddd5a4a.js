@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a =
+[
+    [ "ApplyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a.html#a2a53ead64a4b6d434666c189e8a28613", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a.html#a58a8bd415d055a12d22bfd3faef64872", null ],
+    [ "GetFilterProviderData", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a.html#ab7f2e3d8832686844bfc5daf5db66c98", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_assigmenc17bc6bdbcb837a76cb464426ddd5a4a.html#a47c39566f1f6489b6fb307ec457c62d8", null ]
+];

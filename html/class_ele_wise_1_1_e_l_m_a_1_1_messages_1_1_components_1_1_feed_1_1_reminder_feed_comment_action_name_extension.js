@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_reminder_feed_comment_action_name_extension =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_reminder_feed_comment_action_name_extension.html#adc627350c1502a0c3292e98332eb772f", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_components_1_1_feed_1_1_reminder_feed_comment_action_name_extension.html#ac283927433923b980c44051494c4c320", null ]
+];

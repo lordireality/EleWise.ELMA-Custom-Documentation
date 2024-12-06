@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.IntegrationInfratel.Web/Components"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_4cfda946ac59e86445f2c16255b55c7b {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.Integration\lInfratel.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_4cfda946ac59e86445f2c16255b55c7b.html",tooltip=""]
+  dir_622123a8298ea1fe3945161de7a5d753 [label="Components", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_622123a8298ea1fe3945161de7a5d753.html",tooltip=""];
+  }
+}

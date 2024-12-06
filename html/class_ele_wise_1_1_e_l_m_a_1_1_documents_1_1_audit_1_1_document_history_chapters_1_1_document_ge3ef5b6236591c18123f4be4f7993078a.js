@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ge3ef5b6236591c18123f4be4f7993078a =
+[
+    [ "ActionChapterUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ge3ef5b6236591c18123f4be4f7993078a.html#ac9d0fed5f0d3b72a5166f5f6bb98651a", null ],
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ge3ef5b6236591c18123f4be4f7993078a.html#ad4d617b978a5b4b94c68fcb895b31a6d", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ge3ef5b6236591c18123f4be4f7993078a.html#abfeac1b9e38d768626067538e49291d6", null ],
+    [ "CustomImage", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ge3ef5b6236591c18123f4be4f7993078a.html#aff16918385d46b6f7b067e58adf8aaf2", null ]
+];

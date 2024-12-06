@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_portlet_personalization_header_color_updater =
+[
+    [ "AfterCreate", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_portlet_personalization_header_color_updater.html#a3a25cd447f5db5ff4a9f2986f90beb41", null ],
+    [ "BeforeRender", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_portlet_personalization_header_color_updater.html#a981dbefe921b787ac4a57e69b84bf8ae", null ]
+];

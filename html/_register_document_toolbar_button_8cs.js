@@ -1,0 +1,5 @@
+var _register_document_toolbar_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.RegisterDocumentProcessPopup", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_process_popup" ],
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.RegisterDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_toolbar_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_document_toolbar_button" ]
+];

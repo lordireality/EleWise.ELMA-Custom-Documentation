@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_workflow_monitor_settings_module_controller =
+[
+    [ "WorkflowMonitorSettingsModuleController", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_workflow_monitor_settings_module_controller.html#adc0bc4a048f135f47b5ccb7bae11404b", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_workflow_monitor_settings_module_controller.html#a315cc79207407ff44e531911d1b27bc8", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_controllers_1_1_workflow_monitor_settings_module_controller.html#a661ab8971d5f4a09d04f10d8a7b0d85a", null ]
+];

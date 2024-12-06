@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521 =
+[
+    [ "WebDiagrammerVSwimlaneElementShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a5c1f116367c8712926237e9426fd7af8", null ],
+    [ "BackgroundColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a57433190a40f8f14cb0005b48572241b", null ],
+    [ "Height", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a637fd64dff0b3085d879b782d3a051b9", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a4afac4cf8cad163f59e43eea7db8d2d9", null ],
+    [ "StrokeWidth", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a11c020233c9e9d6daecce748969b1ec8", null ],
+    [ "Width", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_we3de60479087961762f5fec6e76f57521.html#a231cb7f05632bde4e2724959e29a049c", null ]
+];

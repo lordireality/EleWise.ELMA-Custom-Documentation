@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_registration_variant_list =
+[
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_registration_variant_list.html#a1973488d0bd0422d466704666055208d", null ]
+];

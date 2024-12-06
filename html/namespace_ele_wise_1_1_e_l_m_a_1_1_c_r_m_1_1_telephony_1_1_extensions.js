@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions =
+[
+    [ "IPhoneStringConverter", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_phone_string_converter.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_phone_string_converter" ],
+    [ "ITelephonyProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_telephony_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_telephony_provider" ],
+    [ "ITelephonySettingsEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_telephony_settings_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_extensions_1_1_i_telephony_settings_event_handler" ]
+];

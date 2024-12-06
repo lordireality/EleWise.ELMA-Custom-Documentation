@@ -1,0 +1,5 @@
+var _general_object_startable_by_route_process_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Extensions.GeneralObjectStartableByRouteProcess", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_general_object_startable_by_route_process.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_general_object_startable_by_route_process" ],
+    [ "EleWise.ELMA.Workflow.Extensions.GeneralObjectStartableByRouteProcess.StartableProcessesCacheEntry", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_general_object_startable_by_route_pro5832578b57c0a80af24650127df61051.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_general_object_startable_by_route_pro5832578b57c0a80af24650127df61051" ]
+];

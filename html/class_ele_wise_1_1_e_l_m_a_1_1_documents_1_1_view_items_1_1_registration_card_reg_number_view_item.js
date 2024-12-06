@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_registration_card_reg_number_view_item =
+[
+    [ "RegistrationCardRegNumberViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_registration_card_reg_number_view_item.html#ab1c8d34e80f9e73eeb49ecb4dff0f527", null ],
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_registration_card_reg_number_view_item.html#ad652d0500a77a61f9e3b93b95b260f81", null ]
+];

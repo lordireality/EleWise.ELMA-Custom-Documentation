@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_set8465c7284c1ca12b77f509ef6cace104 =
+[
+    [ "SetSendStatusToDocumentToolbarZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_set8465c7284c1ca12b77f509ef6cace104.html#ad4560eb3d0aa73435c25476468edf202", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_set8465c7284c1ca12b77f509ef6cace104.html#ac7eacf2ce6b3fc70439ea9c22d26c89f", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_set8465c7284c1ca12b77f509ef6cace104.html#a2e762a9f767380aedfbf01951a73f6d4", null ]
+];

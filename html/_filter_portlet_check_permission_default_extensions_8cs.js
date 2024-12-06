@@ -1,0 +1,4 @@
+var _filter_portlet_check_permission_default_extensions_8cs =
+[
+    [ "EleWise.ELMA.Common.Extensions.FilterPortletCheckPermissionDefaultExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_default_extensions.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extensions_1_1_filter_portlet_check_permission_default_extensions" ]
+];

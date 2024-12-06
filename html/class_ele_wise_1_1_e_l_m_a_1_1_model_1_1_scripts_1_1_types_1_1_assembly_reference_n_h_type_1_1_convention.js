@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_types_1_1_assembly_reference_n_h_type_1_1_convention =
+[
+    [ "Convention", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_types_1_1_assembly_reference_n_h_type_1_1_convention.html#a4b1a7f76feb5f47862fb143958cd12e9", null ]
+];

@@ -1,0 +1,4 @@
+var _reset_system_settings_translate_change_handler_8cs =
+[
+    [ "EleWise.ELMA.Globalization.ResetSystemSettingsTranslateChangeHandler", "class_ele_wise_1_1_e_l_m_a_1_1_globalization_1_1_reset_system_settings_translate_change_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_globalization_1_1_reset_system_settings_translate_change_handler" ]
+];

@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_i_workflow_root_activity_info =
+[
+    [ "ActivityType", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_i_workflow_root_activity_info.html#a1b62c972c0999bee76ed41309a0fa24b", null ],
+    [ "DiagramType", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_i_workflow_root_activity_info.html#a42e6ed2fbf610b1a7f9b39e1b71df3ac", null ]
+];

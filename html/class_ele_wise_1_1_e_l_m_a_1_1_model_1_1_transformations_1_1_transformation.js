@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation =
+[
+    [ "DebugView", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation_1_1_debug_view.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation_1_1_debug_view" ],
+    [ "Transformation", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a22eb7ea9fbfd9df61fe407b5a25b5cb7", null ],
+    [ "Transformation", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a22eb7ea9fbfd9df61fe407b5a25b5cb7", null ],
+    [ "AddMoveTransformations", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a2039ef40c04f3b643a0c1261d50eeb53", null ],
+    [ "Apply", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a4a8a664f64a9d041d7288c7002a21ea4", null ],
+    [ "ApplyLocalization", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a4a4647f3a00da6178133b0fbf13b4188", null ],
+    [ "ChangeTransformations", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a2fe97cff6e70d6b325e5a88268f53818", null ],
+    [ "ConvertUid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#ac74f552b929999f686b6e27ea0931373", null ],
+    [ "GetLocalizableStrings", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a11f2b29c81a57352ed73d7789973e2f5", null ],
+    [ "HideTransformations", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#af542f5ab0cec9bb45b2de40375d7f19c", null ],
+    [ "TransformationAdd", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a819dd62a7cb04e866c802498de4d46b7", null ],
+    [ "TransformationAdd", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#ac78d9dc8ad804872d0ea27066b46553b", null ],
+    [ "TransformationChange", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a42a89ddf27a9a00ee37c9403b637768e", null ],
+    [ "TransformationChange", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#add41ca6079b41909973e91754cff6765", null ],
+    [ "TransformationChange", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a9cb8c2decb0a8a159b478887f6534d32", null ],
+    [ "TransformationChange", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#ac23883c1cdaaaf280ca5e6a215591c89", null ],
+    [ "TransformationChange", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#afa3056676512fd9c4639456b5f479980", null ],
+    [ "TransformationCreate", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a9401675e6f831d8ad57e93b32bdb522e", null ],
+    [ "TransformationHide", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a1858a79ea03ca18fde64d0c482817138", null ],
+    [ "TransformationHide", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a8d7e37f411f97fbbff0e5c820fd3107d", null ],
+    [ "TransformationMove", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#abcd9c235e7cc940f4a0e37b6b0947518", null ],
+    [ "TransformationMove", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a7ba7184d4b2d8438e23c28c619f059c5", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_transformations_1_1_transformation.html#a5a7b8c43c4d5803aad3f7147aabd1953", null ]
+];

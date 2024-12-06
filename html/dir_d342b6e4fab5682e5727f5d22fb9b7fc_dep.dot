@@ -1,0 +1,22 @@
+digraph "Web/Modules/EleWise.ELMA.BusinessRules.Web/Components"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_e46483da9f373966ce645ecac7252ff4 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.BusinessRules.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_e46483da9f373966ce645ecac7252ff4.html",tooltip=""]
+  subgraph clusterdir_d342b6e4fab5682e5727f5d22fb9b7fc {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_d342b6e4fab5682e5727f5d22fb9b7fc.html",tooltip=""]
+    dir_d342b6e4fab5682e5727f5d22fb9b7fc [shape=plaintext, label="Components"];
+  dir_1d2ecbae34327594147d4d88d6d36d1a [label="Audit", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_1d2ecbae34327594147d4d88d6d36d1a.html",tooltip=""];
+  dir_115ce0a7c410709025ef55f6b0bde16f [label="EntityLink", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_115ce0a7c410709025ef55f6b0bde16f.html",tooltip=""];
+  dir_e79cd339e7271e462670d7ba7a996e78 [label="Icon", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e79cd339e7271e462670d7ba7a996e78.html",tooltip=""];
+  dir_59bbdb01033227597452c921d4edf92c [label="Menu", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_59bbdb01033227597452c921d4edf92c.html",tooltip=""];
+  dir_ebd4ff9510f2965ed3b726b6afdb9a20 [label="Security", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ebd4ff9510f2965ed3b726b6afdb9a20.html",tooltip=""];
+  dir_e4317b014122b5cab96909219f7cdda1 [label="Toolbar", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e4317b014122b5cab96909219f7cdda1.html",tooltip=""];
+  dir_665e706659adbf074f2992559317666b [label="ViewItems", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_665e706659adbf074f2992559317666b.html",tooltip=""];
+  }
+  }
+}

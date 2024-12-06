@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_overtime_work_log_with_drafts_extension =
+[
+    [ "OvertimeDescriptionMap", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_overtime_work_log_with_drafts_extension.html#a960825d5d5c5a9b0242026059ea99e80", null ],
+    [ "SupportedModels", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_overtime_work_log_with_drafts_extension.html#a76c250e0fc683c44dac838e5796f8c69", null ]
+];

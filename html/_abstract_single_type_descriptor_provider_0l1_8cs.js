@@ -1,0 +1,4 @@
+var _abstract_single_type_descriptor_provider_0l1_8cs =
+[
+    [ "EleWise.ELMA.DevServer.TypeDescriptors.AbstractSingleTypeDescriptorProvider< TTd >", "class_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_abstract_single_type_descriptor_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_dev_server_1_1_type_descriptors_1_1_abstract_single_type_descriptor_provider" ]
+];

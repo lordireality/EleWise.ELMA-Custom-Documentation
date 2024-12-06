@@ -1,0 +1,4 @@
+var _i_validate_publish_handler_8cs =
+[
+    [ "EleWise.ELMA.ExtensionPoints.Publication.IValidatePublishHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_validate_publish_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_validate_publish_handler" ]
+];

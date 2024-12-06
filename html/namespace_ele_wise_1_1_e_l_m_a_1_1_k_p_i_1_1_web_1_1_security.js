@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security =
+[
+    [ "ModulePermissionsPageProvider", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_module_permissions_page_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_module_permissions_page_provider" ],
+    [ "PerformanceMatrixPermissionsPage", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_performance_matrix_permissions_page.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_performance_matrix_permissions_page" ]
+];

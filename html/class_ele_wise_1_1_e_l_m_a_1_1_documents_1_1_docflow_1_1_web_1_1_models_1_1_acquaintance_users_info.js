@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_acquaintance_users_info =
+[
+    [ "AcquaintanceUsersInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_acquaintance_users_info.html#a662cd8d4b04e3660414bd844032f810c", null ]
+];

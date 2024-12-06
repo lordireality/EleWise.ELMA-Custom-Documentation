@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_shape =
+[
+    [ "WorkflowInstanceStatusShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_shape.html#a85991f9dec9231a8b327df2846f1afb3", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_shape.html#a405f5bd794f33b86d05046212a31d0b8", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_workflow_instance_status_shape.html#aeb864eb81f8ca94f4ef016ae6914fead", null ]
+];

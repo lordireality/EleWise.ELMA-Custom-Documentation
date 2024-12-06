@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_deny_reassign_executor_user_task_element_extentions =
+[
+    [ "DenyReassignExecutorUserTaskElementExtentions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_deny_reassign_executor_user_task_element_extentions.html#ac6b1d8cf507782f4c618ce0a5aa4f881", null ],
+    [ "DenyReassign", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_deny_reassign_executor_user_task_element_extentions.html#a2652273048d0b6dba8a94d924a8e2dac", null ]
+];

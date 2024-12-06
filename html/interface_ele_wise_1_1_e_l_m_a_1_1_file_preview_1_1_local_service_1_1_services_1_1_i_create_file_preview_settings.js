@@ -1,0 +1,8 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings =
+[
+    [ "CheckQueuePeriod", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html#a9fe9c839b15ff1a9cc69f6f94f4c6275", null ],
+    [ "DomainHealthCheckPeriod", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html#af8efd3a001a42f3b2d6333c7dda35588", null ],
+    [ "FilePreviewCreatorRoot", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html#ae071cba6eca316cb0e5360a4d9be0944", null ],
+    [ "MaxMemorySize", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html#a20e18d4f18438bfa21518f5f16a3a171", null ],
+    [ "MaxProcessingTime", "interface_ele_wise_1_1_e_l_m_a_1_1_file_preview_1_1_local_service_1_1_services_1_1_i_create_file_preview_settings.html#ae7c3a2fc7bc44d975b619db9ab225171", null ]
+];

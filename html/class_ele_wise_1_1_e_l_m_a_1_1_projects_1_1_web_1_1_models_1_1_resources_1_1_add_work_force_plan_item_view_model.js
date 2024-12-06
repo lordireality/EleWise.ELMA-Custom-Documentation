@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model =
+[
+    [ "AddWorkForcePlanItemViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model.html#a3623bab24ceaa46b9ec9c52db11b3c5b", null ],
+    [ "AddWorkForcePlanItemViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model.html#a8d3501827390ca1fbe3df8811611b0c0", null ],
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model.html#a6fe8edd28e336df7cccf7819f288c242", null ],
+    [ "ExcludeIdList", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model.html#a0b48a216f6e0f52d6f00b871d6f492ac", null ],
+    [ "Prefix", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_work_force_plan_item_view_model.html#adbae50afb97903cdb3a821b5dfab0fef", null ]
+];

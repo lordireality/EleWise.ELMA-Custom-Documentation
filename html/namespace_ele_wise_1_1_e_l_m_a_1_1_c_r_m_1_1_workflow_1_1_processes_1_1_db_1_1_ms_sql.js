@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql =
+[
+    [ "CrmExpertDbStructure", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure" ]
+];

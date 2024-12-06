@@ -1,0 +1,6 @@
+var _notification_element_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Tasks.NotificationElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notification_element" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Tasks.NotificationElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notiafcd5f8ca85870c7adf165aac9429137.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notiafcd5f8ca85870c7adf165aac9429137" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Tasks.NotificationElement.DataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_noti7e73ef425ca00e936d2d11be0f1402f2.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_noti7e73ef425ca00e936d2d11be0f1402f2" ]
+];

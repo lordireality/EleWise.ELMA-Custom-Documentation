@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extensions_1_1_block_user_select_group_resolver =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extensions_1_1_block_user_select_group_resolver.html#a9dd8ab229d39f85de8c6a7ea9d9aa52c", null ],
+    [ "GetGroups", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extensions_1_1_block_user_select_group_resolver.html#a2a23fe939aa84df00d9f1170cdd02597", null ]
+];

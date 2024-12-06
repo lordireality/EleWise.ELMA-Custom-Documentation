@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_sync_permission_holder_extension_point =
+[
+    [ "CanUse", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_sync_permission_holder_extension_point.html#adcacdaf5e28a743f725cd37a3d82d2f8", null ],
+    [ "SkipRemove", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_sync_permission_holder_extension_point.html#ab4fdc07ccbf6e13921a86158a84fd154", null ]
+];

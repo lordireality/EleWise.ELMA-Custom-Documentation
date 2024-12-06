@@ -1,0 +1,4 @@
+var _document_approvement_task_link_string_url_resolver_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Extensions.Links.DocumentApprovementTaskLinkStringUrlResolver", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_docume2100777832cc3d31cb0150491d66843a.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_docume2100777832cc3d31cb0150491d66843a" ]
+];

@@ -1,0 +1,4 @@
+var _calendar_event_questions_history_part_provider_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Integration.History.CalendarEventQuestionsHistoryPartProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_history_1_1_calendar_7b9a2926271229dfdb528ed392cb4b40.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_history_1_1_calendar_7b9a2926271229dfdb528ed392cb4b40" ]
+];

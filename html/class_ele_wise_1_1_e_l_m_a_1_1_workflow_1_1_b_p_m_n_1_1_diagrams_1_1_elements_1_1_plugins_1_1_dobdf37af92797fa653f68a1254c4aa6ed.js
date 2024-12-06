@@ -1,0 +1,14 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dod6b5e891543e4b254016487d6f405213.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dod6b5e891543e4b254016487d6f405213" ],
+    [ "DocumentChangePermissionsElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#aad93b761c437d47ef9c84c412e282b37", null ],
+    [ "GetAvaiableOutputElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a85576cdd6ffde0b60e11039a101176c4", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a831bff2c90a30f3d42718b2d90f40809", null ],
+    [ "HtmlFooter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a86bb219a3857d03a6dac26465eb4a200", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a0d448542f2ea02dfce7050fbe11afa24", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a0b86711871f6dd880506da38bf572018", null ],
+    [ "Actions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#a20766ce084cbe935544f07c601c91985", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#aa9d824877daa92938750046bf92af650", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#aa4c8ba7ba3c2c60c6d0790056227ba56", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html#af7c7ecc2772cb3f9fb849586c2a04f42", null ]
+];

@@ -1,0 +1,4 @@
+var _sale_dynamic_unique_filter_extension_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Extension.SaleDynamicUniqueFilterExtension", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_dynamic_unique_filter_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_dynamic_unique_filter_extension" ]
+];

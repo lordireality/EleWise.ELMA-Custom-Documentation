@@ -1,0 +1,11 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection =
+[
+    [ "ExternalBookConfigurationCollection", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#ac7f9bab56f08ad8d2a8e3ce54d4d155c", null ],
+    [ "ExternalBookConfigurationCollection", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#af31ea6a7309d9f84e8b8f1a54bdc75d4", null ],
+    [ "ExternalBookConfigurationCollection", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#a5466b1b34ef982d6ace0506e0d14923e", null ],
+    [ "GetBookConfigByName", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#adf130fefa39a9978a3219f05842ebc47", null ],
+    [ "GetBookConfigByUid", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#aba9a6ac2f1397f410bb44f474d025578", null ],
+    [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#afed4d90e66db0423a0ee215fa99cb41e", null ],
+    [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#abfadc57c827c8c55faf24579ea33babf", null ],
+    [ "ConfigUid", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_configuration_1_1_external_book_configuration_collection.html#a7efc366a8856fe8031eeadb24c171519", null ]
+];

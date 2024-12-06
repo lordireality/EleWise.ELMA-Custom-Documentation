@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl =
+[
+    [ "SafeHandleImpl", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl.html#a8447a6572861bd2d78a8e6d768f1c3a4", null ],
+    [ "ReleaseHandle", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl.html#a9c239f82cb46cc1df9c5cd528b00d384", null ],
+    [ "ComObject", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl.html#aa17d885730ad893abb6047e10e27f152", null ],
+    [ "IsInvalid", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl.html#ae71835c9d61b8ae3386331ce8f245f03", null ]
+];

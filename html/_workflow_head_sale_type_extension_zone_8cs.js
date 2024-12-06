@@ -1,0 +1,4 @@
+var _workflow_head_sale_type_extension_zone_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Web.Extensions.WorkflowHeadSaleTypeExtensionZone", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_workf664c2dedd045218b3a18e6e7769557ba.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_workf664c2dedd045218b3a18e6e7769557ba" ]
+];

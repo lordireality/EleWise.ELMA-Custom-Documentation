@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider =
+[
+    [ "BuildCreateDatabaseCommand", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a0c79937fc9cd6d8534d1ac06db416260", null ],
+    [ "BuildMasterConnectionString", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#aacf8b1d4d16d699b91b0dd41cfa951e7", null ],
+    [ "Configure", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#adcb30a450407ebe762684aaeb38950a0", null ],
+    [ "Configure", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a8e5661cbbfde0281fbf7fa1a5126ab72", null ],
+    [ "CreateDatabase", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a128b09e58beb8e66bdabebd12be3d6e9", null ],
+    [ "CreateSettings", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a45220ad9bf8c60406ca407f5efc60d42", null ],
+    [ "CreateTransformationProvider", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a7cd6dfc0dae4fdae636e6a250df88215", null ],
+    [ "DropDatabase", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#ab827bf6565e1779fbe29ed4c344eb44d", null ],
+    [ "GenerateComparableStringProjection", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a5772d82bc693d6ccfdc9c62a7478184d", null ],
+    [ "GenerateOrderByProjection", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a8010b24a87c1a106f588344114070fda", null ],
+    [ "GetDatabaseServerName", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a066050b9e6d0f9c012627847bef18038", null ],
+    [ "GetDatabaseServerVersion", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a889290e33d0702bf92e71865176ec621", null ],
+    [ "GuidQuerySintaxis", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a9aa0018da89c5566b10b3aaf4ebf0938", null ],
+    [ "InitInternal", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#aadae710806a7d19c586f3523d895feeb", null ],
+    [ "IsDatabaseExists", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a3498f60fcd13fc89ae1e9da75c7bdc7d", null ],
+    [ "PrepareOrderByProjection", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a0d6bf1c252b9d7a77aaf145b6e862d58", null ],
+    [ "postgreSQLSettings", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#ad83b4a0ea3f9c548f7b42c3668e4cc82", null ],
+    [ "provider", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a73d41e9a094b2ec8ef6f96b0a2b3a693", null ],
+    [ "ConnectionString", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a996c35dcdb6793a9b03a7ae2c7f97705", null ],
+    [ "DataProviderName", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#af101040c8f7da25f4acb615879fc715c", null ],
+    [ "MapIdentityProvider", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#ab1bc6eb013c9ed6d643ae81a721e237f", null ],
+    [ "MinServerVersion", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a05c38de76967dd4aafbf94928290d390", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a5866d5ee328c398e16bd2d4e663c9b9f", null ],
+    [ "TransformationProviderType", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#af0eb4cf7500762e36b46e375dbed3195", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_postgre_s_q_l_1_1_postgre_s_q_l_provider.html#a03c1ca97ffc1a81866bed45d2247485d", null ]
+];

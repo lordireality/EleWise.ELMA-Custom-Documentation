@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package =
+[
+    [ "Package", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a23726a046304c6d523e2ecdf1562c8fa", null ],
+    [ "Authors", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a6fde70e80d47def615b51dae17654ddf", null ],
+    [ "Copyright", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#aefa714552f1a796cddf18a4f98892934", null ],
+    [ "Dependencies", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a31d4a250979c845dcb475dbff126ef9a", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a6e1748fb95cc7efd85757e1334f97e4e", null ],
+    [ "DownloadCount", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a0b33367d677d8c1cb3c1770e66f86406", null ],
+    [ "IconUrl", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a864ce566919cc676147d4c9b37e70d34", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a88b7b7a538d5e241a2a26d672dbb2e75", null ],
+    [ "IsAbsoluteLatestVersion", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a3aaaf9fcba88eba63c8d5758796b2efd", null ],
+    [ "IsLatestVersion", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a2f4d5a23f876de05053188d31cb9746c", null ],
+    [ "LastUpdated", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#aa9b11be976bdbba11f061677093e4f52", null ],
+    [ "LicenseUrl", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a61a81fec46a556a06a1d5e8dd4848126", null ],
+    [ "Listed", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#ab4085a635c94746105f66aa2c8e629f8", null ],
+    [ "PackageHash", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a532f66af36c57a5a9e8216bb8ba982f1", null ],
+    [ "PackageHashAlgorithm", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#aaea0e95bc7d16e394dde1399f7e5615a", null ],
+    [ "PackageSize", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a90d9999de7023836f09cd7a6b7210e72", null ],
+    [ "ProjectUrl", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#af4d272a52482fdfa387ef8cb9ab27ffe", null ],
+    [ "Published", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a85b89ad6fa8055c443fdb71c6e5f5150", null ],
+    [ "ReleaseNotes", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a7f0e16a236c2fd7aa86022eb7e741885", null ],
+    [ "RequireLicenseAcceptance", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a5ee244298a9ae28ffcb352ab38296e53", null ],
+    [ "Summary", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a76176e4d06ae9cd0524d0478542ee737", null ],
+    [ "Tags", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a34b3d677724ab8abc96b2f209228b286", null ],
+    [ "Title", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#ac5638afbf2e54698699a51ee48b5c79e", null ],
+    [ "Version", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#af46ef9025fa0a2f29b11231001de21ce", null ],
+    [ "VersionDownloadCount", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_server_1_1_data_services_1_1_package.html#a14c2f7fbb94a97ac23649f074571ade1", null ]
+];

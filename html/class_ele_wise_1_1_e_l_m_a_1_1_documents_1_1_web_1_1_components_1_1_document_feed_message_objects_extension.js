@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_feed_message_objects_extension =
+[
+    [ "GetMessageObjects", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_feed_message_objects_extension.html#a4fb8599fbfd061d91d86d442e9fecc5a", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_feed_message_objects_extension.html#a1d871dea8820422d3c375d337a8b0d26", null ]
+];

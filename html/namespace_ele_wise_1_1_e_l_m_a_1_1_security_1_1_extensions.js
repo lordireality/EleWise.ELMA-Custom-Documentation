@@ -1,0 +1,14 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions =
+[
+    [ "IAuthCryptoProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_auth_crypto_provider.html", null ],
+    [ "ICertificateCryptoAction", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_certificate_crypto_action.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_certificate_crypto_action" ],
+    [ "ICryptoAction", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_action.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_action" ],
+    [ "ICryptoProviderBase", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_provider_base.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_provider_base" ],
+    [ "ICryptoProviderBase2", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_provider_base2.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_crypto_provider_base2" ],
+    [ "IDigitalSignatureType", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_digital_signature_type.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_digital_signature_type" ],
+    [ "IEntityUserTypeSelector", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_entity_user_type_selector.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_entity_user_type_selector" ],
+    [ "ISecurityCacheSetIdAction", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_security_cache_set_id_action.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_security_cache_set_id_action" ],
+    [ "ISystemRolePermissions", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_system_role_permissions.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_system_role_permissions" ],
+    [ "IUserSecurityProfileEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_user_security_profile_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_user_security_profile_event_handler" ],
+    [ "ModuleContainerEvents", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_module_container_events.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_module_container_events" ]
+];

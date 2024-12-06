@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_request_model =
+[
+    [ "GlobalVariable", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_request_model.html#a7dd72dad0c3a6e62bee6551ae7fbc0c6", null ],
+    [ "SubTypeGuid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_request_model.html#a2e936a5ca869905766d1484260580b57", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_request_model.html#a7ab842a5b67e2911b6e2f588860b673e", null ]
+];

@@ -1,0 +1,4 @@
+var _organization_item_recipient_for_notification_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Tasks.OrganizationItemRecipientForNotification", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_orga8d9f543784eb039fe15a9424fe5838a2" ]
+];

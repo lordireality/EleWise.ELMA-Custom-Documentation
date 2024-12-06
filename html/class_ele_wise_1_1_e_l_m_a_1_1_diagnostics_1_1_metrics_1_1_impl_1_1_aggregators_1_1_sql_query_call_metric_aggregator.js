@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_sql_query_call_metric_aggregator =
+[
+    [ "SqlQueryCallMetricAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_sql_query_call_metric_aggregator.html#abeaec530ce59c8ef8ee3c92b7448dc38", null ],
+    [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_sql_query_call_metric_aggregator.html#aab58d94c082a354479f1e81fdda7fc93", null ]
+];

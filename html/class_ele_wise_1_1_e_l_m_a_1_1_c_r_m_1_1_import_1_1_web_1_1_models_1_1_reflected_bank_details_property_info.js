@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_models_1_1_reflected_bank_details_property_info =
+[
+    [ "ReflectedBankDetailsPropertyInfo", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_models_1_1_reflected_bank_details_property_info.html#a944afe50fab1a80a60041df0887dd141", null ],
+    [ "BDMasterProperty", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_models_1_1_reflected_bank_details_property_info.html#a94e2665d5ec9564b8cb35bf8ab97db4e", null ],
+    [ "BDPropertyDisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_models_1_1_reflected_bank_details_property_info.html#a19cac9cec12a05a2443560b98776b183", null ],
+    [ "BDPropertyUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_import_1_1_web_1_1_models_1_1_reflected_bank_details_property_info.html#a497c2563d507e23f69d63fb6e4307488", null ]
+];

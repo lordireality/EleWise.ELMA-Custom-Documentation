@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_acquaintance_task_feed_object_group_extension =
+[
+    [ "DocumentAcquaintanceTaskFeedObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_acquaintance_task_feed_object_group_extension.html#aae5ebd2be6b193b1b43bedc09533d1ae", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_acquaintance_task_feed_object_group_extension.html#a9f9f215f6759461f294a81ffaa4a8e0f", null ],
+    [ "MessageTypeName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_acquaintance_task_feed_object_group_extension.html#a64b0ceeeb40fb680851d9abd9b797fc4", null ]
+];

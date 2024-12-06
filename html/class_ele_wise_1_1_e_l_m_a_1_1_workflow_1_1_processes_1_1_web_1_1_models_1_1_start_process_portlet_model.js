@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_start_process_portlet_model =
+[
+    [ "Group", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_start_process_portlet_model_1_1_group.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_start_process_portlet_model_1_1_group" ],
+    [ "StartProcessPortletModel", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_start_process_portlet_model.html#a100701f070eb5a533d15a05468194b36", null ],
+    [ "Groups", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_start_process_portlet_model.html#aad5c3fa27cc6a4b52a2218f4f741d03b", null ]
+];

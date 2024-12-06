@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_settings_module_controller =
+[
+    [ "WorkLogSettingsModuleController", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_settings_module_controller.html#a3fd869b6d7c32d18f6c3491a74bfd055", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_settings_module_controller.html#abdb025f4bfab1558d648e55edd6698ab", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_settings_module_controller.html#a7baf7b0f7578abd6198c2c2679e68327", null ]
+];

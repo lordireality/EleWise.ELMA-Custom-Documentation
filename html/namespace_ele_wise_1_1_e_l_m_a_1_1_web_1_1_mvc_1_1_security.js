@@ -1,0 +1,12 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security =
+[
+    [ "AllPermissionsAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_all_permissions_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_all_permissions_attribute" ],
+    [ "AnyPermissionAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_any_permission_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_any_permission_attribute" ],
+    [ "BaseMembershipUser", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_base_membership_user.html", null ],
+    [ "BasePermissionAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_base_permission_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_base_permission_attribute" ],
+    [ "FunctionPermissionAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_function_permission_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_function_permission_attribute" ],
+    [ "IFunctionPermissionProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_i_function_permission_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_i_function_permission_provider" ],
+    [ "InstancePermissionAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_instance_permission_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_instance_permission_attribute" ],
+    [ "ISecurityExceptionView", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_i_security_exception_view.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_i_security_exception_view" ],
+    [ "PermissionAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_permission_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_security_1_1_permission_attribute" ]
+];

@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_profile_block_info_provider =
+[
+    [ "IsVisible", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_profile_block_info_provider.html#a8fc7777608f09fc7eecac1a326c65961", null ],
+    [ "Render", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_profile_block_info_provider.html#a258b4321223f509d94d7c398c29927ed", null ],
+    [ "Title", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_profile_block_info_provider.html#a98ba2be37f747b0cb6274457ef58835d", null ]
+];

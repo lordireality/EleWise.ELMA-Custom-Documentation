@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_pre_start_test_import_parameters =
+[
+    [ "PreStartTestImportParameters", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_pre_start_test_import_parameters.html#abf0d773dbfd6e8437f1f191a31b53c95", null ],
+    [ "ImportSettings", "class_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_pre_start_test_import_parameters.html#a496513c342cc711350f118cb45b99a72", null ]
+];

@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_i_create_subtask_with_resolution_action_model =
+[
+    [ "CopyResolution", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_i_create_subtask_with_resolution_action_model.html#a1d6925ea04ec1c5f8c8f772e047a9511", null ]
+];

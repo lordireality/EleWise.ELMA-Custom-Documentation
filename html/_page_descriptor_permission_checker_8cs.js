@@ -1,0 +1,4 @@
+var _page_descriptor_permission_checker_8cs =
+[
+    [ "EleWise.ELMA.Content.Components.PageDescriptorPermissionChecker", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_components_1_1_page_descriptor_permission_checker.html", "class_ele_wise_1_1_e_l_m_a_1_1_content_1_1_components_1_1_page_descriptor_permission_checker" ]
+];

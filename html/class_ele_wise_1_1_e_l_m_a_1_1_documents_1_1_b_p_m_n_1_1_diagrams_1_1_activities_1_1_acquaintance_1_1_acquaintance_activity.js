@@ -1,0 +1,15 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity =
+[
+    [ "AcquaintanceItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0264b1de3496e8d6a55889787345aad7.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0264b1de3496e8d6a55889787345aad7" ],
+    [ "GroupInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0e00e6be6b2384969893c380039face4.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0e00e6be6b2384969893c380039face4" ],
+    [ "AcquaintanceActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#a375e4a6908725b206791542339d933b4", null ],
+    [ "CacheMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#a595d1877048c2fec1e68dc30eeeb1ac1", null ],
+    [ "ContinueAcquaintance", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#aa94b4dd910fbd12abe159a22d7873c1d", null ],
+    [ "CreateSheduleTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#a2cc531093dda8777c129a39abe06bec6", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#aba067dccea68c5ae9a81382054b397cc", null ],
+    [ "GetTasks", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#aa535d00d156735575f4f8bf56b9f4d8d", null ],
+    [ "HasNewExecutors", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#ac896599e60b2149fe02de02c228b787d", null ],
+    [ "HasNewExecutors", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#ac87b477f85f7608a9b9f103add76065c", null ],
+    [ "OnTaskCompleted", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#a620dfedf4de31c52701ffa88513482f8", null ],
+    [ "CanInduceIdle", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintance_1_1_acquaintance_activity.html#a144b35da182709a972d84a47c32855b9", null ]
+];

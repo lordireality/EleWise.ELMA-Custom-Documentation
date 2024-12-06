@@ -1,0 +1,4 @@
+var _approvement_task_public_service_8cs =
+[
+    [ "EleWise.ELMA.Documents.Mobile.API.Docflow.ApprovementTasks.ApprovementTaskPublicService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530" ]
+];

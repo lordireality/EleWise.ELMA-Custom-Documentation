@@ -1,0 +1,4 @@
+var _workflow_instance_task_history_collector_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Audit.WorkflowInstanceTaskHistoryCollector", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_audit_1_1_workflow_instance_task_history_collector.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_audit_1_1_workflow_instance_task_history_collector" ]
+];

@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_extension_points_1_1_i_channel_message_objects_extension =
+[
+    [ "IsSupport", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_extension_points_1_1_i_channel_message_objects_extension.html#ae2ffcaac30b33bbb2c356a7d5fd0dd79", null ],
+    [ "UpdateMessageObjectsNames", "interface_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_extension_points_1_1_i_channel_message_objects_extension.html#aeba915ad98ed6c0535762df41f9035ab", null ]
+];

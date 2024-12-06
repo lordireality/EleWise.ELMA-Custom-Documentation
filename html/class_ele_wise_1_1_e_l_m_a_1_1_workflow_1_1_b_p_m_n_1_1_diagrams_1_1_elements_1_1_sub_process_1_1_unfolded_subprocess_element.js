@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element =
+[
+    [ "UnfoldedSubprocessElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element.html#acaf8f2f9ba2822bcd8e4ee6b1ff9bfed", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element.html#ad76f6c9d3692a48ba169d6dfc8a92a0c", null ],
+    [ "HtmlFooter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element.html#ac4ffe8d1f96a5eb807b54793534390a6", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element.html#a616ffbd6c4951eebbc46415aed92aca4", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_sub_process_1_1_unfolded_subprocess_element.html#a6b6171465f1dd37b67f3f0c5d54eb42e", null ]
+];

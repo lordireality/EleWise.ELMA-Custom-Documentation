@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Models.RegistrationDocumentTaskInfo.Init"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.RegistrationDocumentTask\lInfo.Init",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Проинициализировать"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.RegistrationCardController.\lCreateDocumentInfoExt",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_card_controller.html#ac49985aa876a2d03ed01d2a7646bed62",tooltip="Создать расширенную модель создания документа"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.RegistrationCardController.\lCreateDocumentInfoExtByVariant",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_card_controller.html#ac5913f1518a0c1ea99e6313b2bacc139",tooltip=" "];
+}

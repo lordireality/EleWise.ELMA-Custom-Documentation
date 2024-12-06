@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_load_custom_settings =
+[
+    [ "DocumentLocalizationLoadCustomSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_load_custom_settings.html#a19a71fef666f534f30153b39637cb2e6", null ],
+    [ "GetNewSettingObj", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_globalization_1_1_document_localization_load_custom_settings.html#a744680e478183095fed1848c638e8e36", null ]
+];

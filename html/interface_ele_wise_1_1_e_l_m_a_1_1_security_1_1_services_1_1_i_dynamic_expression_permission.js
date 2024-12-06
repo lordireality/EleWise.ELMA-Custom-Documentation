@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_dynamic_expression_permission =
+[
+    [ "GetPropertyDescriptors", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_dynamic_expression_permission.html#abf93ac57a5a64228dde3a9e43e944ca7", null ]
+];

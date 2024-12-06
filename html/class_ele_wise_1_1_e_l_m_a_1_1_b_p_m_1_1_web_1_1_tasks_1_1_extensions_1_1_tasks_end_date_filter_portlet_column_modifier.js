@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier =
+[
+    [ "AvailableFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#a823fb41dc768a78213eae21ed8bdad8d", null ],
+    [ "Template", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#a63078661d771a15fc2cf9a61ebe0b594", null ],
+    [ "Header", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#a50155201ab61a5cc8a6d29b95333ebfe", null ],
+    [ "NeedHeader", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#a95890e5c935ebec979b34a2ebd068e25", null ],
+    [ "NeedTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#a19bbdf91fe1cd2b08432df5d7dc6c697", null ],
+    [ "UniqueName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_tasks_end_date_filter_portlet_column_modifier.html#afb3521fd1e066d456fd203d6b59d49ae", null ]
+];

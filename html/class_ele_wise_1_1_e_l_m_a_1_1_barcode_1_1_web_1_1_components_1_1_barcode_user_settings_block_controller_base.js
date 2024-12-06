@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_components_1_1_barcode_user_settings_block_controller_base =
+[
+    [ "BarcodeUserSettingsBlockControllerBase", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_components_1_1_barcode_user_settings_block_controller_base.html#aafc1e0b45249dfe7e6de60a95c97233e", null ]
+];

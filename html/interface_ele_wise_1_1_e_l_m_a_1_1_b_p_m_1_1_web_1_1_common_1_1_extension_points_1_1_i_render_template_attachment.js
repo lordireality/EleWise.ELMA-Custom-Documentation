@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_render_template_attachment =
+[
+    [ "CheckType", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_render_template_attachment.html#a2ebac61cb1067532210b9bbea5fc19e5", null ],
+    [ "GetTemplate", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_render_template_attachment.html#a044cf586a9cbaf16b9b3aec337a4b324", null ]
+];

@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_menu_item_personalization_administration =
+[
+    [ "MenuItemPersonalizationAdministration", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_menu_item_personalization_administration.html#ab7d49ddd707a62c1fd01dfd7e6cde2b6", null ],
+    [ "GetTransformedItem", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_menu_item_personalization_administration.html#a7ee5628a9ae64d161c18e6aec7dd6b5d", null ],
+    [ "ResetState", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_menu_item_personalization_administration.html#af6736de72c6f65534b17e523c49b8e94", null ],
+    [ "SaveState", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_services_1_1_menu_item_personalization_administration.html#a380d8bae3a5d1c5ce9d7516e90448a92", null ]
+];

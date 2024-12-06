@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_manual_task_activity =
+[
+    [ "ManualTaskActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_manual_task_activity.html#ac6499b9af4fa3860465094078bc30687", null ]
+];

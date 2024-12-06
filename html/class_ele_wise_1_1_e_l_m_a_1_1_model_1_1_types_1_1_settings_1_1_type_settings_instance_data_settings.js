@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_instance_data_settings =
+[
+    [ "TypeSettingsInstanceDataSettings", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_instance_data_settings.html#a2c91fdec7b33cf0fc2f0d9f7c5742631", null ],
+    [ "TypeSettingsInstanceDataSettings", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_instance_data_settings.html#af81913c81d6a92789ff0a78b3e88ffe2", null ]
+];

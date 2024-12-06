@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render =
+[
+    [ "CanRender", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render.html#a89af2d6c28413baa9cafb5d6f64ff0f9", null ],
+    [ "CreateEventData", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render.html#ad87f26a0dcd40fa753457f1b5817c2d7", null ],
+    [ "GetExtraViewBlock", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render.html#a130c1071a7f8104492c093c4727e6664", null ],
+    [ "Actions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render.html#a16b970117f0fb442b774b9b30f2d787a", null ],
+    [ "Objects", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_approvement_group_event_render.html#aaaf3b258cb57b4ebd4c5caaff1de959a", null ]
+];

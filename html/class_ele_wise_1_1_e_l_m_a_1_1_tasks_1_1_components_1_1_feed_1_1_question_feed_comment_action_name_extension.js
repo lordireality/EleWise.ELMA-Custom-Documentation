@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_components_1_1_feed_1_1_question_feed_comment_action_name_extension =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_components_1_1_feed_1_1_question_feed_comment_action_name_extension.html#a7a656b92adce2b228ff4a5768cc508c5", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_components_1_1_feed_1_1_question_feed_comment_action_name_extension.html#a2a3f48b93b8b626b7c4a7cd745a65936", null ]
+];

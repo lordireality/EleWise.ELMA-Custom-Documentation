@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_elma_store_manifest_1_1_elma_store_component_build_settings =
+[
+    [ "ElmaStoreComponentBuildSettings", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_elma_store_manifest_1_1_elma_store_component_build_settings.html#afb1e3d3fce09505b65df460d372d32fc", null ],
+    [ "SignatureCertificates", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_elma_store_manifest_1_1_elma_store_component_build_settings.html#a1d33cd0d81c9af2fb794721cf8fbdf7d", null ]
+];

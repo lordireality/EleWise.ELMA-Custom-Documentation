@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.BudgetController.SaveColumnState"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.BudgetController.Save\lColumnState",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetPersonalization\lAdministration.LoadColumnState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_1_1_budget_personalization_administration.html#a01aca05f61c1214c4e62784bd3a2e0dc",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetPersonalization\lAdministration.SaveColumnState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_1_1_budget_personalization_administration.html#a75e88bbec42533c1a25eaf895a32dd6e",tooltip=" "];
+}

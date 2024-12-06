@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_c_r_m_8_workflow_8_processes_8_db_8_ms_sql_2_crm_expert_db_structure_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Db.MsSql.CrmExpertDbStructure", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_db_1_1_ms_sql_1_1_crm_expert_db_structure" ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b =
+[
+    [ "DataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b.html#a8fd8be869b943fc2ae6b943bf3dee109", null ],
+    [ "Context", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b.html#a304c04bb81221ebb2aca60f402a991ca", null ],
+    [ "Instance", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_notide96f9a1d37fa596ee85faca834d219b.html#a53944d00dcb25b3e83ccd23388c2f7e4", null ]
+];

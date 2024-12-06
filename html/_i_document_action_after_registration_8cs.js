@@ -1,0 +1,4 @@
+var _i_document_action_after_registration_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Extensions.IDocumentActionAfterRegistration", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_document_action_after_registration.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_document_action_after_registration" ]
+];

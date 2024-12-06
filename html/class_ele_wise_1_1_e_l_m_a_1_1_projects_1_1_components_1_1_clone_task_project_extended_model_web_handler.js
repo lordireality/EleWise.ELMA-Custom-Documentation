@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_clone_task_project_extended_model_web_handler =
+[
+    [ "CloneTaskProjectExtendedModelWebHandler", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_clone_task_project_extended_model_web_handler.html#a0e964b90ef781d73cf3add5225019dcf", null ],
+    [ "UpdateActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_clone_task_project_extended_model_web_handler.html#ab851f63edddc4bcd4520bf72470050ab", null ]
+];

@@ -1,0 +1,5 @@
+var _approvement_element_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Elements.Approvement.ApprovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_approvement_element" ],
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Elements.Approvement.ApprovementElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1f6bfec23dfbd0cc65f8f726b5ca794cf.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1f6bfec23dfbd0cc65f8f726b5ca794cf" ]
+];

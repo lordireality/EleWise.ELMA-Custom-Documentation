@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_plan_approval_task_expired_recipient_handler =
+[
+    [ "ProjectPlanApprovalTaskExpiredRecipientHandler", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_plan_approval_task_expired_recipient_handler.html#ab17911bcf3342ae25678095457f02ecd", null ],
+    [ "GetRecipients", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_plan_approval_task_expired_recipient_handler.html#a770a5dff9fd1cea7ba26274cb3d25e60", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_plan_approval_task_expired_recipient_handler.html#a5a16770131b6363676e84d57291287e9", null ]
+];

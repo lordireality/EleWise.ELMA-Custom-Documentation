@@ -1,0 +1,4 @@
+var _get_content_item_metadata_context_8cs =
+[
+    [ "Orchard.ContentManagement.Handlers.GetContentItemMetadataContext", "class_orchard_1_1_content_management_1_1_handlers_1_1_get_content_item_metadata_context.html", "class_orchard_1_1_content_management_1_1_handlers_1_1_get_content_item_metadata_context" ]
+];

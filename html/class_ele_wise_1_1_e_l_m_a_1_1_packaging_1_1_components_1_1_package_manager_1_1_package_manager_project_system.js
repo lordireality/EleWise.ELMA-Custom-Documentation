@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_package_manager_1_1_package_manager_project_system =
+[
+    [ "PackageManagerProjectSystem", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_package_manager_1_1_package_manager_project_system.html#a1d35953a656bf22721f3f1e31ef82b98", null ]
+];

@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_query_d_t_o_manager =
+[
+    [ "GetHqlQueryReturnTypes", "interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_query_d_t_o_manager.html#a22ec05e10740e56e5af8b2f52d270574", null ],
+    [ "GetNHConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_query_d_t_o_manager.html#a1fd18ba82b39c34a2e3ed1bd0142cc98", null ],
+    [ "IsHqlQueryValid", "interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_query_d_t_o_manager.html#a008e0f295fe122f4cc2cfa5e5fbbb15e", null ]
+];

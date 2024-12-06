@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor =
+[
+    [ "IndicatorOLAPSettingsTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#aa01f714b17230f4e9ba36b375a7d5e08", null ],
+    [ "GetDbColumnType", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#a1fadb53f02bf515a05edf0e4170aa59c", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#a2a2d911244a4cfe0259f489045cb9084", null ],
+    [ "ParentUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#a387b300b7f40bfd660331d58a026b37c", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#a3c51df5fe21caba7ad434cc74f4221a3", null ],
+    [ "Visible", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_settings_type_descriptor.html#a31486d02ab8f7bd80c55217d2f54c7a2", null ]
+];

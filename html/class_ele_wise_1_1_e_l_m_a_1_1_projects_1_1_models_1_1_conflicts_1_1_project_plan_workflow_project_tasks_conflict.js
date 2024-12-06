@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict =
+[
+    [ "ProjectPlanWorkflowProjectTasksConflict", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#ac96d4130b4efc65ee1f97400a4e7b543", null ],
+    [ "AutoPublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#ac6e78733200371e185b658ce52f46cd2", null ],
+    [ "TerminateActiveProcesses", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#af0184c96adb706ab1dd242a3ebe1cfed", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#a2de54a24ff5f2eb8929a16a58080ae74", null ],
+    [ "WorkflowProjectTasks", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#a0c367bfb0ea7ae7e20dec1a322754c1b", null ],
+    [ "WorkflowProjectTasksEntities", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_workflow_project_tasks_conflict.html#a412962705badb2a1c7aa00a5db52c78a", null ]
+];

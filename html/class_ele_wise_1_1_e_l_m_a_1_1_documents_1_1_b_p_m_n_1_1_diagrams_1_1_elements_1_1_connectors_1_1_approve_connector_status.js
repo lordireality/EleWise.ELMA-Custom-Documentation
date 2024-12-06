@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_approve_connector_status =
+[
+    [ "ApproveConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_approve_connector_status.html#a9c604750e0a79cbec207cb4d2990dfa6", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_approve_connector_status.html#a95d2f3f58c17b702e29675ebcfbe0597", null ],
+    [ "ElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_approve_connector_status.html#a487c0caf9bf55c5d256c85572b1e9b46", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_approve_connector_status.html#a9711f9f9c3fe660c0909e64b2f245478", null ]
+];

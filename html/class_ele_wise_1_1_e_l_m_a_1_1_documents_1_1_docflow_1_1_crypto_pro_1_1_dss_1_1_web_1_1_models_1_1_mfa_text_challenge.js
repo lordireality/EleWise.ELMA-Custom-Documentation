@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_web_1_1_models_1_1_mfa_text_challenge =
+[
+    [ "AuthnMethod", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_web_1_1_models_1_1_mfa_text_challenge.html#a61f1e9f31d5874b589fc68f296420dd0", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_web_1_1_models_1_1_mfa_text_challenge.html#a17f33cf2f37d155308ecf2144b1344c7", null ],
+    [ "Label", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_web_1_1_models_1_1_mfa_text_challenge.html#a999d7b7191de0c3dc5174449cc4beadb", null ]
+];

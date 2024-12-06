@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_data_item =
+[
+    [ "ReportBodyDataItem", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_data_item.html#a5711d4699dd0bce96e6c6dcb536e4816", null ],
+    [ "SalesCount", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_data_item.html#a86fb10b8f19d8263520517829a3cebc6", null ],
+    [ "ToStage", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_report_body_data_item.html#ac98d6e2b4da5c528e36a647dc4b7dddc", null ]
+];

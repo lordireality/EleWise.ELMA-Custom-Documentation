@@ -1,0 +1,5 @@
+var _document_version_ext_manager_8cs =
+[
+    [ "EleWise.ELMA.Documents.Managers.DocumentVersionExtManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_document_version_ext_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_document_version_ext_manager" ],
+    [ "EleWise.ELMA.Documents.Managers.DocumentVersionExtManager.SignParams", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_document_version_ext_manager_1_1_sign_params.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_document_version_ext_manager_1_1_sign_params" ]
+];

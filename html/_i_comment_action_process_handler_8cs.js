@@ -1,0 +1,4 @@
+var _i_comment_action_process_handler_8cs =
+[
+    [ "EleWise.ELMA.Common.ExtensionPoints.ICommentActionProcessHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extension_points_1_1_i_comment_action_process_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extension_points_1_1_i_comment_action_process_handler" ]
+];

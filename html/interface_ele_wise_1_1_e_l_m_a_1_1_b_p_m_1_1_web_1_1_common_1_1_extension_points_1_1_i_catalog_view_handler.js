@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_catalog_view_handler =
+[
+    [ "CanDelete", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_catalog_view_handler.html#a4b4f4f0d0cb6225fa40faa38764ac74b", null ],
+    [ "ShowInCatalogTree", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extension_points_1_1_i_catalog_view_handler.html#ae687e7083e113d9cabc993e0ddb42c9b", null ]
+];

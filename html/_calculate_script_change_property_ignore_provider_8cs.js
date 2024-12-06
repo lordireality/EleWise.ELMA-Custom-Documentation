@@ -1,0 +1,4 @@
+var _calculate_script_change_property_ignore_provider_8cs =
+[
+    [ "EleWise.ELMA.Model.PropertyHandlers.CalculateScriptChangePropertyIgnoreProvider", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_property_handlers_1_1_calculate_script_change_property_ignore_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_property_handlers_1_1_calculate_script_change_property_ignore_provider" ]
+];

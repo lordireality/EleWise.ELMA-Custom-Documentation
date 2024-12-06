@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_i_instance_permission_type_role_service =
+[
+    [ "GetInstancePermissionRoles", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_i_instance_permission_type_role_service.html#ab699ae5a9884821bce70143f9d0ddb8f", null ]
+];

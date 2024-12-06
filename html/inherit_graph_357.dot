@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.BPM.Web.Tasks.\lExtensions.IExtendedValidateProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_i_extended_validate_provider.html",tooltip="Полнительные проверки при создании, редактировании и переназначении задачи"];
+  Node0 -> Node1 [id="edge837_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Tasks.ApprovalTask\lExtendedValidateProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_appro5e8be5b9672687d445f47cdea85b386e.html",tooltip=" "];
+  Node0 -> Node2 [id="edge838_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Tasks.DocumentTask\lExtendedValidateProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_docum3b00cabc91b1c14d934da9c4caa8b4bf.html",tooltip=" "];
+  Node0 -> Node3 [id="edge839_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Docflow.\lWeb.Integration.Tasks.ExtendedValidate\lProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_extended_validate_provider.html",tooltip=" "];
+  Node0 -> Node4 [id="edge840_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Web.\lIntegration.Tasks.AttachmentTask\lBaseExtendedValidateProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_tasks_1_1_attachment_task_base_extended_validate_provider.html",tooltip=" "];
+  Node0 -> Node5 [id="edge841_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Workflow.Web.\lIntegration.Tasks.WorkflowTask\lExtendedValidateProvider",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_workflow_task_extended_validate_provider.html",tooltip=" "];
+}

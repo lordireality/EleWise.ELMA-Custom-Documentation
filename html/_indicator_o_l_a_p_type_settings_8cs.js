@@ -1,0 +1,4 @@
+var _indicator_o_l_a_p_type_settings_8cs =
+[
+    [ "EleWise.ELMA.KPI.Models.IndicatorOlapSettings.IndicatorOLAPTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_type_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_indicator_olap_settings_1_1_indicator_o_l_a_p_type_settings" ]
+];

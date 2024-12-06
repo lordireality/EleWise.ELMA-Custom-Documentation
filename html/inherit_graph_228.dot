@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="EleWise.ELMA.BPM.Web.Content.\lExtensionPoints.IContentFilterMenu\lItemIdExtension",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_extension_points_1_1_i_content_filter_menu_item_id_extension.html",tooltip="Устанавливает параметры для элемента \"Страница\" в дереве фильтров"];
+  Node0 -> Node1 [id="edge751_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Content.\lComponents.ContentFilterMenuItem\lIdAttributeExtension",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_attribute_extension.html",tooltip=" "];
+  Node0 -> Node2 [id="edge752_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Content.\lComponents.ContentFilterMenuItem\lIdCatalogsExtension",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_components_1_1_content_filter_menu_item_id_catalogs_extension.html",tooltip=" "];
+}

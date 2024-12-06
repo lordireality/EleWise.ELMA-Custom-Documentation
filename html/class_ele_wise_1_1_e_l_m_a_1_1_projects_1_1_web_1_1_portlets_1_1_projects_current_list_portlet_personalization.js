@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_portlets_1_1_projects_current_list_portlet_personalization =
+[
+    [ "AvailableMode", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_portlets_1_1_projects_current_list_portlet_personalization.html#a0ad0babd35e0c97f457885673c03b2c3", null ]
+];

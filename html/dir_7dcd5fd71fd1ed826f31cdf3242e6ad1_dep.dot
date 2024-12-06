@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.BusinessRules.Web/Html"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_e46483da9f373966ce645ecac7252ff4 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.BusinessRules.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_e46483da9f373966ce645ecac7252ff4.html",tooltip=""]
+  dir_7dcd5fd71fd1ed826f31cdf3242e6ad1 [label="Html", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_7dcd5fd71fd1ed826f31cdf3242e6ad1.html",tooltip=""];
+  }
+}

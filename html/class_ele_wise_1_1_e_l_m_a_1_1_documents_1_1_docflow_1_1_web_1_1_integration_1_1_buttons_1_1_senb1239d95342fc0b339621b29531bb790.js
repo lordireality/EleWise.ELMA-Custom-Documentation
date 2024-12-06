@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_senb1239d95342fc0b339621b29531bb790 =
+[
+    [ "SendDocumentInDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_senb1239d95342fc0b339621b29531bb790.html#aadb02b740817a7317cc61fb0de63a2bb", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_senb1239d95342fc0b339621b29531bb790.html#a76a2ab608aafbf19438031b72de0918f", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_senb1239d95342fc0b339621b29531bb790.html#a553937b269bfe1919473498fe0ff1ed7", null ]
+];

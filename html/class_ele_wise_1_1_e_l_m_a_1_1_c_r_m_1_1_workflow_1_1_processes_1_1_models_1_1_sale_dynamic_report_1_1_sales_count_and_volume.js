@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_count_and_volume =
+[
+    [ "SalesCountAndVolume", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_count_and_volume.html#a5fa9e81570da7b87edd2fc002bf6a136", null ],
+    [ "SalesCount", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_count_and_volume.html#a6961b7bd249d0f01c1db347809a71444", null ],
+    [ "SalesVolume", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sales_count_and_volume.html#aae43c7a966c5b2bc7fa673d31bf3891e", null ]
+];

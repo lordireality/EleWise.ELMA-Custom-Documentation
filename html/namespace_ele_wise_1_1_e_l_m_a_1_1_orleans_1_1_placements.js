@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_placements =
+[
+    [ "FeatureFlagManagedPlacementAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_placements_1_1_feature_flag_managed_placement_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_placements_1_1_feature_flag_managed_placement_attribute" ],
+    [ "SiloPlacementAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_placements_1_1_silo_placement_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_placements_1_1_silo_placement_attribute" ]
+];

@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#ae9139268d59b287ed51b174c319d0f08", null ],
+    [ "CreateTaskCommentModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#aa27fbd667006a0568d4fc491e3780a09", null ],
+    [ "IsScript", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#ab9356fda936d34250659c9fdd465958f", null ],
+    [ "IsVisible", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#a8376dbd45ef84a36f70413fa7fb72749", null ],
+    [ "RenderAction", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#a153ac324eacf9f7195faffeebc544731", null ],
+    [ "RenderControls", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#ad450f33ffb5fb20e87e20279a3b27449", null ],
+    [ "RenderPopups", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#a9e083e55ca641f872469d5e0895d8be0", null ],
+    [ "ActionKey", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#a73e227b1db8f8349232994e4aa0cd18d", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#ad9f4a4d093c3f241d79cab81ee47ce29", null ],
+    [ "ImageUrl", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_portlets_1_1_approvembe1ff655a9765167576c884ca1d2e5aa.html#af87523d3b2353e273a48bb4a72496b40", null ]
+];

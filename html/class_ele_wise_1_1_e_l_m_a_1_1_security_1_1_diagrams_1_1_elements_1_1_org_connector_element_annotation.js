@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_diagrams_1_1_elements_1_1_org_connector_element_annotation =
+[
+    [ "OrgConnectorElementAnnotation", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_diagrams_1_1_elements_1_1_org_connector_element_annotation.html#a5589c9d3111f1af35f5806cc8d921ca4", null ]
+];

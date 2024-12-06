@@ -1,0 +1,4 @@
+var _documents_from_context_in_task_view_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Tasks.DocumentsFromContextInTaskView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_documents_from_context_in_task_view" ]
+];

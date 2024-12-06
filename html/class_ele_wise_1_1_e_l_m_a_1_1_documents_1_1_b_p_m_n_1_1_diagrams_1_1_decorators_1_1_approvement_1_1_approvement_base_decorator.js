@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator =
+[
+    [ "ApprovementBaseDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator.html#abc1721aef46233a70c683777453edcdf", null ],
+    [ "CreatePaths", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator.html#a2e8588bcccd4766c5cb6b56cf297b02a", null ],
+    [ "ShapeColor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator.html#a4ee0b4862fadca2b00058eef086f3f09", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator.html#a587261a3020031ffc6e1671fe3abba7f", null ],
+    [ "StrokeWidth", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement_1_1_approvement_base_decorator.html#a706efa1f114732922787a9ddac0a0982", null ]
+];

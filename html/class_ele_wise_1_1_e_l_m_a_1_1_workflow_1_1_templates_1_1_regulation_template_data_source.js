@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_templates_1_1_regulation_template_data_source =
+[
+    [ "RegulationTemplateDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_templates_1_1_regulation_template_data_source.html#ab367a92c46bc7febfa489362f74c53c8", null ]
+];

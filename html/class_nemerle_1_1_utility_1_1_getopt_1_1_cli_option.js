@@ -1,0 +1,25 @@
+var class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option =
+[
+    [ "Boolean", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_boolean.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_boolean" ],
+    [ "Flag", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_flag.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_flag" ],
+    [ "Int", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_int.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_int" ],
+    [ "NonOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_non_option.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_non_option" ],
+    [ "PostHelp", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_post_help.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_post_help" ],
+    [ "PreHelp", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_pre_help.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_pre_help" ],
+    [ "String", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_string.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_string" ],
+    [ "SubstitutionString", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_substitution_string.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_substitution_string" ],
+    [ "Unhandled", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_unhandled.html", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option_1_1_unhandled" ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a69602ee46427534b8aad6d16d5ede91f", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a9bc2981d1e8caef1109f935e41b36f68", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a8c96cc6fcd13e58d012a7e113edb884f", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#ad78d3d3545acec6fa2f2f2764bdcf6b9", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#af976eb66808755e269c9e0762c262a95", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#ac04e193e8add2622251faf5744683530", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a6fd4074f0e440d9b7c41ca4bcc3a112f", null ],
+    [ "CliOption", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a7bdf4b8a066c7d8c1e341523d7bf8f2b", null ],
+    [ "_N_GetVariantCode", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#ab4a54ef56e00f1dbe7ea5ddbc6434f5a", null ],
+    [ "aliases", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a1b9827c6e5e8b2d81e5e38a32a263d79", null ],
+    [ "help", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a06b0d9cdef688a162a0c6308e862c482", null ],
+    [ "name", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a0eb2690ffcb076ab24b4d537cb12e316", null ],
+    [ "required", "class_nemerle_1_1_utility_1_1_getopt_1_1_cli_option.html#a4de59d45e559fbdea2b49b5e841aed09", null ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_home_page_1_1_documents_default_home_page_portlets_provider =
+[
+    [ "Portlets", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_home_page_1_1_documents_default_home_page_portlets_provider.html#aaad110a6be2b516e209abda08b195b61", null ],
+    [ "LastObjectPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_home_page_1_1_documents_default_home_page_portlets_provider.html#af3018347e749adec588f02f916815560", null ],
+    [ "SearchDocumentPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_home_page_1_1_documents_default_home_page_portlets_provider.html#aa455d4e44d767c3171653f63de018885", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_web_1_1_controllers =
+[
+    [ "WorkflowIntegrationBookmarkController", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_web_1_1_controllers_1_1_workc59c4993d96d28868faa6782ebd50e8c.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_web_1_1_controllers_1_1_workc59c4993d96d28868faa6782ebd50e8c" ]
+];

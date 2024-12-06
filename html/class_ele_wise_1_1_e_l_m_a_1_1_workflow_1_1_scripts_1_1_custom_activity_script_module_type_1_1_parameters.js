@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_scripts_1_1_custom_activity_script_module_type_1_1_parameters =
+[
+    [ "Parameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_scripts_1_1_custom_activity_script_module_type_1_1_parameters.html#a8d3f2b399f2d16be96f0fa628886f1c9", null ],
+    [ "CustomActivityEntityName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_scripts_1_1_custom_activity_script_module_type_1_1_parameters.html#a575a079c9fa8087151ebe0aac8338eca", null ]
+];

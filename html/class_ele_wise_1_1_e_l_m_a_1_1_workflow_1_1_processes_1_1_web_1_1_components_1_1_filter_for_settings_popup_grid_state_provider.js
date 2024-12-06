@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_for_settings_popup_grid_state_provider =
+[
+    [ "Load", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_for_settings_popup_grid_state_provider.html#a2bcaf38e9bcefbacf9c7e1855426d2d6", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_for_settings_popup_grid_state_provider.html#a2e29a35f07005aa6cd2d5353f24ed8e4", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_for_settings_popup_grid_state_provider.html#a20a7ec169d8f83038fd19f832d13a712", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_filter_for_settings_popup_grid_state_provider.html#abd82dd52906ed97b6f372052dadd11a9", null ]
+];

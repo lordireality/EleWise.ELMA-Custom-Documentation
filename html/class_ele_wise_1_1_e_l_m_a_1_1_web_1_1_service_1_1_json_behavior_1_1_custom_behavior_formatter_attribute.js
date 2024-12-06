@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior_1_1_custom_behavior_formatter_attribute =
+[
+    [ "CustomBehaviorFormatterAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior_1_1_custom_behavior_formatter_attribute.html#ad6919715859ef50bd0e7f9313d4b0ccf", null ],
+    [ "BehaviorFormatterType", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior_1_1_custom_behavior_formatter_attribute.html#a91e70a7ff9c508fa2d109943ad4d5d80", null ]
+];

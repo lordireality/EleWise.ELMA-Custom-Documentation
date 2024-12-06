@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_workflow_process_xml_serializable_type_descriptor =
+[
+    [ "WorkflowProcessXmlSerializableTypeDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_workflow_process_xml_serializable_type_descriptor.html#aad1929caa8591c994c8bee02a40e33f1", null ],
+    [ "DeserializeSimple", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_workflow_process_xml_serializable_type_descriptor.html#aa5a14aaa4e682fd930a7d4ea21357834", null ],
+    [ "ExtendSimplePropertyMapping", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_workflow_process_xml_serializable_type_descriptor.html#ae5173670ce8ae78ecf8b7a485617ec27", null ]
+];

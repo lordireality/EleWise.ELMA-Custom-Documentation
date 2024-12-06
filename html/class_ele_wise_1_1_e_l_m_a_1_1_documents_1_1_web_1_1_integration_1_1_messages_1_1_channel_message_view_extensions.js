@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_messages_1_1_channel_message_view_extensions =
+[
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_messages_1_1_channel_message_view_extensions.html#ad26cf72b0656c1cada51d20a30b5fd11", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_messages_1_1_channel_message_view_extensions.html#a2e5ee8be1cff37ecd84f9ed2247d3c66", null ]
+];

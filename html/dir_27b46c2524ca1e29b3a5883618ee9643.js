@@ -1,0 +1,4 @@
+var dir_27b46c2524ca1e29b3a5883618ee9643 =
+[
+    [ "CustomCodeTemplate.cs", "_ele_wise_8_e_l_m_a_8_messages_2_models_2_information_channel_permission_2_custom_code_template_8cs.html", "_ele_wise_8_e_l_m_a_8_messages_2_models_2_information_channel_permission_2_custom_code_template_8cs" ]
+];

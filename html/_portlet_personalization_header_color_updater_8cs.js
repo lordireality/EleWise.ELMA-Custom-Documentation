@@ -1,0 +1,4 @@
+var _portlet_personalization_header_color_updater_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Common.Components.PortletPersonalizationHeaderColorUpdater", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_portlet_personalization_header_color_updater.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_portlet_personalization_header_color_updater" ]
+];

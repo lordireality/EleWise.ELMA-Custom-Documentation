@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_settings_module_controller =
+[
+    [ "TasksSettingsModuleController", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_settings_module_controller.html#a5091f0f4298714e0efdb81508da23f58", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_settings_module_controller.html#a4320a95ebe443d81232e294f6c2eebef", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_tasks_settings_module_controller.html#a79fd40a75e34c420648c9880e0e8592c", null ]
+];

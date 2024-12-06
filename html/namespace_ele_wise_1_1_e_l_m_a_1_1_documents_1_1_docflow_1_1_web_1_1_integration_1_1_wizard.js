@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_wizard =
+[
+    [ "AbstractConvertRegistrationCardWizardStep", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_wizard_1_1_abst75b5291b598ac4e1df31d7850205e040.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_wizard_1_1_abst75b5291b598ac4e1df31d7850205e040" ]
+];

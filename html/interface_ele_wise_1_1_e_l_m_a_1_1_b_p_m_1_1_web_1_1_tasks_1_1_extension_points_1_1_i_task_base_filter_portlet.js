@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extension_points_1_1_i_task_base_filter_portlet =
+[
+    [ "CheckGridId", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extension_points_1_1_i_task_base_filter_portlet.html#abaa0b7d855c0f66aa3d0e7c2e1092b47", null ],
+    [ "GetTaskBaseFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extension_points_1_1_i_task_base_filter_portlet.html#a190c9e2ddf3547e2ed89425f4535ae42", null ]
+];

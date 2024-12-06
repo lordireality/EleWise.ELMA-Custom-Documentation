@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extension_points_1_1_i_filter_plan_resource_oprimizer =
+[
+    [ "CheckFilter", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extension_points_1_1_i_filter_plan_resource_oprimizer.html#a99159ebed6ddfcc0631dd1e589331864", null ],
+    [ "GetPlan", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extension_points_1_1_i_filter_plan_resource_oprimizer.html#ad2f187a432c0a578ffeabd391cd8d505", null ]
+];

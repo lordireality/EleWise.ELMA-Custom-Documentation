@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_models_1_1_role_map_page_configure_model =
+[
+    [ "MapItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_models_1_1_role_map_page_configure_model.html#a1dd70e5137e46363bb618c1a94a1e33d", null ]
+];

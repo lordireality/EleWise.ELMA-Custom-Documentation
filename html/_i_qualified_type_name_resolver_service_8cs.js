@@ -1,0 +1,4 @@
+var _i_qualified_type_name_resolver_service_8cs =
+[
+    [ "EleWise.ELMA.Model.Metadata.Services.IQualifiedTypeNameResolverService", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_services_1_1_i_qualified_type_name_resolver_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_services_1_1_i_qualified_type_name_resolver_service" ]
+];

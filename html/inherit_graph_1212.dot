@@ -1,0 +1,53 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="IPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge2108_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Calendar.\lComponents.CalendarEventIsPrivate\lPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_components_1_1_calendar_event_is_pbdeec988439f6de32fbfd76ccaf75eda.html",tooltip="Изменение приватного события календаря перед его отображением"];
+  Node0 -> Node2 [id="edge2109_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.CRM.Web.Components.\lContactContractorPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_contact_contractor_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node3 [id="edge2110_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.CRM.Web.Components.\lContractorDublicatesPropertyViewItem\lAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_contractor_dublicates_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node4 [id="edge2111_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.CRM.Web.Components.\lRelationshipContactPropertyAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_contact_property_adjustment.html",tooltip=" "];
+  Node0 -> Node5 [id="edge2112_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.CRM.Web.Components.\lRelationshipContractorPropertyAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_contractor_property_adjustment.html",tooltip=" "];
+  Node0 -> Node6 [id="edge2113_Node000000_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.CRM.Web.Components.\lRelationshipContractorsContactsProperty\lAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_contractors_contacts_property_adjustment.html",tooltip=" "];
+  Node0 -> Node7 [id="edge2114_Node000000_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.CRM.Web.Components.\lRelationshipLeadPropertyAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_lead_property_adjustment.html",tooltip=" "];
+  Node0 -> Node8 [id="edge2115_Node000000_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.CRM.Web.Components.\lRelationshipSalePropertyAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_sale_property_adjustment.html",tooltip=" "];
+  Node0 -> Node9 [id="edge2116_Node000000_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.CRM.Web.Components.\lSaleDublicatesPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_dublicates_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node10 [id="edge2117_Node000000_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.CRM.Web.Components.\lSaleSaleFunnelPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_sale_funnel_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node11 [id="edge2118_Node000000_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="EleWise.ELMA.Documents.Web.\lComponents.DocumentNameProperty\lViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_name_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node12 [id="edge2119_Node000000_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="EleWise.ELMA.Documents.Web.\lComponents.DocumentRestrictChange\lFolderPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_restrict_change_fol8c5e93eca849a45ac0c40c5b6979957f.html",tooltip=" "];
+  Node0 -> Node13 [id="edge2120_Node000000_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="EleWise.ELMA.Integration\lExternalData.Web.Components.\lFormViews.ExternalBookPropertyView\lItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_web_1_1_components_1_1_form_views_197b3ee56d8dfc6bfb1ad33860285f438.html",tooltip="Точка расширения для изменения представления свойства с типом внешнего источника данных перед его ото..."];
+  Node0 -> Node14 [id="edge2121_Node000000_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="EleWise.ELMA.Projects.Web.\lComponents.DocumentRestrictChange\lFolderPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_document_restrict_change_folddefdd56109a1b9fd081040bc2cfdcd13.html",tooltip=" "];
+  Node0 -> Node15 [id="edge2122_Node000000_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.EntityCalendar\lPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_entity_calendar_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node16 [id="edge2123_Node000000_Node000016",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.ProjectName\lPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_name_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node17 [id="edge2124_Node000000_Node000017",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.ProjectPlan\lItemExecutorPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_plan_i6f0d28f047ef4093d78236903bfc86a0.html",tooltip=" "];
+  Node0 -> Node18 [id="edge2125_Node000000_Node000018",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.ProjectPlan\lItemPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_plan_i1c446fda1497bec200248b9149317e77.html",tooltip="Подмена свойств элемента диаграммы на свойства проектной задачи"];
+  Node0 -> Node19 [id="edge2126_Node000000_Node000019",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node19 [id="Node000019",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.ProjectProperty\lViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node20 [id="edge2127_Node000000_Node000020",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node20 [id="Node000020",label="EleWise.ELMA.Projects.Web.\lComponents.FormViews.WorkForce\lPropertyViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_work_force_property_view_item_adjustment.html",tooltip="Отображение полей ФИО и Пользователей для трудового ресурса"];
+  Node0 -> Node21 [id="edge2128_Node000000_Node000021",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node21 [id="Node000021",label="EleWise.ELMA.Projects.Web.\lComponents.ProjectPropertyView\lItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_property_view_item_adjustment.html",tooltip=" "];
+  Node0 -> Node22 [id="edge2129_Node000000_Node000022",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node22 [id="Node000022",label="EleWise.ELMA.Workflow.Web.\lComponents.WorkflowTaskProperty\lViewItemAdjustment",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_components_1_1_workflow_task_property_view_item_adjustment.html",tooltip="Изменение представления свойства контекста задачи процесса"];
+}

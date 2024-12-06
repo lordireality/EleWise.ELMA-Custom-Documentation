@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extension_points_1_1_workflow_instance_feed_comment_action_render_extension =
+[
+    [ "CommentAddInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extension_points_1_1_workflow_instance_feed_comment_action_render_extension.html#af750312760c76a7621e955890912b77f", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extension_points_1_1_workflow_instance_feed_comment_action_render_extension.html#afeb959b4c4ee479ca4f973ee0ace7c77", null ]
+];

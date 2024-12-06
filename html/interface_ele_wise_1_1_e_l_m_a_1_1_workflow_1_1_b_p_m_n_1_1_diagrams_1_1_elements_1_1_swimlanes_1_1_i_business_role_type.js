@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_i_business_role_type =
+[
+    [ "DisplayName", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_i_business_role_type.html#a340f5234b1c026a1074837a9490c1759", null ],
+    [ "Image", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_i_business_role_type.html#af8ce1b428e12ce98beb7cd7ed789c005", null ],
+    [ "Uid", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_i_business_role_type.html#a9af7f7ed7792a4ad3f41c62cad04e31a", null ]
+];

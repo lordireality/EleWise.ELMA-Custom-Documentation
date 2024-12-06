@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rules_1_1_business_rule_version_main_info_view_item =
+[
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rules_1_1_business_rule_version_main_info_view_item.html#ac5593bfa1a90d8d28baa4ec5bd8374a8", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rules_1_1_business_rule_version_main_info_view_item.html#a6d52e7fdbb556a2b8a9bb3d042552509", null ]
+];

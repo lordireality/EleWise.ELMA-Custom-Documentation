@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.Documents.Services.CreateHistoryService.SetStatus"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Services.\lCreateHistoryService.SetStatus",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Установить последний статус версии документа при создании"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Services.\lCreateHistoryService.LoadHistory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_create_history_service.html#a830b3dc0d0262306bd419d07a8a48dbf",tooltip=" "];
+}

@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_components_1_1_workflow_instance_indicators_extension =
+[
+    [ "WorkflowInstanceIndicatorsExtension", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_components_1_1_workflow_instance_indicators_extension.html#a486cda93b45da23724267c6847e70ae5", null ],
+    [ "RenderInfoPagePanel", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_components_1_1_workflow_instance_indicators_extension.html#a7a5d864c6fc0072759e03b654a87b914", null ],
+    [ "RenderTitlePrefix", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_components_1_1_workflow_instance_indicators_extension.html#a2bab8635d48b5d2c7bca5bfa5cba1e0d", null ],
+    [ "productionCalendarService", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_components_1_1_workflow_instance_indicators_extension.html#a6653653f4cfc9ce9a79826cd852863ab", null ]
+];

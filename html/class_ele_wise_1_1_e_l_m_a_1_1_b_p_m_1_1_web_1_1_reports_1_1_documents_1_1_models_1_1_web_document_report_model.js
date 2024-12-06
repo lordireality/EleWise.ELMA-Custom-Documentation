@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_models_1_1_web_document_report_model =
+[
+    [ "ParametersText", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_models_1_1_web_document_report_model.html#a0e3d8e54916865055c9f4279ec8f9f36", null ],
+    [ "SaveModel", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_models_1_1_web_document_report_model.html#a480a0ce6a239986b2adb5dd697f28adf", null ],
+    [ "SerializedParameters", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_documents_1_1_models_1_1_web_document_report_model.html#a6312293e8d7e22485d6f6f4d2f4e35b9", null ]
+];

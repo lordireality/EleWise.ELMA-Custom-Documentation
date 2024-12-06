@@ -1,0 +1,4 @@
+var _additional_view_item_toolbox_group_8cs =
+[
+    [ "EleWise.ELMA.Model.Views.Toolbox.AdditionalViewItemToolboxGroup", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_toolbox_1_1_additional_view_item_toolbox_group.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_toolbox_1_1_additional_view_item_toolbox_group" ]
+];

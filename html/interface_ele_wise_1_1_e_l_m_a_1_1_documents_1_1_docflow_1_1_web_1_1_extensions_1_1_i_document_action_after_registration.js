@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_document_action_after_registration =
+[
+    [ "CanRender", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_document_action_after_registration.html#ad025ba5100e308cc1bb8424bda693b4f", null ],
+    [ "Render", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_document_action_after_registration.html#ae9dd980ab2f1e532370bb1eb1c1c588c", null ]
+];

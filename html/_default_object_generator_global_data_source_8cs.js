@@ -1,0 +1,4 @@
+var _default_object_generator_global_data_source_8cs =
+[
+    [ "EleWise.TemplateGenerator.DataSources.DefaultObjectGeneratorGlobalDataSource", "class_ele_wise_1_1_template_generator_1_1_data_sources_1_1_default_object_generator_global_data_source.html", "class_ele_wise_1_1_template_generator_1_1_data_sources_1_1_default_object_generator_global_data_source" ]
+];

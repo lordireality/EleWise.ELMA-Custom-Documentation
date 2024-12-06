@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.ProjectPlanController.Publish"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lPublish",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Публикация плана проекта"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lModels.PublishPlanConflictsPopup\lModel.DerialiazeConflicts",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_publish_plan_conflicts_popup_model.html#aa66b0f7352341fd6acf7e05635dd9220",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lModels.SetExecutorsModel.GetData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_set_executors_model.html#af84e527fa874f0ac1d0a428dc0a4faf3",tooltip="Возвращает хранимые данные"];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lModels.SetExecutorsModel.DeserializeData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_set_executors_model.html#aca7ef62b816dfa1a4b233d7447f263da",tooltip="Десериализовать хранимые данные"];
+}

@@ -1,0 +1,4 @@
+var _i_workflow_context_property_observer_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Extensions.IWorkflowContextPropertyObserver", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_workflow_context_property_observer.html", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extensions_1_1_i_workflow_context_property_observer" ]
+];

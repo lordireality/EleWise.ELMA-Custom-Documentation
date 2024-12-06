@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_sql_query_call_metric_processor =
+[
+    [ "SqlQueryCallMetricProcessor", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_sql_query_call_metric_processor.html#a684cc7777eeed663fb14012cc57b9609", null ],
+    [ "Process", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_sql_query_call_metric_processor.html#a99a9aa1bc0f35b6c9d0c11fcbd1be5e5", null ],
+    [ "AggregatorTypes", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_sql_query_call_metric_processor.html#a661fbb70e8b5153a3a531e5aae71c945", null ]
+];

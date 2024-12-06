@@ -1,0 +1,4 @@
+var _type_settings_serializer_8cs =
+[
+    [ "EleWise.ELMA.Model.Types.Settings.TypeSettingsSerializer.DictionarySerializer.PropertyDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_type_settings_serializer_1_1_dic5ce868bbd24a74a392751eb89a26475c" ]
+];

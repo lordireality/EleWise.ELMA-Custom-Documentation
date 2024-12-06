@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_grid_object_selector_extension_extended =
+[
+    [ "EditGrid", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_grid_object_selector_extension_extended.html#abeccf128ea8ae42af64fe4d16da429bc", null ]
+];

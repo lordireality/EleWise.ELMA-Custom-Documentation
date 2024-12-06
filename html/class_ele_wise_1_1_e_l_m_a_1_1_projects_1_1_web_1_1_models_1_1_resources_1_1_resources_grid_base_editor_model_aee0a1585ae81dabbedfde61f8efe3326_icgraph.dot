@@ -1,0 +1,42 @@
+digraph "EleWise.ELMA.Projects.Web.Models.Resources.ResourcesGridBaseEditorModel.Deserialize"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.Resources.ResourcesGrid\lBaseEditorModel.Deserialize",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lAssignExecutor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a7783d9cebae7dc85ab15ce415b990afb",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetDiagramItem.\lBudgetDiagramItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_1_1_budget_diagram_item.html#aaf3b6f4375b78a65c89905bf9b155e59",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetDiagramItem.\lBudgetDiagramItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_1_1_budget_diagram_item.html#a0363ac29db24af5090772b7dc7fce4d6",tooltip=" "];
+  Node1 -> Node1 [id="edge4_Node000001_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node5 [id="edge5_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lControllers.BudgetController.Edit\lExpenseAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_budget_controller.html#ac260a5aabe9d13331a7f495059e07420",tooltip=" "];
+  Node1 -> Node6 [id="edge6_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Projects.Web.\lControllers.BudgetController.Edit\lIncomeAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_budget_controller.html#ab9677e3d9a15ad83d4d506449c2aacad",tooltip=" "];
+  Node1 -> Node7 [id="edge7_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lEditMaterialResource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a1ebf371aa4609d757eab747e6ab00d52",tooltip="Добавление/редактирование материального ресурса"];
+  Node1 -> Node8 [id="edge8_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lEditTechnicalResource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a4d85712879a74ce70a42c896c230ff0a",tooltip="Добавление/редактирование технического ресурса"];
+  Node1 -> Node9 [id="edge9_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lEditWorkForce",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a533989a930ffd0362d37df4f3c0c8687",tooltip="Добавление/редактирование трудового ресурса"];
+  Node1 -> Node10 [id="edge10_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.Projects.Web.\lControllers.BudgetController.Save\lExpenseAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_budget_controller.html#a8a3e20d0e7cd3e386566c70f923d2a05",tooltip=" "];
+  Node1 -> Node11 [id="edge11_Node000001_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="EleWise.ELMA.Projects.Web.\lControllers.BudgetController.Save\lIncomeAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_budget_controller.html#a390e5788af7a3ea46b8c7c4775fa6f7c",tooltip=" "];
+  Node1 -> Node12 [id="edge12_Node000001_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lSaveItemAjax",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a4b7395e34fe069438bd21d3cf5611a3f",tooltip=" "];
+  Node1 -> Node13 [id="edge13_Node000001_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lSaveMaterialResource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a0e9b6c548d10e25727b215d808704d1e",tooltip="Сохранить материальный ресурс в таблицу"];
+  Node1 -> Node14 [id="edge14_Node000001_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lSaveTechnicalResource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a31c4486e293af49cb2392f6f36ba95a4",tooltip="Сохранить технический ресурс в таблицу"];
+  Node1 -> Node15 [id="edge15_Node000001_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramController.\lSaveWorkForce",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_controller.html#a3d82828fe125ff43cee54ceb0517fc27",tooltip="Сохранить трудовой ресурс в таблицу"];
+  Node1 -> Node16 [id="edge16_Node000001_Node000016",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="EleWise.ELMA.Projects.Web.\lModels.Resources.ResourcesGrid\lBaseEditorModel.UpdateEntityForJson",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_grid_base_editor_model.html#a91ecb6603a8c219a20c1ef6d91d36fd3",tooltip="Обновить Entity из клиентских данных json."];
+  Node16 -> Node17 [id="edge17_Node000016_Node000017",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="EleWise.ELMA.Projects.Web.\lControllers.DiagramBaseController.\lSaveProjectPlan",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_diagram_base_controller.html#a9dcb2eb202215b2a123568f3c3bd276f",tooltip="Сохранение плана проекта."];
+}

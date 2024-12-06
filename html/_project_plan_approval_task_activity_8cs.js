@@ -1,0 +1,4 @@
+var _project_plan_approval_task_activity_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Activities.Tasks.ProjectPlanApprovalTaskActivity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr31b285ff367c271c1b0962da56074f53.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_pr31b285ff367c271c1b0962da56074f53" ]
+];

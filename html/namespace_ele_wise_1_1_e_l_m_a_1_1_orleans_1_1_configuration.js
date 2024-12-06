@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_configuration =
+[
+    [ "ClusteringSettingsSection", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_configuration_1_1_clustering_settings_section.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_configuration_1_1_clustering_settings_section" ],
+    [ "ReminderServiceSettingsSection", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_configuration_1_1_reminder_service_settings_section.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_configuration_1_1_reminder_service_settings_section" ]
+];

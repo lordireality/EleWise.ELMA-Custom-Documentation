@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_documents_8_docflow_2_ele_wise_2_e_l_m_a_2_documents_2_listeners_2_registration_card_listener_8cs =
+[
+    [ "EleWise.ELMA.Documents.Listeners.RegistrationCardListener", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_listeners_1_1_registration_card_listener.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_listeners_1_1_registration_card_listener" ]
+];

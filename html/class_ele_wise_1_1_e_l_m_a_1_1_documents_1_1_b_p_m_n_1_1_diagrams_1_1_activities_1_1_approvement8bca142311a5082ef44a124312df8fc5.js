@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement8bca142311a5082ef44a124312df8fc5 =
+[
+    [ "NewStepOfApprovementActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement8bca142311a5082ef44a124312df8fc5.html#a3a67075f82144e769f29e138281a4336", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement8bca142311a5082ef44a124312df8fc5.html#ad580bc2b397799ce54ee766213080d72", null ]
+];

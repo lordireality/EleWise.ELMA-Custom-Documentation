@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_documents_2_documents_2_components_2_system_document_metadata_8cs =
+[
+    [ "EleWise.ELMA.Documents.Components.SystemDocumentMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_system_document_metadata.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_system_document_metadata" ]
+];

@@ -1,0 +1,16 @@
+digraph "EleWise.ELMA.BusinessRules.Web.Controllers.BusinessRuleVersionController.ChangeStatusPopup"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleVersion\lController.ChangeStatusPopup",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Изменить статус версии бизнес-правила"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleVersion\lController.ToDraft",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_version_controller.html#af9d52bfecae37f938ad953d86f7894a0",tooltip="Установить версию текущим черновиком"];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleVersion\lController.ToObsolete",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_version_controller.html#a50ffe591f957111dc7d140774a4e9cbe",tooltip="Установить версию устаревшей"];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleVersion\lController.View",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_version_controller.html#a4ddfbf07201d1a378c3eaad0030e003d",tooltip="Страница детализации версии бизнес-правила"];
+  Node4 -> Node4 [id="edge4_Node000004_Node000004",color="steelblue1",style="solid",tooltip=" "];
+}

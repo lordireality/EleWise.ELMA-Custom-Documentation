@@ -1,0 +1,4 @@
+var _kpi_task_collection_subject_8cs =
+[
+    [ "EleWise.ELMA.KPI.DTO.Models.DataSources.KpiTaskCollectionSubject", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_d_t_o_1_1_models_1_1_data_sources_1_1_kpi_task_collection_subject.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_d_t_o_1_1_models_1_1_data_sources_1_1_kpi_task_collection_subject" ]
+];

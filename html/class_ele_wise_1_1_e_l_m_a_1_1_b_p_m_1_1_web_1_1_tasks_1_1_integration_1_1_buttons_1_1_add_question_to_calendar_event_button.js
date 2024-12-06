@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_buttons_1_1_add_question_to_calendar_event_button =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_buttons_1_1_add_question_to_calendar_event_button.html#af82daf277a1859c571ab4b6b56e4d9c9", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_buttons_1_1_add_question_to_calendar_event_button.html#a33ea76b9d283e5e3f752f8375e4781d0", null ]
+];

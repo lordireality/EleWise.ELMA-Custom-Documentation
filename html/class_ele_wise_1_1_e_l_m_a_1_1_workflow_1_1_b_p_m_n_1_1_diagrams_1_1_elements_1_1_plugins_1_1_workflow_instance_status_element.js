@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_wob7474666dcadce4928287d78ce3d8b80.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_wob7474666dcadce4928287d78ce3d8b80" ],
+    [ "WorkflowInstanceStatusElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#a0ce74b92a9dee79a6b3a36b884a2ed02", null ],
+    [ "GetAvaiableOutputElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#a1079d76f9cf10b1d9b2b70aa4599977a", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#a2952cffd03a90bf28a4195124e7b0a20", null ],
+    [ "HtmlFooter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#a11cf5de5030a860417d93d41f92aff46", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#aa148e9644858067ad6a691f06f89ee82", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#a47bca7d01d7e1457df7f5ac2048a64a4", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#aeac01ecb8dc1a1896202ae39e76b62d8", null ],
+    [ "Status", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_workflow_instance_status_element.html#ae5301f12599245083c26f83af7f6c1be", null ]
+];

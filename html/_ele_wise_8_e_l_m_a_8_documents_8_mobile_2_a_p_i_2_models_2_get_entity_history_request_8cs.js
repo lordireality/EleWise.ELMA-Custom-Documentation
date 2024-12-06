@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_documents_8_mobile_2_a_p_i_2_models_2_get_entity_history_request_8cs =
+[
+    [ "EleWise.ELMA.Documents.Mobile.API.Models.GetEntityHistoryRequest", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_get_entity_history_request.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_get_entity_history_request" ]
+];

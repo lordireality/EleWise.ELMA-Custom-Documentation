@@ -1,0 +1,4 @@
+var _content_definition_editor_events_base_8cs =
+[
+    [ "Orchard.ContentManagement.MetaData.ContentDefinitionEditorEventsBase", "class_orchard_1_1_content_management_1_1_meta_data_1_1_content_definition_editor_events_base.html", "class_orchard_1_1_content_management_1_1_meta_data_1_1_content_definition_editor_events_base" ]
+];

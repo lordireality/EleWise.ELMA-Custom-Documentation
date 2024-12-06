@@ -1,0 +1,4 @@
+var _serialized_table_data_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Models.BusinessRulesTable.SerializedTableData", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_serialized_table_data.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_serialized_table_data" ]
+];

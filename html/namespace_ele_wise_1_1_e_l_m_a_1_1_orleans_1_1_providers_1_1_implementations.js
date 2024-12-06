@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations =
+[
+    [ "DefaultClusteringProvider", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_clustering_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_clustering_provider" ],
+    [ "DefaultReminderServiceProvider", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_reminder_service_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_reminder_service_provider" ]
+];

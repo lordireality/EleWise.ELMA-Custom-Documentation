@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model =
+[
+    [ "BusinessRoleParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_business_role_parameters.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_business_role_parameters" ],
+    [ "DynamicParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters" ],
+    [ "DynamicScriptParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_script_parameters.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_script_parameters" ],
+    [ "StaticParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_static_parameters.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_static_parameters" ],
+    [ "BusinessRole", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#ada76e53d60b4ac1ea204b647887ca83d", null ],
+    [ "Dynamic", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#ae8ca28474fe6edb0a015cf850bfd15ba", null ],
+    [ "DynamicScript", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#afb45c5e25151a8fbb11a810f1477476a", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#a362b4781ab14fe627e53e9ab34fb33d1", null ],
+    [ "Static", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#a87aea0341536bc704a797be2bd90313e", null ],
+    [ "Type", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model.html#a5658ed4840f3f5af9b065c7a44c3d2f1", null ]
+];

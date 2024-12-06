@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.Barcode.Web/Models"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_6cc39bfd70c26501a3db6b9f98789448 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.Barcode.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_6cc39bfd70c26501a3db6b9f98789448.html",tooltip=""]
+  dir_480d1abbd2e92235a93bf92d95793397 [label="Models", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_480d1abbd2e92235a93bf92d95793397.html",tooltip=""];
+  }
+}

@@ -1,0 +1,28 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item =
+[
+    [ "ActionId", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a4665bf63f8ffbea3435c3ae56de16220", null ],
+    [ "ActionTypeProviderId", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a028218bbc5b4065a48f29fdb49116670", null ],
+    [ "Code", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a73ad59ca629ddd7bbffbf85432359f0c", null ],
+    [ "Color", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#ab2628bc4aba907ecffec519d2ce0a66e", null ],
+    [ "Description", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#ab71fca1b44f0acc1b78c5bbb28ada557", null ],
+    [ "Disabled", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a9a4203499ca5bb3d0d81fc64bac4772e", null ],
+    [ "ExtensionPointName", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a5efdad8711b09b2094a9ce3f8754862f", null ],
+    [ "Groups", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#ac1821c2008f59539200ef2ca072d1568", null ],
+    [ "ImageUrl", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a5e1688140560045c06b46cfc8e603c55", null ],
+    [ "Items", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a50242cb933445dc9d371dd98f42ecb63", null ],
+    [ "LinkedWithAction", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#afb1143eb889f7489ff29e424f662f0e7", null ],
+    [ "Menu", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a3a16b1e865136b604d1c66a84de8e1f8", null ],
+    [ "MenuUid", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a792278ddb828cf014ad99f6352b25071", null ],
+    [ "Name", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a9c578fb393432f3160c3e80de066233c", null ],
+    [ "NavigateUrl", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#acc1786123a631264365a5b2ce0f324f1", null ],
+    [ "OnTop", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#adbd7b4da497a48fa01ddfeb4b57993ed", null ],
+    [ "OrganizationItems", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#adb4c1b3bea16b91918d51dc1ec20b308", null ],
+    [ "ParentItem", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#af6b90be766c2a4f89142bd9f2b73c6cd", null ],
+    [ "Permissions", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a3b613ec371880733dc4298c415b3cd0a", null ],
+    [ "Stretch", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a0d4d8105be17332ab42dcdf22879c89f", null ],
+    [ "Target", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a4a26e0d902fceefd5408c066c5ea7a24", null ],
+    [ "Type", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#ac8caa933e86b13875b36170e022e2f98", null ],
+    [ "Uid", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a3b5630bfe14f824a820c0f4493f2247b", null ],
+    [ "Users", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a8257fd7c0d7ecf210eeb13e2d564bddd", null ],
+    [ "Weight", "interface_ele_wise_1_1_e_l_m_a_1_1_content_1_1_models_1_1_i_menu_item.html#a57417a6a46e74d92281d99245a80ddbf", null ]
+];

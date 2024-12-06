@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_class_metadata_property_permission_adapter =
+[
+    [ "GetBaseMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_class_metadata_property_permission_adapter.html#ac7550a0a7cdc451b6d226fa436c88f65", null ],
+    [ "GetBaseMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_class_metadata_property_permission_adapter.html#aac0674a96a3bdc62644bab19696095e1", null ]
+];

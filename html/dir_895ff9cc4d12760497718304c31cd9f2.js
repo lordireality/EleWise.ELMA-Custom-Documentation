@@ -1,0 +1,25 @@
+var dir_895ff9cc4d12760497718304c31cd9f2 =
+[
+    [ "AttachmentFeedAttachmentsExtension.cs", "_attachment_feed_attachments_extension_8cs.html", "_attachment_feed_attachments_extension_8cs" ],
+    [ "BaseFeedPostExtension.cs", "_base_feed_post_extension_8cs.html", "_base_feed_post_extension_8cs" ],
+    [ "BinaryFileFeedAttachmentsExtension.cs", "_binary_file_feed_attachments_extension_8cs.html", "_binary_file_feed_attachments_extension_8cs" ],
+    [ "ChannelMessagesFeedObjectGroupExtension.cs", "_channel_messages_feed_object_group_extension_8cs.html", "_channel_messages_feed_object_group_extension_8cs" ],
+    [ "DefaultFeedCommentActionNameExtension.cs", "_default_feed_comment_action_name_extension_8cs.html", "_default_feed_comment_action_name_extension_8cs" ],
+    [ "DefaultFeedObjectGroupExtension.cs", "_default_feed_object_group_extension_8cs.html", "_default_feed_object_group_extension_8cs" ],
+    [ "FeedCommentChannelExtension.cs", "_feed_comment_channel_extension_8cs.html", "_feed_comment_channel_extension_8cs" ],
+    [ "FeedCounterResultTransformer.cs", "_feed_counter_result_transformer_8cs.html", null ],
+    [ "FeedFavoriteResultTransformer.cs", "_feed_favorite_result_transformer_8cs.html", null ],
+    [ "FeedMessageInfoTransformer.cs", "_feed_message_info_transformer_8cs.html", null ],
+    [ "FeedMessageUpdater.cs", "_feed_message_updater_8cs.html", "_feed_message_updater_8cs" ],
+    [ "FeedModelMappingService.cs", "_feed_model_mapping_service_8cs.html", "_feed_model_mapping_service_8cs" ],
+    [ "FeedModelUserMapper.cs", "_feed_model_user_mapper_8cs.html", null ],
+    [ "FeedModuleEvents.cs", "_feed_module_events_8cs.html", "_feed_module_events_8cs" ],
+    [ "FeedResultGroupMode.cs", "_feed_result_group_mode_8cs.html", null ],
+    [ "FeedResultTransformer.cs", "_feed_result_transformer_8cs.html", null ],
+    [ "FeedSetReadProvider.cs", "_feed_set_read_provider_8cs.html", null ],
+    [ "FeedUpdateProvider.cs", "_ele_wise_8_e_l_m_a_8_messages_2_components_2_feed_2_feed_update_provider_8cs.html", null ],
+    [ "FeedUpdateProviderHelper.cs", "_feed_update_provider_helper_8cs.html", null ],
+    [ "FeedUserUpdateProvider.cs", "_feed_user_update_provider_8cs.html", null ],
+    [ "FeedViewHelper.cs", "_feed_view_helper_8cs.html", null ],
+    [ "ReminderFeedCommentActionNameExtension.cs", "_reminder_feed_comment_action_name_extension_8cs.html", "_reminder_feed_comment_action_name_extension_8cs" ]
+];

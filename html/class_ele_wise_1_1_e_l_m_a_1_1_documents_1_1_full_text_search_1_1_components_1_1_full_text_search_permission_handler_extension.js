@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension =
+[
+    [ "OnDeleteProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a21478845a7ea0ddb2335e3dcce434e90", null ],
+    [ "OnInsertProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a7c14921145d9b7aba9c0f5a5b84727fe", null ],
+    [ "ProcessingMergedIndexQueue", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#aaa9b49a21ee25830026ddc4ba633e01e", null ],
+    [ "ContextCacheService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#aca4a0b0c884eaa2091d18213993ce595", null ],
+    [ "GetImportantProperties", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#afa319a1360dcd911e5123ddeec11440b", null ],
+    [ "IndexQueueManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a962b86cc75227bab33fdef443f5aa260", null ],
+    [ "SupportedCard", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a62ed9d7200015cdc74c2114e27b80eda", null ],
+    [ "SupportedUids", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a0f76ec371f72d226e0d6c2d63249a03b", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#adcbeb40d904df7ddc907c9c0e5a5c004", null ]
+];

@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_filter_marketing_statistic_menu_provider_extension =
+[
+    [ "GetTreeNodeParameters", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_filter_marketing_statistic_menu_provider_extension.html#a8429222f9bd6fb3ba5e41081b9165bad", null ],
+    [ "SupportedFilter", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_filter_marketing_statistic_menu_provider_extension.html#a2e3b3d0316b43be49b0c46f5112b121b", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_filter_marketing_statistic_menu_provider_extension.html#a3bc888b628dfb305539a8b72f1496e5e", null ],
+    [ "ContentActionRegistry", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_filter_marketing_statistic_menu_provider_extension.html#a79c4265cf83a25a9a4e497621aca0d7f", null ]
+];

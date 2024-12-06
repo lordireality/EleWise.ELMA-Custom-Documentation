@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model =
+[
+    [ "ProjectPlanApprovalTaskModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a45bbd290de9448c931450ab812531c4f", null ],
+    [ "ProjectPlanApprovalTaskModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#abcef08ec5b169f0a23732cf7050e34d3", null ],
+    [ "CheckAccess", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a45e3ba2a87a31ab21347583606ca3463", null ],
+    [ "ProjectPlanSimpleResolveConflictExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#adfd36bc7ee5f0442a6752c18225493c2", null ],
+    [ "Action", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a07aec0e85f2239221ffebbdcd72c2706", null ],
+    [ "ActionAutoSet", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#ab45f7e8fbd6539301aa6c9f38eba4038", null ],
+    [ "AddToParticipants", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a75371aa36a50c1642f1517637c868f3e", null ],
+    [ "ApprovalTask", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#ac808bcd180bb7f93fe98fc176e6acbcf", null ],
+    [ "AutoPublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a5226bbe08feb2380c5292256d0e8cbc9", null ],
+    [ "AutoSet", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a699fa95717d5c6e77bc1fe9b123de447", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#abacbe3f51e404f8129e411386ea7ea51", null ],
+    [ "Conflicts", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a7c933b54cf3c6354ba6b8f550109a6ee", null ],
+    [ "Controller", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a4578eaff09aa0a4b5423a831c7405ff3", null ],
+    [ "Executors", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a724554a1086b0250179b0912692f7176", null ],
+    [ "FilterProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#ad630c4b3bb7c4f63591079e514fbce1e", null ],
+    [ "Harmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#acfb44336c57035792e0369eed4c62a28", null ],
+    [ "HarmonizatorEndDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a8b8962e18e12b3914b04f599d0123b46", null ],
+    [ "HarmonizatorStartDate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a6a30b2cf0cb8eed9c06db5e2c4435abc", null ],
+    [ "HasPastPermission", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#acceed0a4f858400a28d477fe4511e82d", null ],
+    [ "Plan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a8375d808f20308ba6fe4618492f5300e", null ],
+    [ "PopupId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a01e50ecb7eca875d78a0bef0f517a417", null ],
+    [ "Project", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#ab7db2e0e0bf9d4914e4cf33a7571ef17", null ],
+    [ "ShowAutoPublish", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#a52d4e9ed54ca712a556bfff8a4b7d424", null ],
+    [ "SingleHarmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_approval_task_model.html#acc5ff765feb5a2fe08fe9574cf0a7266", null ]
+];

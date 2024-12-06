@@ -1,0 +1,14 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings =
+[
+    [ "ODataExternalConnectionSettings", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a443d60fc0993e9196c3b89c54e189fe8", null ],
+    [ "CopyTo", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#add33f7577851c05fe642b8759074b9e3", null ],
+    [ "GetNetworkCredential", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a6b60606fd62336a70fac83f1839983e2", null ],
+    [ "SetNetworkCredential", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a3a00e568016f9b90ee8f9e3dec0afb4e", null ],
+    [ "DefaultCredentials", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a9421a7e4f5c0092426e69573acefc1e6", null ],
+    [ "Domain", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a368d982f2bf95d6fe3f8008b2dbe7f32", null ],
+    [ "Salt", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#ae827e4777765300615803d83fb897ff9", null ],
+    [ "ServerUrl", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a9281f27398810ffe2617d87e4df1e973", null ],
+    [ "Timeout", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#ac65829985e1cc5502fae72ad1d1c02c0", null ],
+    [ "UserName", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#a8854fa9340831d85183d449de2ad07fa", null ],
+    [ "UserPassword", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_o_data_1_1_connections_1_1_o_data_external_connection_settings.html#aca744e0db02029352168ca3ecdf90440", null ]
+];

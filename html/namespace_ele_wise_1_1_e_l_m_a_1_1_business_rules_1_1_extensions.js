@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions =
+[
+    [ "CLRTypeDescriptorSerializer", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_c_l_r_type_descriptor_serializer.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_c_l_r_type_descriptor_serializer" ],
+    [ "EntitySubTypeDescriptorSerializer", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_entity_sub_type_descriptor_serializer.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_entity_sub_type_descriptor_serializer" ],
+    [ "SubTypeDescriptorSerialier", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_sub_type_descriptor_serialier.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_extensions_1_1_sub_type_descriptor_serialier" ]
+];

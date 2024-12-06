@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_task_base_fields_filter_extension2 =
+[
+    [ "GetFilterMetadataProperties", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_task_base_fields_filter_extension2.html#a28701b8f9d6189b2aca2467e2329b948", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_task_base_fields_filter_extension2.html#a02144c9bbe2c17e4f470e216f102edc9", null ],
+    [ "UpdateProperties", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_task_base_fields_filter_extension2.html#a2eb037ff6baa4c482b02dbcd0a6f5aec", null ]
+];

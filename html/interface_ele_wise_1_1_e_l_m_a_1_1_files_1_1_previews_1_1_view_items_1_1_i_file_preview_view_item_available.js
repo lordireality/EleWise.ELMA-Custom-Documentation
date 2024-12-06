@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_previews_1_1_view_items_1_1_i_file_preview_view_item_available =
+[
+    [ "GetFile", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_previews_1_1_view_items_1_1_i_file_preview_view_item_available.html#a980db4b764dc347e15042188cc5c6163", null ],
+    [ "IsAvailable", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_previews_1_1_view_items_1_1_i_file_preview_view_item_available.html#a439df089c13afa4a9e91bda6aa30088f", null ]
+];

@@ -1,0 +1,4 @@
+var _i_convert_conflict_finding_service_8cs =
+[
+    [ "EleWise.ELMA.Documents.Services.IConvertConflictFindingService", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_services_1_1_i_convert_conflict_finding_service" ]
+];

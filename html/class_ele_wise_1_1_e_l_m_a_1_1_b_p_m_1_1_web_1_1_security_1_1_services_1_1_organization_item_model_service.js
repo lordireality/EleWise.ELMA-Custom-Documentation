@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_services_1_1_organization_item_model_service =
+[
+    [ "OrganizationItemModelService", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_services_1_1_organization_item_model_service.html#ae224ad14e6c850476eb541601af12e61", null ],
+    [ "GetFullTree", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_services_1_1_organization_item_model_service.html#aaa54d3c313002b302568c93dd5ebf465", null ]
+];

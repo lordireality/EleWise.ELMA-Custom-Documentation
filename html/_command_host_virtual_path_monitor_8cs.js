@@ -1,0 +1,6 @@
+var _command_host_virtual_path_monitor_8cs =
+[
+    [ "Orchard.Commands.CommandHostVirtualPathMonitor.EmptyVolativeToken", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_empty_volative_token.html", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_empty_volative_token" ],
+    [ "Orchard.Commands.CommandHostVirtualPathMonitor.FileToken", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_file_token.html", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_file_token" ],
+    [ "Orchard.Commands.CommandHostVirtualPathMonitor.DirectoryToken", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_directory_token.html", "class_orchard_1_1_commands_1_1_command_host_virtual_path_monitor_1_1_directory_token" ]
+];

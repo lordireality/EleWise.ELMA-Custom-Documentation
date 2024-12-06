@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_update_info =
+[
+    [ "BookUpdateInfo", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_update_info.html#a4c3fc158cce755b9b1fa9c922899be7f", null ],
+    [ "BookConfiguration", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_update_info.html#aa0c45479d423c0306ad76f362089f364", null ],
+    [ "Metadata", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_update_info.html#a57d553935d8eac0daa9e71f9e0def5c1", null ]
+];

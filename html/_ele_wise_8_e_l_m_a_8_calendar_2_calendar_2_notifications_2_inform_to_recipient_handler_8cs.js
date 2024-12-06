@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_calendar_2_calendar_2_notifications_2_inform_to_recipient_handler_8cs =
+[
+    [ "EleWise.ELMA.Calendar.Notifications.InformToRecipientHandler", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_notifications_1_1_inform_to_recipient_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_notifications_1_1_inform_to_recipient_handler" ]
+];

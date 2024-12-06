@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_6081dd080b2db204360153a0351e0ec1 =
+[
+    [ "NotCreateGroupConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_6081dd080b2db204360153a0351e0ec1.html#ae86c08d8da24ba2dba77eb6125589cd7", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_6081dd080b2db204360153a0351e0ec1.html#ae60a79c1b0f649292b08ce76385ed0b0", null ],
+    [ "ElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_6081dd080b2db204360153a0351e0ec1.html#a8a19658845c73a3951d0f83356a4157e", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_6081dd080b2db204360153a0351e0ec1.html#a4b15a5ef509a029b87f0f5d5b323591a", null ]
+];

@@ -1,0 +1,4 @@
+var _integration_modules_db_structure_8cs =
+[
+    [ "EleWise.ELMA.IntegrationModules.Db.IntegrationModulesDbStructure", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_db_1_1_integration_modules_db_structure.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_db_1_1_integration_modules_db_structure" ]
+];

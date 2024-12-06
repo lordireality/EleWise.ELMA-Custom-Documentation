@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_hubs_1_1_attributes_1_1_public_session_authorize_attribute =
+[
+    [ "AuthorizeHubConnection", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_hubs_1_1_attributes_1_1_public_session_authorize_attribute.html#a1c48d71b9c9f6295d9917753af4c9810", null ],
+    [ "AuthorizeHubMethodInvocation", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_hubs_1_1_attributes_1_1_public_session_authorize_attribute.html#a0a064f5fcb27a9b1472bd8d6fb4126fd", null ]
+];

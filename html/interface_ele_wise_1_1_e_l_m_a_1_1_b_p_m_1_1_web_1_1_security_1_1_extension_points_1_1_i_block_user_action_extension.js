@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_block_user_action_extension =
+[
+    [ "HandleModel", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_block_user_action_extension.html#a590b90ef3328a29404758d22735f5c26", null ],
+    [ "RenderFormInputs", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_block_user_action_extension.html#a225e85b178e21680413c73842798a362", null ]
+];

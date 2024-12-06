@@ -1,0 +1,4 @@
+var _validate_anti_forgery_token_orchard_attribute_8cs =
+[
+    [ "Orchard.Mvc.AntiForgery.ValidateAntiForgeryTokenOrchardAttribute", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_validate_anti_forgery_token_orchard_attribute.html", "class_orchard_1_1_mvc_1_1_anti_forgery_1_1_validate_anti_forgery_token_orchard_attribute" ]
+];

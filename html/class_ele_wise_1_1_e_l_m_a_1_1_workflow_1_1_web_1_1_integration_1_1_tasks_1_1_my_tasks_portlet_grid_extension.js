@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_my_tasks_portlet_grid_extension =
+[
+    [ "MatchUniqueName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_my_tasks_portlet_grid_extension.html#a50c233003fe2d75ab96329dff245180d", null ],
+    [ "SaveCustomColumnToState", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_tasks_1_1_my_tasks_portlet_grid_extension.html#a86b1489e53e69f2f2b00bb207d2bf532", null ]
+];

@@ -1,0 +1,4 @@
+var _i_user_profile_security_actions_extension_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Security.ExtensionPoints.IUserProfileSecurityActionsExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_user_pr8fe0e559622544eb6c1b913b26d0a155.html", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_user_pr8fe0e559622544eb6c1b913b26d0a155" ]
+];

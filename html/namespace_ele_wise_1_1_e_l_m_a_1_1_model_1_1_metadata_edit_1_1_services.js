@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_edit_1_1_services =
+[
+    [ "IMetadataItemGroupUIService", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_edit_1_1_services_1_1_i_metadata_item_group_u_i_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_edit_1_1_services_1_1_i_metadata_item_group_u_i_service" ]
+];

@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f =
+[
+    [ "colorFont", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f.html#aef3f6f23daabdd94e97caa502a241d07", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f.html#afbfbc8c4ce2557bedf9e2fa515340b90", null ],
+    [ "fontStyle", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f.html#a382c91bb65baa5556cc27ce064327194", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f.html#a547fd571a3587d3d8090babac5f00324", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_matrix2083d5e87c8226f31f0896631ea2df1f.html#aad316cb93c8f4d0b460eb2aa4b911a11", null ]
+];

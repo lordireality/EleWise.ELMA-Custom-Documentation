@@ -1,0 +1,18 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.ProjectTaskController.ReAssign"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectTaskController.\lReAssign",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Действие \"Переназначить исполнителя\"."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Tasks.\lModels.ReAssignTaskViewModel.Enabled\lSetMeControler",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_re_assign_task_view_model.html#a8add2cd7afcec99260be4b2cfc88b9f3",tooltip="Разрешить устанавливать контролёром."];
+  Node2 -> Node2 [id="edge2_Node000002_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node3 [id="edge3_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Tasks.\lModels.ReAssignTaskViewModel.Enabled\lSetMeParticipant",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_re_assign_task_view_model.html#a8ad4db55e6e833713c63c0446a9c34d5",tooltip="Разрешить устанавливать себя исполнителем."];
+  Node3 -> Node3 [id="edge4_Node000003_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node4 [id="edge5_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.BPM.Web.Tasks.\lModels.ReAssignTaskViewModel.Enabled\lTakeCurrentControl",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_re_assign_task_view_model.html#ad9e627ab369f0190de47590cd1adb36e",tooltip="Разрешить взятие текущего контроля."];
+  Node4 -> Node4 [id="edge6_Node000004_Node000004",color="steelblue1",style="solid",tooltip=" "];
+}

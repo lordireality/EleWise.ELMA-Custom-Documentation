@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_add_work_log_activity_object_type_popup_view_model =
+[
+    [ "ObjectTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_add_work_log_activity_object_type_popup_view_model.html#ae3f8475653192f2ccb4992907ae903b8", null ]
+];

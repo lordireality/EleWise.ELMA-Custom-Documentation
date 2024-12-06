@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_models_1_1_workflow_integration_activity_bookmark_info =
+[
+    [ "ActivityName", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_models_1_1_workflow_integration_activity_bookmark_info.html#a2477247237a8504d5415139baadf814f", null ],
+    [ "CreationDate", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_models_1_1_workflow_integration_activity_bookmark_info.html#a7eedc0330645739a726a96c2fbb1ee6b", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_models_1_1_workflow_integration_activity_bookmark_info.html#aa1c02172c02c76bc8fb5811cbce1b465", null ],
+    [ "Status", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_workflow_1_1_models_1_1_workflow_integration_activity_bookmark_info.html#a54af8ff3acff838eb7005911e17911ea", null ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_column_visibility_handler =
+[
+    [ "IsVisible", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_column_visibility_handler.html#a11c82b8c140b0acd5adebb832a9fa50a", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_column_visibility_handler.html#a2ffe1b155348b4cc445a5926df724845", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_column_visibility_handler.html#a4c0249133e099d6c6209caac32dedc33", null ]
+];

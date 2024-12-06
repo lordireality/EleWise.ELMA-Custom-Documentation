@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_profile_import_save_actions =
+[
+    [ "CanBeSaved", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_profile_import_save_actions.html#af08dc36438be21751a73279d596c8a85", null ],
+    [ "ExecPostSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_profile_import_save_actions.html#a2ec0ee2dd698cd12ee2394e5c7c9ed56", null ],
+    [ "IsSupported", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_metadata_profile_import_save_actions.html#af0b6880705f1cb6035036bce574b823e", null ]
+];

@@ -1,0 +1,4 @@
+var _c_sharp_extension_build_provider_shim_8cs =
+[
+    [ "Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim", "class_orchard_1_1_environment_1_1_extensions_1_1_compilers_1_1_c_sharp_extension_build_provider_shim.html", "class_orchard_1_1_environment_1_1_extensions_1_1_compilers_1_1_c_sharp_extension_build_provider_shim" ]
+];

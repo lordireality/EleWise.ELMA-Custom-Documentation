@@ -1,0 +1,5 @@
+var _start_process_contractors_button_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Web.Extensions.StartProcessContractorsButton", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_start_process_contractors_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_start_process_contractors_button" ],
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Web.Extensions.ProjectToobarButtonItem", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_project_toobar_button_item.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_project_toobar_button_item" ]
+];

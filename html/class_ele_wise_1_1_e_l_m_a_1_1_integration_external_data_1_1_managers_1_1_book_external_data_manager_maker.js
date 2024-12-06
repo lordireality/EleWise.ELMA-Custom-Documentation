@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_managers_1_1_book_external_data_manager_maker =
+[
+    [ "MakeManager", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_managers_1_1_book_external_data_manager_maker.html#a979b27b52b68b30080901099e9e14e2a", null ]
+];

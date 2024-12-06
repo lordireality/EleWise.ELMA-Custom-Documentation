@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_calendar_item_excluded_types_extension =
+[
+    [ "ProjectTaskCalendarItemExcludedTypesExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_calendar_item_excluded_types_extension.html#a960092decc3ac5c7822a97c07977837e", null ],
+    [ "Uids", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_calendar_item_excluded_types_extension.html#aac652122b8adaf9d9b8c968e6e8b6271", null ]
+];

@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#ad7dbfe3644ee0d3e1a8cfe961c29fae6", null ],
+    [ "ElementIcon", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#a2073c48216b1793b310b345c6bcb0f19", null ],
+    [ "ElementType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#a9f5d65d3b8e36743388d4e8ec03da614", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#a0d4c583d214602adc60187c6ceb95de2", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#a9bde320ecf4b58aa69a65aaacd681963", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_review_1_1_review_element_1_1_toolbox_item.html#ad0bac67a3a22a1e0f87003ada743e6a3", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_impl_1_1_template_generator_1_1_notification_template_generator =
+[
+    [ "NotificationTemplateGenerator", "class_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_impl_1_1_template_generator_1_1_notification_template_generator.html#aea0e0d17ceb0725e0d46dff116729ef6", null ],
+    [ "PostProcessResult", "class_ele_wise_1_1_e_l_m_a_1_1_notifications_1_1_impl_1_1_template_generator_1_1_notification_template_generator.html#afd8f0062b951584044dafa46fa4c498e", null ]
+];

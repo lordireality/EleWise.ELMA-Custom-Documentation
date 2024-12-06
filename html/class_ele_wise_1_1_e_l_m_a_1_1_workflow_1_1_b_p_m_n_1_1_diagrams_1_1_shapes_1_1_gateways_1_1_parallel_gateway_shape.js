@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_gateways_1_1_parallel_gateway_shape =
+[
+    [ "ParallelGatewayShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_gateways_1_1_parallel_gateway_shape.html#a66d85f8d34b495ac2082ca8acde44d85", null ],
+    [ "Thickness", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_gateways_1_1_parallel_gateway_shape.html#a2d8007c2cc1b9e96d3dd743ea319959f", null ]
+];

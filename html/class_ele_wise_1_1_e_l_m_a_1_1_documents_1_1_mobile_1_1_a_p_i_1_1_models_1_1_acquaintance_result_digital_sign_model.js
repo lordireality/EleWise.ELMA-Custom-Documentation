@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model =
+[
+    [ "AcquaintanceItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model.html#aba25730d9932462e35de8dec43ff0931", null ],
+    [ "AcquaintanceResultDocument", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model.html#a12277f7d79ec20960467d0dd095ad99f", null ],
+    [ "AcquaintanceResultStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model.html#a821f78bca11170dfee98a6d076af85eb", null ],
+    [ "AcquaintanceResultVersion", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model.html#acdb72a416e5cea45a4249e50a92748c3", null ],
+    [ "IdDigitalSign", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_acquaintance_result_digital_sign_model.html#af1d4c25b5ef3ec46fc9f171f538f487c", null ]
+];

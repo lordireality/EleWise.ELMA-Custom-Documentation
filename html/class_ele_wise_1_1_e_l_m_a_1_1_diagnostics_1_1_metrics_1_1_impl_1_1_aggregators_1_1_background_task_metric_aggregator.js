@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_background_task_metric_aggregator =
+[
+    [ "BackgroundTaskMetricAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_background_task_metric_aggregator.html#a61d4044650bd1a6063bc8af9b3635377", null ],
+    [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_aggregators_1_1_background_task_metric_aggregator.html#a2594e9d3621be5e08493e3f2a3bc09a3", null ]
+];

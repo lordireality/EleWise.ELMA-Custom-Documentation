@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter =
+[
+    [ "XPHBindingListAdapter", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#afd8f005f520b5faf5d9297a68c3d02de", null ],
+    [ "AddIndex", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#ad31a7ff8494e2dfa41080d09f9688cfa", null ],
+    [ "AddNew", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a17ab9d23ce28cf146e643dcb2ffa1fe6", null ],
+    [ "ApplySort", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#aaf81adde729d2560c3d19b7a0965e24b", null ],
+    [ "CancelNew", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a3153e01ce1c8ebe51b3acd874d68b5b4", null ],
+    [ "Convert", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a10f6bf8f0368633addde617636a90aff", null ],
+    [ "ConvertToSource", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a2370fc6ffe7518782ce62b791d9927e0", null ],
+    [ "EndNew", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a9c6d9a12b2cc9431ffa1537339634c2d", null ],
+    [ "Find", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#aa04e431bd9cefef5afe112ef49ad8e7e", null ],
+    [ "RemoveIndex", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#afecff9f22aa9ec983655f27d63ae64a7", null ],
+    [ "RemoveSort", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#afcb5325c3bcc06b9a70b348c15d3e0c0", null ],
+    [ "ResetBindings", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a4ac5e19d68541b8cde900c3ffc23dd30", null ],
+    [ "ResetItem", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#abf55881a7bf7bc01a12ad54cfde663be", null ],
+    [ "AllowEdit", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a2654efdaa9c3a588c0f014ec8652226e", null ],
+    [ "AllowNew", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#aeae0a48a8847f52e67e82cc3e5fe173b", null ],
+    [ "AllowRemove", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a39298386906fc532e1da8e9f999e2f75", null ],
+    [ "IsSorted", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a896f8bcb685b726516ebbdcb1ab35b32", null ],
+    [ "RaiseListChangedEvents", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a0c6d7af072105818b90bfe4bfa4b9dbd", null ],
+    [ "SortDirection", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#ae1f29f4ba0b5552a23888be727ca4cb8", null ],
+    [ "SortProperty", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#ab8b47966e15d88f9a3385f6825d5efb5", null ],
+    [ "SupportsChangeNotification", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a4121d0e6c7ae2267843246b39e99074f", null ],
+    [ "SupportsSearching", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a8a8a6b6e16636eed332d51acf9c910ce", null ],
+    [ "SupportsSorting", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#ab031aad524ed22402c699ba8f23b5dae", null ],
+    [ "AddingNew", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#a78e00893cfe33f681aaf9ab0dbc4d832", null ],
+    [ "ListChanged", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_reference_1_1_x_p_h_binding_list_adapter.html#aa8663b265f641bd626eb3c626f902dae", null ]
+];

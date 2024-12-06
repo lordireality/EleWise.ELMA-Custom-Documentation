@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_version_extended_file_permission_validator =
+[
+    [ "VersionExtendedFilePermissionValidator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_version_extended_file_permission_validator.html#a3994ec44bd6a39640b6d841d660f2983", null ],
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_version_extended_file_permission_validator.html#abddc926497fc936ee5be05720eef5e54", null ],
+    [ "HasPreviewPermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_version_extended_file_permission_validator.html#a5d88cc8b8cc08bab1c6ffac2037ef521", null ]
+];

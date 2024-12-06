@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_workflow_instance_object_view_item_provider =
+[
+    [ "GetViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_workflow_instance_object_view_item_provider.html#ae7f574aac23e1a47be92683f9fe98444", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_workflow_instance_object_view_item_provider.html#ab92cc44041839cbfaeb58949adb0420c", null ]
+];

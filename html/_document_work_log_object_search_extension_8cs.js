@@ -1,0 +1,4 @@
+var _document_work_log_object_search_extension_8cs =
+[
+    [ "EleWise.ELMA.Documents.Extensions.DocumentWorkLogObjectSearchExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_document_work_log_object_search_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_extensions_1_1_document_work_log_object_search_extension" ]
+];

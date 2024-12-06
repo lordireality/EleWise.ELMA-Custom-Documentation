@@ -1,0 +1,5 @@
+var _document_change_permissions_element_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.DocumentChangePermissionsElement", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dobdf37af92797fa653f68a1254c4aa6ed" ],
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Elements.Plugins.DocumentChangePermissionsElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dod6b5e891543e4b254016487d6f405213.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_plugins_1_1_dod6b5e891543e4b254016487d6f405213" ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_item_attribute_extension =
+[
+    [ "FilterMenuItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_item_attribute_extension.html#a050b1ea21be65e025d6f98863a444aa2", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_item_attribute_extension.html#ac2f094ef2fb63a70c12bd4a5a9868ff3", null ]
+];

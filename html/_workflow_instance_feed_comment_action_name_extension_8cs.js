@@ -1,0 +1,4 @@
+var _workflow_instance_feed_comment_action_name_extension_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Components.Feed.WorkflowInstanceFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_feed_1_1_workflow_instance_feed_comment_action_name_extension" ]
+];

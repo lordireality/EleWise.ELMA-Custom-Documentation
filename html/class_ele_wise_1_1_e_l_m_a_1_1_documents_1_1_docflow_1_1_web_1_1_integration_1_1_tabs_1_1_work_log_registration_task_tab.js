@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_work_log_registration_task_tab =
+[
+    [ "IdTabPanal", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_work_log_registration_task_tab.html#adbae32a22833e49dae5b2a0937b9aec0", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tabs_1_1_work_log_registration_task_tab.html#a8799ccd4c280a89dacce6b25e4eb9943", null ]
+];

@@ -1,0 +1,18 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service =
+[
+    [ "Copy", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a96b8bd5f32c02e66138576a736562df9", null ],
+    [ "Create", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a40ace6ac8440f2e577f2026a753927f1", null ],
+    [ "CreateLocalDataClass", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a80edf2f3b042b4c87a93252bfa799b94", null ],
+    [ "Delete", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#aad9179e59789aa42b908c5346ad2ad49", null ],
+    [ "Edit", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a4d584268c1583273ba2f6c060515f395", null ],
+    [ "Load", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a9878e591479a171607e6eccbba89b711", null ],
+    [ "LoadDraft", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#ab7beacd664bed0171c91e84bd48f5def", null ],
+    [ "LoadHeader", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a8e94f876688b641d7ed191bb06a31103", null ],
+    [ "LoadHeaderAll", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a9e3d97b9d361a7922ffb4d6b0f828f6a", null ],
+    [ "LoadHistory", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a8481e1721572ea3a9b3828e1be2244f2", null ],
+    [ "LoadPreviousVersionAsDraft", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a158025758cdea020e7178a87393d6abf", null ],
+    [ "LoadRuntimeMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a57e6c9d2e52a3977f0f704adea449bdd", null ],
+    [ "MarkAsNotWorking", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#a60a0fc287ac6eb37be597b9941160154", null ],
+    [ "Publish", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#af1d63430325edada8a959f6de0f2d8e7", null ],
+    [ "SaveAndUpdate", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_component_metadata_service.html#ab82e1f3b78930add6ae0d47931d72265", null ]
+];

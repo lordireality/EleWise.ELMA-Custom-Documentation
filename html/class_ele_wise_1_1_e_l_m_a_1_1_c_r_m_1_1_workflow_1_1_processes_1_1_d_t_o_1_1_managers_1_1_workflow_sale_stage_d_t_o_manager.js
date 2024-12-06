@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_workflow_sale_stage_d_t_o_manager =
+[
+    [ "WorkflowSaleStageDTOManager", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_workflow_sale_stage_d_t_o_manager.html#a98f4b8ef3d9208f50c9239b01be135ae", null ],
+    [ "GetUsedProcessIdentifiers", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_workflow_sale_stage_d_t_o_manager.html#a7dcbf4ff4403f27c59202bc4c4403183", null ],
+    [ "GetUsedProcessNames", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_workflow_sale_stage_d_t_o_manager.html#ade96857bb986254d34cb52a98ba75656", null ],
+    [ "WorkflowSaleStageManager", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_d_t_o_1_1_managers_1_1_workflow_sale_stage_d_t_o_manager.html#a445a237b8354c9399f3f6e822b09b4ce", null ]
+];

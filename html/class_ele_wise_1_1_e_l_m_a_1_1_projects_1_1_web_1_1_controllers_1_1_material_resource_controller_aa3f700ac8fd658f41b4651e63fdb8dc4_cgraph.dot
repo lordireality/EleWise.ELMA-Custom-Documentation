@@ -1,0 +1,16 @@
+digraph "EleWise.ELMA.Projects.Web.Controllers.MaterialResourceController.EditFilters"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lControllers.MaterialResourceController.\lEditFilters",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Common.\lExtensions.FilterMenuProvider.Tree\lMenuNodesForEdit",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_provider.html#a050994e796a3790427690bcbf4a413f1",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.BPM.Web.Common.\lExtensions.FilterMenuProvider.Folders\lForEdit",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_extensions_1_1_filter_menu_provider.html#a2e0d117fadd25f04bcd6c36014020c73",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lControllers.MaterialResourceController.View",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_material_resource_controller.html#a4ac10883cb04be5a09af63444eb19378",tooltip=" "];
+  Node4 -> Node4 [id="edge4_Node000004_Node000004",color="steelblue1",style="solid",tooltip=" "];
+}

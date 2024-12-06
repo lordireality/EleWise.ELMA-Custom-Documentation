@@ -1,0 +1,5 @@
+var _ele_wise_8_e_l_m_a_8_documents_8_web_2_portlets_2_quick_document_buttons_portlet_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Portlets.QuickDocumentButtonsPortlet", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_portlets_1_1_quick_document_buttons_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_portlets_1_1_quick_document_buttons_portlet" ],
+    [ "EleWise.ELMA.Documents.Web.Portlets.QuickDocumentButtonsPersonalization", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_portlets_1_1_quick_document_buttons_personalization.html", null ]
+];

@@ -1,0 +1,4 @@
+var _full_text_search_document_docflow_handler_extension_8cs =
+[
+    [ "EleWise.ELMA.Documents.FullTextSearch.Components.FullTextSearchDocumentDocflowHandlerExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65" ]
+];

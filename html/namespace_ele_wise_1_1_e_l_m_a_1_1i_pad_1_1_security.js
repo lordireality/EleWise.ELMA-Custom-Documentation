@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1i_pad_1_1_security =
+[
+    [ "iPadLicensedModuleAccessGroup", "class_ele_wise_1_1_e_l_m_a_1_1i_pad_1_1_security_1_1i_pad_licensed_module_access_group.html", "class_ele_wise_1_1_e_l_m_a_1_1i_pad_1_1_security_1_1i_pad_licensed_module_access_group" ],
+    [ "PermissionsProvider", "class_ele_wise_1_1_e_l_m_a_1_1i_pad_1_1_security_1_1_permissions_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1i_pad_1_1_security_1_1_permissions_provider" ]
+];

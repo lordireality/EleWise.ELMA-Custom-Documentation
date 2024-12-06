@@ -1,0 +1,31 @@
+digraph "EleWise.ELMA.Documents.Web.History.RenderInDocumentHistoryBase.ApplySettings"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Web.\lHistory.RenderInDocumentHistory\lBase.ApplySettings",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.History.RenderDocumentTaskAddComment\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#a25e129d32e0b858ed3c4959d1139228f",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskAddComment\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_add_comment_history.html#ac725e30b4dbd6f2579e923e6c23a475a",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskClose\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_close_history.html#a6b92d43174944c5775a3fb1831f074d4",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskComplete\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_complete_history.html#a312bf431ec83d35203074d38df206fc9",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskControl\lCompleteHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_control_complete_history.html#ab9ec07895d5a01836d0d2e2d04861d60",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskCreate\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_create_history.html#a3d12195c19039ab83fac327b80c565ec",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskInComplete\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_in_complete_history.html#a7ffeb9b711e8928ac74c7048b65a0f55",tooltip=" "];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskMarkRead\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_mark_read_history.html#ae4fd5b0649162f7f7e505ac3d65f8f74",tooltip=" "];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskRedirect\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_redirect_history.html#aef5a4037b60206f91077c9b9de5f4ed9",tooltip=" "];
+  Node1 -> Node11 [id="edge10_Node000001_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskStart\lWorkHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_start_work_history.html#a834adbe96fa4e18457507b1ebebd7029",tooltip=" "];
+  Node1 -> Node12 [id="edge11_Node000001_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="EleWise.ELMA.Documents.Web.\lHistory.RenderDocumentTaskTerminate\lHistory.RenderAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_history_1_1_render_document_task_terminate_history.html#a8edfa3b192c894159371751099cf33fc",tooltip=" "];
+}

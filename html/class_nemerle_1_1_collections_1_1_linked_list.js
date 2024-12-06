@@ -1,0 +1,26 @@
+var class_nemerle_1_1_collections_1_1_linked_list =
+[
+    [ "LinkedList", "class_nemerle_1_1_collections_1_1_linked_list.html#acba5308c001eb90f6aa23b7bfe097f69", null ],
+    [ "LinkedList", "class_nemerle_1_1_collections_1_1_linked_list.html#a2f63c7a17c5593d3466b970e13d6afb7", null ],
+    [ "Add", "class_nemerle_1_1_collections_1_1_linked_list.html#a435db5b7870699cc4cc12d3b4ce70fce", null ],
+    [ "Append", "class_nemerle_1_1_collections_1_1_linked_list.html#a1019121f4e81d295b7f94ae96138c89f", null ],
+    [ "Append", "class_nemerle_1_1_collections_1_1_linked_list.html#a3fbb297c71b4c6db381d964132188c16", null ],
+    [ "Clone", "class_nemerle_1_1_collections_1_1_linked_list.html#af94bd4f243efba2917944e6179ac0b16", null ],
+    [ "Equals", "class_nemerle_1_1_collections_1_1_linked_list.html#af27e30099ab5e8c58558be5d31dcebbc", null ],
+    [ "Equals", "class_nemerle_1_1_collections_1_1_linked_list.html#aa06ca7fb3ae27a5d0322f8488afd3d52", null ],
+    [ "Exists", "class_nemerle_1_1_collections_1_1_linked_list.html#a30fab10083f3630a6c2b4026d77c3364", null ],
+    [ "Filter", "class_nemerle_1_1_collections_1_1_linked_list.html#a9d7c7f842e21a75113195aaf3a657281", null ],
+    [ "First", "class_nemerle_1_1_collections_1_1_linked_list.html#a82f25063f1a9825add16f67e78ef9b50", null ],
+    [ "Fold<\\u0027b >", "class_nemerle_1_1_collections_1_1_linked_list.html#a8fa5fd8044c4257981482a3ad0912fd1", null ],
+    [ "ForAll", "class_nemerle_1_1_collections_1_1_linked_list.html#aee31e915e32bd6fa039425a430cea242", null ],
+    [ "Iter", "class_nemerle_1_1_collections_1_1_linked_list.html#a32b22d19ef5c39cd45226d7440695e66", null ],
+    [ "Map<\\u0027b >", "class_nemerle_1_1_collections_1_1_linked_list.html#a6c0c280b4ebf847b9782fc7f48a30b66", null ],
+    [ "Partition", "class_nemerle_1_1_collections_1_1_linked_list.html#a85a68d24b2dd2c731c9f98cabcfa05af", null ],
+    [ "Prepend", "class_nemerle_1_1_collections_1_1_linked_list.html#a926f01210ee0a114edc98d2ce87720f7", null ],
+    [ "Prepend", "class_nemerle_1_1_collections_1_1_linked_list.html#a4448d0d6375d318e5305bd9025241c35", null ],
+    [ "Remove", "class_nemerle_1_1_collections_1_1_linked_list.html#ad9ec8d3b2a7b47bc58e2689623e22c55", null ],
+    [ "Reverse", "class_nemerle_1_1_collections_1_1_linked_list.html#a3faddf43fc11e01e635ac53c8368d36c", null ],
+    [ "ToString", "class_nemerle_1_1_collections_1_1_linked_list.html#ae12d848c5af21f85973dc30d5b4c7b27", null ],
+    [ "ToString", "class_nemerle_1_1_collections_1_1_linked_list.html#aa6fcfe6624de2e2e2650c7e6191ef228", null ],
+    [ "IsEmpty", "class_nemerle_1_1_collections_1_1_linked_list.html#afff731c152e0d523adce91cee6a61b11", null ]
+];

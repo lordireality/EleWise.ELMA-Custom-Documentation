@@ -1,0 +1,4 @@
+var _work_log_item_info_8cs =
+[
+    [ "EleWise.ELMA.Tasks.Audit.WorkLogItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_audit_1_1_work_log_item_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_audit_1_1_work_log_item_info" ]
+];

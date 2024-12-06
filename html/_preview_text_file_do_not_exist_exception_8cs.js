@@ -1,0 +1,4 @@
+var _preview_text_file_do_not_exist_exception_8cs =
+[
+    [ "EleWise.ELMA.Files.Previews.PreviewTextFileDoNotExistException", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_previews_1_1_preview_text_file_do_not_exist_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_previews_1_1_preview_text_file_do_not_exist_exception" ]
+];

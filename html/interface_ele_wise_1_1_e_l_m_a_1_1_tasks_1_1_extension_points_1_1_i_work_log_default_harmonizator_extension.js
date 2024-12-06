@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_work_log_default_harmonizator_extension =
+[
+    [ "DefaultHarmonizator", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_i_work_log_default_harmonizator_extension.html#a049ae0633ad927ae12c81f411cdaefe6", null ]
+];

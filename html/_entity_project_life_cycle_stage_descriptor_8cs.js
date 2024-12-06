@@ -1,0 +1,4 @@
+var _entity_project_life_cycle_stage_descriptor_8cs =
+[
+    [ "EleWise.ELMA.Projects.Types.EntityProjectLifeCycleStageDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_types_1_1_entity_project_life_cycle_stage_descriptor.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_types_1_1_entity_project_life_cycle_stage_descriptor" ]
+];

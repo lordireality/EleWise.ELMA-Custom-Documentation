@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager =
+[
+    [ "BusinessRuleVersionManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a232062e9e36bb66911e7e308e02d5f23", null ],
+    [ "CanChangeStatus", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a25fe796033db6679f3974bb190c59029", null ],
+    [ "CanObsolete", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a70f93c46f61095a0e71c6891dedb7724", null ],
+    [ "CanSendOnApproval", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a729435decd8f849ee3f4c2a54fef68d6", null ],
+    [ "CanSetCurrent", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a163f73e091f0b018a4f00dc53db517ef", null ],
+    [ "CanSetDraft", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#ad6b1e298a3a74e9abe8ef86c85391512", null ],
+    [ "CheckCanObsolete", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#ade57325be67466b07729cd87980b0ecc", null ],
+    [ "CheckCanSendOnApproval", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#ac6e9e73ea41ff7e635e3dfad332608c3", null ],
+    [ "CheckCanSetCurrent", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a5d89f0914fead8fd70b396f121e8d630", null ],
+    [ "Clone", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a0bbf1c1cddb6f29d7fb99bcf35594102", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a1c8eecc30fc582613c426e391ab0fcb2", null ],
+    [ "DoObsolete", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a4c89a4614a8ed8911a6fb15c51865198", null ],
+    [ "GetBusinessRule", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#aa981452402df0cc8275f005638d2158d", null ],
+    [ "GetByVersion", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a83985ae59d2a4207bfa88b67f45f916a", null ],
+    [ "GetCurrent", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#abde2a149f5afe78c2511117c22af740a", null ],
+    [ "GetDraft", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#abd307d67d2a1311627d3f9611b8e2294", null ],
+    [ "GetMaxRuleVersionsNumber", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a0d998b2f973ddc18423550f6785117f6", null ],
+    [ "GetRuleVersionsCount", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#ae2b4108b8fabc94fce15bb33f7380bd2", null ],
+    [ "SendOnApproval", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a1f4580c1f8cc1d5157e14cac0b51d46d", null ],
+    [ "SetCurrent", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a359d6cc32adcc0b2f048abae77604cd3", null ],
+    [ "SetDraft", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a6579539497f1b63f9f004c1b7d12863a", null ],
+    [ "BusinessRuleTableManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html#a9f12e9b7a5baa300182ebcf857ae5871", null ]
+];

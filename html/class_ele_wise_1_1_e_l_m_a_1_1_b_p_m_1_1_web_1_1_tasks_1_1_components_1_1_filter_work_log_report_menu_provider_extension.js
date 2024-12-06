@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_filter_work_log_report_menu_provider_extension =
+[
+    [ "GetTreeNodeParameters", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_filter_work_log_report_menu_provider_extension.html#afaca952e63fbab055a3e263079814c7c", null ],
+    [ "SupportedFilter", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_filter_work_log_report_menu_provider_extension.html#a8dd200267005a5d756f87b66cfc72d21", null ],
+    [ "ComponentManager", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_filter_work_log_report_menu_provider_extension.html#ab05a08b996348fc41ae0020ca819af9d", null ],
+    [ "ContentActionRegistry", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_filter_work_log_report_menu_provider_extension.html#a3769fd47d13a702f42b6a7a867267dad", null ]
+];

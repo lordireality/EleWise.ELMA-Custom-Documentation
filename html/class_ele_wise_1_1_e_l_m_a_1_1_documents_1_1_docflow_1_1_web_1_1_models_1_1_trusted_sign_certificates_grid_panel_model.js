@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_grid_panel_model =
+[
+    [ "CryptoAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_grid_panel_model.html#a7742b0630927dab22fd6cf5a95239c41", null ],
+    [ "IsCurrentProfile", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_grid_panel_model.html#a15b75c67299867b2687711e364464e29", null ],
+    [ "User", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_trusted_sign_certificates_grid_panel_model.html#af28924ba3be7521ee89176e4445a1bb4", null ]
+];

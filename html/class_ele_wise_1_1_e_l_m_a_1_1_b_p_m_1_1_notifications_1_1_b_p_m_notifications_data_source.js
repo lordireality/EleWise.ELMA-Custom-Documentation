@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_notifications_1_1_b_p_m_notifications_data_source =
+[
+    [ "BPMNotificationsDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_notifications_1_1_b_p_m_notifications_data_source.html#a5559250063e9ec36a7bd7dbb298c734c", null ]
+];

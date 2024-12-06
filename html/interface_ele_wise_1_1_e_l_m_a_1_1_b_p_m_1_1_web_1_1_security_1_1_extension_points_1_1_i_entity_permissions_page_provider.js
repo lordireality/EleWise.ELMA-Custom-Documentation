@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_entity_permissions_page_provider =
+[
+    [ "CheckAccess", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_entity_permissions_page_provider.html#a886aad3d75b0e9e97cf01c6d2df944af", null ],
+    [ "IsSupported", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_entity_permissions_page_provider.html#a4e4be78ee98348d170bf88d4fbf222cc", null ]
+];

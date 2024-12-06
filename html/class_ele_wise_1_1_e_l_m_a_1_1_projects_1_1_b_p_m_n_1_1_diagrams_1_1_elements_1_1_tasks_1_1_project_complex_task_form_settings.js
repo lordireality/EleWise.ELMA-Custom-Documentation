@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings =
+[
+    [ "ProjectComplexTaskFormSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#a23c0c02e4c07f9aa00d9ba4fd06fb5d8", null ],
+    [ "CustomViewName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#ac18384677eebdd10a492a9f09e3af490", null ],
+    [ "ShowActionsButton", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#ac924809290f2a0e699225aa422ffbf0d", null ],
+    [ "ShowCommonInfo", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#a77300faf76a8c0068562ccbbb032b65a", null ],
+    [ "ShowConnectorButtons", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#aef8ebdaaf1cf4f6927e60d10e00c0d4a", null ],
+    [ "ShowMapButton", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#ab43bd81e3d3056477edee3d8a2ca7029", null ],
+    [ "ShowSaveButton", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#ac4964e1dd3b5ed32e327c47c9473c4c2", null ],
+    [ "ShowTabs", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#a09bad81d46dc89f5a8ad08a384f764f4", null ],
+    [ "UseCustomView", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_form_settings.html#a5205d660e1db638e10f1edbce3012db7", null ]
+];

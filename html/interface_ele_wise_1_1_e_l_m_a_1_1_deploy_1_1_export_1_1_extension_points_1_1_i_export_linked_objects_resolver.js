@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_export_1_1_extension_points_1_1_i_export_linked_objects_resolver =
+[
+    [ "GetLinkedObjects", "interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_export_1_1_extension_points_1_1_i_export_linked_objects_resolver.html#a2571e162d721588d52c16d90c9f3095f", null ],
+    [ "IsSupported", "interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_export_1_1_extension_points_1_1_i_export_linked_objects_resolver.html#a1ff346c1e48253aa6b619fd6f7d13277", null ]
+];

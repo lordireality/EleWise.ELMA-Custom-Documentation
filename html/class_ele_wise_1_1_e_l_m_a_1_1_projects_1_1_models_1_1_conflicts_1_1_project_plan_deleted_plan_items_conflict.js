@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_deleted_plan_items_conflict =
+[
+    [ "ProjectPlanDeletedPlanItemsConflict", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_deleted_plan_items_conflict.html#a645397d59ec19afa6f203aa84b21d643", null ],
+    [ "ProjectPlanDeletedPlanItemsConflict", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_deleted_plan_items_conflict.html#a5c9843bf71b9ffcd586a872f500a46e9", null ],
+    [ "DeletedPlanItems", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_deleted_plan_items_conflict.html#a5ca6d963d857ba097a05086a70ef9b57", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_conflicts_1_1_project_plan_deleted_plan_items_conflict.html#a215f21ec7130988b1bf703a9c9b37148", null ]
+];

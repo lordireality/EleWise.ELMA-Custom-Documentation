@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_dms_object_default_permissions_skip_resolver =
+[
+    [ "IsSkip", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_dms_object_default_permissions_skip_resolver.html#a5cbd1272157c0f7ec9f9173ccdb50ffe", null ],
+    [ "IsSupported", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_dms_object_default_permissions_skip_resolver.html#aef27e3d221ac0cdaefd163072a855549", null ]
+];

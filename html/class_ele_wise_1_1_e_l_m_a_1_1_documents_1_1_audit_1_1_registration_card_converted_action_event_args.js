@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_registration_card_converted_action_event_args =
+[
+    [ "RegistrationCardConvertedActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_registration_card_converted_action_event_args.html#a5b01d47db92cea0be7439ad3e418e9c4", null ]
+];

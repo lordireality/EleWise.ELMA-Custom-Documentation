@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_scoring_1_1_contractor_legal_duplicate_handler =
+[
+    [ "ContractorLegalDuplicateHandler", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_scoring_1_1_contractor_legal_duplicate_handler.html#aa1e966d07372a12e4161e499b8f9c7cc", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_scoring_1_1_contractor_legal_duplicate_handler.html#a0ff23848e58bc2596576eb67f75304f2", null ]
+];

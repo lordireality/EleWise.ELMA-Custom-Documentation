@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extension_points_1_1_i_filter_portlet_excluded_types =
+[
+    [ "GetExcludedTypeUid", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_extension_points_1_1_i_filter_portlet_excluded_types.html#a8167841ac4b10a29754c5b2a32751673", null ]
+];

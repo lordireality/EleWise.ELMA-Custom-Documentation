@@ -1,0 +1,4 @@
+var _project_task_feed_object_group_extension_8cs =
+[
+    [ "EleWise.ELMA.Projects.Components.Feed.ProjectTaskFeedObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_task_feed_object_group_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_task_feed_object_group_extension" ]
+];

@@ -1,0 +1,9 @@
+var dir_0035b0e71c8dbbfce369188e370afe98 =
+[
+    [ "DocumentsFullTextSearchExtension.cs", "_documents_full_text_search_extension_8cs.html", null ],
+    [ "FullTextSearchCreateFilePreviewItemIndex.cs", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_c0026939f817be2e62f3758c2c66bcd6f.html", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_c0026939f817be2e62f3758c2c66bcd6f" ],
+    [ "FullTextSearchDmsObjectHandlerExtension.cs", "_full_text_search_dms_object_handler_extension_8cs.html", "_full_text_search_dms_object_handler_extension_8cs" ],
+    [ "FullTextSearchDocumentHandlerExtension.cs", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_document_handler_extension_8cs.html", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_document_handler_extension_8cs" ],
+    [ "FullTextSearchFolderHandlerExtension.cs", "_full_text_search_folder_handler_extension_8cs.html", "_full_text_search_folder_handler_extension_8cs" ],
+    [ "FullTextSearchPermissionHandlerExtension.cs", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_permission_handler_extension_8cs.html", "_ele_wise_8_e_l_m_a_8_documents_2_documents_2_full_text_search_2_components_2_full_text_search_permission_handler_extension_8cs" ]
+];

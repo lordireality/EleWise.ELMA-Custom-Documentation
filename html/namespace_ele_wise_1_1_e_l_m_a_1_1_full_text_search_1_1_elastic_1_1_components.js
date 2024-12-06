@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components =
+[
+    [ "FullTextSearchElasticProvider", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_full_text_search_elastic_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_full_text_search_elastic_provider" ],
+    [ "HtmlStripLanguageAnalyzer", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_html_strip_language_analyzer.html", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_html_strip_language_analyzer" ],
+    [ "MyTokenizer", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_my_tokenizer.html", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_my_tokenizer" ]
+];

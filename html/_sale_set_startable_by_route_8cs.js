@@ -1,0 +1,4 @@
+var _sale_set_startable_by_route_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Web.Components.StartableByRoute.SaleSetStartableByRoute", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte77a823ce3791360aec95e99ac6b2ceb.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_starte77a823ce3791360aec95e99ac6b2ceb" ]
+];

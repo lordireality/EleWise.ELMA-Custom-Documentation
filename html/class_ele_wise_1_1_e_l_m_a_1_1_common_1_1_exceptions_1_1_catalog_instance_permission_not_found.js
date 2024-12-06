@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions_1_1_catalog_instance_permission_not_found =
+[
+    [ "CatalogInstancePermissionNotFound", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions_1_1_catalog_instance_permission_not_found.html#a2bc6796f9f32dd45053954dc478a09a1", null ],
+    [ "CatalogInstancePermissionNotFound", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_exceptions_1_1_catalog_instance_permission_not_found.html#a47ea1dd5bb5f0e640081da946c5310b8", null ]
+];

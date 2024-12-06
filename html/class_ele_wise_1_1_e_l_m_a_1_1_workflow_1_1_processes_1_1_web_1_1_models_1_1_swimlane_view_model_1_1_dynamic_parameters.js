@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters =
+[
+    [ "PropertyName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters.html#ae449e936cb525f9dc5e67c9db3e6b4c6", null ],
+    [ "WorkerDetectionName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters.html#ab391ce39bf00369f91220b9c8343e561", null ],
+    [ "WorkerModels", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_swimlane_view_model_1_1_dynamic_parameters.html#a92a82d70cec97c4fc4d94443199891e8", null ]
+];

@@ -1,0 +1,22 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base =
+[
+    [ "ProjectWorkflowElementBase", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#ac2c672a70f17d7da4255a2ccb0255e39", null ],
+    [ "CheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#ad82123f87ed34770bf73a5611a8ade8c", null ],
+    [ "GetAvaiableOutputElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a81e155d6d9a9e2b1d029aa7578dae1ec", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#ac74bb3c950d4405be39f5e27623ac15c", null ],
+    [ "HtmlFooter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#abc1572615d476ba231cf2bed11e95d51", null ],
+    [ "HtmlHeader", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a4bd62764201ba71c01bd1bb5438da5b0", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#ab2bcc524fb9fd825999fb13b49529392", null ],
+    [ "ReplaceSignature", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a17faae85e016f0e3397fd336eaf1f595", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#ab6199d1c20afa23ce06aacbce7aa9da8", null ],
+    [ "CanCheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a6d25daae980b5a31932de6cd1fb3cb75", null ],
+    [ "ChapterName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a2d5064a6710e8f35eade75e5cab9494f", null ],
+    [ "ConnectorSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#aa1192ee0e164b193b1fd90a43a71c162", null ],
+    [ "LimitByTime", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a619f2dcbe8add626ce6000e9e7f4cb56", null ],
+    [ "LimitByWorkLogTime", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#abfa746d00c3512bfee244f781f518fb1", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a7e12e229936c9e513363a541f8bed039", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a67f5fedfa270b28878846804c23c0ba5", null ],
+    [ "TimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a6ecea7a939bb3743c7b4b1071569a3aa", null ],
+    [ "View", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a57286cdcaab3fd79182d7ae9af1cdf88", null ],
+    [ "WorkLogTimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_workflow_element_base.html#a3ff8b68303224ecb080022e6cddeaaf1", null ]
+];

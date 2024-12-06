@@ -1,0 +1,4 @@
+var _i_portlet_personalization_old_converter_extensions_8cs =
+[
+    [ "EleWise.ELMA.Web.Mvc.Extensions.IPortletPersonalizationOldConverterExtensions", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extensions_1_1_i_portlet_personalization_old_converter_extensions.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extensions_1_1_i_portlet_personalization_old_converter_extensions" ]
+];

@@ -1,0 +1,11 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params =
+[
+    [ "AddSwimlaneExecutorsParams", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#a0979e25b0c95e684478974c66416f69c", null ],
+    [ "AfterCreate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#a05d189745d43db283c96fbacc07556a6", null ],
+    [ "CreationAuthor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#abb155f65e577b9736e94745c639465eb", null ],
+    [ "DenyReplace", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#a26d92a93f8a3ca32d7dcd87b36eac36c", null ],
+    [ "EndDateFromTask", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#a94d90633ea5273f278e32efa9161b069", null ],
+    [ "Group", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#a01e134724fc8730035f238b7487d2c07", null ],
+    [ "Swimlane", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#abe29940bc5530e3891e2079d32226908", null ],
+    [ "Users", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_managers_1_1_acquaintance_task_group_manager_1_1_add_swimlane_executors_params.html#ab2c34dd4e02b4d9abf9c1461f42cfb24", null ]
+];

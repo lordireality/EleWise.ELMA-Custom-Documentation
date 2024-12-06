@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_resource_calendar_extension =
+[
+    [ "GetCalendar", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_resource_calendar_extension.html#aa8e17ceb3754f637706d54c91b87cfb8", null ],
+    [ "IsSupport", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_resource_calendar_extension.html#ae3c41b33434118603e27fb560cc31290", null ]
+];

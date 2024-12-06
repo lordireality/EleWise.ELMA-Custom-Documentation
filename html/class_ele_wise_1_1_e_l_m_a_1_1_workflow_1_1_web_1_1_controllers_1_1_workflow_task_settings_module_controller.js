@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_controllers_1_1_workflow_task_settings_module_controller =
+[
+    [ "WorkflowTaskSettingsModuleController", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_controllers_1_1_workflow_task_settings_module_controller.html#abbef0a61698075ca514a8b9a48c41613", null ]
+];

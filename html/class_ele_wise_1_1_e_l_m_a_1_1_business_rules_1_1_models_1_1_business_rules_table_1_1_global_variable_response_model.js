@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_response_model =
+[
+    [ "ErrorMessage", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_response_model.html#a55a309a81e058e7e6cdc6380bd010397", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rules_table_1_1_global_variable_response_model.html#a65f3ade1f16433f9b848da2c9c982b29", null ]
+];

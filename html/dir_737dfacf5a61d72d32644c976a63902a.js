@@ -1,0 +1,25 @@
+var dir_737dfacf5a61d72d32644c976a63902a =
+[
+    [ "ApprovalStatusEnum.cs", "_ele_wise_8_e_l_m_a_8_tasks_2_tasks_2_a_p_i_2_models_2_approval_status_enum_8cs.html", "_ele_wise_8_e_l_m_a_8_tasks_2_tasks_2_a_p_i_2_models_2_approval_status_enum_8cs" ],
+    [ "ApprovalSubTaskWCF.cs", "_approval_sub_task_w_c_f_8cs.html", "_approval_sub_task_w_c_f_8cs" ],
+    [ "ApprovalTaskPackage.cs", "_approval_task_package_8cs.html", "_approval_task_package_8cs" ],
+    [ "ApprovalTaskWCF.cs", "_approval_task_w_c_f_8cs.html", "_approval_task_w_c_f_8cs" ],
+    [ "ControlTaskPackage.cs", "_control_task_package_8cs.html", "_control_task_package_8cs" ],
+    [ "ControlTaskWCF.cs", "_control_task_w_c_f_8cs.html", "_control_task_w_c_f_8cs" ],
+    [ "ParentTaskWCF.cs", "_parent_task_w_c_f_8cs.html", "_parent_task_w_c_f_8cs" ],
+    [ "QuestionPackage.cs", "_question_package_8cs.html", "_question_package_8cs" ],
+    [ "QuestionWCF.cs", "_question_w_c_f_8cs.html", "_question_w_c_f_8cs" ],
+    [ "TaskAnswerWCF.cs", "_task_answer_w_c_f_8cs.html", "_task_answer_w_c_f_8cs" ],
+    [ "TaskAttachmentWCF.cs", "_task_attachment_w_c_f_8cs.html", "_task_attachment_w_c_f_8cs" ],
+    [ "TaskBasePackage.cs", "_task_base_package_8cs.html", "_task_base_package_8cs" ],
+    [ "TaskBaseWCF.cs", "_task_base_w_c_f_8cs.html", "_task_base_w_c_f_8cs" ],
+    [ "TaskCommentWCF.cs", "_task_comment_w_c_f_8cs.html", "_task_comment_w_c_f_8cs" ],
+    [ "TaskControlTypeEnum.cs", "_task_control_type_enum_8cs.html", "_task_control_type_enum_8cs" ],
+    [ "TaskDocumentAttachmentWCF.cs", "_task_document_attachment_w_c_f_8cs.html", "_task_document_attachment_w_c_f_8cs" ],
+    [ "TaskPackage.cs", "_task_package_8cs.html", "_task_package_8cs" ],
+    [ "TaskPriorityEnum.cs", "_task_priority_enum_8cs.html", "_task_priority_enum_8cs" ],
+    [ "TaskQuestionWCF.cs", "_task_question_w_c_f_8cs.html", "_task_question_w_c_f_8cs" ],
+    [ "TaskWCF.cs", "_task_w_c_f_8cs.html", "_task_w_c_f_8cs" ],
+    [ "UnknownTaskPackage.cs", "_unknown_task_package_8cs.html", "_unknown_task_package_8cs" ],
+    [ "UnknownTaskWCF.cs", "_unknown_task_w_c_f_8cs.html", "_unknown_task_w_c_f_8cs" ]
+];

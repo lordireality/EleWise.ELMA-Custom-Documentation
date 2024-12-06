@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_optimizer_view_model =
+[
+    [ "ResourcesOptimizerViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_optimizer_view_model.html#a2480294e2b85089ca52ee6ea67b85357", null ],
+    [ "ProjectExistsForSave", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_optimizer_view_model.html#a16a41afd86d859ada906439270319910", null ],
+    [ "Data", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_resources_optimizer_view_model.html#a1217a4e25213324649275399b70b1db3", null ]
+];

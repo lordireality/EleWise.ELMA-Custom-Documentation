@@ -1,0 +1,5 @@
+var _abstract_code_editor_extension_8cs =
+[
+    [ "EleWise.ELMA.OmniSharp.AbstractCodeEditorExtension", "class_ele_wise_1_1_e_l_m_a_1_1_omni_sharp_1_1_abstract_code_editor_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_omni_sharp_1_1_abstract_code_editor_extension" ],
+    [ "EleWise.ELMA.OmniSharp.AbstractCodeEditorExtension.WorkspaceProjectHelper", "class_ele_wise_1_1_e_l_m_a_1_1_omni_sharp_1_1_abstract_code_editor_extension_1_1_workspace_project_helper.html", "class_ele_wise_1_1_e_l_m_a_1_1_omni_sharp_1_1_abstract_code_editor_extension_1_1_workspace_project_helper" ]
+];

@@ -1,0 +1,4 @@
+var _modules_2_ele_wise_8_e_l_m_a_8_b_p_m_8_web_8_tasks_2_extension_points_2_i_task_attachmet_specified_extension_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.ExtensionPoints.ITaskAttachmetSpecifiedViewExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extension_points_1_1_i_task_attachmet_specified_view_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extension_points_1_1_i_task_attachmet_specified_view_extension" ]
+];

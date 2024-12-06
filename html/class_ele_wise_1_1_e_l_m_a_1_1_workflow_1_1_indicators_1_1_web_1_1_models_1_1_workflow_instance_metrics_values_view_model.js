@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_instance_metrics_values_view_model =
+[
+    [ "Metric", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_instance_metrics_values_view_model.html#aec1f2de43be071dcde1694e4b21bb4db", null ]
+];

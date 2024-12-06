@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security =
+[
+    [ "ChannelInstanceDefaultPermission", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_channel_instance_default_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_channel_instance_default_permission" ],
+    [ "ChannelRoleTypes", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_channel_role_types.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_channel_role_types" ],
+    [ "InstanceSettingsChannelPermission", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_instance_settings_channel_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_security_1_1_instance_settings_channel_permission" ]
+];

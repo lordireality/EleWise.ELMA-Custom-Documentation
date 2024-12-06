@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_diagram_type_settings =
+[
+    [ "WorkflowDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_diagram_type_settings.html#a7f3651c1579b5b9c56f3507f7f4f72eb", null ],
+    [ "WorkflowDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_types_1_1_settings_1_1_workflow_diagram_type_settings.html#ab6e842b661c76d3641d65e9b413e50e8", null ]
+];

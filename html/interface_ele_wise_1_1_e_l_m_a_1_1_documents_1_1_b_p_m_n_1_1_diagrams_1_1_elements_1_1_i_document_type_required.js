@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_document_type_required =
+[
+    [ "GetDocumentType", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_document_type_required.html#a56a5d281a9b64194c36032f0b7b6ba6f", null ],
+    [ "DocumentType", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_document_type_required.html#a1482fcdc517a4b0d1d003f43e0994808", null ],
+    [ "DocumentTypeFromVar", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_document_type_required.html#a5d0faca6f27d8d0c19a997ea5abb7a13", null ],
+    [ "DocumentTypeVar", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_i_document_type_required.html#ab61ee6cc1679e17b628f3e196836b103", null ]
+];

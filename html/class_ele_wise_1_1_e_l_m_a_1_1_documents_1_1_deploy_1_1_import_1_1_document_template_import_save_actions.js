@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_template_import_save_actions =
+[
+    [ "ExecPreSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_template_import_save_actions.html#a5d6ae797741a1b08124bd678fbf4d9fa", null ],
+    [ "IsSupported", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_deploy_1_1_import_1_1_document_template_import_save_actions.html#a3830cf8cfc7884ea6d0938f37da4f33d", null ]
+];

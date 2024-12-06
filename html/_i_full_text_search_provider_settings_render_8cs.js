@@ -1,0 +1,4 @@
+var _i_full_text_search_provider_settings_render_8cs =
+[
+    [ "EleWise.ELMA.FullTextSearch.ExtensionPoints.IFullTextSearchProviderSettingsRender", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_provider_settings_render.html", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_provider_settings_render" ]
+];

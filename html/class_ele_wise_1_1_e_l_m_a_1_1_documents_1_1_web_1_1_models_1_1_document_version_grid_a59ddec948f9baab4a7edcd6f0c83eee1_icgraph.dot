@@ -1,0 +1,19 @@
+digraph "EleWise.ELMA.Documents.Web.Models.DocumentVersionGrid.GetVersionCssClass"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Web.\lModels.DocumentVersionGrid.GetVersion\lCssClass",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Web.\lModels.AutoCompleteDocumentVersion\lItem.GetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_auto_complete_document_version_item.html#a15be61d089ea6adf3bb7a7454df0afe5",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentVersionController.\lGetDocumentVersion",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_version_controller.html#ae00ac3a5cca4b4a0255b269d3ff4f79f",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Web.\lModels.AutoCompleteDocumentVersion\lItem.GetItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_auto_complete_document_version_item.html#a771ecd64e1c678e50a5dddc9da91e016",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Web.\lControllers.DocumentVersionController.\lGetDocumentVersions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_controllers_1_1_document_version_controller.html#ae497ad837a494310e49401bed2cb360f",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Documents.Web.\lModels.DocumentVersionGrid.GetRowClass",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_models_1_1_document_version_grid.html#a8f23844bfd95de99d54ab5c6f89e06a6",tooltip=" "];
+}

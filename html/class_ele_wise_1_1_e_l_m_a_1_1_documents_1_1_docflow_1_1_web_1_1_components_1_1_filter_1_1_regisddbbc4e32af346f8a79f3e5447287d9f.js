@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f.html#ae61b27938f50d9fa02728e901ca1b67d", null ],
+    [ "IsPropertyInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f.html#aa4d887c0453ef8151efffe2d0d8320ca", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f.html#a66c0b717083d99472d2739a2918aa531", null ],
+    [ "ZoneType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f.html#ae5bfae4f8511191b68b67ff56b234cdb", null ],
+    [ "ZoneUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisddbbc4e32af346f8a79f3e5447287d9f.html#adcb827b704152b216bbf1d14958449c2", null ]
+];

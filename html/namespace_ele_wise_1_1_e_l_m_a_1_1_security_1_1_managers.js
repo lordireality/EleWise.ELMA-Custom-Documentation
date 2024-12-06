@@ -1,0 +1,24 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers =
+[
+    [ "AbsenceManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_absence_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_absence_manager" ],
+    [ "AssignedRoleStereotypeManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_assigned_role_stereotype_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_assigned_role_stereotype_manager" ],
+    [ "CertificationAuthorityManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_certification_authority_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_certification_authority_manager" ],
+    [ "ClientSessionDataSetsManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_client_session_data_sets_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_client_session_data_sets_manager" ],
+    [ "HierarchyChiefDisplayModel", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model" ],
+    [ "LocalStorageManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_local_storage_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_local_storage_manager" ],
+    [ "OrganizationItemManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_organization_item_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_organization_item_manager" ],
+    [ "OrganizationModelManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_organization_model_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_organization_model_manager" ],
+    [ "PackageChangesManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_package_changes_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_package_changes_manager" ],
+    [ "PersonalGroupManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_personal_group_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_personal_group_manager" ],
+    [ "PublicApplicationTokenManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_application_token_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_application_token_manager" ],
+    [ "PublicClientCacheTokenManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_client_cache_token_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_client_cache_token_manager" ],
+    [ "PublicClientSessionManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_client_session_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_public_client_session_manager" ],
+    [ "ReplacementManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_replacement_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_replacement_manager" ],
+    [ "ReplacementRuleManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_replacement_rule_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_replacement_rule_manager" ],
+    [ "UserCertificateManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_certificate_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_certificate_manager" ],
+    [ "UserCryptoProfileManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_crypto_profile_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_crypto_profile_manager" ],
+    [ "UserGroupManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_group_manager" ],
+    [ "UserManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_manager" ],
+    [ "UserPublicKeyTokenManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_public_key_token_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_public_key_token_manager" ],
+    [ "UserSecurityProfileManager", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_security_profile_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_user_security_profile_manager" ]
+];

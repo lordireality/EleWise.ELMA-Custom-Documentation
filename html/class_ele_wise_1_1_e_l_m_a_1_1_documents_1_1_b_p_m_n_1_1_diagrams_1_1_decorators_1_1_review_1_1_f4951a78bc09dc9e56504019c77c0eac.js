@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_review_1_1_f4951a78bc09dc9e56504019c77c0eac =
+[
+    [ "CreateTasksByResolutionDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_review_1_1_f4951a78bc09dc9e56504019c77c0eac.html#a8d5e2c8895c137865a01fcada92e7e78", null ],
+    [ "CreatePaths", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_review_1_1_f4951a78bc09dc9e56504019c77c0eac.html#a95ff2e1fa81c21c01cfce622a9269b73", null ]
+];

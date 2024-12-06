@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_acquaintance_results_service =
+[
+    [ "DocumentAcquaintanceResultsService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_acquaintance_results_service.html#a513394f93731ae68e690a77db500d33d", null ],
+    [ "GetAcquaintanceResults", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_acquaintance_results_service.html#aba16af10250e49d3b6bfbe05a3400270", null ],
+    [ "Logger", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_a_p_i_1_1_service_1_1v1_1_1_document_acquaintance_results_service.html#a6f0896e859f84dafcbfee3af7857da78", null ]
+];

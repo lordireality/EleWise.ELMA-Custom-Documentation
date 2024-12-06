@@ -1,0 +1,4 @@
+var _external_book_insert_base_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.ExtensionPoint.ExternalBookInsertBase", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_external_book_insert_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_external_book_insert_base" ]
+];

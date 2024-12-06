@@ -1,0 +1,4 @@
+var _create_tasks_by_resolution_activity_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Activities.Review.CreateTasksByResolutionActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_f54c03a889f16fc531f8414d8dc8761f.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_review_1_1_f54c03a889f16fc531f8414d8dc8761f" ]
+];

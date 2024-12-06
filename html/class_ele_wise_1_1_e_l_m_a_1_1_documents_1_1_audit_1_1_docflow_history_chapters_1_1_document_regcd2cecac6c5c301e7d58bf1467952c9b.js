@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_regcd2cecac6c5c301e7d58bf1467952c9b =
+[
+    [ "RegistrationCardCreateAction", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_regcd2cecac6c5c301e7d58bf1467952c9b.html#ac867036cdd83b592d52648cdfe06c51f", null ],
+    [ "ActionChapterUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_regcd2cecac6c5c301e7d58bf1467952c9b.html#a0a53db4117714ee24a011a9b702c8a97", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_docflow_history_chapters_1_1_document_regcd2cecac6c5c301e7d58bf1467952c9b.html#aa9e6ab65bb7d3d356da5ffdb511b0c62", null ]
+];

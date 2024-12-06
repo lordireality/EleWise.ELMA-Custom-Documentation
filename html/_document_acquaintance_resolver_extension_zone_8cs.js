@@ -1,0 +1,4 @@
+var _document_acquaintance_resolver_extension_zone_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.DocumentAcquaintanceResolverExtensionZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_acquaintance_resolver_extension_zone.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_acquaintance_resolver_extension_zone" ]
+];

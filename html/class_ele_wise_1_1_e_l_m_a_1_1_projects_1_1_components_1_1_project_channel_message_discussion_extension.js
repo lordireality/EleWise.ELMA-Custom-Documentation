@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_channel_message_discussion_extension =
+[
+    [ "ProjectChannelMessageDiscussionExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_channel_message_discussion_extension.html#ac55f5179e9f68a31f29c293d6adb92b1", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_channel_message_discussion_extension.html#a7cc9a807346863c7a81c1f45bb49163d", null ],
+    [ "UpdateMessageObjectsNames", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_channel_message_discussion_extension.html#a9fb0c64a0e5bdf8715b7acc8d131cb77", null ]
+];

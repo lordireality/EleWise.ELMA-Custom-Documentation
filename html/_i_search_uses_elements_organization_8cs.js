@@ -1,0 +1,4 @@
+var _i_search_uses_elements_organization_8cs =
+[
+    [ "EleWise.ELMA.Security.ExtensionPoints.ISearchUsesElementsOrganization", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_search_uses_elements_organization.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extension_points_1_1_i_search_uses_elements_organization" ]
+];

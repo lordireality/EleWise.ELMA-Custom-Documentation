@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.PortalConnector.Web/Portlets"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_8a5dab7c0abb90a8c796351aef4cd723 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.PortalConnector.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_8a5dab7c0abb90a8c796351aef4cd723.html",tooltip=""]
+  dir_a42839df6351d6374410d1ed7e64be63 [label="Portlets", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_a42839df6351d6374410d1ed7e64be63.html",tooltip=""];
+  }
+}

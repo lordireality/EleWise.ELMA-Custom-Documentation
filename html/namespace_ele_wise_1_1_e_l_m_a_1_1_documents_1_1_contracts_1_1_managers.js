@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers =
+[
+    [ "AdditionalAgreementManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_additional_agreement_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_additional_agreement_manager" ],
+    [ "ContractManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_contract_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_contract_manager" ],
+    [ "ContractStepManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_contract_step_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_contracts_1_1_managers_1_1_contract_step_manager" ]
+];

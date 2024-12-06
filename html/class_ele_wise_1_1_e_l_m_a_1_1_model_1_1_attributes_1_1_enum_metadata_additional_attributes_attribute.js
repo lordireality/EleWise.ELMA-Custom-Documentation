@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_enum_metadata_additional_attributes_attribute =
+[
+    [ "EnumMetadataAdditionalAttributesAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_enum_metadata_additional_attributes_attribute.html#ac01f3387d379eaa0612fb1f990c94c53", null ],
+    [ "EnumAdditionalAttributes", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_enum_metadata_additional_attributes_attribute.html#a5993a9d60c1d6c77f2a815f38cec820c", null ]
+];

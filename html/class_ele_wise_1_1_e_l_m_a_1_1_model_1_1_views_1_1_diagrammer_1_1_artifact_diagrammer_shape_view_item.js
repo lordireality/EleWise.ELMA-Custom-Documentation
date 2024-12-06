@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_diagrammer_1_1_artifact_diagrammer_shape_view_item =
+[
+    [ "ArtifactDiagrammerShapeViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_diagrammer_1_1_artifact_diagrammer_shape_view_item.html#a8d47fe1170e06acde494868ca42cbd42", null ],
+    [ "BorderWidth", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_views_1_1_diagrammer_1_1_artifact_diagrammer_shape_view_item.html#a8fe15f4ddfe267d08e3d1884af1a89a7", null ]
+];

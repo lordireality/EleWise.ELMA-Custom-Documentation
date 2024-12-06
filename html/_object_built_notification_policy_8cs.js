@@ -1,0 +1,4 @@
+var _object_built_notification_policy_8cs =
+[
+    [ "EleWise.ELMA.CAB.BuilderStrategies.ObjectBuiltNotificationPolicy", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_builder_strategies_1_1_object_built_notification_policy.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_a_b_1_1_builder_strategies_1_1_object_built_notification_policy" ]
+];

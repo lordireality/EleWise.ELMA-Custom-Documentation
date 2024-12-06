@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277 =
+[
+    [ "ReservNumberDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277.html#a6b52a5a1b07c3a660195dff48afc4cd5", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277.html#a3361ca3b3b959dac2178f398728553d5", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_res3be43f5f93fe27dea0a8534dba3c2277.html#a08ee00c54d2a5b4e588ddd2b181bd23e", null ]
+];

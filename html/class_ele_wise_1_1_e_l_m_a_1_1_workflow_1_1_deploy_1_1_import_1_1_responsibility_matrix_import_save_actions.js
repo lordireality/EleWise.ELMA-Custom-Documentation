@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_deploy_1_1_import_1_1_responsibility_matrix_import_save_actions =
+[
+    [ "ResponsibilityMatrixImportSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_deploy_1_1_import_1_1_responsibility_matrix_import_save_actions.html#a5b680f43d1e36070b6ea166053d0582d", null ],
+    [ "ExecPreSaveActions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_deploy_1_1_import_1_1_responsibility_matrix_import_save_actions.html#a1bd28bbca07f7015d0b9ec953775fc1d", null ],
+    [ "IsSupported", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_deploy_1_1_import_1_1_responsibility_matrix_import_save_actions.html#a247379bf9e4ca4abceac58b0678a037d", null ]
+];

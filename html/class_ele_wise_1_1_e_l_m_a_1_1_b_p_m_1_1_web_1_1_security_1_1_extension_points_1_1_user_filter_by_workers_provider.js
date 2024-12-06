@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_user_filter_by_workers_provider =
+[
+    [ "ApplyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_user_filter_by_workers_provider.html#ad51820fe8398505b2a248fd5ebbaab14", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_user_filter_by_workers_provider.html#ad545b596d7a927ce9817a98e5a5e7429", null ],
+    [ "GetFilterProviderData", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_user_filter_by_workers_provider.html#a9d4e86443fb7642ab878157b86a3e450", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_user_filter_by_workers_provider.html#a2e271f1b7b5195c0f97b4828af722a85", null ]
+];

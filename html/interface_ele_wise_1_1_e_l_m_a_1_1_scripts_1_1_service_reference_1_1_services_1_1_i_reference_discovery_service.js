@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services_1_1_i_reference_discovery_service =
+[
+    [ "DiscoverServiceReference", "interface_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services_1_1_i_reference_discovery_service.html#a7f3b738957117a7942092efb387de075", null ],
+    [ "DiscoverWebReference", "interface_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services_1_1_i_reference_discovery_service.html#adba1d294e603c74630d1384432da30e6", null ]
+];

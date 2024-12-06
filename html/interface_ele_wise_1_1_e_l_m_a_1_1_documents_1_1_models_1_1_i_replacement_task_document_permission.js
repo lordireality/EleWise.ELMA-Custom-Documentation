@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_i_replacement_task_document_permission =
+[
+    [ "TaskDocumentsManagePermissions", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_i_replacement_task_document_permission.html#a9c592ffb2c842b1818e6cc4a59ed0ec0", null ],
+    [ "TaskDocumentsPermissions", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_i_replacement_task_document_permission.html#a9e1bfcab5d1c363ea17ce390c0cbe9ff", null ]
+];

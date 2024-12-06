@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages =
+[
+    [ "FileSystemActivationKeyStorage", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_file_system_activation_key_storage.html", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_file_system_activation_key_storage" ],
+    [ "IActivationKeyStorage", "interface_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_i_activation_key_storage.html", "interface_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_i_activation_key_storage" ],
+    [ "InstallationIdFileStorage", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_installation_id_file_storage.html", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_installation_id_file_storage" ],
+    [ "InstallationIdRegistryStorage", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_installation_id_registry_storage.html", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_installation_id_registry_storage" ],
+    [ "RegistryActivationKeyStorage", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_registry_activation_key_storage.html", "class_ele_wise_1_1_e_l_m_a_1_1_licensing_1_1_storages_1_1_registry_activation_key_storage" ]
+];

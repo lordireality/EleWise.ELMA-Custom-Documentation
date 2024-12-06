@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_sign_document_metadata_save_handler =
+[
+    [ "Init", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_sign_document_metadata_save_handler.html#af5a2a6cb29bbd55c91072811bfcef6f2", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_sign_document_metadata_save_handler.html#abb135b45a6b825dca8e729373f2bef2e", null ],
+    [ "PermissionsModelService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_sign_document_metadata_save_handler.html#a8776a7c6e93583fa4d0720499969b4c9", null ]
+];

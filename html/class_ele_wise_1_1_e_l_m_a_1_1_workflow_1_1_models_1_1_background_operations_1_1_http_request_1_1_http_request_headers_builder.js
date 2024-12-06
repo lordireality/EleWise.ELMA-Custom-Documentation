@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_1_http_request_headers_builder =
+[
+    [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_1_http_request_headers_builder.html#a0b2908d2fe15ca4ecb681e014299f936", null ],
+    [ "Add", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_1_http_request_headers_builder.html#a757944dbe2392402ae2cfa07ebfa2c2d", null ],
+    [ "Set", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_1_http_request_headers_builder.html#a0f846c9043a17d6e3e6e0af9f042dd72", null ],
+    [ "Set", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_http_request_1_1_http_request_headers_builder.html#a9474556c6670cd072313d384590ed356", null ]
+];

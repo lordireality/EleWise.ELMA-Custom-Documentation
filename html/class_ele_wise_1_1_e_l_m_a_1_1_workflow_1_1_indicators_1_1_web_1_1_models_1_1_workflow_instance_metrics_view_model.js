@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_instance_metrics_view_model =
+[
+    [ "Instance", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_instance_metrics_view_model.html#af690733c73810b645937ccdcd5fc47d7", null ],
+    [ "Values", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_instance_metrics_view_model.html#a98e747b550bc0b25d4342993fae04b15", null ]
+];

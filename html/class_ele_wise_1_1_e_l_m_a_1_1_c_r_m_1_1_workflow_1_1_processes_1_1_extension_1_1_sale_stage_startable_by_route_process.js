@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process =
+[
+    [ "SaleStageStartableByRouteProcess", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process.html#a7045d70440ee6c0e0b368b49d4ad9eb6", null ],
+    [ "ContextVarSelector", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process.html#a84da4bc39f8e515afcecf7a9b972777d", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process.html#aad3a732132627fb2afe6ee11cba79bff", null ],
+    [ "RelationTypes", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process.html#abdb579a5ff623957645ca6c695e216d4", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_sale_stage_startable_by_route_process.html#afafe28fed4679a4383cd16c57f37aff5", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_diagram_type_settings =
+[
+    [ "OrganizationDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_diagram_type_settings.html#a091d8c386011a4df2c2d38683990f08e", null ],
+    [ "OrganizationDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_diagram_type_settings.html#ad2e9d442aeb9008bfbe37f5b1ece4de1", null ]
+];

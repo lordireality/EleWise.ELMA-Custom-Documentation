@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_change_status_document_activity =
+[
+    [ "ChangeStatusDocumentActivity", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_change_status_document_activity.html#a79bc4a0159bedf0b532efb43e93b3e57", null ],
+    [ "CalcStatusInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_change_status_document_activity.html#a9949802ceb24a64a53d479977a562be8", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_change_status_document_activity.html#acb44f9798118b53d7b9c1020a95994ea", null ],
+    [ "GetStatusInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_change_status_document_activity.html#a0531cd54c436352d7b1f7a559eb1cdaf", null ]
+];

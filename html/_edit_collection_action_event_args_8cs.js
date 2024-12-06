@@ -1,0 +1,5 @@
+var _edit_collection_action_event_args_8cs =
+[
+    [ "EleWise.ELMA.Common.Audit.EditCollectionActionEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args" ],
+    [ "EleWise.ELMA.Common.Audit.EditCollectionActionEventArgs.ShortCollectionItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_audit_1_1_edit_collection_action_event_args_1_1_short_collection_item_info" ]
+];

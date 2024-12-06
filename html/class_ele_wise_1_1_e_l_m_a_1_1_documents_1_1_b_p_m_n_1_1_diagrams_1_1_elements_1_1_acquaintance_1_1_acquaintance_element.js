@@ -1,0 +1,23 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_ab3a21e9997004d949c7858555463d61.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_ab3a21e9997004d949c7858555463d61" ],
+    [ "AcquaintanceElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#af6c79afcc754c681b6b81d66910e19d5", null ],
+    [ "CheckRequired", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a849f712e5d9d273ca36f6314c2fc0fc8", null ],
+    [ "GenerateName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a666c430f30a6579781d22a413420ae61", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a16886951a808f662112471679086fb42", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a510da08402dc36c76524eca2ed95c45d", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a371158ac7fc35f1eed4b6c14dab45e17", null ],
+    [ "ActivityListFromContext", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a0fd9fd38d6b2440cdd7f6adc27ac1082", null ],
+    [ "CanCheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a00a38648cecddab8c2293a7a56cacc59", null ],
+    [ "ContextLinkedUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a6369c22cb17420a677dc30f75292097b", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a2b7958ac9f4c4bcd3ec756a3d991a09a", null ],
+    [ "DisplayDocumentList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#afd24928c1d9286b28c1aab50763e220a", null ],
+    [ "DisplayDocumentsPreviewTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a56629baf819d47a6829f0c8526c864c0", null ],
+    [ "DisplayDocumentsTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a224a2801350ae5d3e0baff6c27cc8919", null ],
+    [ "EcpNotRequiredWorkers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#aa4ec570a693214cd9ea386736b576ae1", null ],
+    [ "EcpRequired", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a21be64968d16e26418414b30fb90486f", null ],
+    [ "MultipleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a348de247aeb57a75cc9aa2e8a912d864", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a5b9dad1493273ab96a2de7bd84094969", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#a3c96bd846ff80d29f5307adee5fa2e78", null ],
+    [ "UseGroupName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_acquaintance_element.html#af03af0c3a8aeb0c6d1167f058301a355", null ]
+];

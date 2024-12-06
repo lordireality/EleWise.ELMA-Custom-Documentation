@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_s_m_a_r_t_1_1_i_create_sub_smart_task_action_model =
+[
+    [ "CopyPeriods", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_s_m_a_r_t_1_1_i_create_sub_smart_task_action_model.html#a72496b61af446c355baeb579de13c54c", null ],
+    [ "CopyResult", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_s_m_a_r_t_1_1_i_create_sub_smart_task_action_model.html#a6e5f1dac2fc4a2e523d34716c2169ca2", null ]
+];

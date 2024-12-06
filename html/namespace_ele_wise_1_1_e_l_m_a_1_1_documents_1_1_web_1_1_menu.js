@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu =
+[
+    [ "ContentActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_content_action_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_content_action_provider" ],
+    [ "DocumentsMenuItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_documents_menu_items.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_documents_menu_items" ],
+    [ "DocumentsSharedFoldersItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_documents_shared_folders_items.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_documents_shared_folders_items" ],
+    [ "SettingsDocumentModuleMenuItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_settings_document_module_menu_items.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_menu_1_1_settings_document_module_menu_items" ]
+];

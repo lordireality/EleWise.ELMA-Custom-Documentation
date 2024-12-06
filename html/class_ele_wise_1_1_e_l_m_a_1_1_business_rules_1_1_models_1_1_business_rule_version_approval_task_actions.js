@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rule_version_approval_task_actions =
+[
+    [ "BusinessRuleVersionApprovalTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rule_version_approval_task_actions.html#a9cdbce2fb607f4a04de37b43f985cb3f", null ]
+];

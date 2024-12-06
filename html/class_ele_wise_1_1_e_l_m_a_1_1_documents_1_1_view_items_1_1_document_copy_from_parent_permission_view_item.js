@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_copy_from_parent_permission_view_item =
+[
+    [ "DocumentCopyFromParentPermissionViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_copy_from_parent_permission_view_item.html#a1700dc3634ab96cbb91e0527a0eccaff", null ],
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_copy_from_parent_permission_view_item.html#a7e72457f3ea8567f6793b53a26c18a47", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_copy_from_parent_permission_view_item.html#ac6816ce86169f186f46f75bd6790d0be", null ]
+];

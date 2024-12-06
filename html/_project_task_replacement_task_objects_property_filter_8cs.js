@@ -1,0 +1,4 @@
+var _project_task_replacement_task_objects_property_filter_8cs =
+[
+    [ "EleWise.ELMA.Projects.Components.ProjectTaskReplacementTaskObjectsPropertyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter" ]
+];

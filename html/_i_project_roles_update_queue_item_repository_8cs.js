@@ -1,0 +1,4 @@
+var _i_project_roles_update_queue_item_repository_8cs =
+[
+    [ "EleWise.ELMA.Projects.Services.IProjectRolesUpdateQueueItemRepository", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_services_1_1_i_project_roles_update_queue_item_repository.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_services_1_1_i_project_roles_update_queue_item_repository" ]
+];

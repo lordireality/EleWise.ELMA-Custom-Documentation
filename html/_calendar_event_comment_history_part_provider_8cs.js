@@ -1,0 +1,4 @@
+var _calendar_event_comment_history_part_provider_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Calendar.Components.CalendarEventCommentHistoryPartProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_components_1_1_calendar_event_comment_history_part_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_components_1_1_calendar_event_comment_history_part_provider" ]
+];

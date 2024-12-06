@@ -1,0 +1,4 @@
+var _server_placement_publish_builder_extension_8cs =
+[
+    [ "EleWise.ELMA.ActorModel.Abstractions.ServerPlacementPublishBuilderExtension.Publisher< T >", "class_ele_wise_1_1_e_l_m_a_1_1_actor_model_1_1_abstractions_1_1_server_placement_publish_builder_extension_1_1_publisher.html", "class_ele_wise_1_1_e_l_m_a_1_1_actor_model_1_1_abstractions_1_1_server_placement_publish_builder_extension_1_1_publisher" ]
+];

@@ -1,0 +1,4 @@
+var _i_crypto_pro_dss_user_profile_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.CryptoPro.Dss.Models.ICryptoProDssUserProfile", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_models_1_1_i_crypto_pro_dss_user_profile.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_dss_1_1_models_1_1_i_crypto_pro_dss_user_profile" ]
+];

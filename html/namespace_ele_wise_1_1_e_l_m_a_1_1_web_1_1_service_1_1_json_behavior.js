@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior =
+[
+    [ "CustomBehaviorFormatterAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior_1_1_custom_behavior_formatter_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_json_behavior_1_1_custom_behavior_formatter_attribute" ]
+];

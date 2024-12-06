@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_indicator_history_1_1_kpi_value_history_grid_model =
+[
+    [ "KpiValueHistoryGridModel", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_indicator_history_1_1_kpi_value_history_grid_model.html#a19c7ccb60e8218937efe8546f50b6ba9", null ],
+    [ "GridData", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_indicator_history_1_1_kpi_value_history_grid_model.html#a1512350bef220ccaccf9a429e44cae41", null ],
+    [ "GridId", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_indicator_history_1_1_kpi_value_history_grid_model.html#a14dcd1c7876d1199fd11113af30f8f58", null ]
+];

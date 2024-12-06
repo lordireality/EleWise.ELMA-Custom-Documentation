@@ -1,0 +1,27 @@
+digraph "Web/Modules/EleWise.ELMA.Projects.Web/Models"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_23a6f94d21080c87fc1e38cbb81deb77 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.Projects.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_23a6f94d21080c87fc1e38cbb81deb77.html",tooltip=""]
+  subgraph clusterdir_6ae4a26f5316fec334fe897751076171 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_6ae4a26f5316fec334fe897751076171.html",tooltip=""]
+    dir_6ae4a26f5316fec334fe897751076171 [shape=plaintext, label="Models"];
+  dir_ceb5caf26505ab2aa0fea0de5c186b35 [label="Budget", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ceb5caf26505ab2aa0fea0de5c186b35.html",tooltip=""];
+  dir_a6fef9ef1ae2045d2548bf59c3c403d1 [label="History", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a6fef9ef1ae2045d2548bf59c3c403d1.html",tooltip=""];
+  dir_b89d930a4fb52e728c92fc27845d4b32 [label="ModelBinders", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b89d930a4fb52e728c92fc27845d4b32.html",tooltip=""];
+  dir_a256085699588d48dbd0416c78f44bbb [label="ProcessPortlet", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a256085699588d48dbd0416c78f44bbb.html",tooltip=""];
+  dir_9b57e88dc079ef2465a0c635b5e9102d [label="ProjectPlan", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9b57e88dc079ef2465a0c635b5e9102d.html",tooltip=""];
+  dir_3c52972fea21cc31a61ffe1c8274d37a [label="ProjectPlanObject", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3c52972fea21cc31a61ffe1c8274d37a.html",tooltip=""];
+  dir_3eaa8e7b06e5d72b36a0a50fdd785472 [label="ProjectPortfolio", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3eaa8e7b06e5d72b36a0a50fdd785472.html",tooltip=""];
+  dir_beba6690bb3e1852ce57231c55ce25ea [label="Resources", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_beba6690bb3e1852ce57231c55ce25ea.html",tooltip=""];
+  dir_68ccd7555dd3eff96943d167249a507f [label="Risks", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_68ccd7555dd3eff96943d167249a507f.html",tooltip=""];
+  dir_00e89c270e5d22a60768054dd0c40100 [label="Roles", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_00e89c270e5d22a60768054dd0c40100.html",tooltip=""];
+  dir_f161905e980bd1573660921ad92b2c67 [label="Tasks", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_f161905e980bd1573660921ad92b2c67.html",tooltip=""];
+  dir_795963ed439ac96d84dba63f1d7f8b1f [label="WorkLog", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_795963ed439ac96d84dba63f1d7f8b1f.html",tooltip=""];
+  }
+  }
+}

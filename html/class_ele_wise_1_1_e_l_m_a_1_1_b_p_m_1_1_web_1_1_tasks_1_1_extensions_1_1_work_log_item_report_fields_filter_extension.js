@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_report_fields_filter_extension =
+[
+    [ "PropertyAction", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_report_fields_filter_extension.html#af2a6bf7e786bbee11083379e14ce6c5a", null ],
+    [ "PropertyEditor", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_report_fields_filter_extension.html#a0e28f380578ee9cbc1342bdd251c1381", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_report_fields_filter_extension.html#a65d23f760d8164f466c1368f4154ac0f", null ]
+];

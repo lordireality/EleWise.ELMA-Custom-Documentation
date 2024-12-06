@@ -1,0 +1,4 @@
+var _i_full_text_search_service_re_indexing_type_extension_8cs =
+[
+    [ "EleWise.ELMA.FullTextSearch.Services.IFullTextSearchServiceReIndexingTypeExtension", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_services_1_1_i_full_text_search_service_re_indexing_type_extension.html", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_services_1_1_i_full_text_search_service_re_indexing_type_extension" ]
+];

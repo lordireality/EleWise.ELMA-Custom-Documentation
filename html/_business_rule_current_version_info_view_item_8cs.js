@@ -1,0 +1,4 @@
+var _business_rule_current_version_info_view_item_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.ViewItems.BusinessRules.BusinessRuleCurrentVersionInfoViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rules_1_1_business_rul45a4e628d83e2a84b6d71ce4a417f490.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_business_rules_1_1_business_rul45a4e628d83e2a84b6d71ce4a417f490" ]
+];

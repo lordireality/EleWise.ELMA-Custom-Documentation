@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components_1_1_business_rule_approval_task_feed_comment_action_name_extension =
+[
+    [ "ActionName", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components_1_1_business_rule_approval_task_feed_comment_action_name_extension.html#a227ae253359caba139e970a8f814bae6", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_components_1_1_business_rule_approval_task_feed_comment_action_name_extension.html#abb0d24244290af2c5e09fe7dc8314ba5", null ]
+];

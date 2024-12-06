@@ -1,0 +1,25 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="PortletPersonalizationOld\lConverterExtensions",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge2290_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Web.\lComponents.DocumentLastObjectPortlet\lPersonalizationConverter",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_last_object_portlet_personalization_converter.html",tooltip=" "];
+  Node0 -> Node2 [id="edge2291_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.BudgetPortletPersonalization\lOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convedddb1a4974718cdb2c59d1e54719a68e.html",tooltip=" "];
+  Node0 -> Node3 [id="edge2292_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.MilestonesPortletPersonalization\lOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convee662b3783629092045fba090264bfc1a.html",tooltip=" "];
+  Node0 -> Node4 [id="edge2293_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.ProjectCommonInfoPortletPersonalization\lOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_conve21c966628f50c3d45c1877474e87173d.html",tooltip=" "];
+  Node0 -> Node5 [id="edge2294_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.ProjectFromMeTasksPortletPersonalization\lConverter",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convead9bda51778ec85a839cefae729e03da.html",tooltip=" "];
+  Node0 -> Node6 [id="edge2295_Node000000_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.ProjectPhaseTaskInControlPortlet\lPersonalizationOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_conveae450d6e606bd47085ccc8d3acb79574.html",tooltip=" "];
+  Node0 -> Node7 [id="edge2296_Node000000_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.ProjectPlanPortletPersonalization\lOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convea5cebb052680310bc41332e3b0b220b3.html",tooltip=" "];
+  Node0 -> Node8 [id="edge2297_Node000000_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.Projects.Web.\lComponents.PortletPersonalization\lConverters.ProjectsCurrentListPortletPersonalization\lOldConverterExtensions",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_portlet_personalization_convebb17943959b1bec2f49fb85e9f2705c7.html",tooltip=" "];
+}

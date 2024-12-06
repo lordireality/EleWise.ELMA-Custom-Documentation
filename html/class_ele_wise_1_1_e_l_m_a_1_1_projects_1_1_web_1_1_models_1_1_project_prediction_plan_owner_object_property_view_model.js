@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_prediction_plan_owner_object_property_view_model =
+[
+    [ "CanPlanLink", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_prediction_plan_owner_object_property_view_model.html#ac7ebebb5cc4f0fca3733bac0f838cc48", null ],
+    [ "ObjectTypeDisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_prediction_plan_owner_object_property_view_model.html#a637cebc240c2f9d2b7345dbe008813d8", null ],
+    [ "Plan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_prediction_plan_owner_object_property_view_model.html#a872e33878d3d772cadd8979a53f53bb1", null ],
+    [ "PlanObject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_prediction_plan_owner_object_property_view_model.html#a926a9303790a42422312c489a18753e6", null ]
+];

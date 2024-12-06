@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748 =
+[
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748.html#a2295f0fcb1b1c382e1928de43369c9b5", null ],
+    [ "ModuleUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748.html#af925fd9d1f628c4246c7036ab9d7e654", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748.html#a7dfd4950f97bacaae7fc44dc817de84c", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748.html#a5bd2c4f4ed2568abe8d99da7c84a2ea0", null ]
+];

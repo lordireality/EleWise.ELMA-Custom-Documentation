@@ -1,0 +1,4 @@
+var _periodical_checker_for_sms_statistics_8cs =
+[
+    [ "EleWise.ELMA.Messaging.SMS.Components.PeriodicalCheckerForSmsStatistics", "class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_s_m_s_1_1_components_1_1_periodical_checker_for_sms_statistics.html", "class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_s_m_s_1_1_components_1_1_periodical_checker_for_sms_statistics" ]
+];

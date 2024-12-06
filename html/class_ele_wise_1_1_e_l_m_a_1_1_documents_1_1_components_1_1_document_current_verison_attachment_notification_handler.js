@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_current_verison_attachment_notification_handler =
+[
+    [ "DocumentCurrentVerisonAttachmentNotificationHandler", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_current_verison_attachment_notification_handler.html#ab5c66bbf9d4136c1e1e936915215a348", null ],
+    [ "ProcessNotificationToMessage", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_current_verison_attachment_notification_handler.html#aad3e6f17eb5e3b3df6d026c448a683a9", null ]
+];

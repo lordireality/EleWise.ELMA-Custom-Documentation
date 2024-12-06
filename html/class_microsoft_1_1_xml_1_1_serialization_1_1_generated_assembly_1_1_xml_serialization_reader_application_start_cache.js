@@ -1,0 +1,6 @@
+var class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_reader_application_start_cache =
+[
+    [ "InitCallbacks", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_reader_application_start_cache.html#a80ba05e62b0a12b3aa78b36dd206e924", null ],
+    [ "InitIDs", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_reader_application_start_cache.html#aea43f234d645f264361029d57de82516", null ],
+    [ "Read6_ApplicationStartCache", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_xml_serialization_reader_application_start_cache.html#a0b163567bee2b59ab303a38844890ea7", null ]
+];

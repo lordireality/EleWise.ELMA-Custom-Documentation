@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_cache_query_call_metric_processor =
+[
+    [ "CacheQueryCallMetricProcessor", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_cache_query_call_metric_processor.html#ad4b1eadfe851eaf669de27e085a0e90d", null ],
+    [ "Process", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_cache_query_call_metric_processor.html#a4af645d6aea2b39ba9ba0af2b16438f3", null ],
+    [ "AggregatorTypes", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl_1_1_processors_1_1_cache_query_call_metric_processor.html#a27c325eb19255174602967d3524c2bb7", null ]
+];

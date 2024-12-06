@@ -1,0 +1,27 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics =
+[
+    [ "Impl", "namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_impl" ],
+    [ "Internal", "namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_internal.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_internal" ],
+    [ "BackgroundTaskMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_background_task_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_background_task_metric" ],
+    [ "BaseExpandableMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_base_expandable_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_base_expandable_metric" ],
+    [ "BaseMetricAggregator", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_base_metric_aggregator.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_base_metric_aggregator" ],
+    [ "CacheMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_cache_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_cache_metric" ],
+    [ "CallContextMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_call_context_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_call_context_metric" ],
+    [ "CountMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_count_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_count_metric" ],
+    [ "CountTimeMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_count_time_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_count_time_metric" ],
+    [ "CustomDiagnosticsSessionMetrics", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_custom_diagnostics_session_metrics.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_custom_diagnostics_session_metrics" ],
+    [ "IExpandableMetric", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_expandable_metric.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_expandable_metric" ],
+    [ "IMetric", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric" ],
+    [ "IMetricAggregator", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric_aggregator.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric_aggregator" ],
+    [ "IMetricProcessor", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric_processor.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_i_metric_processor" ],
+    [ "IndexCallMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_index_call_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_index_call_metric" ],
+    [ "IndexQueryMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_index_query_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_index_query_metric" ],
+    [ "MethodMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_method_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_method_metric" ],
+    [ "MetricsContainer", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_metrics_container.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_metrics_container" ],
+    [ "MetricsGroup", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_metrics_group.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_metrics_group" ],
+    [ "ScriptMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_script_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_script_metric" ],
+    [ "SqlQueryMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_sql_query_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_sql_query_metric" ],
+    [ "ThreadJoinMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_thread_join_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_thread_join_metric" ],
+    [ "ThreadSubPoolMethodMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_thread_sub_pool_method_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_thread_sub_pool_method_metric" ],
+    [ "WebRequestMetric", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_web_request_metric.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_web_request_metric" ]
+];

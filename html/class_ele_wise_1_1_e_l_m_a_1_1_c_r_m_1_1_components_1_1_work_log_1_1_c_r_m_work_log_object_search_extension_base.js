@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_c_r_m_work_log_object_search_extension_base =
+[
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_c_r_m_work_log_object_search_extension_base.html#a12b372188f1a06e95050d4eeb0c82a62", null ],
+    [ "SecurityService", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_c_r_m_work_log_object_search_extension_base.html#a715bd23998b8de0117b4ff8bb35cad86", null ]
+];

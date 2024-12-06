@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_db_1_1_postgre_s_q_l =
+[
+    [ "TasksDbStructure", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_db_1_1_postgre_s_q_l_1_1_tasks_db_structure.html", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_db_1_1_postgre_s_q_l_1_1_tasks_db_structure" ]
+];

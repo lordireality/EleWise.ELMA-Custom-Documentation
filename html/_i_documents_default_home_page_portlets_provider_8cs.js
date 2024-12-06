@@ -1,0 +1,5 @@
+var _i_documents_default_home_page_portlets_provider_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Extensions.IDocumentsDefaultHomePagePortletsProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_i_documents_default_home_page_portlets_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_i_documents_default_home_page_portlets_provider" ],
+    [ "EleWise.ELMA.Documents.Web.Extensions.DocumentDefaultHomePagePortlet", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_default_home_page_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_default_home_page_portlet" ]
+];

@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_code_generation_1_1_c_sharp_1_1_nodes_1_1_await_expression_syntax =
+[
+    [ "AwaitExpressionSyntax", "class_ele_wise_1_1_e_l_m_a_1_1_code_generation_1_1_c_sharp_1_1_nodes_1_1_await_expression_syntax.html#ad61aa4f4c7ae0dfde98b4769fbdeed05", null ]
+];

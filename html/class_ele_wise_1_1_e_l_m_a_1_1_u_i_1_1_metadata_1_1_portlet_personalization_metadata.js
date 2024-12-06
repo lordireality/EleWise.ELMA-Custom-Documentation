@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_u_i_1_1_metadata_1_1_portlet_personalization_metadata =
+[
+    [ "PortletPersonalizationMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_u_i_1_1_metadata_1_1_portlet_personalization_metadata.html#a7e804f68e22df3d8ac7baf56ec5cf1a5", null ]
+];

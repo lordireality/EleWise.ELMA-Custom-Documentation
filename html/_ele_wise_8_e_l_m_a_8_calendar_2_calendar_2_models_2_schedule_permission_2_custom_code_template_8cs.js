@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_calendar_2_calendar_2_models_2_schedule_permission_2_custom_code_template_8cs =
+[
+    [ "EleWise.ELMA.Calendar.Models.SchedulePermission", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_models_1_1_schedule_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_models_1_1_schedule_permission" ]
+];

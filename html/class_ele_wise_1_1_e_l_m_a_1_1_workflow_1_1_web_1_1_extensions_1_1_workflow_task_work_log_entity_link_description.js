@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extensions_1_1_workflow_task_work_log_entity_link_description =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extensions_1_1_workflow_task_work_log_entity_link_description.html#a4c62de8575c9851d2d90c333fcc923c7", null ],
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_extensions_1_1_workflow_task_work_log_entity_link_description.html#a1140d043e6eb3761f152d368dffa49e9", null ]
+];

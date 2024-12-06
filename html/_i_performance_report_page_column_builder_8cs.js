@@ -1,0 +1,4 @@
+var _i_performance_report_page_column_builder_8cs =
+[
+    [ "EleWise.ELMA.Diagnostics.Reports.Performance.IPerformanceReportPageColumnBuilder", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_performance_1_1_i_performance_report_page_column_builder.html", "interface_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_reports_1_1_performance_1_1_i_performance_report_page_column_builder" ]
+];

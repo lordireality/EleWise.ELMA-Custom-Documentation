@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_models_1_1_organization_item_popup_selector_model =
+[
+    [ "OrganizationTree", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_models_1_1_organization_item_popup_selector_model.html#a4d49e08608b8375926c070aab0ac6b84", null ]
+];

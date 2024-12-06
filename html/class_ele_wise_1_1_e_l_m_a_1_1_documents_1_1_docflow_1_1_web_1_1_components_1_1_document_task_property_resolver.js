@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_task_property_resolver =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_task_property_resolver.html#a57005c425779e6dc549dc13ffacb841e", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_task_property_resolver.html#acbe55f259bd938e032949b0c2c8018cf", null ]
+];

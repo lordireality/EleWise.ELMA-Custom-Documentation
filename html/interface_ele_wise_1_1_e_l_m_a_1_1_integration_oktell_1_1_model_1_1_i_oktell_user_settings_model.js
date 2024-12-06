@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_model_1_1_i_oktell_user_settings_model =
+[
+    [ "OktellUserSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_model_1_1_i_oktell_user_settings_model.html#a87507b8d68d25d2dd070c1b1b7e60bea", null ]
+];

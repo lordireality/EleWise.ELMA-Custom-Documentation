@@ -1,0 +1,5 @@
+var _com_surrogate_object_8cs =
+[
+    [ "EleWise.ELMA.Integration1C.Data.ComSurrogateObject", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object" ],
+    [ "EleWise.ELMA.Integration1C.Data.ComSurrogateObject.NativeOle32.SafeHandleImpl", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration1_c_1_1_data_1_1_com_surrogate_object_1_1_native_ole32_1_1_safe_handle_impl" ]
+];

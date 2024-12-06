@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_task_feed_object_group_extension =
+[
+    [ "ProjectTaskFeedObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_task_feed_object_group_extension.html#a87db7ee2709a2ce55368e1e9738b7f24", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_feed_1_1_project_task_feed_object_group_extension.html#a7985d3b09c87b35f01e5360e898f8b2d", null ]
+];

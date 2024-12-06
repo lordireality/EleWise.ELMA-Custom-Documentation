@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_mapping_provider =
+[
+    [ "UpdateMapping", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_mapping_provider.html#a1b300356b2ef67572335b1a32dd21539", null ],
+    [ "UpdateMapping", "interface_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_extension_points_1_1_i_full_text_search_mapping_provider.html#a4df7b772343883507c300dc3d327ec2a", null ]
+];

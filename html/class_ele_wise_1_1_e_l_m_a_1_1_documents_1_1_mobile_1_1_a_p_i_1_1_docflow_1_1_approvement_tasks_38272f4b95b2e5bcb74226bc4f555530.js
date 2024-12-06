@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530 =
+[
+    [ "Description", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530.html#ac61c8200586895af6ee2f7517dd81492", null ],
+    [ "ModuleUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530.html#a4a29d0b8512fcc815d81ddd899206035", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530.html#abc3350d1f053b49cff2252c8af9ac4af", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_approvement_tasks_38272f4b95b2e5bcb74226bc4f555530.html#a151eaccd5b704012dd0a2b2043b0bbfd", null ]
+];

@@ -1,0 +1,4 @@
+var _new_step_of_approvement_decorator_8cs =
+[
+    [ "EleWise.ELMA.Documents.BPMN.Diagrams.Decorators.ApprovementByStages.NewStepOfApprovementDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement0999be01dc6aea73f9b1547008081131.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_decorators_1_1_approvement0999be01dc6aea73f9b1547008081131" ]
+];

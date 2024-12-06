@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_name_property_view_item_adjustment =
+[
+    [ "Adjust", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_name_property_view_item_adjustment.html#a74c0e1226beaf5e11397b9ae98561ed2", null ]
+];

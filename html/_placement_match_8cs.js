@@ -1,0 +1,4 @@
+var _placement_match_8cs =
+[
+    [ "Orchard.DisplayManagement.Descriptors.ShapePlacementStrategy.PlacementMatch", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_placement_match.html", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_placement_strategy_1_1_placement_match" ]
+];

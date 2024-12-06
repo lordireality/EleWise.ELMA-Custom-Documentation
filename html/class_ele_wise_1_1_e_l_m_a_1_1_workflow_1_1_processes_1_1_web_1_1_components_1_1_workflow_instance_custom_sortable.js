@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_custom_sortable =
+[
+    [ "BuildSortExpression", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_custom_sortable.html#a0c14ee3e59775f9c1582e8e7c03b9321", null ],
+    [ "CheckMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_custom_sortable.html#a4c1dbbe05ceca6ec9df10396202cf0fb", null ],
+    [ "IsSortable", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_instance_custom_sortable.html#a70a937ddc3947d1796580c8d2a0a42b4", null ]
+];

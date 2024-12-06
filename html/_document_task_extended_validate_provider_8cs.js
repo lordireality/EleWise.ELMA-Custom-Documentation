@@ -1,0 +1,4 @@
+var _document_task_extended_validate_provider_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Tasks.DocumentTaskExtendedValidateProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_docum3b00cabc91b1c14d934da9c4caa8b4bf.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_tasks_1_1_docum3b00cabc91b1c14d934da9c4caa8b4bf" ]
+];

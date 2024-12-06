@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee =
+[
+    [ "GridItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement6825884dbfe6247e3af52136dc4301b3" ],
+    [ "CommentInputId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a3d31edf88b4853997f2ab92ec67bdcc7", null ],
+    [ "EcpRequired", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a0b1a44f708e4cf97f640e6700de8b3c0", null ],
+    [ "FormId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a6ff33410a626a2862c140832ebb8cadd", null ],
+    [ "GetTaskSignTextUrl", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#aba0a62089829857f65c8916b939b90dc", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a1aaa84767eced435c84b4c177ed10064", null ],
+    [ "SignDocument", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a8c4ceeacd5ce564dea0212305b97a5f3", null ],
+    [ "TaskAttributeChecked", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a076e054f8e11943a1c873f6e9cfc4949", null ],
+    [ "TaskAttributeId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#adbc7268dcd726bf558d5913e74451e34", null ],
+    [ "Versions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_approvement48a55c74d4b1b1d462f54a9fa7f8cfee.html#a527a217bbd21a54e89f83ff8206c53a0", null ]
+];

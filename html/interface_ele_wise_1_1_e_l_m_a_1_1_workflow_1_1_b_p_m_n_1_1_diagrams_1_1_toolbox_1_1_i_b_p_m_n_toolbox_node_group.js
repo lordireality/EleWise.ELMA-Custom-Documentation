@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_b_p_m_n_toolbox_node_group =
+[
+    [ "Nodes", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_b_p_m_n_toolbox_node_group.html#a2dd01e436c1cd1b079f259388a2a728e", null ],
+    [ "PanelUid", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_i_b_p_m_n_toolbox_node_group.html#a6398b11eb85efd21ac31d97bc0c6cf31", null ]
+];

@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_exceptions_1_1_index_missing_exception =
+[
+    [ "IndexMissingException", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_exceptions_1_1_index_missing_exception.html#a1a5afea25905529c1d7fe45ce379aecb", null ]
+];

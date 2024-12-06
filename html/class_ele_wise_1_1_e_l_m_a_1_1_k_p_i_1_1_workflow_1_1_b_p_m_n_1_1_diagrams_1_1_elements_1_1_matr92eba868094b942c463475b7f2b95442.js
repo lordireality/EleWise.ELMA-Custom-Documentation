@@ -1,0 +1,14 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442 =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matreb3e97b7cf2b5a55e330cb06174e4892.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matreb3e97b7cf2b5a55e330cb06174e4892" ],
+    [ "MatrixApprovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a4e124de1e277ce25653eb9f3887a2e84", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a8a288b97551be72d3c579169b8d9e116", null ],
+    [ "ReplaceSignature", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#ab98a28ca05dd2d8c11d4578bd26ac6e1", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a34592461c3f15c99dec5f77c1ddce99b", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a55a6c082e6b6b7df5c4af08365a4a7d1", null ],
+    [ "LimitByTime", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#ae9170d67c4474e3e3d934b6204adebee", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a5a18c7c338277a9f339a0628d1c8d8a0", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#a5c9db3554f23e956149d25814fcd357d", null ],
+    [ "TimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#abfd01fd72b4c48f1c0bc0ed0c270aaa5", null ],
+    [ "View", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_matr92eba868094b942c463475b7f2b95442.html#ac38e7a15e7a8813efdcafe91e7e26c38", null ]
+];

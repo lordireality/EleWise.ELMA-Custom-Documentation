@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_role_filter_provider =
+[
+    [ "ApplyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_role_filter_provider.html#a6e26ded50d61d3a3a5a0a8e13231ac8f", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_role_filter_provider.html#abea4b2c3fe6982b7bffa972ff18a7e50", null ],
+    [ "GetFilterProviderData", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_role_filter_provider.html#af956749201ba8b6e05dd5d802a582ea3", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_role_filter_provider.html#a3d40f1ee82b4e617e822b7aba67c6b1f", null ]
+];

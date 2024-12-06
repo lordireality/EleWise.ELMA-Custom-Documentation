@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65 =
+[
+    [ "FullTextSearchDocumentDocflowHandlerExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#aab1be856ec6c60621760ac7773a563bd", null ],
+    [ "ProcessingMergedIndexQueue", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#a0c090f1b1bfda0412e0800d10bb08e2a", null ],
+    [ "GetImportantProperties", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#a54df3b43224d6b765947a48162336cb8", null ],
+    [ "SupportedCard", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#a72f79f5cb85228900d59bed52a0b6469", null ],
+    [ "SupportedUids", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#a56fafca82013841ed9ec49a2a4ecf32b", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_full_text_search_1_1_components_1_1_full_text_searcd5d7facb808264a4fdccc741affc1c65.html#a687c335a02f19563dbbadb8af0b4452c", null ]
+];

@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info =
+[
+    [ "Item", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info_1_1_item.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info_1_1_item" ],
+    [ "MultipleAssignDocumentVersionInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info.html#aef5f5e30924d5ee0c2d3ee6893d27ca3", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info.html#a9b84b58020a682fcd36b05c22fbbc61c", null ],
+    [ "Items", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info.html#a81089632b372d4c4d8e9a6a7fd5f28cd", null ],
+    [ "PopupId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_assign_document_version_info.html#a5a1381ec546fe20bf2c23c73b2462b6e", null ]
+];

@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_model_history_restriction_service =
+[
+    [ "IsSupported", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_model_history_restriction_service.html#ac002e2b93e98a27c0dce6f506b69a97b", null ]
+];

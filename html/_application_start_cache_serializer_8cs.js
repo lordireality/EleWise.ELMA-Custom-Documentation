@@ -1,0 +1,4 @@
+var _application_start_cache_serializer_8cs =
+[
+    [ "Microsoft.Xml.Serialization.GeneratedAssembly.ApplicationStartCacheSerializer", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_application_start_cache_serializer.html", "class_microsoft_1_1_xml_1_1_serialization_1_1_generated_assembly_1_1_application_start_cache_serializer" ]
+];

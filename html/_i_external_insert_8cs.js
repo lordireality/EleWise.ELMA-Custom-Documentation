@@ -1,0 +1,4 @@
+var _i_external_insert_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.ExtensionPoint.IExternalInsert", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_external_insert.html", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_external_insert" ]
+];

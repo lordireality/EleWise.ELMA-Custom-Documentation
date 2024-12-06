@@ -1,0 +1,4 @@
+var _comment_business_rule_version_history_model_8cs =
+[
+    [ "EleWise.ELMA.BusinessRules.Models.Audit.BusinessRuleVersion.CommentBusinessRuleVersionHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_business_rule_version_1_1d1805b2330d62fa1be2039697ed8c881" ]
+];

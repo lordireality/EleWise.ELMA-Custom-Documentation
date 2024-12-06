@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service =
+[
+    [ "AuthenticationService", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service.html#a03855db6695f741ac73306a0dcdf7b6b", null ],
+    [ "GetAuthenticatedUser", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service.html#a26518da42ec4e48130614d01db04dfa4", null ],
+    [ "SetAuthenticatedUserForRequest", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service.html#acd8511e6eab4842aa0d42e91e36bcf21", null ],
+    [ "SignIn", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service.html#aeb4489460dce7fb2429cf2484f7efe2b", null ],
+    [ "SignOut", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_mvc_1_1_application_1_1_orchard_1_1_security_1_1_authentication_service.html#a5ad7b3e82c65b26e2ba8c0b2faf1abdb", null ]
+];

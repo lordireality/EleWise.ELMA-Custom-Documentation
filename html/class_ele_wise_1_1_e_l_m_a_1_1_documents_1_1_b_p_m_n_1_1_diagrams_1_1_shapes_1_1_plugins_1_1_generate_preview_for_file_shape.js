@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_generate_preview_for_file_shape =
+[
+    [ "GeneratePreviewForFileShape", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_generate_preview_for_file_shape.html#a4c6922981c5b45bab64c147308a4e503", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_generate_preview_for_file_shape.html#a70a9187698d91dbea3261cdbcce9642a", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_generate_preview_for_file_shape.html#aeb3d4433f977edd45d0d941c9d9772cb", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_plugins_1_1_generate_preview_for_file_shape.html#a63cfa171c3a6dd209c946c093801351a", null ]
+];

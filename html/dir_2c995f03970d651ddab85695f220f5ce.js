@@ -1,0 +1,28 @@
+var dir_2c995f03970d651ddab85695f220f5ce =
+[
+    [ "Links", "dir_2b403073f91681048072b06134122cbd.html", "dir_2b403073f91681048072b06134122cbd" ],
+    [ "SignDocumentVersion", "dir_71054dbf3733ff84e61778614db5c488.html", "dir_71054dbf3733ff84e61778614db5c488" ],
+    [ "DocumentAttachmentTemplateInputExtension.cs", "_document_attachment_template_input_extension_8cs.html", "_document_attachment_template_input_extension_8cs" ],
+    [ "DocumentExplorerGridStateProvider.cs", "_document_explorer_grid_state_provider_8cs.html", "_document_explorer_grid_state_provider_8cs" ],
+    [ "DocumentExtension.cs", "_document_extension_8cs.html", null ],
+    [ "DocumentStorageSettingsBlockControllerBase.cs", "_document_storage_settings_block_controller_base_8cs.html", "_document_storage_settings_block_controller_base_8cs" ],
+    [ "FilterFolderGridStateProvider.cs", "_filter_folder_grid_state_provider_8cs.html", "_filter_folder_grid_state_provider_8cs" ],
+    [ "FolderExtension.cs", "_folder_extension_8cs.html", null ],
+    [ "FolderTreeExtensions.cs", "_folder_tree_extensions_8cs.html", null ],
+    [ "HtmlExtensions.cs", "_ele_wise_8_e_l_m_a_8_documents_8_web_2_extensions_2_html_extensions_8cs.html", null ],
+    [ "IContextFolderMenuButton.cs", "_i_context_folder_menu_button_8cs.html", "_i_context_folder_menu_button_8cs" ],
+    [ "ICreatePopupDocumentExtension.cs", "_i_create_popup_document_extension_8cs.html", "_i_create_popup_document_extension_8cs" ],
+    [ "IDocumentMetadataSaveHandler.cs", "_i_document_metadata_save_handler_8cs.html", "_i_document_metadata_save_handler_8cs" ],
+    [ "IDocumentsDefaultHomePagePortletsProvider.cs", "_i_documents_default_home_page_portlets_provider_8cs.html", "_i_documents_default_home_page_portlets_provider_8cs" ],
+    [ "IDocumentsPropertyResolver.cs", "_i_documents_property_resolver_8cs.html", "_i_documents_property_resolver_8cs" ],
+    [ "IDocumentStorageSettingsBlockController.cs", "_i_document_storage_settings_block_controller_8cs.html", "_i_document_storage_settings_block_controller_8cs" ],
+    [ "IDocumentTypeChange.cs", "_i_document_type_change_8cs.html", "_i_document_type_change_8cs" ],
+    [ "IDocumentViewProvider.cs", "_i_document_view_provider_8cs.html", "_i_document_view_provider_8cs" ],
+    [ "IFilterFolderInitModelExtension.cs", "_i_filter_folder_init_model_extension_8cs.html", "_i_filter_folder_init_model_extension_8cs" ],
+    [ "IFolderGridViewExtension.cs", "_i_folder_grid_view_extension_8cs.html", "_i_folder_grid_view_extension_8cs" ],
+    [ "IFolderViewProvider.cs", "_i_folder_view_provider_8cs.html", "_i_folder_view_provider_8cs" ],
+    [ "IModuleSettingsDmsPageProvider.cs", "_i_module_settings_dms_page_provider_8cs.html", "_i_module_settings_dms_page_provider_8cs" ],
+    [ "ModuleSettingsDmsPageProvider.cs", "_module_settings_dms_page_provider_8cs.html", "_module_settings_dms_page_provider_8cs" ],
+    [ "RenderTemplateDocument.cs", "_render_template_document_8cs.html", null ],
+    [ "ToolbarExtensions.cs", "_ele_wise_8_e_l_m_a_8_documents_8_web_2_extensions_2_toolbar_extensions_8cs.html", null ]
+];

@@ -1,0 +1,4 @@
+var _i_incoming_call_model_initializer_8cs =
+[
+    [ "EleWise.ELMA.CRM.Telephony.Web.ExtensionPoints.IIncomingCallModelInitializer", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_i_incoming_call_model_initializer.html", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_web_1_1_extension_points_1_1_i_incoming_call_model_initializer" ]
+];

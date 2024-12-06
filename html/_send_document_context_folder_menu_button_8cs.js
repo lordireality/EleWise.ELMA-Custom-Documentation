@@ -1,0 +1,4 @@
+var _send_document_context_folder_menu_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.SendDocumentContextDocumentMenuFolderMenuButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sen699590c9ebc0485d49ec60ecf9b26191.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_sen699590c9ebc0485d49ec60ecf9b26191" ]
+];

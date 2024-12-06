@@ -1,0 +1,4 @@
+var _i_create_project_history_service_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Services.ICreateProjectHistoryService", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_create_project_history_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_services_1_1_i_create_project_history_service" ]
+];

@@ -1,0 +1,4 @@
+var _global_settings_module_controller_base_0l2_8cs =
+[
+    [ "EleWise.ELMA.Web.Mvc.Models.Settings.GlobalSettingsModuleControllerBase< TSettings, TSettingsModule >", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_settings_1_1_global_settings_module_controller_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_settings_1_1_global_settings_module_controller_base" ]
+];

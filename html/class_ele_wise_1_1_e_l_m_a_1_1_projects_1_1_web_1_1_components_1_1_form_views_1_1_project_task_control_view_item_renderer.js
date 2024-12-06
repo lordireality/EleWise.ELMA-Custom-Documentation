@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_task_control_view_item_renderer =
+[
+    [ "ViewName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_form_views_1_1_project_task_control_view_item_renderer.html#ae54f3f71f45b91ebc9f9ea70c3d7b256", null ]
+];

@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_email_1_1_web_1_1_controllers =
+[
+    [ "EmailSettingsController", "class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_email_1_1_web_1_1_controllers_1_1_email_settings_controller.html", "class_ele_wise_1_1_e_l_m_a_1_1_messaging_1_1_email_1_1_web_1_1_controllers_1_1_email_settings_controller" ]
+];

@@ -1,0 +1,6 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_kpi_default_home_page_portlets_provider =
+[
+    [ "Portlets", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_kpi_default_home_page_portlets_provider.html#ace8b5a2c56a6e5dc3277a79068de8dc7", null ],
+    [ "PortletPageGuid", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_kpi_default_home_page_portlets_provider.html#a89dec571f9ec8e00c38d0cb7370295ac", null ],
+    [ "PortletPageName", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_kpi_default_home_page_portlets_provider.html#a0a215ec5e556e46c426a7272debe0614", null ]
+];

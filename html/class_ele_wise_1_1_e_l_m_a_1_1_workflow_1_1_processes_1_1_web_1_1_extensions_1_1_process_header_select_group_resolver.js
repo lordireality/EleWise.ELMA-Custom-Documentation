@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_process_header_select_group_resolver =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_process_header_select_group_resolver.html#a955987f2dafb1c763b64f52d0776e482", null ],
+    [ "GetGroups", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_extensions_1_1_process_header_select_group_resolver.html#acd268203ee6c21fa6b551086e61e80d3", null ]
+];

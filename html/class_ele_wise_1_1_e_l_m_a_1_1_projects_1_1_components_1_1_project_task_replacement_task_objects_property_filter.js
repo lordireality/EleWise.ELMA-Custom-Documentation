@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter =
+[
+    [ "ProjectTaskReplacementTaskObjectsPropertyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter.html#acd84168e320be634b46d00c967d2026b", null ],
+    [ "CanUseForReplacementTaskType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter.html#a439677ff1256b1b874ab640d1a8bb546", null ],
+    [ "CreatePropertyCriteria", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter.html#aa48d38e222a949b3e405bd032dc13853", null ],
+    [ "UserProperty", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_task_replacement_task_objects_property_filter.html#a923cfa910c4994d7def618739fea8493", null ]
+];

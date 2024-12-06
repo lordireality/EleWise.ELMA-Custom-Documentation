@@ -1,0 +1,4 @@
+var _i_certificate_selection_on_multiple_signing_web_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Extensions.ICertificateSelectionOnMultipleSigningWeb", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_i_certificatc2986cd6ac87e7fd4fb62eb8a2ba83a6" ]
+];

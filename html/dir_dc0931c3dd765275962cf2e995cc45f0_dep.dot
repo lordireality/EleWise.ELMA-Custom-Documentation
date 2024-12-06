@@ -1,0 +1,19 @@
+digraph "Web/Modules/EleWise.ELMA.KPI.Common.Web"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_7ee4616d7792420b09aab8c4c7e23d47 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_7ee4616d7792420b09aab8c4c7e23d47.html",tooltip=""]
+  subgraph clusterdir_dc0931c3dd765275962cf2e995cc45f0 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_dc0931c3dd765275962cf2e995cc45f0.html",tooltip=""]
+    dir_dc0931c3dd765275962cf2e995cc45f0 [shape=plaintext, label="EleWise.ELMA.KPI.Common.Web"];
+  dir_a85e8ff30c6a7a9dc8787bc625b416ef [label="Components", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a85e8ff30c6a7a9dc8787bc625b416ef.html",tooltip=""];
+  dir_9d7ccad68846c057762442849e8fa330 [label="Controllers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9d7ccad68846c057762442849e8fa330.html",tooltip=""];
+  dir_3f46f397e043355f2a18d201321b0b21 [label="Models", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3f46f397e043355f2a18d201321b0b21.html",tooltip=""];
+  dir_3651fc624cd9d0538acd60d1374b4a55 [label="Properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3651fc624cd9d0538acd60d1374b4a55.html",tooltip=""];
+  }
+  }
+}

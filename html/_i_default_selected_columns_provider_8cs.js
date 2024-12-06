@@ -1,0 +1,4 @@
+var _i_default_selected_columns_provider_8cs =
+[
+    [ "EleWise.ELMA.Web.Mvc.ExtensionPoints.IDefaultSelectedColumnsProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_default_selected_columns_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_default_selected_columns_provider" ]
+];

@@ -1,0 +1,25 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="Attribute",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge52_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.BPM.Web.Common.\lAttributes.ActionWizardItemAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_attributes_1_1_action_wizard_item_attribute.html",tooltip="Показывать в визарде HTML редактора при добавлении ELMA-действия"];
+  Node0 -> Node2 [id="edge53_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BPM.Web.Security.\lExtensionPoints.ProfileActionAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_attribute.html",tooltip="Помечаются действия, которые необходимо поместить в профиль пользователя"];
+  Node0 -> Node3 [id="edge54_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.CRM.Web.Attributes.\lContactCreateAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_contact_create_attribute.html",tooltip="Атрибут, который помечает метод страницы создания конткта"];
+  Node0 -> Node4 [id="edge55_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.CRM.Web.Attributes.\lContractorCreateAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_contractor_create_attribute.html",tooltip="Атрибут, который помечает метод страницы создания контрагента"];
+  Node0 -> Node5 [id="edge56_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.CRM.Web.Attributes.\lDetailsActionAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_details_action_attribute.html",tooltip="Атрибут, который помечает метод страницы отображения деталей сущностей"];
+  Node0 -> Node6 [id="edge57_Node000000_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.CRM.Web.Attributes.\lLeadCreateAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_lead_create_attribute.html",tooltip="Атрибут, который помечает метод страницы создания возможности"];
+  Node0 -> Node7 [id="edge58_Node000000_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="EleWise.ELMA.CRM.Web.Attributes.\lRelationshipCreateAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_relationship_create_attribute.html",tooltip="Атрибут, который помечает метод страницы создания взаимоотношения"];
+  Node0 -> Node8 [id="edge59_Node000000_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="EleWise.ELMA.CRM.Web.Attributes.\lSaleCreateAttribute",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_attributes_1_1_sale_create_attribute.html",tooltip="Атрибут, который помечает метод страницы создания сделки"];
+}

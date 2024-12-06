@@ -1,0 +1,4 @@
+var _base_metadata_update_data_handler_8cs =
+[
+    [ "EleWise.ELMA.Model.Scripts.Entities.BaseMetadataUpdateDataHandler", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_entities_1_1_base_metadata_update_data_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_entities_1_1_base_metadata_update_data_handler" ]
+];

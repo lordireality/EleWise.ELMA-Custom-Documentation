@@ -1,0 +1,4 @@
+var _i_shell_settings_manager_event_handler_8cs =
+[
+    [ "Orchard.Environment.Configuration.IShellSettingsManagerEventHandler", "interface_orchard_1_1_environment_1_1_configuration_1_1_i_shell_settings_manager_event_handler.html", "interface_orchard_1_1_environment_1_1_configuration_1_1_i_shell_settings_manager_event_handler" ]
+];

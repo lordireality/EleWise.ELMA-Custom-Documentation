@@ -1,0 +1,4 @@
+var _calendar_event_feed_comment_action_render_extension_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.CalendarEventFeedCommentActionRenderExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_calendar_event_f340443762635d6b17e6147b3794e9fea.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_calendar_event_f340443762635d6b17e6147b3794e9fea" ]
+];

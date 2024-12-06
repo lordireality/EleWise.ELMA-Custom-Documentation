@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#ae74e90a9cd3cfec9d90e07a1f4f06da6", null ],
+    [ "ElementIcon", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#a6c2344d94b649c03bea1ad5f3d9f3bfb", null ],
+    [ "ElementType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#a4b206abcb860ba59c2e4f78d81d6b2de", null ],
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#ae29786c74a8b08a3f7c62fa22cb66541", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#aff527c8b04a4f22474aa486af6c444ec", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html#a99a78824e79a6ddf44634497efd9a262", null ]
+];

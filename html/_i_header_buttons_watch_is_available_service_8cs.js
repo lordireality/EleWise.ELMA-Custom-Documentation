@@ -1,0 +1,4 @@
+var _i_header_buttons_watch_is_available_service_8cs =
+[
+    [ "EleWise.ELMA.ExtensionPoints.HeaderButtonsServices.IHeaderButtonsWatchIsAvailableService", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_header_buttons_services_1_1_i_header_buttons_watch_is_available_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_header_buttons_services_1_1_i_header_buttons_watch_is_available_service" ]
+];

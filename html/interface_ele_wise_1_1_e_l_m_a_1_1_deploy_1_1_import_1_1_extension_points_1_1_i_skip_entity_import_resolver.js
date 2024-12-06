@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_i_skip_entity_import_resolver =
+[
+    [ "IsSkip", "interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_i_skip_entity_import_resolver.html#abb3d269ae87b8e1f5a2846ca6e535ff6", null ],
+    [ "IsSupported", "interface_ele_wise_1_1_e_l_m_a_1_1_deploy_1_1_import_1_1_extension_points_1_1_i_skip_entity_import_resolver.html#a72f2c7084e2b6636a1f27d11bb5288f5", null ]
+];

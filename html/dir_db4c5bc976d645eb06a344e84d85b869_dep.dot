@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.CRM.RU.Import.Web/Components"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_97a9e084c869e44226da457a0b62d1f2 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.CRM.RU.Import.Web", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_97a9e084c869e44226da457a0b62d1f2.html",tooltip=""]
+  dir_db4c5bc976d645eb06a344e84d85b869 [label="Components", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_db4c5bc976d645eb06a344e84d85b869.html",tooltip=""];
+  }
+}

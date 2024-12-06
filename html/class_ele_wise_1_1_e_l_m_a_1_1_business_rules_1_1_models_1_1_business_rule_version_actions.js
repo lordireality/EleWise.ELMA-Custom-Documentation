@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rule_version_actions =
+[
+    [ "BusinessRuleVersionActions", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_business_rule_version_actions.html#aa41ade49855587fd52f30d8e5bb04089", null ]
+];

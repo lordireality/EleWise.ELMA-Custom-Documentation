@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_migration_switcher =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_migration_switcher.html#a48ce769c55454bb5aec6c5b020a75883", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_workflow_migration_switcher.html#a93c8f07829b6c905b6e907ca1acf5675", null ]
+];

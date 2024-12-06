@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_version_change_date_property_handler_ignore_provider =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_version_change_date_property_handler_ignore_provider.html#afac3def2725672f2640c46a3e5b56c7d", null ],
+    [ "Ignore", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_document_version_change_date_property_handler_ignore_provider.html#ac8e2bdc3e7c04042ed497412ecf94276", null ]
+];

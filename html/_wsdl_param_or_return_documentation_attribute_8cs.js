@@ -1,0 +1,4 @@
+var _wsdl_param_or_return_documentation_attribute_8cs =
+[
+    [ "EleWise.ELMA.Web.Service.WsdlParamOrReturnDocumentationAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_wsdl_param_or_return_documentation_attribute.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_wsdl_param_or_return_documentation_attribute" ]
+];

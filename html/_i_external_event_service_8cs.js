@@ -1,0 +1,4 @@
+var _i_external_event_service_8cs =
+[
+    [ "EleWise.ELMA.IntegrationModules.Services.IExternalEventService", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_services_1_1_i_external_event_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_services_1_1_i_external_event_service" ]
+];

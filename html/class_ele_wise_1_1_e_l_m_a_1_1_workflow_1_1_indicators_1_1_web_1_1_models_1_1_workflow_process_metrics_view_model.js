@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_view_model =
+[
+    [ "Process", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_view_model.html#acfa99bc995661f57a8779d109d5752f7", null ],
+    [ "Values", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_indicators_1_1_web_1_1_models_1_1_workflow_process_metrics_view_model.html#a68d6e0e661cafdf90ff4659e66af9330", null ]
+];

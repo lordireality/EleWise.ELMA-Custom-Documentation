@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers =
+[
+    [ "TypeSettingsInstanceStoreManager", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_settings_1_1_managers_1_1_type_settings_instance_store_manager" ]
+];

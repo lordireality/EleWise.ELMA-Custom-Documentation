@@ -1,0 +1,4 @@
+var _i_virtual_field_checker_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.ExtensionPoint.IVirtualFieldChecker", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_virtual_field_checker.html", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_virtual_field_checker" ]
+];

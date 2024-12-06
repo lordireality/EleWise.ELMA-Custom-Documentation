@@ -1,0 +1,10 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status =
+[
+    [ "DefaultNthConnector", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#af74a0e530e08dde7e163cead5cfb1d5a", null ],
+    [ "DefaultConnectorDisplayName", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#a578e1922e5e201e619876ec1b11e56b5", null ],
+    [ "DefaultFirstConnector", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#a7471e2da036f61e5d0ecdb803e6d59a6", null ],
+    [ "DefaultSecondConnector", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#acdc8fc1ecf064f0309a0dbc528adcc24", null ],
+    [ "DisplayName", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#a46fc08b32ef54fe713ab0cfaff334176", null ],
+    [ "ElementTypes", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#a5e7303067d9f8daf6a17ef98a3b648eb", null ],
+    [ "Uid", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_connectors_1_1_i_connector_status.html#a10f2612e4553cab87551e708365c695b", null ]
+];

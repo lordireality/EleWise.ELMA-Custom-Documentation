@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_i_module_settings_reports_page_provider =
+[
+    [ "HasPermission", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_i_module_settings_reports_page_provider.html#a383f400e32ad1421c5cb72b0174b1c28", null ]
+];

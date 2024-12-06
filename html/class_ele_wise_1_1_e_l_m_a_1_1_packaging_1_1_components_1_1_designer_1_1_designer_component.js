@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component =
+[
+    [ "AfterUpdate", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#afa029e95286f70d4418279e95113f36b", null ],
+    [ "BeforePrepareUpdate", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#af2cde1329b2e59ab1bbdf2402881618b", null ],
+    [ "Configure", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a24c14d96a268596e9ddcc37a37865a13", null ],
+    [ "ConfigureShortcuts", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a3851f8654536e865a9e3c08558577e7f", null ],
+    [ "ConfigureShortcuts", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#ac09be6f26940054f3b3c8ed54c7e8d21", null ],
+    [ "CreateFolders", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a54b367cb8137a6715085301c489e64f1", null ],
+    [ "CreateProjectSystem", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a64d40026c98a77db110dd209864f062f", null ],
+    [ "GetRunningDesignerProcesses", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#aa86a3a123da6f6004d6a81fc09115500", null ],
+    [ "Install", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#ac7b59cc389471801eb201b5f0d5a6dd4", null ],
+    [ "IsStarted", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#aee33d2ca54f60ada8df37b2745e369f3", null ],
+    [ "LoadSettings", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#aa53cea450ac6bf86408367299616e776", null ],
+    [ "Pause", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a6981988aad48bc935d85d0325ff4f715", null ],
+    [ "SetupConfigFile", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#ac7e6e9a54f792ce322ef20de8390f131", null ],
+    [ "Start", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#aa623f56e9ed5730e17a026eca9840f03", null ],
+    [ "Stop", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a8c1b8ef01891f67f6415687ff6394351", null ],
+    [ "Unconfigure", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#aa40c592aedbd03f3d8f17eb707ab0641", null ],
+    [ "Uninstall", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a33af4f419165961ee61b0198231b0fff", null ],
+    [ "DesignerExeFileName", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a5424f49ce5189f1116f88bf74c896e3b", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a73ff4027f8e51d0b03316f2f138907c3", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a967ff21d5e1f9bd468fe737b3920a00e", null ],
+    [ "RelativeComponentRoot", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a0dc4f16ea0b241e4f402b25a9099c08f", null ],
+    [ "RootPackageId", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a7ba8326662feee6f26148e871b4c2112", null ],
+    [ "SettingsFileName", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html#a390ae2a18ea4973fbe88ba8b20435936", null ]
+];

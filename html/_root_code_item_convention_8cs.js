@@ -1,0 +1,4 @@
+var _root_code_item_convention_8cs =
+[
+    [ "EleWise.ELMA.ScriptDesigner.TranslateData.RootCodeItemConvention", "class_ele_wise_1_1_e_l_m_a_1_1_script_designer_1_1_translate_data_1_1_root_code_item_convention.html", "class_ele_wise_1_1_e_l_m_a_1_1_script_designer_1_1_translate_data_1_1_root_code_item_convention" ]
+];

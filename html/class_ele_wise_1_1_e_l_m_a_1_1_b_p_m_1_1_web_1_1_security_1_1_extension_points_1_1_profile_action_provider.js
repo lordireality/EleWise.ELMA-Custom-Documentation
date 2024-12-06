@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_provider =
+[
+    [ "ProfileActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_provider.html#af6bcb0a1a47ac75709a030368b594e30", null ],
+    [ "ProfileActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_provider.html#acfb5818362b91c7c770c35d45b8db194", null ],
+    [ "GetProfileActions", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_profile_action_provider.html#a2aa5245f2f5859950d735ed35831ef25", null ]
+];

@@ -1,0 +1,4 @@
+var _digital_signature_template_settings_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Extensions.DigitalSignatureTemplateSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_digital_signature_template_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_digital_signature_template_settings" ]
+];

@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_i_block_user_replacement_workflow_responsible_model =
+[
+    [ "ChangeResponsible", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_i_block_user_replacement_workflow_responsible_model.html#aec7531850674e8f2b3db16e74e3518dd", null ],
+    [ "ResponsibleUser", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_i_block_user_replacement_workflow_responsible_model.html#a122657589372a6a419642628d2618012", null ]
+];

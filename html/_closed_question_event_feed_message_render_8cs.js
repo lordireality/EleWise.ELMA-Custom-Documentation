@@ -1,0 +1,4 @@
+var _closed_question_event_feed_message_render_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Components.ClosedQuestionEventFeedMessageRender", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_closed_question_event_feed_message_render" ]
+];

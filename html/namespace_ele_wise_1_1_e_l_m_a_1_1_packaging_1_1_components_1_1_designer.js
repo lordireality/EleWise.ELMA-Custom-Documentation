@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer =
+[
+    [ "Settings", "namespace_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_settings.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_settings" ],
+    [ "DesignerComponent", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component.html", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_component" ],
+    [ "DesignerFolder", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_folder.html", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_folder" ],
+    [ "DesignerHelpChmFolder", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_help_chm_folder.html", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_help_chm_folder" ],
+    [ "DesignerProjectSystem", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_project_system.html", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_designer_project_system" ]
+];

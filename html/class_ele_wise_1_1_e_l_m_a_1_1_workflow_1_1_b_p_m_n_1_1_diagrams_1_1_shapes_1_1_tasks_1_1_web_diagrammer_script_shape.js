@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_web_diagrammer_script_shape =
+[
+    [ "WebDiagrammerScriptShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_web_diagrammer_script_shape.html#ac0903951aa188c976d3236d50c257efe", null ]
+];

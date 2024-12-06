@@ -1,0 +1,4 @@
+var _occurrence_risk_activity_grid_editor_model_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Models.Risks.OccurrenceRiskActivityGridEditorModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_occurrence_risk_activity_grid_editor_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_risks_1_1_occurrence_risk_activity_grid_editor_model" ]
+];

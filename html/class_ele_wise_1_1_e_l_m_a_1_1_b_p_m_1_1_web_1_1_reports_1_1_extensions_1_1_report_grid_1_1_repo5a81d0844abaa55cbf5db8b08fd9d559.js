@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo5a81d0844abaa55cbf5db8b08fd9d559 =
+[
+    [ "ReportGridPagerPagingSectionsBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo5a81d0844abaa55cbf5db8b08fd9d559.html#a3c5540eedfbeb0dccde36b86bd3fec73", null ],
+    [ "AppendNumericSection", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo5a81d0844abaa55cbf5db8b08fd9d559.html#a5248c6dbdb850a8883c01f04d3c4cb6d", null ],
+    [ "CreateSections", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo5a81d0844abaa55cbf5db8b08fd9d559.html#a00d057a81905ff16ce1e41085b86a118", null ]
+];

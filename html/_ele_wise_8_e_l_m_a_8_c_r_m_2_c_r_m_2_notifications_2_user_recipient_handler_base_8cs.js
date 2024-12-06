@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_notifications_2_user_recipient_handler_base_8cs =
+[
+    [ "EleWise.ELMA.CRM.Notifications.UserRecipientHandlerBase", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_notifications_1_1_user_recipient_handler_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_notifications_1_1_user_recipient_handler_base" ]
+];

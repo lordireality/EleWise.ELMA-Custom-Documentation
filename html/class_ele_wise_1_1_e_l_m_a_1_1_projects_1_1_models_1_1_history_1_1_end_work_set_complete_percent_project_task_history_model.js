@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model =
+[
+    [ "EndWorkSetCompletePercentProjectTaskHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model.html#aa04fefbedc2dda93215c2bb6a9347a22", null ],
+    [ "ChangedProperties", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model.html#aa3b0b92cec49d70b47bfabdfe5337ec1", null ],
+    [ "Comment", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model.html#a367066636c7e39aa5e82064a1ae91760", null ],
+    [ "NewEntity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model.html#ac37b29cc10b18b12564cce378ff89cda", null ],
+    [ "OldEntity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_history_1_1_end_work_set_complete_percent_project_task_history_model.html#acb17bb64b4eb002d4578f0833a5c5e8e", null ]
+];

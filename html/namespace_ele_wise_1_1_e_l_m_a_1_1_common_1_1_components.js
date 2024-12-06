@@ -1,0 +1,19 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components =
+[
+    [ "HeaderButtonsServices", "namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_header_buttons_services.html", "namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_header_buttons_services" ],
+    [ "AbstractDuplicateHandler", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_abstract_duplicate_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_abstract_duplicate_handler" ],
+    [ "BaseLastObjectProvider", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_base_last_object_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_base_last_object_provider" ],
+    [ "CatalogsFormViewTransformate", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_catalogs_form_view_transformate.html", null ],
+    [ "CatalogsMetadataFormsTransformations", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_catalogs_metadata_forms_transformations.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_catalogs_metadata_forms_transformations" ],
+    [ "CommentActionHandler", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_comment_action_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_comment_action_handler" ],
+    [ "GlobalScoringSettings", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_global_scoring_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_global_scoring_settings" ],
+    [ "GlobalScoringSettingsModule", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_global_scoring_settings_module.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_global_scoring_settings_module" ],
+    [ "LastObjectClearHandler", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_last_object_clear_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_last_object_clear_handler" ],
+    [ "PeriodicalEntityCreatingJobRepository", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_periodical_entity_creating_job_repository.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_periodical_entity_creating_job_repository" ],
+    [ "PeriodicalEntityPostCommitListener", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_periodical_entity_post_commit_listener.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_periodical_entity_post_commit_listener" ],
+    [ "PropertyDuplicateFilter", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_property_duplicate_filter.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_property_duplicate_filter" ],
+    [ "RemindAuditActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_remind_audit_action_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_remind_audit_action_provider" ],
+    [ "ReminderNotificationJobRepository", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_reminder_notification_job_repository.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_reminder_notification_job_repository" ],
+    [ "ServerRestartSettings", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_server_restart_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_server_restart_settings" ],
+    [ "ServerRestartSettingsModule", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_server_restart_settings_module.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_server_restart_settings_module" ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_history_1_1_project_plan_publish_history_model =
+[
+    [ "ProjectPlanPublishHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_history_1_1_project_plan_publish_history_model.html#adbc89b5bf6be74ae2f8641bda56a2375", null ],
+    [ "NewPlan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_history_1_1_project_plan_publish_history_model.html#a8feb2148c809d07568c5e603f0f618a8", null ],
+    [ "OldPlan", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_history_1_1_project_plan_publish_history_model.html#a89bbedbbc954c53d8daa30b5ac83cdaf", null ]
+];

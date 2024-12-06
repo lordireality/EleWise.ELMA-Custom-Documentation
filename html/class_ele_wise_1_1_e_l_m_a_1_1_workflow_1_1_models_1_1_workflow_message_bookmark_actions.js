@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_workflow_message_bookmark_actions =
+[
+    [ "WorkflowMessageBookmarkActions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_workflow_message_bookmark_actions.html#a996f918cf78ae5ac40c1a37964a079ac", null ]
+];

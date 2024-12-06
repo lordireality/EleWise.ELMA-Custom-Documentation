@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_sale_property_adjustment =
+[
+    [ "Adjust", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_relationship_sale_property_adjustment.html#a1872330c2d96196a33ab8aca8e5a6d8c", null ]
+];

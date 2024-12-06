@@ -1,0 +1,7 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_models_1_1_billing_information_1_1_i_bank_details_s_w_i_f_t_filter =
+[
+    [ "AccountInIntermediaryBank", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_models_1_1_billing_information_1_1_i_bank_details_s_w_i_f_t_filter.html#a7dffe6d0f3dcefec1d84949b34cabb20", null ],
+    [ "IntermediaryBank", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_models_1_1_billing_information_1_1_i_bank_details_s_w_i_f_t_filter.html#a5c194de3815ee3f344fdb8aedf167ea6", null ],
+    [ "NameOfBank", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_models_1_1_billing_information_1_1_i_bank_details_s_w_i_f_t_filter.html#abaa94a37441b7b15951f89f22445f366", null ],
+    [ "SWIFTCode", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_models_1_1_billing_information_1_1_i_bank_details_s_w_i_f_t_filter.html#a8929ab125df53d4df8352a3c8e71969d", null ]
+];

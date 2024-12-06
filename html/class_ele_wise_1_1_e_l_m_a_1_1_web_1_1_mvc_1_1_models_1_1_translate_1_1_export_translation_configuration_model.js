@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_translate_1_1_export_translation_configuration_model =
+[
+    [ "ExportFileName", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_translate_1_1_export_translation_configuration_model.html#a416b47e6d681e13e7ce605219d6a8f19", null ],
+    [ "SettingsJsonData", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_translate_1_1_export_translation_configuration_model.html#a31732affbe284c856722ff01fa632be8", null ],
+    [ "WizardStepExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_translate_1_1_export_translation_configuration_model.html#ac20904babf03de1708eebd088771e980", null ]
+];

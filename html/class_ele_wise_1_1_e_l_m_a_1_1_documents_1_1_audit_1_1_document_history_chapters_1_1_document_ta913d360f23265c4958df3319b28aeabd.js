@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ta913d360f23265c4958df3319b28aeabd =
+[
+    [ "ActionChapterUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ta913d360f23265c4958df3319b28aeabd.html#a3629086f24ff4d3f7b0d4ec7770fbaf7", null ],
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_audit_1_1_document_history_chapters_1_1_document_ta913d360f23265c4958df3319b28aeabd.html#a355a13f3b74f5873c6626214b6b0654a", null ]
+];

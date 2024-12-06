@@ -1,0 +1,4 @@
+var _solve_project_task_action_controls_model_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Models.SolveProjectTaskActionControlsModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_solve_project_task_action_controls_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_solve_project_task_action_controls_model" ]
+];

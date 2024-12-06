@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_notification_workflow_task_functions =
+[
+    [ "NotificationWorkflowTaskFunctions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_notification_workflow_task_functions.html#a0bfc183c8bc24e2fd29f62035b987f43", null ]
+];

@@ -1,0 +1,4 @@
+var _acquaintance_task_public_service_8cs =
+[
+    [ "EleWise.ELMA.Documents.Mobile.API.Docflow.AcquaintanceTasks.AcquaintanceTaskPublicService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_docflow_1_1_acquaintance_tasksf3d8492dbd8c497541b851a65a282748" ]
+];

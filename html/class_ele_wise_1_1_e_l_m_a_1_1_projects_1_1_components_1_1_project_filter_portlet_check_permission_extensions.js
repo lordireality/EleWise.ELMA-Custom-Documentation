@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_filter_portlet_check_permission_extensions =
+[
+    [ "ProjectFilterPortletCheckPermissionExtensions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_filter_portlet_check_permission_extensions.html#a80b75236054baa446be79a1735fe301e", null ],
+    [ "AvailablePermissionType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_filter_portlet_check_permission_extensions.html#ae8564916472e6206456970b2696a8a50", null ],
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_project_filter_portlet_check_permission_extensions.html#ab51f32dee7cc65e7b712c1b5b9915b37", null ]
+];

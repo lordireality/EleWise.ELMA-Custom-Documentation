@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable =
+[
+    [ "CommentGlobalVariableHistoryModel", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_models_1_1_audit_1_1_global_variable_1_1_commefa4d73183db7a1ad4961f22d86aa9b32" ]
+];

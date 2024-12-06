@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_collection_history_property_row_display =
+[
+    [ "CanDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_collection_history_property_row_display.html#a50d46aff5fe92959abda8410708c95e4", null ],
+    [ "DisplayChanges", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_collection_history_property_row_display.html#a931288c24235fede080c7dbff125aac5", null ]
+];

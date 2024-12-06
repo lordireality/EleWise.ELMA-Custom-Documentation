@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_many_resource_calendars_extension =
+[
+    [ "GetManyCalendars", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_many_resource_calendars_extension.html#ad42f95c24f24d674930990d3513de995", null ],
+    [ "GetManySupported", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_many_resource_calendars_extension.html#af5efd0b8f585e9d4d8f21b63e1fdc9b1", null ]
+];

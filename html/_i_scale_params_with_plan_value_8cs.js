@@ -1,0 +1,4 @@
+var _i_scale_params_with_plan_value_8cs =
+[
+    [ "EleWise.ELMA.KPI.Common.Interfaces.IScaleParamsWithPlanValue", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_common_1_1_interfaces_1_1_i_scale_params_with_plan_value.html", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_common_1_1_interfaces_1_1_i_scale_params_with_plan_value" ]
+];

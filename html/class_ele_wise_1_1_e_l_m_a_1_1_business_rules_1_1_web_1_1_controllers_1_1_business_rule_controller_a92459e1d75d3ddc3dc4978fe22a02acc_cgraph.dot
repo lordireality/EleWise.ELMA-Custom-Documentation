@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.BusinessRules.Web.Controllers.BusinessRuleController.Delete"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleController.\lDelete",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Удалить бизнес-правило"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.BusinessRules.\lWeb.Controllers.BusinessRuleController.Index",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a389e37dcaf7a364f2f8a051118a6c7c1",tooltip="Стартовая страница - дерево бизнес-правил"];
+}

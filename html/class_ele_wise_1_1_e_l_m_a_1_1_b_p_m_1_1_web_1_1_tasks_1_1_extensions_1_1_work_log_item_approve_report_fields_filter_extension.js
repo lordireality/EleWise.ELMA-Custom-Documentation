@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_approve_report_fields_filter_extension =
+[
+    [ "GetFilterMetadataProperties", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_approve_report_fields_filter_extension.html#a72441151c415aaf24b30639e837518e2", null ],
+    [ "Resolve", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_approve_report_fields_filter_extension.html#a280a9236704ad0baa7b36d966f4ac31d", null ],
+    [ "UpdateProperties", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_extensions_1_1_work_log_item_approve_report_fields_filter_extension.html#a146a182e2bcf2fc1407fe38f509bdc97", null ]
+];

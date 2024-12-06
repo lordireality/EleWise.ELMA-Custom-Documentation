@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_acquaintance_resolver_extension_zone =
+[
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_acquaintance_resolver_extension_zone.html#a6a73164cdf7c004a186a8a4b8d093ba7", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_document_acquaintance_resolver_extension_zone.html#af35427d6318abcfb90bdf1014b15e746", null ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement1f4bb624593a1d099c18822f1b051321 =
+[
+    [ "TaskInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement1f4bb624593a1d099c18822f1b051321.html#a2d933fd881ca2091d87480a28075c360", null ],
+    [ "ApprovalStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement1f4bb624593a1d099c18822f1b051321.html#a84e179080fb22bbbef1f0043cb39cfcb", null ],
+    [ "Stage", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement1f4bb624593a1d099c18822f1b051321.html#a5551bca704cebdc4a4258dbcba75aa1d", null ]
+];

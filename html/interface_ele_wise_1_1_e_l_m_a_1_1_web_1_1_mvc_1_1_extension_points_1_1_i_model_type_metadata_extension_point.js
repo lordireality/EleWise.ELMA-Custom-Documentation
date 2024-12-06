@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_model_type_metadata_extension_point =
+[
+    [ "CanUse", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_model_type_metadata_extension_point.html#ab1f91fd57fc4a6b757520248c30186e4", null ],
+    [ "GetModelType", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_model_type_metadata_extension_point.html#a8b17c6d519452d7eaa69b20a29ad38f0", null ]
+];

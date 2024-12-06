@@ -1,0 +1,8 @@
+var class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy =
+[
+    [ "StaticFileBindingStrategy", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html#a1e4ba3bb362d2a2d15d4e9ca9fccbb12", null ],
+    [ "Discover", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html#af42a67545cc576c555b6be21e07bda1d", null ],
+    [ "GetFileExtension", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html#a707b68bec72fa0a05e42879ef438d4c1", null ],
+    [ "GetFolder", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html#a58b2a6f49e114d362d661a649385e9b7", null ],
+    [ "GetShapePrefix", "class_orchard_1_1_display_management_1_1_descriptors_1_1_resource_binding_strategy_1_1_static_file_binding_strategy.html#a88d5b91f46f0d2fb975d8e84fbafede8", null ]
+];

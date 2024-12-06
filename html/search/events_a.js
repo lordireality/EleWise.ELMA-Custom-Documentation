@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['permissionschanged_0',['PermissionsChanged',['../class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_catalog_property_permission_adapter.html#a2154e95a389b52391330ab68a00bd19a',1,'EleWise.ELMA.Common.Services.CatalogPropertyPermissionAdapter.PermissionsChanged'],['../interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_property_permission_adapter.html#ab80c43a14da271a91733a76ce1a1eb5c',1,'EleWise.ELMA.Security.Services.IPropertyPermissionAdapter.PermissionsChanged'],['../class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_property_permission_adapter.html#aef32f1b2b6fda7945492f4fd00a6ed12',1,'EleWise.ELMA.Security.Services.PropertyPermissionAdapter.PermissionsChanged']]],
+  ['propertychanged_1',['PropertyChanged',['../class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_entity_base.html#ada6274b84851298f3b7a7d1089b7b0da',1,'EleWise.ELMA.KPI.Models.EntityBase.PropertyChanged'],['../interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_models_1_1_i_entity_base.html#aee059ec5226447be085bfa655f3ae1e0',1,'EleWise.ELMA.KPI.Models.IEntityBase.PropertyChanged']]]
+];

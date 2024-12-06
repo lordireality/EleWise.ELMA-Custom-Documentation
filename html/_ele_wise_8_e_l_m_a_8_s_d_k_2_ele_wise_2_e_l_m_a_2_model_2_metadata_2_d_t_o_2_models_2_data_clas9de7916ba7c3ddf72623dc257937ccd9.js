@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_s_d_k_2_ele_wise_2_e_l_m_a_2_model_2_metadata_2_d_t_o_2_models_2_data_clas9de7916ba7c3ddf72623dc257937ccd9 =
+[
+    [ "EleWise.ELMA.Model.Metadata.DTO.Models.DataClassMetadataItemHeaderDTO", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_models_1_1_data_class_metadata_item_header_d_t_o.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_metadata_1_1_d_t_o_1_1_models_1_1_data_class_metadata_item_header_d_t_o" ]
+];

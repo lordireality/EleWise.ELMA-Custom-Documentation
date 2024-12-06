@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.BPM.Web.Common/Attributes"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_2cb3cc25f1142b1a2df578b41de53a41 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="EleWise.ELMA.BPM.Web.Common", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_2cb3cc25f1142b1a2df578b41de53a41.html",tooltip=""]
+  dir_e7b83e0320e7dc88e25bc9d0a1cef6ec [label="Attributes", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_e7b83e0320e7dc88e25bc9d0a1cef6ec.html",tooltip=""];
+  }
+}

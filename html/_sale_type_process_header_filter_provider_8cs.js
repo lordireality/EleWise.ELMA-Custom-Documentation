@@ -1,0 +1,4 @@
+var _sale_type_process_header_filter_provider_8cs =
+[
+    [ "EleWise.ELMA.CRM.Workflow.Processes.Web.Components.SaleTypeProcessHeaderFilterProvider", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_652cb45910349178d08d9b19273a4e4f.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_components_1_1_sale_652cb45910349178d08d9b19273a4e4f" ]
+];

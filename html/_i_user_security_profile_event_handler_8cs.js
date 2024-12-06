@@ -1,0 +1,4 @@
+var _i_user_security_profile_event_handler_8cs =
+[
+    [ "EleWise.ELMA.Security.Extensions.IUserSecurityProfileEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_user_security_profile_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_extensions_1_1_i_user_security_profile_event_handler" ]
+];

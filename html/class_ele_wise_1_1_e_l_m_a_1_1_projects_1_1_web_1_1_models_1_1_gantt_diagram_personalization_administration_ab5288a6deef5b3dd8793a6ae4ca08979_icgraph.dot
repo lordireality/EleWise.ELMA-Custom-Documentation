@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.Projects.Web.Models.GanttDiagramPersonalizationAdministration.SaveMindmapState"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.GanttDiagramPersonalization\lAdministration.SaveMindmapState",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Сохранить свёрнутость узлов плана проекта для mindmap."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lModels.GanttDiagramPersonalization\lAdministration.SaveMindmapNodeState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_gantt_diagram_personalization_administration.html#a9b6f65face5d4d6f11b3cb86838a7886",tooltip="Сохранить свёрнутость узла плана проекта для mindmap."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lSaveMindmapNodeState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#a46439e2968db6bae683b2fa453a55e38",tooltip="Сохранить свёрнутость узла плана проекта для mindmap."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Projects.Web.\lControllers.ProjectPlanController.\lSaveMindmapState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_plan_controller.html#aacb7fc2845545516f981cc702f42cca7",tooltip="Сохранить свёрнутость всех узлов плана проекта для mindmap."];
+}

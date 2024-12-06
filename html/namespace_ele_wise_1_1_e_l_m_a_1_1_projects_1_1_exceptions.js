@@ -1,0 +1,10 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions =
+[
+    [ "MarkObsoleteException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_mark_obsolete_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_mark_obsolete_exception" ],
+    [ "ProjectBudgetNotFoundException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_budget_not_found_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_budget_not_found_exception" ],
+    [ "ProjectNameExistsException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_name_exists_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_name_exists_exception" ],
+    [ "ProjectPlanNotFoundException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_plan_not_found_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_project_plan_not_found_exception" ],
+    [ "PublishException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_publish_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_publish_exception" ],
+    [ "ResumePublishPlanException", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_resume_publish_plan_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_resume_publish_plan_exception" ],
+    [ "WorkForceUserIsExists", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_work_force_user_is_exists.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_exceptions_1_1_work_force_user_is_exists" ]
+];

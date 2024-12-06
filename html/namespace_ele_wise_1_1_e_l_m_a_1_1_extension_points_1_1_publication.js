@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication =
+[
+    [ "IPublishGroupHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_publish_group_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_publish_group_handler" ],
+    [ "IValidatePublishHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_validate_publish_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_i_validate_publish_handler" ],
+    [ "ValidatePublishError", "class_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_validate_publish_error.html", "class_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_validate_publish_error" ],
+    [ "ValidatePublishModel", "class_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_validate_publish_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_extension_points_1_1_publication_1_1_validate_publish_model" ]
+];

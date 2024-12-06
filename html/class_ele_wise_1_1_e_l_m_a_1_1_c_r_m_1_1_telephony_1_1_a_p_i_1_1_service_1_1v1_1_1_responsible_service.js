@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_a_p_i_1_1_service_1_1v1_1_1_responsible_service =
+[
+    [ "GetResponsible", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_a_p_i_1_1_service_1_1v1_1_1_responsible_service.html#a6c5c98fd7dc97f137f86538ee4d61d2c", null ],
+    [ "GetResponsibleMobile", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_a_p_i_1_1_service_1_1v1_1_1_responsible_service.html#aa0a458112fd04c07acde6f48044ff52f", null ]
+];

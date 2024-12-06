@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_security_2_ele_wise_2_e_l_m_a_2_security_2_a_p_i_2_service_2v1_2_i_security_service_8cs =
+[
+    [ "EleWise.ELMA.Security.API.Service.v1.ISecurityService", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_a_p_i_1_1_service_1_1v1_1_1_i_security_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_a_p_i_1_1_service_1_1v1_1_1_i_security_service" ]
+];

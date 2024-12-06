@@ -1,0 +1,5 @@
+var _i_security_default_home_page_portlets_provider_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Security.ExtensionPoints.ISecurityDefaultHomePagePortletsProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_securit6df0d6f344353f4bb7139e88a2d02c94.html", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_i_securit6df0d6f344353f4bb7139e88a2d02c94" ],
+    [ "EleWise.ELMA.BPM.Web.Security.ExtensionPoints.SecurityDefaultHomePagePortlet", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_security_default_home_page_portlet.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_security_default_home_page_portlet" ]
+];

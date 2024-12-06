@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_template_generators_1_1_history_property_row_display_string =
+[
+    [ "CanDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_template_generators_1_1_history_property_row_display_string.html#a79098d2a78b5a1103f9c779f7cb97eb4", null ],
+    [ "DisplayChanges", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_template_generators_1_1_history_property_row_display_string.html#a92e6a2f2ee60e747f976c32601163f6f", null ]
+];

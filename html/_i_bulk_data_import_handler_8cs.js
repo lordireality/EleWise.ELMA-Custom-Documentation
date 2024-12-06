@@ -1,0 +1,4 @@
+var _i_bulk_data_import_handler_8cs =
+[
+    [ "EleWise.ELMA.Common.BulkDataImport.Handlers.IBulkDataImportHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_handlers_1_1_i_bulk_data_import_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_handlers_1_1_i_bulk_data_import_handler" ]
+];

@@ -1,0 +1,12 @@
+digraph "EleWise.ELMA.Projects.Web.Models.Budget.BudgetViewModel.GetViewDatePeriod"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetViewModel.\lGetViewDatePeriod",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Возвращает даты старта и окончания периода просмотра бюджета"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lModels.Budget.BudgetViewModel.\lChartPeriod",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_budget_1_1_budget_view_model.html#a821d6d81ad29e199b9c13755c53ca461",tooltip="Текст периода."];
+  Node2 -> Node2 [id="edge2_Node000002_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

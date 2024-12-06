@@ -1,0 +1,18 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_e3793112f2f301edb542782e538c28c0.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_e3793112f2f301edb542782e538c28c0" ],
+    [ "StartAcquaintanceElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#aa8fdd519a7138ce98bf84d248a2e6353", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a4712e62ce535e179c65de4c4fd227168", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#af149511496af36d0cc68797218d24c10", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#aaa842ae608bc940e7ef5d3a4dc33956c", null ],
+    [ "ActivityListFromContext", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#ad2d31e44e4f8b43bec84f25f2c8ede6a", null ],
+    [ "ContextLinkedUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a1f6895b375b98a237359ea1063560b04", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a96a5ad2b30cc1fdfc3c78b21b1b8c50c", null ],
+    [ "DisplayDocumentList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#abce2a41c928fde7308a749eca96fdfe7", null ],
+    [ "DisplayDocumentsPreviewTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a202bb1b54430e690741d695d906e6bcd", null ],
+    [ "DisplayDocumentsTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#ae73762385f982fa28dc87029218a4fca", null ],
+    [ "MultipleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#ae36ac7b0d96b5be9f0da4c68936efc52", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#ab1b76ec701488b858a7bf8fcd1021a8f", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a7c6127ab197439a431e52c6cef738032", null ],
+    [ "UseLabel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_acquaintance_1_1_start_acquaintance_element.html#a5787f0014b6640456e53088525c11b8b", null ]
+];

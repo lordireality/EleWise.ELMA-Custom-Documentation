@@ -1,0 +1,12 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension =
+[
+    [ "OnDeleteProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#af9c6da5be490b85a94fd3555f290aa86", null ],
+    [ "OnInsertProcessing", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a4c27cd173a019c025df8e9cc6479b67a", null ],
+    [ "ProcessingMergedIndexQueue", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a3fe67c05b1fb0291eb2103bdbeb69022", null ],
+    [ "ContextCacheService", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#aab26294423a18586235eef401b0db288", null ],
+    [ "GetImportantProperties", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a9b0bf1501902d50090524b4a455ca1af", null ],
+    [ "IndexManager", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#abe53c7bb216f2a070c5fa64bc0e0e468", null ],
+    [ "SupportedCard", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a01078a4654b8851376a17102c2ca3064", null ],
+    [ "SupportedUids", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a530840486be877faadfc6d6b0c62c1b5", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_permission_handler_extension.html#a7e22a329de77eac8bd1e2f25906468b0", null ]
+];

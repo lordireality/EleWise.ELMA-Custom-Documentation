@@ -1,0 +1,15 @@
+digraph "EleWise.ELMA.KPI.Web.Controllers.PerformanceController.Matrix"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.KPI.Web.Controllers.\lPerformanceController.Matrix",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.KPI.Web.Controllers.\lKpiBaseController\< IPerformanceMatrix,\l long \>::GetCurrentTimePeriod",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_controllers_1_1_kpi_base_controller.html#a8ceeee8675160a9a805dc5a4a3b87162",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.KPI.Web.Controllers.\lKpiBaseController\< IPerformanceMatrix,\l long \>::GetPeriodFromSession",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_controllers_1_1_kpi_base_controller.html#a39d2936268205a98cd4981b0eff79b93",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.KPI.Web.Controllers.\lKpiBaseController\< IPerformanceMatrix,\l long \>::GetPeriodicityFromSession",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_controllers_1_1_kpi_base_controller.html#aeb4b852e1255dc2bdd1bcf051885b589",tooltip=" "];
+}

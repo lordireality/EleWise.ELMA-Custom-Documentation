@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_history_1_1_extension_points_1_1_i_entity_action_event_mapping =
+[
+    [ "GetEntitySerializationSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_history_1_1_extension_points_1_1_i_entity_action_event_mapping.html#a5e45d225964bec60046059956ef6a83b", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_folder_default_selected_columns_provider =
+[
+    [ "GetProperties", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_folder_default_selected_columns_provider.html#a7c05ff6a732485b54a34d551a201c4a4", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_folder_default_selected_columns_provider.html#a02532bde531a025fe95685117b5a34c1", null ]
+];

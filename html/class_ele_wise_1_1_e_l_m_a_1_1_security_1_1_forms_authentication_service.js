@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service =
+[
+    [ "FormsAuthenticationService", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a70c70fe2851f0f7dac299839ba00fb80", null ],
+    [ "GetActiveSessions", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#af9149b10775425743e0c3c6c3f579647", null ],
+    [ "GetCurrentSession", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#ad1a8e8fe13a1c8f2f61dfd853935412a", null ],
+    [ "GetCurrentUser", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a9e0d405db8381b3ce59ca3f7c280fa0b", null ],
+    [ "GetCurrentUser< T >", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a8d719a5349e5a58f1ba712837773fa98", null ],
+    [ "GetCurrentUserId", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a83583936232334591875d3d0cc9ca3e6", null ],
+    [ "GetCurrentUserInactive", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a906b096903ff2c0df2258638b86db61b", null ],
+    [ "GetCurrentUserInactive< T >", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#aefc0778509a3b32cf81ed3c1ad558614", null ],
+    [ "GetSessions", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#ae52bd40d6dc60e8d26f7417d2b61e84a", null ],
+    [ "GetSessionUser", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a1f274013ab071928102080e2b0959811", null ],
+    [ "RemoveAllUserSessions", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a7d824bc9d15e04747c58d55e609b89af", null ],
+    [ "RemoveSession", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a443bd09f4b9702b4ae065c796e2b4488", null ],
+    [ "SetAuthenticatedUserForRequest", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a9dc4fbd4f4c6f12b24ae0ed9613f937e", null ],
+    [ "SetAuthenticatedUserIdForRequest", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#aa4efcb2adf2c4acecae38ab7f8c5ad39", null ],
+    [ "SignIn", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#afdc21252a4d9082b465e99c087ece47a", null ],
+    [ "SignIn", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#ac9c569da70c00fb804504b8da1fa583b", null ],
+    [ "SignIn", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#aaae3d7c7127d376827e40f16e01f78d4", null ],
+    [ "SignIn", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#aa83d43e9ef496df191f52ca649661f8d", null ],
+    [ "SignOut", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#af65198cbcc23cafe0ce2291b4a16d03d", null ],
+    [ "ContextObjects", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a71b291aec4c47457e9cc8dd3b9bd47db", null ],
+    [ "ExpirationTimeSpan", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#a4b2aa461d8e291b5d3c5a3d559674890", null ],
+    [ "Logger", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_forms_authentication_service.html#ab9a12c1cedae7a18971cae28ba3eadf8", null ]
+];

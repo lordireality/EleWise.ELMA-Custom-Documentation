@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller =
+[
+    [ "Activate", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#add65b39ca501e8c590efad710d10ebc5", null ],
+    [ "ChangeStatusPopup", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a96f18a6d3c9256c8fbcb03b89c0cc48f", null ],
+    [ "ChangeStatusPopup", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#af57c846bd04a8b15256654a8c2f04fba", null ],
+    [ "Clone", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#ab88d77791187ced3ef92fbd72a808399", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a4958766f9fc4308d89874cda8d8918b4", null ],
+    [ "CreateFolder", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#ab985df3961cc36f1c933340d5397f3e5", null ],
+    [ "DeActivate", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a3a2e3e9b4a672bee76e01472cdf30d04", null ],
+    [ "Delete", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a92459e1d75d3ddc3dc4978fe22a02acc", null ],
+    [ "DeleteRuleConfirm", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#ad53bec0d0476f7da5a4b318d314a6900", null ],
+    [ "Details", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a72396745177a2e03948b5470db565575", null ],
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a316ad8b598f67692a2aa34691979255c", null ],
+    [ "EnableInheritPermission", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a39a52a55fe17d916e485d41609d49a71", null ],
+    [ "HasActiveTasksByRule", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#afb559c334d13b2693f7dc13473a0276c", null ],
+    [ "Index", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a389e37dcaf7a364f2f8a051118a6c7c1", null ],
+    [ "PermissionSettings", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#adece749702703ac7489e5e0ded65663c", null ],
+    [ "PermissionSettings", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#ac95bee44098246791184eed19bf0c30d", null ],
+    [ "Publish", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a7b6042e2c9e3eb2d118151f87b3a9523", null ],
+    [ "Restore", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#aa7516b6ce72e1f9c9facb7efaa4d73bf", null ],
+    [ "Save", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#ab7505e8ae572da4053a5d650aff395fb", null ],
+    [ "BusinessRuleManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#acaa42bf980c9ffb42c9190d0da86f37f", null ],
+    [ "BusinessRuleVersionManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#aa086cb049bfc931d5a58168926e27519", null ],
+    [ "PermissionsModelService", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_web_1_1_controllers_1_1_business_rule_controller.html#a48bed04a6ff16cc85a61d04fc524785f", null ]
+];

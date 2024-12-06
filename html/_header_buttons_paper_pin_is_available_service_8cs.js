@@ -1,0 +1,4 @@
+var _header_buttons_paper_pin_is_available_service_8cs =
+[
+    [ "EleWise.ELMA.Common.Components.HeaderButtonsServices.HeaderButtonsPaperPinIsAvailableService", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_header_buttons_services_1_1_header_butt1b8da9e056c6eedae5c175a74814598d.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_components_1_1_header_buttons_services_1_1_header_butt1b8da9e056c6eedae5c175a74814598d" ]
+];

@@ -1,0 +1,28 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor =
+[
+    [ "TypesGroupDescriptor", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a636ff035579d8f3c28ec4f045d413b59", null ],
+    [ "CreateSettingsForFilterProperty", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a338b34bdd982d88fb1d59be390d57db3", null ],
+    [ "FilterFiled", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a7fdeab8408d22c1d19b1dc0dcc7a5f2c", null ],
+    [ "GetFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a92a54e4ce070094c9beb417e5370cdc5", null ],
+    [ "GetSubTypes", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#aea159681913016630dda87a3d5ddbaef", null ],
+    [ "HasRealColumn", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a4e5209958051668b4ae66a3902d50680", null ],
+    [ "IsEmpty", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a60e2fbb3c08f7ba1466d1255dbe730b9", null ],
+    [ "IsEmptyOrDefault", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#abec6a1016b6b5f455d0041290ed41617", null ],
+    [ "IsVisibleForMetadata", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a161fe2d29745cabaa7586e6cb903c006", null ],
+    [ "SearchField", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#afbf95fafc561a65f4c4a55ab9dc3bcc9", null ],
+    [ "CanBeNullable", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a3d83a88966f68c127c7d0ecc79ca7d8d", null ],
+    [ "DefaultNullableValue", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a9ce3fce80518926f0da74acd2e7e6266", null ],
+    [ "IsAvailibleEditPropertyTable", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#af2a8563c2703dc56ac6ecbc93aa5dede", null ],
+    [ "IsGroup", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#af55b02895e7b999bdad5153e00c03127", null ],
+    [ "IsSupportedFullTextSearchInIndex", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#abbcd896e01101c029cee83814bef273f", null ],
+    [ "IsSupportedSearchInIndex", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#af1f03e6c494303aaba9fae04059558dc", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a6f82b968e38de3cf393820c02ccb22ed", null ],
+    [ "OrderTypesByName", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#ac503d0a37a03bca76d4566c209e4a33c", null ],
+    [ "ParentUid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#ae227645d8f2df5d2f5ed74b2381dd214", null ],
+    [ "SettingsType", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#af8316e67093be84911b1032b1a94913c", null ],
+    [ "SubTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a5f08e208ecf06c9967a68a1100a54032", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#af953be2f0b767ee78639eb70ddbffa26", null ],
+    [ "UseForEntity", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a10daae49e82584695a0cd21a61588c99", null ],
+    [ "UseForId", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a82d93e19b5548cdd0a60a6eeb92be9a4", null ],
+    [ "Visible", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_groups_1_1_types_group_descriptor.html#a12de46270916840c9a946f6290f1c652", null ]
+];

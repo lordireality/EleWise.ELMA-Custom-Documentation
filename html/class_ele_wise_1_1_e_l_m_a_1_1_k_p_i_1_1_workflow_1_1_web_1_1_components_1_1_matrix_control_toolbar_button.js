@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_web_1_1_components_1_1_matrix_control_toolbar_button =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_web_1_1_components_1_1_matrix_control_toolbar_button.html#a04abc208511cd628358db8efba767f4f", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_web_1_1_components_1_1_matrix_control_toolbar_button.html#a875a1b21c8198facaf72192a353521ce", null ]
+];

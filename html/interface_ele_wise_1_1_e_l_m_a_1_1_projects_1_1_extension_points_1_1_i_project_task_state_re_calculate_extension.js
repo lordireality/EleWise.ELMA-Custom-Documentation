@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_task_state_re_calculate_extension =
+[
+    [ "CanParentTaskStateReCalculate", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_task_state_re_calculate_extension.html#a87946ac2c0676d825dccf97a4a3bee1d", null ],
+    [ "ParentTaskStateReCalculate", "interface_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_extension_points_1_1_i_project_task_state_re_calculate_extension.html#a8d02037fb3873c783484a8c0f6e7d6fd", null ]
+];

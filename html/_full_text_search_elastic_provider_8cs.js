@@ -1,0 +1,4 @@
+var _full_text_search_elastic_provider_8cs =
+[
+    [ "EleWise.ELMA.FullTextSearch.Elastic.Components.FullTextSearchElasticProvider", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_full_text_search_elastic_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_full_text_search_1_1_elastic_1_1_components_1_1_full_text_search_elastic_provider" ]
+];

@@ -1,0 +1,4 @@
+var _work_log_summary_table_view_item_renderer_01_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Tasks.Components.WorkLogSummaryTableViewItemRenderer", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_summary_table_view_item_renderer.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_work_log_summary_table_view_item_renderer" ]
+];

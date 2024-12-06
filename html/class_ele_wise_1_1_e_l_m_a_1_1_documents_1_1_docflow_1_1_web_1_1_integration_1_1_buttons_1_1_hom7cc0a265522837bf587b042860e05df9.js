@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_hom7cc0a265522837bf587b042860e05df9 =
+[
+    [ "HomeIndexRegisterDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_hom7cc0a265522837bf587b042860e05df9.html#ada8cf7b4cc9925289b5d168641f80c37", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_hom7cc0a265522837bf587b042860e05df9.html#a4d594a8175e7344d80556db85be1be34", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_hom7cc0a265522837bf587b042860e05df9.html#abe4ff7866a7ca854136cc4fdbf1a4fb5", null ]
+];

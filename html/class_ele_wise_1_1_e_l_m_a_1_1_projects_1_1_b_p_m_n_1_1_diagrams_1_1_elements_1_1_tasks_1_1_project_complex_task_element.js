@@ -1,0 +1,23 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_projdb611710e9b1b33d1b7577f92943deda" ],
+    [ "ProjectComplexTaskElement", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#adb27e783dd05ee210dfc12256ec94a1f", null ],
+    [ "CheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#ae96b19e7c3e4355762d278633af491c9", null ],
+    [ "GetVisiblePropertyUids", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#af0a5cdab399bcde85e5fb9190f275fff", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#af9eab6ae39537f718f6744e296f692d7", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#af2ddeb3aa20833d59afc078c03d88065", null ],
+    [ "ReplaceSignature", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#adf8d6071b831822408ce1a7817eed039", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a773a92415315fdaa96c44885f1b22945", null ],
+    [ "CanCheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a0c5a8231cec6bd86b11bf228b6710953", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#aa09f16a8725ef25f4d0237dedb848069", null ],
+    [ "DenyReassign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a70b60bc96e2dfecc6ecf3305ad15a0d8", null ],
+    [ "FormSettings", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#af722542eb9d34506f03d1131f5f57ecd", null ],
+    [ "LimitByTime", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a18a34d01c72ecb4508265544cc4ec321", null ],
+    [ "LimitByWorkLogTime", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#abfb6543d8556a9249f2df73113993f56", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#acb0b7e3143216a653f8f15d6e007e3b5", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a6ea2a60efc1a8ed9a61a311a289879a7", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#ac52a8dd144649e9e78d510206b3e47a3", null ],
+    [ "TimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a457bbfd52c8638f75a6e460cb5cdf77b", null ],
+    [ "View", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#a770cec68dfd489d5c4f99250c3bcf026", null ],
+    [ "WorkLogTimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_complex_task_element.html#adc78268377db2c45ab5f321ed835ce7f", null ]
+];

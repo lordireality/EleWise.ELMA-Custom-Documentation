@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_common_1_1_extensions_1_1_percent_at_zero_plan_settings_extension =
+[
+    [ "PercentAtZeroPlanSettingsExtension", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_common_1_1_extensions_1_1_percent_at_zero_plan_settings_extension.html#ac7468e63997e93350ece84440b38fff3", null ],
+    [ "PercentAtZeroPlan", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_common_1_1_extensions_1_1_percent_at_zero_plan_settings_extension.html#a5d014fa343d96c7d2f6fb52cb47785e6", null ]
+];

@@ -1,0 +1,13 @@
+digraph "EleWise.ELMA.Projects.Web.ExtensionPoints.IProjectTaskExecutorRoleFilterProvider"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Projects.Web.\lExtensionPoints.IProjectTaskExecutor\lRoleFilterProvider",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Интерфейс точки расширения для фильтрации ролей выбора исполнителя/соисполнителя/контролера проектной..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Projects.Web.\lComponents.FilterProviders.Project\lTaskExecutorRoleFilterProviderDefault",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_b617583558746a92f362643825b747f3.html",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Projects.Web.\lComponents.FilterProviders.Project\lTaskExecutorRoleUsersFilterProvider",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_filter_providers_1_1_project_e9e2c86e8e1da91cecbfc3a11deb3ac0.html",tooltip=" "];
+}

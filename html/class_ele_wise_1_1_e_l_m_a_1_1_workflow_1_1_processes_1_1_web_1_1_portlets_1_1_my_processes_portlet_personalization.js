@@ -1,0 +1,15 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization =
+[
+    [ "ProcessItem", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portd622e0a71ef2947fce4f6a65d7412eca.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portd622e0a71ef2947fce4f6a65d7412eca" ],
+    [ "ProcessItemList", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_port177dd34c809c5c9e9c791a04f03a0119.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_port177dd34c809c5c9e9c791a04f03a0119" ],
+    [ "GetAvailableProcesses", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a05a035d474d0cf273f2bc55de8f8c481", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a4b423ed8a79872d48dacff20b02c1554", null ],
+    [ "IsVisible", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a960913c6dfb36af5e3f5582d0026ee9a", null ],
+    [ "GridId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#ac0f5b734a1761d55a23798e9426ae1a3", null ],
+    [ "GridState", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#af4e33cbd3798548e24802597c2b7d268", null ],
+    [ "NullFilterId", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#af253ca75ccb951c2a599d01fd886e86c", null ],
+    [ "Processes", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a16925c70d992cb4993a1b6204a5b5bf2", null ],
+    [ "ProcessesString", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a52910822c80b349f367db2a627571f20", null ],
+    [ "ShowAll", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a5b1ff5072bf75bfabee7011717b18b4c", null ],
+    [ "ViewMode", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portlet_personalization.html#a2312f2c81846c3d27525fbeeaedc83ed", null ]
+];

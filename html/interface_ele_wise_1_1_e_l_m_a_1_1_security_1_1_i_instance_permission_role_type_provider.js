@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_i_instance_permission_role_type_provider =
+[
+    [ "GetTypePermissionRoleStereotypes", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_i_instance_permission_role_type_provider.html#ae46df4ee8b7e1130ea79daf8917e8256", null ]
+];

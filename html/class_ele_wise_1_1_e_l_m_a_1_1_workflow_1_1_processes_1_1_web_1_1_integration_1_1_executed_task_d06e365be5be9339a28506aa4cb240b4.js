@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_executed_task_d06e365be5be9339a28506aa4cb240b4 =
+[
+    [ "GetData", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_executed_task_d06e365be5be9339a28506aa4cb240b4.html#a4da7410e5d2a293ac0a628b71039a0ee", null ],
+    [ "GetInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_integration_1_1_executed_task_d06e365be5be9339a28506aa4cb240b4.html#ace68c18db71649567aa745aeb995e8f9", null ]
+];

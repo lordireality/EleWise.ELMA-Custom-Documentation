@@ -1,0 +1,10 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service =
+[
+    [ "FindVisibleGroupsAndViewItems", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#a0cd2d7063451f43ec08a0270ad18e5ff", null ],
+    [ "GetMetadataHeaders", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#a8c744981e293969f9659d69156c5e3af", null ],
+    [ "GetMetadataItemGroups", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#a35acc106810c4725c768bb3f1f00334a", null ],
+    [ "GetNamespaceInfo", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#ab98e12ad7a83f2620ae932e28030c3d3", null ],
+    [ "GetNamespaceMetadata", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#ab68b5c9132a478f645c63da05c042ef3", null ],
+    [ "LoadDraftMetadataByTypeUid", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#ac2906a946479082c824c4c0fcc81c151", null ],
+    [ "LoadMetadataHeaders", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_metadata_edit_1_1_services_1_1_abstraction_1_1_i_u_i_metadata_service.html#aef84df43e3777bc719e4fe81c2f4e9c1", null ]
+];

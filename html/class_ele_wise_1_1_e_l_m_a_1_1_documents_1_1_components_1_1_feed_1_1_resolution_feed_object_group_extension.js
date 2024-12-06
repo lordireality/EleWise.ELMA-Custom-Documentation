@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_resolution_feed_object_group_extension =
+[
+    [ "ResolutionFeedObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_resolution_feed_object_group_extension.html#ab9b4e31f316cf79ff757ab0d38550ec4", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_resolution_feed_object_group_extension.html#a098f18f7bfea2ab97c12ef45d0c0af30", null ]
+];

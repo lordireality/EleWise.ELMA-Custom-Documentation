@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_types_1_1_book_external_data_type_settings =
+[
+    [ "BookExternalDataTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_types_1_1_book_external_data_type_settings.html#a7a52589684771cd0f43196903054e7c8", null ],
+    [ "BookExternalDataTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_types_1_1_book_external_data_type_settings.html#a56792e3a22e51e413037aa416b2f1119", null ]
+];

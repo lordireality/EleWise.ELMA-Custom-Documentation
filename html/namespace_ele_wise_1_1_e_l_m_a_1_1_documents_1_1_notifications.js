@@ -1,0 +1,7 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications =
+[
+    [ "DocflowNotificationsDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_docflow_notifications_data_source.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_docflow_notifications_data_source" ],
+    [ "DocflowTaskNotificationRecipientHandler", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_docflow_task_notification_recipient_handler.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_docflow_task_notification_recipient_handler" ],
+    [ "DocumentsNotificationsDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_documents_notifications_data_source.html", null ],
+    [ "SignatureTemplateGeneratorFunctions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_signature_template_generator_functions.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_notifications_1_1_signature_template_generator_functions" ]
+];

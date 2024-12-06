@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions =
+[
+    [ "ChangeStatusException", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions_1_1_change_status_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions_1_1_change_status_exception" ],
+    [ "TableValidationException", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions_1_1_table_validation_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_exceptions_1_1_table_validation_exception" ]
+];

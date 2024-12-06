@@ -1,0 +1,13 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222 =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_data45972e03ce43ecd43f5fe647d55fa304.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_data45972e03ce43ecd43f5fe647d55fa304" ],
+    [ "ControlDataElement", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a1f24af32186c92661fa75cd232a14cac", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a0e6e2cea33d00d76507107f8b31b129d", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a06457b742a1aa4a779d8561ae67b1b9e", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#aa8c69fb4e747750ee0c9ab3b749ea185", null ],
+    [ "LimitByTime", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#ac8e221fcb21e21f6aa25dc1df7572e2f", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a5d2849ef20ee0e127329e2521cc1ac89", null ],
+    [ "MetadataUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a08c8fd7a6a28896e01cfac540a7813a3", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#a479b8ea6f2322156f3d94a66f3a04f46", null ],
+    [ "TimeOfExecution", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_datacff12a78e7fb9f3f3e4a4221a1a75222.html#aba4730596313085deccdbba5a12dc0bf", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_current_scheduler_jobs_model =
+[
+    [ "OptimizeMonitorCacheCurrentTaskJob", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_current_scheduler_jobs_model.html#a9d44f1b2d9b53a1ab20bd6555d62e0ee", null ],
+    [ "RecreateMonitorCurrentTaskJob", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_current_scheduler_jobs_model.html#a5c1704f1aec867ca7002ea9ba91658aa", null ]
+];

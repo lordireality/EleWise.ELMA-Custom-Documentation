@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_portlet_check_permission_extensions =
+[
+    [ "AvailablePermissionType", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_portlet_check_permission_extensions.html#a2334c7fdff4a9134082b94917aa7707c", null ],
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extensions_1_1_task_filter_portlet_check_permission_extensions.html#aab4089bb83523c04af6103e93dc5d928", null ]
+];

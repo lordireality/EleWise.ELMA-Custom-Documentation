@@ -1,0 +1,4 @@
+var _relative_date_time_function_8cs =
+[
+    [ "EleWise.ELMA.Extensions.QueryInFunctions.RelativeDateTimeFunction", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_query_in_functions_1_1_relative_date_time_function.html", "class_ele_wise_1_1_e_l_m_a_1_1_extensions_1_1_query_in_functions_1_1_relative_date_time_function" ]
+];

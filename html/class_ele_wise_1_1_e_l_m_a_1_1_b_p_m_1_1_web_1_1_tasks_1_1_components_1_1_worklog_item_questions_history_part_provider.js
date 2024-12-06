@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_worklog_item_questions_history_part_provider =
+[
+    [ "CheckEntity", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_worklog_item_questions_history_part_provider.html#ab451924291fc8b3202efc528fe686785", null ],
+    [ "CheckEventActionObject", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_components_1_1_worklog_item_questions_history_part_provider.html#adf040b01855c82ca18fd56ed0e929fb3", null ]
+];

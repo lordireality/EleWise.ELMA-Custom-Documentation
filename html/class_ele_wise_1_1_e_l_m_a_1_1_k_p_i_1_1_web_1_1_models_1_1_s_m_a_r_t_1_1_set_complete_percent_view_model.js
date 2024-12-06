@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_set_complete_percent_view_model =
+[
+    [ "SetCompletePercentViewModel", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_set_complete_percent_view_model.html#a2082b01fb2ee5e6288f7757fb102a915", null ],
+    [ "CompletePercent", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_models_1_1_s_m_a_r_t_1_1_set_complete_percent_view_model.html#a9093ad987409f3449d6425286ac8648c", null ]
+];

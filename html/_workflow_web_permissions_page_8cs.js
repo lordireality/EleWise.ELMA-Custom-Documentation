@@ -1,0 +1,4 @@
+var _workflow_web_permissions_page_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.Security.ModulePermissionsPageProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_security_1_1_module_permissions_page_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_security_1_1_module_permissions_page_provider" ]
+];

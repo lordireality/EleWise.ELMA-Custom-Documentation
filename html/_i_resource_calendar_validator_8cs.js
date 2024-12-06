@@ -1,0 +1,4 @@
+var _i_resource_calendar_validator_8cs =
+[
+    [ "EleWise.ELMA.Calendar.ExtensionPoints.IResourceCalendarValidator", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator.html", "interface_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_extension_points_1_1_i_resource_calendar_validator" ]
+];

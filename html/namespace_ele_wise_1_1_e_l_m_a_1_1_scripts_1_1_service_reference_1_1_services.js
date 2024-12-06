@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services =
+[
+    [ "IReferenceDiscoveryService", "interface_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services_1_1_i_reference_discovery_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_services_1_1_i_reference_discovery_service" ]
+];

@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_last_object_portlet_personalization_converter =
+[
+    [ "Update", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_last_object_portlet_personalization_converter.html#ad3c26991aa921ebf26500cdf8bea921f", null ],
+    [ "NewSettingsType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_last_object_portlet_personalization_converter.html#afa8bb803277c609d08999e93d37c7c12", null ],
+    [ "OldSettingsType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_document_last_object_portlet_personalization_converter.html#a35ec08edbb8f844d66cc15f703186e75", null ]
+];

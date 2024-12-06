@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_wsdl_param_or_return_documentation_attribute =
+[
+    [ "WsdlParamOrReturnDocumentationAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_wsdl_param_or_return_documentation_attribute.html#ac02d6d5b22a21c685a570e1cf29da3fb", null ],
+    [ "WsdlParamOrReturnDocumentationAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_service_1_1_wsdl_param_or_return_documentation_attribute.html#a2c2c8993fbf7a9e881104f2e977990e2", null ]
+];

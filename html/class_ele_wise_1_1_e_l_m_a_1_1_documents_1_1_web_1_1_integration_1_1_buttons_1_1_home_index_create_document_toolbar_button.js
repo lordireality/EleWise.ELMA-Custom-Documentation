@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button =
+[
+    [ "HomeIndexCreateDocumentToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button.html#af9df28d7edbb3ddd39d63fbac5f958cb", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button.html#a1374b358ecb56992820236602b7a0007", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_document_toolbar_button.html#a983c1f71a637f812da7eb2aee81f7211", null ]
+];

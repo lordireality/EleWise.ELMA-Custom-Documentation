@@ -1,0 +1,4 @@
+var _calendar_portlet_last_column_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Calendar.Extensions.ICalendarPortletLastColumn", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_i_calendar_portlet_last_column.html", "interface_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_calendar_1_1_extensions_1_1_i_calendar_portlet_last_column" ]
+];

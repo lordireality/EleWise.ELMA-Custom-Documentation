@@ -1,0 +1,23 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element =
+[
+    [ "ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_15f9db0f55469d32ce026653c10aee8a0.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_15f9db0f55469d32ce026653c10aee8a0" ],
+    [ "SendToApprovementElement", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a9cd1ca3200949a7f35c422b1e67008fa", null ],
+    [ "HtmlBody", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#af0f144c5e7cb4635ab9d3b28ba8d1b92", null ],
+    [ "ReplaceContextVar", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#adb26e44373b2d742a7443f8b43a425de", null ],
+    [ "Validate", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#ad7e422134b213e7888d84e927ba49040", null ],
+    [ "ActivityListFromContext", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a7e9f64cb050ef94951bfdf7c65bb2af1", null ],
+    [ "AllowChangeCompleteType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a01560e9aee0c7300938a0d35006f453f", null ],
+    [ "CanCheckPublicApplicationCompatibility", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#afb5ba8f89578303e4e48adeb7d0fa142", null ],
+    [ "CompleteType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#ad5f5eddb99865db8a399a8bc1ea1698f", null ],
+    [ "ContextLinkedUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a8b980492932dbb92f07b0eda24ed35e8", null ],
+    [ "DefaultName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#aa1a8b2934fad45ee07dcf7235abbac44", null ],
+    [ "DisplayDocumentList", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a7554c11d5848b98fefda2f312e3ba619", null ],
+    [ "DisplayDocumentsPreviewTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#af052bc0eb7ed6d577e1868271b582034", null ],
+    [ "DisplayDocumentsTabs", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a4f2603c9010eb8077399c286b10089db", null ],
+    [ "MaxOutputFlowsCount", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#ae179b8247f99f30d13982c0bddc334ba", null ],
+    [ "MultipleMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a0b0f2781921223123ed26f4d856f25c4", null ],
+    [ "OutputCancel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a18be5f15808cbcbc2c14f6e08c56a1f7", null ],
+    [ "SupportedSwimlaneTypes", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a5227ae99614ca910ab89df2accd9838e", null ],
+    [ "SupportedTriggers", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#a77d91e1426c110a40b1b0b25a155fd52", null ],
+    [ "UseLabel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_approvement_1_1_send_to_approvement_element.html#aa310a58fa03ec8d4d4e94a01e57f1239", null ]
+];

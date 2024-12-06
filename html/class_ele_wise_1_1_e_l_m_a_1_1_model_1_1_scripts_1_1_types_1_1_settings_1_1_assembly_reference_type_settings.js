@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_types_1_1_settings_1_1_assembly_reference_type_settings =
+[
+    [ "AssemblyReferenceTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_types_1_1_settings_1_1_assembly_reference_type_settings.html#a9eb882683b32d935e74e5a743ffa1077", null ],
+    [ "AssemblyReferenceTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_scripts_1_1_types_1_1_settings_1_1_assembly_reference_type_settings.html#a5d71756475a29fc3709531f209e90af4", null ]
+];

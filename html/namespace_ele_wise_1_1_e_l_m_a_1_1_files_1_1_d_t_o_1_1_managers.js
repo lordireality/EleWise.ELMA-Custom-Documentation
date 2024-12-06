@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers =
+[
+    [ "FileDTOManager", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_file_d_t_o_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_file_d_t_o_manager" ],
+    [ "IBinaryDTOManager", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_binary_d_t_o_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_binary_d_t_o_manager" ],
+    [ "ITemplateFileDTOManager", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_template_file_d_t_o_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_template_file_d_t_o_manager" ],
+    [ "IWebApplicationDTOManager", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_web_application_d_t_o_manager.html", "interface_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_i_web_application_d_t_o_manager" ],
+    [ "TemplateFileDTOManager", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_template_file_d_t_o_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_files_1_1_d_t_o_1_1_managers_1_1_template_file_d_t_o_manager" ]
+];

@@ -1,0 +1,6 @@
+var class_nemerle_1_1_compiler_1_1_decision_tree_compiler_1_1_single_switch_case_handler_1_1_non_required_switch_expr =
+[
+    [ "NonRequiredSwitchExpr", "class_nemerle_1_1_compiler_1_1_decision_tree_compiler_1_1_single_switch_case_handler_1_1_non_required_switch_expr.html#a279080b4c154abc808a384410f7e36cd", null ],
+    [ "_N_GetVariantCode", "class_nemerle_1_1_compiler_1_1_decision_tree_compiler_1_1_single_switch_case_handler_1_1_non_required_switch_expr.html#aea963c77f9d1022e12ed725f24f89acb", null ],
+    [ "handler", "class_nemerle_1_1_compiler_1_1_decision_tree_compiler_1_1_single_switch_case_handler_1_1_non_required_switch_expr.html#adf30ef1444b90e9bee103828540e17cd", null ]
+];

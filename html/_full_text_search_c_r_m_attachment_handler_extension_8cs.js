@@ -1,0 +1,4 @@
+var _full_text_search_c_r_m_attachment_handler_extension_8cs =
+[
+    [ "EleWise.ELMA.CRM.FullTextSearch.Components.FullTextSearchCRMAttachmentHandlerExtension", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_c_4c756d4b947f467b8b6d82c74f6d95a4.html", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_full_text_search_1_1_components_1_1_full_text_search_c_4c756d4b947f467b8b6d82c74f6d95a4" ]
+];

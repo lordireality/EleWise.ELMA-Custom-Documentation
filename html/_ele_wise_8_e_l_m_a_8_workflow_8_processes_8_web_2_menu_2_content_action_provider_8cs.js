@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_workflow_8_processes_8_web_2_menu_2_content_action_provider_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.Menu.ContentActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_menu_1_1_content_action_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_menu_1_1_content_action_provider" ]
+];

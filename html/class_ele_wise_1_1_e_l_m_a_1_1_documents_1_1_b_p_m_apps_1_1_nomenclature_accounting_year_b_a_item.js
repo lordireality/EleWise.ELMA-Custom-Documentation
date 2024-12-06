@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_apps_1_1_nomenclature_accounting_year_b_a_item =
+[
+    [ "NomenclatureAccountingYearBAItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_apps_1_1_nomenclature_accounting_year_b_a_item.html#a810036b20a9e5295862c70b761ac96c0", null ],
+    [ "NomenclatureItems", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_apps_1_1_nomenclature_accounting_year_b_a_item.html#acf913fa9004a2ee7cd893273f29c8d3b", null ]
+];

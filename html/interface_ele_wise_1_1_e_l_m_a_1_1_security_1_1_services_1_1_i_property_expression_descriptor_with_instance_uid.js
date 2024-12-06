@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_property_expression_descriptor_with_instance_uid =
+[
+    [ "GetExpressionName", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_property_expression_descriptor_with_instance_uid.html#af8a183aa59df6778b0cf276c4b4d2efa", null ],
+    [ "RoleType", "interface_ele_wise_1_1_e_l_m_a_1_1_security_1_1_services_1_1_i_property_expression_descriptor_with_instance_uid.html#aa484539ce8e3e13350afac95a1e00b73", null ]
+];

@@ -1,0 +1,14 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service =
+[
+    [ "CanEditVisible", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a372fa60dc4c85a71a488a062ff2b3fbc", null ],
+    [ "CheckConnection", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#ad0f5ea3064f7c9a0b40829cdf31f88c8", null ],
+    [ "CreateDefaultSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a97678842e574cf41b63f54c2a926817b", null ],
+    [ "DeleteConnectionSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a210b9634412fb0f81ff863bec8d5dcd6", null ],
+    [ "GetConnections", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a1b3803cba64366e16a5b4fa2c1d02304", null ],
+    [ "GetCurrentConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a4c3fd9a1e3f6c905c12150d226b804fa", null ],
+    [ "GetCurrentConfigurationWithInit", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a5f1c411dbf08db28fcefd6f34aa7794f", null ],
+    [ "GetFullConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a5041792412716bcb3e22116d66bd1cd7", null ],
+    [ "GetProviderType", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a8984378702d784782a7407c01e262c78", null ],
+    [ "SaveConfiguration", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a79b6c89b26917fe3b36008115e50cfee", null ],
+    [ "SaveConnectionSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_services_1_1_i_configuration_external_data_service.html#a298f60804cfafae60e7e9988b9146316", null ]
+];

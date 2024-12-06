@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements =
+[
+    [ "GroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements.html#a9ae5a2c8a7ca215d95ed464652bdaa91", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements.html#a6d9830756814046479e406bbde01dc4f", null ],
+    [ "PanelUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements.html#adfcfc69d632fe76b53efddfc9b3e3fc2", null ],
+    [ "ParentGroupUid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_kpi_groups_1_1_approvement_elements.html#aa774f1c7b9e2e0a5f55704ac678ab0a4", null ]
+];

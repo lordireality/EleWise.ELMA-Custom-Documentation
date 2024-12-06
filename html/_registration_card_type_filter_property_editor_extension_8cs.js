@@ -1,0 +1,4 @@
+var _registration_card_type_filter_property_editor_extension_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.Filter.RegistrationCardTypeFilterPropertyEditorExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisaa753509ebe9c3854330d41b8c951c2e.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_regisaa753509ebe9c3854330d41b8c951c2e" ]
+];

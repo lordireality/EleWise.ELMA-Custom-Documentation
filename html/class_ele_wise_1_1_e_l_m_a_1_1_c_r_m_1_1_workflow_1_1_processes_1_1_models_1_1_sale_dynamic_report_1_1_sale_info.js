@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info =
+[
+    [ "SaleInfo", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a724ccb89ce19ec94f3d471cecab046cc", null ],
+    [ "ContractorId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a39e6010e811612a31984426eb23eee51", null ],
+    [ "ContractorName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a81e0b21db49a699c45b302222d70a6b0", null ],
+    [ "ContractorTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#aee5fbe6e3e8122857db25d3fc03c3a0c", null ],
+    [ "CreationDate", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#aded0c2db492ca548226824a08059f528", null ],
+    [ "EndDate", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a3c82614d131340e0ac4ac992b65f5c0a", null ],
+    [ "FromStageId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#aeb3fbfbec9ad4c9cf3deb47b3a569ab1", null ],
+    [ "FromStageName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a3b2c8003677ab0c97c8e161fc84858e1", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ad0ba3df58d5403b119e14154895bebd0", null ],
+    [ "Name", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a245428ddafac465a5ab7c1782cb878d2", null ],
+    [ "ResponsibleFirstName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ae027fb8edcb146b8c388266fbcf8daed", null ],
+    [ "ResponsibleId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ae406f8daae3f00a39fb4f7f7ed400177", null ],
+    [ "ResponsibleLastName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#abb9d8667e4bb708439d61421bb175023", null ],
+    [ "ResponsibleMiddleName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a8f2f8a5036d381b8df8aca6d39a516d6", null ],
+    [ "ResponsibleShortName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ab00c80af96a523184d98e34a5ca8e1cf", null ],
+    [ "ResponsibleUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ab5e61dbd99863a7cfff359d1ccc11950", null ],
+    [ "SalesVolume", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a35c8a6b0d3e0f87cbd44420d1db2c9bc", null ],
+    [ "SalesVolumeMoney", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ab709f18305e74bb7e7abe0ddb4544e73", null ],
+    [ "StageChangeDate", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ae78716170de34fe703156a1e781d9f6f", null ],
+    [ "StageDuration", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a9c6fdd9e0b4de116596fafc2d9b15eb6", null ],
+    [ "StartDate", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#ac1d1396113319ef18fc816f3bd54dde1", null ],
+    [ "ToStageId", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#a53668f56aa137911221241bf14d9d69e", null ],
+    [ "ToStageName", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_models_1_1_sale_dynamic_report_1_1_sale_info.html#af49d5b887f4c026c0062bcb90c9f7a1c", null ]
+];

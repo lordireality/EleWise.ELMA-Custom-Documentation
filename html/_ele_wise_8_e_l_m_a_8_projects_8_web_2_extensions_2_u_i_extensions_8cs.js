@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_projects_8_web_2_extensions_2_u_i_extensions_8cs =
+[
+    [ "EleWise.ELMA.Projects.Web.Extensions.ProjectUserAccessScriptModel", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_user_access_script_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_project_user_access_script_model" ]
+];

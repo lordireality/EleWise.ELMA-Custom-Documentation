@@ -1,0 +1,4 @@
+var _web_reference_discoverer_8cs =
+[
+    [ "EleWise.ELMA.Scripts.ServiceReference.WebReferenceDiscoverer", "class_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_web_reference_discoverer.html", "class_ele_wise_1_1_e_l_m_a_1_1_scripts_1_1_service_reference_1_1_web_reference_discoverer" ]
+];

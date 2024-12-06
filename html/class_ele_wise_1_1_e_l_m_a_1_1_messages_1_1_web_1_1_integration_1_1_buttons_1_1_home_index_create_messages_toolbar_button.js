@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_messages_toolbar_button =
+[
+    [ "HomeIndexCreateMessagesToolbarButton", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_messages_toolbar_button.html#af36f82bace8dd020919441ca445bb90e", null ],
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_messages_toolbar_button.html#aa32768c33de313518cb21ab96f986224", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_integration_1_1_buttons_1_1_home_index_create_messages_toolbar_button.html#aece979f66ff1e4bd7f7db5b79a33dbea", null ]
+];

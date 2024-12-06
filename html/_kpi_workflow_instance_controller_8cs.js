@@ -1,0 +1,4 @@
+var _kpi_workflow_instance_controller_8cs =
+[
+    [ "EleWise.ELMA.KPI.Workflow.Web.Controllers.KpiWorkflowInstanceController", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_web_1_1_controllers_1_1_kpi_workflow_instance_controller.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_workflow_1_1_web_1_1_controllers_1_1_kpi_workflow_instance_controller" ]
+];

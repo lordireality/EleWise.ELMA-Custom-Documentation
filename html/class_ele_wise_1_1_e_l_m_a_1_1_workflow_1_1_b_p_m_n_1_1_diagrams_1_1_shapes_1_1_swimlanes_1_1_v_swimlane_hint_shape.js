@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_v_swimlane_hint_shape =
+[
+    [ "VSwimlaneHintShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_v_swimlane_hint_shape.html#aadb28d646c4756030a294443917a4bd6", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_v_swimlane_hint_shape.html#ab0692e5675b8106d41fd76fee099691b", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_swimlanes_1_1_v_swimlane_hint_shape.html#aa065f5c0c2022f2319629a24535161b1", null ]
+];

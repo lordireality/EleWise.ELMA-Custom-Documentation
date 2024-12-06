@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history =
+[
+    [ "BaseAuditEventRender", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_base_audit_event_render.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_base_audit_event_render" ],
+    [ "HistoryItemView", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_item_view.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_item_view" ],
+    [ "HistoryPartButton", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_button" ],
+    [ "HistoryPartMergedButton", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_merged_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_merged_button" ],
+    [ "HistoryPartViewBlock", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_view_block.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_history_1_1_history_part_view_block" ]
+];

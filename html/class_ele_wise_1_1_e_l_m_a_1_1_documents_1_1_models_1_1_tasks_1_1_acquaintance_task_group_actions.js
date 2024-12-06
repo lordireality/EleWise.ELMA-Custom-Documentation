@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_tasks_1_1_acquaintance_task_group_actions =
+[
+    [ "AcquaintanceTaskGroupActions", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_models_1_1_tasks_1_1_acquaintance_task_group_actions.html#a433a3ceca8089526ac20f82f3e7bc740", null ]
+];

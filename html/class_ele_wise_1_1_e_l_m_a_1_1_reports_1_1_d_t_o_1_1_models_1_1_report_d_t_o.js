@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o =
+[
+    [ "ReportDTO", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a22a9b77acc22bc4e29ae50d6c2fb2f51", null ],
+    [ "AfterLoad", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a4cf232f3375a2af80539c173b942bf22", null ],
+    [ "CopyChanges", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a1075157f8c8aadce28fb1ecab64c5568", null ],
+    [ "InitNew", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a9f4426ec90e681707b3c978d47b2bd32", null ],
+    [ "ResetIdsForPublish", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#ae1326a53d153d23059bbe0211e6b2309", null ],
+    [ "ShouldSerializeModuleUid", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#aecd7e780acad5e23e999ae0e43e9950c", null ],
+    [ "ControllerCodeScriptModule", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a26b7f856f030f9c73eea836450fa3c5d", null ],
+    [ "CreationAuthorId", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#ae9a5d7247e0845a22c3b5bbb98da9253", null ],
+    [ "CreationDate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a879b99e4274a6216f9f186b3bc37af42", null ],
+    [ "DataSources", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#aab2b44a256d0d1cf71df65dd5d29d642", null ],
+    [ "Header", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#ae27ef01ebd271da73673ba03226552c6", null ],
+    [ "HideParametersStandartForm", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#af68ad91b65b9f6f5d2ef4358be30a778", null ],
+    [ "Internal", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a4bc9144d2b0f81a603a885304c0c9a8a", null ],
+    [ "MaketTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#ab77b908b9aea49e4df25cc37206295eb", null ],
+    [ "ModuleUid", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#af151d58eb54ae1a56c48b57d2214936a", null ],
+    [ "Parameters", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a95dffd817030cc30ff7973d1e9ea16eb", null ],
+    [ "ParametersTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#adc26bed725bb2f5413e720fc81552f27", null ],
+    [ "PrintFormType", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a4c642bc92b6c4e2287a617987317212c", null ],
+    [ "PrintTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a8a6d5d5da808bf82ad4670c174c82930", null ],
+    [ "ReportTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a817b9d5e9999e38c4b384a9237e7c6e3", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a64757681200abbbff8a6197823431b2e", null ],
+    [ "UseCustomMaketTemplate", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a7b86c8b629d3e110253bc0c1fc23346c", null ],
+    [ "UseCustomParametersForm", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a53bffcda5dec8ebe597971b43af4df8b", null ],
+    [ "UseUsersControllerCode", "class_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_models_1_1_report_d_t_o.html#a3717ad8c4e28912d570baa3d2fc0a293", null ]
+];

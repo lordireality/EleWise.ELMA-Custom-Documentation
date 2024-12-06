@@ -1,0 +1,4 @@
+var _my_documents_instance_default_permission_8cs =
+[
+    [ "EleWise.ELMA.Documents.MyDocumentsInstanceDefaultPermission", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_my_documents_instance_default_permission.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_my_documents_instance_default_permission" ]
+];

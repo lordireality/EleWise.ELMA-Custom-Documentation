@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_helpers_1_1_entity_reference_on_entity_convert_type_mapper =
+[
+    [ "EntityReferenceOnEntityConvertTypeMapper", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_helpers_1_1_entity_reference_on_entity_convert_type_mapper.html#a61887904292c791b2efc37e0a2386622", null ],
+    [ "Convert", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_helpers_1_1_entity_reference_on_entity_convert_type_mapper.html#af5f6eddfdfafc8c1e04e7ecf7f823dd9", null ],
+    [ "RelativeConvertNeeded", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_types_1_1_helpers_1_1_entity_reference_on_entity_convert_type_mapper.html#a7e4896c7c6aae89f6fc2845327f87e76", null ]
+];

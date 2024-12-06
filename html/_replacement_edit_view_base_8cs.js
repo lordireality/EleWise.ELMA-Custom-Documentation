@@ -1,0 +1,4 @@
+var _replacement_edit_view_base_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Security.ExtensionPoints.ReplacementEditViewBase", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_replacement_edit_view_base.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_security_1_1_extension_points_1_1_replacement_edit_view_base" ]
+];

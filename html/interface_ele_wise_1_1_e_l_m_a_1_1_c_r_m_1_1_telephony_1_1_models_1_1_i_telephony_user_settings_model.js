@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_models_1_1_i_telephony_user_settings_model =
+[
+    [ "TelephonyUserSettings", "interface_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_telephony_1_1_models_1_1_i_telephony_user_settings_model.html#a5521809befa20db03a657e0438999ef2", null ]
+];

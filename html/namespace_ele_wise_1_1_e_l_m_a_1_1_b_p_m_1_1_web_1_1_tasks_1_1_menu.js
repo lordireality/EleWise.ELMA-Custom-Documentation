@@ -1,0 +1,9 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu =
+[
+    [ "ContentActionProvider", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_content_action_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_content_action_provider" ],
+    [ "TasksMenuCoExecutorCountEvaluator", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_co_executor_count_evaluator.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_co_executor_count_evaluator" ],
+    [ "TasksMenuItemCountEvaluator", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_item_count_evaluator.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_item_count_evaluator" ],
+    [ "TasksMenuItems", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_items.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_items" ],
+    [ "TasksMenuItemsRender", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_items_render.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_tasks_menu_items_render" ],
+    [ "UserPanelTasksAction", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_user_panel_tasks_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_menu_1_1_user_panel_tasks_action" ]
+];

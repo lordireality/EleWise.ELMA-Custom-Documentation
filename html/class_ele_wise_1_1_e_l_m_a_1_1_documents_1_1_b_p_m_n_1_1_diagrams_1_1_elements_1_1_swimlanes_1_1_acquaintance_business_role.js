@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_acquaintance_business_role =
+[
+    [ "AcquaintanceBusinessRole", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_acquaintance_business_role.html#a3a99a80dd53e9ece4e1d6e49fdd6833f", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_acquaintance_business_role.html#aff394b8ed48156ba373e47e039337e79", null ],
+    [ "Image", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_acquaintance_business_role.html#a3e6366a267930ffe2ae8555f779309fd", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_swimlanes_1_1_acquaintance_business_role.html#ae061ecc30c4831cf8b17c4332837612d", null ]
+];

@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_workflow_task_extension_actions =
+[
+    [ "WorkflowTaskExtensionActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_workflow_task_extension_actions.html#a3ed70c4610b2ed08883c9b7d10ab019b", null ]
+];

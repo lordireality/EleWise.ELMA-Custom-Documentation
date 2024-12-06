@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_provider_dependent_user_type_registrar =
+[
+    [ "NHProviderDependentUserTypeRegistrar", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_provider_dependent_user_type_registrar.html#ab63b3c66d5fed4787cef961166565184", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_managers_1_1_n_h_provider_dependent_user_type_registrar.html#a5bde78bfba85e1cad461b9e134405216", null ]
+];

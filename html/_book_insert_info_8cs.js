@@ -1,0 +1,4 @@
+var _book_insert_info_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.Providers.ChangeExecutors.BookInsertInfo", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_info.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_providers_1_1_change_executors_1_1_book_insert_info" ]
+];

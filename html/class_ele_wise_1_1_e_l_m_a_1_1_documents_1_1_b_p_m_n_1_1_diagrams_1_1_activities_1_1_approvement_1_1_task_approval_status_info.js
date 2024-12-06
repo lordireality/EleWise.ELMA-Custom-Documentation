@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_task_approval_status_info =
+[
+    [ "TaskApprovalStatusInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_task_approval_status_info.html#ae9968cc1b2f91c8be05528d0ff57640a", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_task_approval_status_info.html#a32736f216d0b1b8ee24845324ed6ed69", null ],
+    [ "Status", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_approvement_1_1_task_approval_status_info.html#af9ab5ad33dd9ac363cdc3118cd3e72cd", null ]
+];

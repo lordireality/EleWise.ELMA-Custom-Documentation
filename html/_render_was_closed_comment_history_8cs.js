@@ -1,0 +1,4 @@
+var _render_was_closed_comment_history_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Processes.Web.History.RenderWasClosedCommentHistory", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_was_closed_comment_history.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_history_1_1_render_was_closed_comment_history" ]
+];

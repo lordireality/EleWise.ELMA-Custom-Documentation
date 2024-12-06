@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_process_context_history_panel_view_item_available =
+[
+    [ "ProcessContextHistoryPanelViewItemAvailable", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_process_context_history_panel_view_item_available.html#a1baeee846e77c68b005098870439cd8c", null ],
+    [ "IsAvailable", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_process_context_history_panel_view_item_available.html#a3f2e32201f7093f38c8dab3a37532571", null ]
+];

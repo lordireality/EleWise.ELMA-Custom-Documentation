@@ -1,0 +1,4 @@
+var _i_object_attachments_archive_service_ext_8cs =
+[
+    [ "EleWise.ELMA.Common.Services.IObjectAttachmentsArchiveServiceExt", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_ext.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_ext" ]
+];

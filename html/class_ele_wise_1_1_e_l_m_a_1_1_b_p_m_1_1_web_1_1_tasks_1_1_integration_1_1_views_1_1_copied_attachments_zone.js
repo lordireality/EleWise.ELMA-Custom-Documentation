@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_views_1_1_copied_attachments_zone =
+[
+    [ "CopiedAttachmentsZone", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_views_1_1_copied_attachments_zone.html#a546acfd42c399c07e39671da8597d603", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_views_1_1_copied_attachments_zone.html#a2b89ae6460a8f38581c8d5b9ce8bdc0f", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_integration_1_1_views_1_1_copied_attachments_zone.html#af300d0aec36cf29b633ac14a4ba149e7", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_kpi_action_toolbar_button =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_kpi_action_toolbar_button.html#afe8cc5f8dded6f39e8aa315fbee26e8c", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_kpi_action_toolbar_button.html#a0c6b25c8718e492f87c9dadf65e3cf22", null ]
+];

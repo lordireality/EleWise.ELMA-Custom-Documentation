@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_version_approvement_status_view_item =
+[
+    [ "DocumentVersionApprovementStatusViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_version_approvement_status_view_item.html#a40da8754b2b9f7bb564d67d628c1937d", null ],
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_version_approvement_status_view_item.html#ab872a126f284a157b9b2f40e2ea7dd60", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_document_version_approvement_status_view_item.html#a801d1c6ce381ab6ceeccfdfc789dd12a", null ]
+];

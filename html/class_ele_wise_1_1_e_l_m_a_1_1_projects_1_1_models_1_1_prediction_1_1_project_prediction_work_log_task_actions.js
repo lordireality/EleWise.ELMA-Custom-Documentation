@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_project_prediction_work_log_task_actions =
+[
+    [ "ProjectPredictionWorkLogTaskActions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_models_1_1_prediction_1_1_project_prediction_work_log_task_actions.html#a09a611d6ff01d57c82563fefab56b4a4", null ]
+];

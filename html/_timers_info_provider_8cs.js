@@ -1,0 +1,4 @@
+var _timers_info_provider_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Web.Integration.ExecutedTaskInfos.TimersInfoProvider", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_executed_task_infos_1_1_timers_info_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_executed_task_infos_1_1_timers_info_provider" ]
+];

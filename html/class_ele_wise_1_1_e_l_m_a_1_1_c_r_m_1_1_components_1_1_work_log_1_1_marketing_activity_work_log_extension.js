@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_marketing_activity_work_log_extension =
+[
+    [ "GetDefaultHarmonizator", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_marketing_activity_work_log_extension.html#a8315f7e1f31443c390ca71ca8aab24a0", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_components_1_1_work_log_1_1_marketing_activity_work_log_extension.html#a9283bee3dff2b54b15cd834a89a85505", null ]
+];

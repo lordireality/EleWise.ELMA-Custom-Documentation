@@ -1,0 +1,4 @@
+var _print_client_post_registration_action_8cs =
+[
+    [ "EleWise.ELMA.Barcode.Web.Integration.PrintClientPostRegistrationAction", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_integration_1_1_print_client_post_registration_action.html", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_web_1_1_integration_1_1_print_client_post_registration_action" ]
+];

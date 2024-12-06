@@ -1,0 +1,19 @@
+digraph "EleWise.ELMA.Messages.Web.Models.InformationChannelSetModel.MaxCountChannels"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelSetModel.\lMaxCountChannels",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Максимальное количество отображаемых каналов в контроле выбора каналов."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Messages.Web.\lModels.InformationChannelSetModel.\lSetChannels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_information_channel_set_model.html#ae25b233f38299a22d9f2eac412e6268c",tooltip="Инициализация каналов."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Messages.Web.\lControllers.ChannelMessageController.\lChannelsAndRecipients",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_controllers_1_1_channel_message_controller.html#ae02679c4cd526ca4312a6263d124ca08",tooltip="Получатели и каналы сообщения."];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Messages.Web.\lModels.ChannelMessageViewInfo.\lUpdateChannels",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_channel_message_view_info.html#a11e6b82bcac9d644842c5c09b5d50748",tooltip="Обновляет инфоканалы."];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Messages.Web.\lControllers.ChannelMessageController.\lInitChannelMessageViewInfo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_controllers_1_1_channel_message_controller.html#ad00f733068990777f5b1baa425f5daf2",tooltip="Инициализация модели сообщения"];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="EleWise.ELMA.Messages.Web.\lControllers.ChannelMessageController.\lEditForm",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_controllers_1_1_channel_message_controller.html#a13640208c1c5857ea72bfbbe98ef2ac1",tooltip="Форма редактирования сообщения"];
+}

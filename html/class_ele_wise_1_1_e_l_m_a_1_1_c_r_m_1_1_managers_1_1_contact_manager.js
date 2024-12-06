@@ -1,0 +1,26 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager =
+[
+    [ "AddAuthorPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a6d8a6b1046b3b40bd7ce9313356b21ac", null ],
+    [ "AddComment", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#ad17e5548cb5a034d04619d961335e1c1", null ],
+    [ "AddComment", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#ae0ba90d62196b5f5be323acb5f7d7293", null ],
+    [ "AddPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#ac202c192b68496cffaabb92d7001ed61", null ],
+    [ "AddPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a00631aa12fbdbdc0eb50ee30528e8267", null ],
+    [ "AddPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#afffd2a2871c2fd17fcffc4c322200c0f", null ],
+    [ "AddPermissionsFromParent", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a8607e1a12617aa2aee58e44e12013237", null ],
+    [ "CopyPermissionsFromInherited", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a355e3fb1f81ca634322c3f343c3cd64d", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a5b341f49aa2d8857aabb62c4caf6caf9", null ],
+    [ "DeleteAuthorPermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#aff50b1b63ec488bf03a685def89a40a2", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a62b1f67212b694c538ec7ac0a56e9221", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a6885ae68e0b2c4e9b860ba018bdb57e3", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#acb5f00a59b9c2af0013074dc6cd8f0cd", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#aeec53a6e7bfb78cc347c59db492405a2", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a0b45389995bd128408d65d6c2cb5e6c5", null ],
+    [ "DeletePermission", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#acac6e94508e223c8e4a62ff9112be87b", null ],
+    [ "DisableInheritPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a660fd020fa5034e524cb965935875f72", null ],
+    [ "EnableInheritPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a4f1a858e18b6cc8c07ddc498ecbac817", null ],
+    [ "EnableInheritPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a0191ae1101603e8572c67b608f66e50f", null ],
+    [ "IsSaved", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a332474ee31a7bffb19e01850079a2716", null ],
+    [ "SetupFilter", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a86bb1c87135bf56b453e353a08cf8945", null ],
+    [ "ContactPersonPermissionManager", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a5af992f7ed7feb9819e5d735b527f01d", null ],
+    [ "DefaultCriteriaAlias", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_managers_1_1_contact_manager.html#a882c7a13cf796fa8f2412132ccf512a5", null ]
+];

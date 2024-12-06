@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_barcode_2_ele_wise_2_e_l_m_a_2_barcode_2_listeners_2_registration_card_listener_8cs =
+[
+    [ "EleWise.ELMA.Barcode.Listeners.RegistrationCardListener", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_listeners_1_1_registration_card_listener.html", "class_ele_wise_1_1_e_l_m_a_1_1_barcode_1_1_listeners_1_1_registration_card_listener" ]
+];

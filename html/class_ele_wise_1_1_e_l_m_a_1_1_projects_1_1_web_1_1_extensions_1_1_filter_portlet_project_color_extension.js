@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_filter_portlet_project_color_extension =
+[
+    [ "AvailableFilterType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_filter_portlet_project_color_extension.html#ae489fa8a15a544560ce40a27cfda47ba", null ],
+    [ "Template", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_extensions_1_1_filter_portlet_project_color_extension.html#a2760c4378854748e9fe906080d0c2bc1", null ]
+];

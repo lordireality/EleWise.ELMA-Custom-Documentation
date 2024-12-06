@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_override_extensible_class_property_attribute =
+[
+    [ "OverrideExtensibleClassPropertyAttribute", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_override_extensible_class_property_attribute.html#aa90e922f93860f5c711dcf141a7722df", null ],
+    [ "PropertyValue", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_attributes_1_1_override_extensible_class_property_attribute.html#a1447ec8f94bbe7f6cf04655f469efaba", null ]
+];

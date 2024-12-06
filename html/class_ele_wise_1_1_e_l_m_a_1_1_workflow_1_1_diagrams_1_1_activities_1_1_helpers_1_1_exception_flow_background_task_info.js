@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_helpers_1_1_exception_flow_background_task_info =
+[
+    [ "ExceptionFlowBackgroundTaskInfo", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_helpers_1_1_exception_flow_background_task_info.html#a4e96e59021686550f7fd37c5a878cda5", null ],
+    [ "BackgroundTaskDescription", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_helpers_1_1_exception_flow_background_task_info.html#a7fab50c38d28c18f5f64b70090ddddc9", null ],
+    [ "BackgroundTaskName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_activities_1_1_helpers_1_1_exception_flow_background_task_info.html#af493eddaede7cb0c3f2618566898ec2a", null ]
+];

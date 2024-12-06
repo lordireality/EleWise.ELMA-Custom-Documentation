@@ -1,0 +1,4 @@
+var _i_matrix_projection_scale_saver_8cs =
+[
+    [ "EleWise.ELMA.KPI.Web.ExtensionPoints.IMatrixProjectionScaleSaver", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_matrix_projection_scale_saver.html", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_extension_points_1_1_i_matrix_projection_scale_saver" ]
+];

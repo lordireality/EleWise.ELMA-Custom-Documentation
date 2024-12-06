@@ -1,0 +1,4 @@
+var _certificate_selection_on_multiple_signing_manager_8cs =
+[
+    [ "EleWise.ELMA.Documents.DigitalSignature.CertificateSelectionOnMultipleSigningManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_digital_signature_1_1_certificate_selection_on_multiple_signing_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_digital_signature_1_1_certificate_selection_on_multiple_signing_manager" ]
+];

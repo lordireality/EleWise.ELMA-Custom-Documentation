@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_template_inputs =
+[
+    [ "DocumentAttachmentTemplateInput", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_template_inputs_1_1_document_attachment_template_input.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_template_inputs_1_1_document_attachment_template_input" ],
+    [ "DocumentTemplateInput", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_template_inputs_1_1_document_template_input.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_template_inputs_1_1_document_template_input" ]
+];

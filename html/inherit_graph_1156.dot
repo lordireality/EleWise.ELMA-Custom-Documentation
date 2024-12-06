@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="IEntityLinkStringUrlResolver",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge1851_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.Links.DocumentAcquaintance\lTaskLinkStringUrlResolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_docume68d91d2f6bb32909d95e027e30273f8f.html",tooltip=" "];
+  Node0 -> Node2 [id="edge1852_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.Links.DocumentApprovement\lTaskLinkStringUrlResolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_docume2100777832cc3d31cb0150491d66843a.html",tooltip=" "];
+  Node0 -> Node3 [id="edge1853_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.Links.RegistrationDocument\lTaskLinkStringUrlResolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_regist15cca990b6f112568b364498591263ca.html",tooltip=" "];
+  Node0 -> Node4 [id="edge1854_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.Links.ResolutionTask\lLinkStringUrlResolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_resolu360620baafd6bf6dcff9e8a722a8114b.html",tooltip=" "];
+  Node0 -> Node5 [id="edge1855_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="EleWise.ELMA.Documents.Docflow.\lWeb.Extensions.Links.SendDocumentTask\lLinkStringUrlResolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_extensions_1_1_links_1_1_send_d66eef92ae15600c66744be4b0e63730e.html",tooltip=" "];
+}

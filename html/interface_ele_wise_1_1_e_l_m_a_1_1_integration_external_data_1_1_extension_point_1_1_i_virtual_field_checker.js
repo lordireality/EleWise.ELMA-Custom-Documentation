@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_virtual_field_checker =
+[
+    [ "CanCreateVirtualField", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_virtual_field_checker.html#a5022a40d4305a0b11299d0a389de830c", null ],
+    [ "CanUse", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_extension_point_1_1_i_virtual_field_checker.html#aa3850d2a7109481a4fe2bc0f10a81611", null ]
+];

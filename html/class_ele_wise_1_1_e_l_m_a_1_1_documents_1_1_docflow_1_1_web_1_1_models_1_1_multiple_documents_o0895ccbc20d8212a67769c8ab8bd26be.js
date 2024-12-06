@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be =
+[
+    [ "AttributesChecked", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be.html#ac9f8f92bd4bbd1f4de89adb092cd7aac", null ],
+    [ "AttributesId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be.html#ac3cc7582c93d25b474e7a6bedb677383", null ],
+    [ "ContentChecked", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be.html#a70714ce3b35cfbe65c2f520a41e32b58", null ],
+    [ "ContentId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be.html#aedc989fc19ea373a5362daaf5e9b161a", null ],
+    [ "VersionId", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_multiple_documents_o0895ccbc20d8212a67769c8ab8bd26be.html#a1003a616a65adf11e54979a9d6f394d6", null ]
+];

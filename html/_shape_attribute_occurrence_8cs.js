@@ -1,0 +1,4 @@
+var _shape_attribute_occurrence_8cs =
+[
+    [ "Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeOccurrence", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_occurrence.html", "class_orchard_1_1_display_management_1_1_descriptors_1_1_shape_attribute_strategy_1_1_shape_attribute_occurrence" ]
+];

@@ -1,0 +1,4 @@
+var _custom_activity_groups_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Toolbox.CustomActivityGroups.CustomActivityPlugin", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_custom_activity0da50bb5b9855e89fd4114084a294a31.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_toolbox_1_1_custom_activity0da50bb5b9855e89fd4114084a294a31" ]
+];

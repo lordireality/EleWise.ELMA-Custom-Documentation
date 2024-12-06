@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_convert_document_process_references_extension =
+[
+    [ "ConvertDocumentProcessReferencesExtension", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_convert_document_process_references_extension.html#a179c10d86e8aeaa086f1831fcb5f7525", null ],
+    [ "GetAllEntitiesWithPossibleReferences", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_components_1_1_convert_document_process_references_extension.html#aac06fa77333d3423899e32d8117514a7", null ]
+];

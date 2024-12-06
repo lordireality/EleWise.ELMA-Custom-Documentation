@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_web_1_1_components_1_1_make_call_script_extension_zone =
+[
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_web_1_1_components_1_1_make_call_script_extension_zone.html#ad2bcf14d5068b8264193c9e96cefe51f", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_integration_oktell_1_1_web_1_1_components_1_1_make_call_script_extension_zone.html#a3aa130b35ee87459c9199672954802ca", null ]
+];

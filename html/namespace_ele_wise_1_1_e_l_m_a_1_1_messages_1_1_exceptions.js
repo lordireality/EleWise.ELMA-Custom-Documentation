@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions =
+[
+    [ "FeedToArchiveException", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_feed_to_archive_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_feed_to_archive_exception" ],
+    [ "GroupingUserMailMessagesException", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_grouping_user_mail_messages_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_grouping_user_mail_messages_exception" ],
+    [ "SendMessageException", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_send_message_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_exceptions_1_1_send_message_exception" ]
+];

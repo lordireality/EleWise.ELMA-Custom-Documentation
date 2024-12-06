@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_contractor_read_only_funnel_form_view_item_transformate =
+[
+    [ "Transformate", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_web_1_1_components_1_1_sale_contractor_read_only_funnel_form_view_item_transformate.html#a79049081124bb99c51e6fefb1d5cb361", null ]
+];

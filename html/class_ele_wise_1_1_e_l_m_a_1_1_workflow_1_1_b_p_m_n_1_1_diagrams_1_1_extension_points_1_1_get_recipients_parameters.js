@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters =
+[
+    [ "GetRecipientsParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#adc0460198c8a751fe4db2e3638979c83", null ],
+    [ "GetRecipientsParameters", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#a4a07ca187abe223581f209e27eb319fc", null ],
+    [ "Activity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#a4b0bcc147a3560d86fab944d1b4c9f08", null ],
+    [ "ElementWithNotification", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#a56ea3af1bee4f82af9c46c8eb1667323", null ],
+    [ "Executors", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#a97c221a664b95b7a226420447183a9af", null ],
+    [ "Instance", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_extension_points_1_1_get_recipients_parameters.html#a012f769158df2b1c75dd92948ad49fe4", null ]
+];

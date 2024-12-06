@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381 =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#ac91ecb83e63c71280aa3dc6ba92b86e5", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#a4d846ecec06bbc9bc81d3d7c1bf7e252", null ],
+    [ "ParentZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#af43e4046a4ff5ac783b67b62932be3e5", null ],
+    [ "ShowHeader", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#acb793b1563cd9d67a9d3c9cf362e858b", null ],
+    [ "ZoneMode", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#aea9099d3acc6b9e3d047ffbb1898cf7b", null ],
+    [ "ZoneUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filteab972e767b23095adf4e689810fd1381.html#ac986807e2a5d0461d26216ccc3fbe77e", null ]
+];

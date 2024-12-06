@@ -1,0 +1,4 @@
+var interface_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_i_shape_template_view_engine =
+[
+    [ "DetectTemplateFileNames", "interface_orchard_1_1_display_management_1_1_descriptors_1_1_shape_template_strategy_1_1_i_shape_template_view_engine.html#a1df15e79289b5ccd2d28653fc3b5abc4", null ]
+];

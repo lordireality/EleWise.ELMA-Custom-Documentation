@@ -1,0 +1,25 @@
+var namespace_orchard_1_1_localization_1_1_services =
+[
+    [ "CalendarSelectorResult", "class_orchard_1_1_localization_1_1_services_1_1_calendar_selector_result.html", "class_orchard_1_1_localization_1_1_services_1_1_calendar_selector_result" ],
+    [ "CultureDateTimeFormatProvider", "class_orchard_1_1_localization_1_1_services_1_1_culture_date_time_format_provider.html", "class_orchard_1_1_localization_1_1_services_1_1_culture_date_time_format_provider" ],
+    [ "CultureSelectorResult", "class_orchard_1_1_localization_1_1_services_1_1_culture_selector_result.html", "class_orchard_1_1_localization_1_1_services_1_1_culture_selector_result" ],
+    [ "CurrentCalendarWorkContext", "class_orchard_1_1_localization_1_1_services_1_1_current_calendar_work_context.html", "class_orchard_1_1_localization_1_1_services_1_1_current_calendar_work_context" ],
+    [ "CurrentCultureWorkContext", "class_orchard_1_1_localization_1_1_services_1_1_current_culture_work_context.html", "class_orchard_1_1_localization_1_1_services_1_1_current_culture_work_context" ],
+    [ "DefaultCalendarManager", "class_orchard_1_1_localization_1_1_services_1_1_default_calendar_manager.html", "class_orchard_1_1_localization_1_1_services_1_1_default_calendar_manager" ],
+    [ "DefaultCultureManager", "class_orchard_1_1_localization_1_1_services_1_1_default_culture_manager.html", "class_orchard_1_1_localization_1_1_services_1_1_default_culture_manager" ],
+    [ "DefaultDateFormatter", "class_orchard_1_1_localization_1_1_services_1_1_default_date_formatter.html", "class_orchard_1_1_localization_1_1_services_1_1_default_date_formatter" ],
+    [ "DefaultDateLocalizationServices", "class_orchard_1_1_localization_1_1_services_1_1_default_date_localization_services.html", "class_orchard_1_1_localization_1_1_services_1_1_default_date_localization_services" ],
+    [ "DefaultLocalizedStringManager", "class_orchard_1_1_localization_1_1_services_1_1_default_localized_string_manager.html", "class_orchard_1_1_localization_1_1_services_1_1_default_localized_string_manager" ],
+    [ "ICalendarManager", "interface_orchard_1_1_localization_1_1_services_1_1_i_calendar_manager.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_calendar_manager" ],
+    [ "ICalendarSelector", "interface_orchard_1_1_localization_1_1_services_1_1_i_calendar_selector.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_calendar_selector" ],
+    [ "ICultureManager", "interface_orchard_1_1_localization_1_1_services_1_1_i_culture_manager.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_culture_manager" ],
+    [ "ICultureSelector", "interface_orchard_1_1_localization_1_1_services_1_1_i_culture_selector.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_culture_selector" ],
+    [ "IDateFormatter", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_formatter.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_formatter" ],
+    [ "IDateLocalizationServices", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_localization_services.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_localization_services" ],
+    [ "IDateTimeFormatProvider", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_date_time_format_provider" ],
+    [ "ILocalizationStreamParser", "interface_orchard_1_1_localization_1_1_services_1_1_i_localization_stream_parser.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_localization_stream_parser" ],
+    [ "ILocalizedStringManager", "interface_orchard_1_1_localization_1_1_services_1_1_i_localized_string_manager.html", "interface_orchard_1_1_localization_1_1_services_1_1_i_localized_string_manager" ],
+    [ "LocalizationStreamParser", "class_orchard_1_1_localization_1_1_services_1_1_localization_stream_parser.html", "class_orchard_1_1_localization_1_1_services_1_1_localization_stream_parser" ],
+    [ "SiteCalendarSelector", "class_orchard_1_1_localization_1_1_services_1_1_site_calendar_selector.html", "class_orchard_1_1_localization_1_1_services_1_1_site_calendar_selector" ],
+    [ "SiteCultureSelector", "class_orchard_1_1_localization_1_1_services_1_1_site_culture_selector.html", "class_orchard_1_1_localization_1_1_services_1_1_site_culture_selector" ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_export_matrices_to_excel_toolbar_button =
+[
+    [ "GetItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_export_matrices_to_excel_toolbar_button.html#ae846d272ae06ffc97b349f7e983238c7", null ],
+    [ "InsertItems", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_toolbar_buttons_1_1_export_matrices_to_excel_toolbar_button.html#a7e2dd2d1aefee60b35ffcc07262cb736", null ]
+];

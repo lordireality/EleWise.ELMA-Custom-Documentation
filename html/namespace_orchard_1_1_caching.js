@@ -1,0 +1,25 @@
+var namespace_orchard_1_1_caching =
+[
+    [ "AcquireContext", "class_orchard_1_1_caching_1_1_acquire_context.html", "class_orchard_1_1_caching_1_1_acquire_context" ],
+    [ "Cache", "class_orchard_1_1_caching_1_1_cache.html", "class_orchard_1_1_caching_1_1_cache" ],
+    [ "CacheModule", "class_orchard_1_1_caching_1_1_cache_module.html", "class_orchard_1_1_caching_1_1_cache_module" ],
+    [ "DefaultAsyncTokenProvider", "class_orchard_1_1_caching_1_1_default_async_token_provider.html", "class_orchard_1_1_caching_1_1_default_async_token_provider" ],
+    [ "DefaultCacheContextAccessor", "class_orchard_1_1_caching_1_1_default_cache_context_accessor.html", "class_orchard_1_1_caching_1_1_default_cache_context_accessor" ],
+    [ "DefaultCacheHolder", "class_orchard_1_1_caching_1_1_default_cache_holder.html", "class_orchard_1_1_caching_1_1_default_cache_holder" ],
+    [ "DefaultCacheManager", "class_orchard_1_1_caching_1_1_default_cache_manager.html", "class_orchard_1_1_caching_1_1_default_cache_manager" ],
+    [ "DefaultParallelCacheContext", "class_orchard_1_1_caching_1_1_default_parallel_cache_context.html", "class_orchard_1_1_caching_1_1_default_parallel_cache_context" ],
+    [ "IAcquireContext", "interface_orchard_1_1_caching_1_1_i_acquire_context.html", "interface_orchard_1_1_caching_1_1_i_acquire_context" ],
+    [ "IAsyncTokenProvider", "interface_orchard_1_1_caching_1_1_i_async_token_provider.html", "interface_orchard_1_1_caching_1_1_i_async_token_provider" ],
+    [ "ICache", "interface_orchard_1_1_caching_1_1_i_cache.html", "interface_orchard_1_1_caching_1_1_i_cache" ],
+    [ "ICacheContextAccessor", "interface_orchard_1_1_caching_1_1_i_cache_context_accessor.html", "interface_orchard_1_1_caching_1_1_i_cache_context_accessor" ],
+    [ "ICacheHolder", "interface_orchard_1_1_caching_1_1_i_cache_holder.html", "interface_orchard_1_1_caching_1_1_i_cache_holder" ],
+    [ "ICacheManager", "interface_orchard_1_1_caching_1_1_i_cache_manager.html", "interface_orchard_1_1_caching_1_1_i_cache_manager" ],
+    [ "IParallelCacheContext", "interface_orchard_1_1_caching_1_1_i_parallel_cache_context.html", "interface_orchard_1_1_caching_1_1_i_parallel_cache_context" ],
+    [ "ISignals", "interface_orchard_1_1_caching_1_1_i_signals.html", "interface_orchard_1_1_caching_1_1_i_signals" ],
+    [ "ITask", "interface_orchard_1_1_caching_1_1_i_task.html", "interface_orchard_1_1_caching_1_1_i_task" ],
+    [ "IVolatileProvider", "interface_orchard_1_1_caching_1_1_i_volatile_provider.html", null ],
+    [ "IVolatileToken", "interface_orchard_1_1_caching_1_1_i_volatile_token.html", "interface_orchard_1_1_caching_1_1_i_volatile_token" ],
+    [ "Signals", "class_orchard_1_1_caching_1_1_signals.html", "class_orchard_1_1_caching_1_1_signals" ],
+    [ "SimpleAcquireContext", "class_orchard_1_1_caching_1_1_simple_acquire_context.html", "class_orchard_1_1_caching_1_1_simple_acquire_context" ],
+    [ "Weak", "class_orchard_1_1_caching_1_1_weak.html", "class_orchard_1_1_caching_1_1_weak" ]
+];

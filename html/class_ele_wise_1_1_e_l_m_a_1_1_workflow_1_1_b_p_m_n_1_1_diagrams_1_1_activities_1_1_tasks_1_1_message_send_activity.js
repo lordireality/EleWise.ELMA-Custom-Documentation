@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_message_send_activity =
+[
+    [ "MessageSendActivity", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_message_send_activity.html#a736d719d2859a9c7e52df951ffc05cc3", null ],
+    [ "ExecuteTask", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_tasks_1_1_message_send_activity.html#ae8b50c85d562773577f0f64c973d8f7f", null ]
+];

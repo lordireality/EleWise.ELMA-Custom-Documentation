@@ -1,0 +1,4 @@
+var _configuration_external_data_service_exception_8cs =
+[
+    [ "EleWise.ELMA.IntegrationExternalData.Exceptions.ConfigurationExternalDataServiceException", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_exceptions_1_1_configuration_external_data_service_exception.html", "class_ele_wise_1_1_e_l_m_a_1_1_integration_external_data_1_1_exceptions_1_1_configuration_external_data_service_exception" ]
+];

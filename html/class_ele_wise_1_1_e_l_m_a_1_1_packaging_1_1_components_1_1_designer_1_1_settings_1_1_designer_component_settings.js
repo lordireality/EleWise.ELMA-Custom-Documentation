@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_settings_1_1_designer_component_settings =
+[
+    [ "DesktopShortcut", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_settings_1_1_designer_component_settings.html#ad51207989173541e657eb8d3f680c28b", null ],
+    [ "StartMenuShortcut", "class_ele_wise_1_1_e_l_m_a_1_1_packaging_1_1_components_1_1_designer_1_1_settings_1_1_designer_component_settings.html#ae08c2a70e0b2e2bfd1478559ce2de7c4", null ]
+];

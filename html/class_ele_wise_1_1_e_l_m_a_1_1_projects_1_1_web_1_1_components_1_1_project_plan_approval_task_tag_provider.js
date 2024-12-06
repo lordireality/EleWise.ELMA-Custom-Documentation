@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_plan_approval_task_tag_provider =
+[
+    [ "CheckType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_plan_approval_task_tag_provider.html#aef5fe40e7f3fbee001ed987edb5519a2", null ],
+    [ "GetTagText", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_plan_approval_task_tag_provider.html#ac75f96166475b4876507a0058f8e71db", null ]
+];

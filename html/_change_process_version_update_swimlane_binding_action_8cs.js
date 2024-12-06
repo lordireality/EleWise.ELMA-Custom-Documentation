@@ -1,0 +1,4 @@
+var _change_process_version_update_swimlane_binding_action_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Models.ChangeProcessVersion.ChangeProcessVersionUpdateSwimlaneBindingAction", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_process2b256d1fbdba7b21e537283eca0cefb6.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_process2b256d1fbdba7b21e537283eca0cefb6" ]
+];

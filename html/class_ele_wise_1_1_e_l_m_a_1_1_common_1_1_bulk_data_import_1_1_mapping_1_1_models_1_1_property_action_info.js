@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_mapping_1_1_models_1_1_property_action_info =
+[
+    [ "ObjectType", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_bulk_data_import_1_1_mapping_1_1_models_1_1_property_action_info.html#a191c7e65d6eb6a9299e6b109dee8d9c8", null ]
+];

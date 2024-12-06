@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events =
+[
+    [ "EditGlobalSettingsEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_edit_global_settings_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_edit_global_settings_event_args" ],
+    [ "GlobalSettingsEventArgs", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_global_settings_event_args.html", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_global_settings_event_args" ],
+    [ "IGlobalSettingsEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_i_global_settings_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_settings_1_1_events_1_1_i_global_settings_event_handler" ]
+];

@@ -1,0 +1,4 @@
+var _filter_model_registration_card_nomenclature_zone_panel_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Components.Filter.FilterModelRegistrationCardNomenclatureZonePanel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filte1d97bfa9bc59528c584d38631c9440f6.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_filter_1_1_filte1d97bfa9bc59528c584d38631c9440f6" ]
+];

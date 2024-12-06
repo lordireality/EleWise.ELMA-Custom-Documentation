@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_b_p_m_apps_1_1_integration_b_a_chapter =
+[
+    [ "IntegrationModules", "class_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_b_p_m_apps_1_1_integration_b_a_chapter.html#a37760496f36c1e72e9d17bf5b96fec52", null ]
+];

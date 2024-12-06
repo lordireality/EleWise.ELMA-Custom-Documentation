@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_auto_register_user_type_convention =
+[
+    [ "AutoRegisterUserTypeConvention", "class_ele_wise_1_1_e_l_m_a_1_1_runtime_1_1_n_h_1_1_auto_register_user_type_convention.html#a1f6a88e03d3c2a0d49ac167a5ef737e7", null ]
+];

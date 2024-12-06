@@ -1,0 +1,4 @@
+var _export_excel_data_from_block_dto_8cs =
+[
+    [ "EleWise.ELMA.UIBuilder.Web.Models.ExportExcelDataFromBlockDto", "class_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_web_1_1_models_1_1_export_excel_data_from_block_dto.html", "class_ele_wise_1_1_e_l_m_a_1_1_u_i_builder_1_1_web_1_1_models_1_1_export_excel_data_from_block_dto" ]
+];

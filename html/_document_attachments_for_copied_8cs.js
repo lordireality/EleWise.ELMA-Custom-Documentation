@@ -1,0 +1,4 @@
+var _document_attachments_for_copied_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Integration.Views.DocumentAttachmentsForCopied", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_views_1_1_document_attachments_for_copied.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_integration_1_1_views_1_1_document_attachments_for_copied" ]
+];

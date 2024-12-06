@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62 =
+[
+    [ "PermissionContainer", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html#a2845521442a58ccccf0402ccbda388df", null ],
+    [ "IsFullAccessPermission", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html#a40a1b05b78678a50e979b647bb25ea8d", null ],
+    [ "PermissionId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html#aa6e4e81b3134591cb6544f3a94953a3c", null ],
+    [ "PermissionRole", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html#a8aff4c2e14cc7f2063371639a51453f9", null ],
+    [ "PermissionRoleType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html#a684767afab6c34e466487d7fd19ef6fa", null ]
+];

@@ -1,0 +1,11 @@
+digraph "EleWise.ELMA.Documents.Docflow.Web.Controllers.DepositoryController.GetDepositorySelectorFields"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="EleWise.ELMA.Documents.Docflow.\lWeb.Controllers.DepositoryController.\lGetDepositorySelectorFields",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EleWise.ELMA.Documents.Docflow.\lWeb.Models.DepositorySelectorModel.Init",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_models_1_1_depository_selector_model.html#a462c2482b0eff2b5d1d140bae2b53dab",tooltip=" "];
+}

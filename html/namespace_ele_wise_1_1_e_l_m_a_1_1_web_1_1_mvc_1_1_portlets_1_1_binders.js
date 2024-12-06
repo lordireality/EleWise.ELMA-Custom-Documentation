@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders =
+[
+    [ "PortletPersonalizationBinder", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder" ],
+    [ "PortletPersonalizationBinderProvider", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder_provider.html", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_portlets_1_1_binders_1_1_portlet_personalization_binder_provider" ]
+];

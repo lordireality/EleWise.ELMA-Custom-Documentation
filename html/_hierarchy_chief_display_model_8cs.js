@@ -1,0 +1,5 @@
+var _hierarchy_chief_display_model_8cs =
+[
+    [ "EleWise.ELMA.Security.Managers.HierarchyChiefDisplayModel", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model" ],
+    [ "EleWise.ELMA.Security.Managers.HierarchyChiefDisplayModel.HierarchyChiefModel", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model_1_1_hierarchy_chief_model.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_managers_1_1_hierarchy_chief_display_model_1_1_hierarchy_chief_model" ]
+];

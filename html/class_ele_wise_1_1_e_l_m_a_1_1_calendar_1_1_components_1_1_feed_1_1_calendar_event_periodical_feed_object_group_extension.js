@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_periodical_feed_object_group_extension =
+[
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_periodical_feed_object_group_extension.html#a484362bf95c7a656151f5e1a32718e0b", null ],
+    [ "MessageTypeName", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_periodical_feed_object_group_extension.html#a0ae3ae1167d828f72b12e49ff65b62f0", null ],
+    [ "MessageTypeCssClass", "class_ele_wise_1_1_e_l_m_a_1_1_calendar_1_1_components_1_1_feed_1_1_calendar_event_periodical_feed_object_group_extension.html#afb66fa1c639ba4709e08b8332989316d", null ]
+];

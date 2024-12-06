@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_workflow_head_contractor_type_model =
+[
+    [ "WorkflowHeadContractorTypeModel", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_workflow_head_contractor_type_model.html#a565a03c0400fcbd66995e56c79035b1e", null ],
+    [ "WorkflowHeadContractorTypeModel", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_workflow_head_contractor_type_model.html#a727cd26849adb5d143ac0fbf367d7e3e", null ],
+    [ "EntityProcess", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_workflow_head_contractor_type_model.html#a01efc710b5726eb65c89aad09b747f15", null ],
+    [ "JsonData", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_web_1_1_models_1_1_workflow_head_contractor_type_model.html#acb55c605de3c73d408c12080ab63f96f", null ]
+];

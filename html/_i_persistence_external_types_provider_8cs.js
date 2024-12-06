@@ -1,0 +1,4 @@
+var _i_persistence_external_types_provider_8cs =
+[
+    [ "EleWise.ELMA.KPI.StrategyMap.IPersistenceExternalTypesProvider", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_strategy_map_1_1_i_persistence_external_types_provider.html", "interface_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_strategy_map_1_1_i_persistence_external_types_provider" ]
+];

@@ -1,0 +1,4 @@
+var _filter_model_documents_type_sended_hidden_zone_panel_renderer_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Components.Filter.FilterModelDocumentsTypeSendedHiddenZonePanelRenderer", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_filter_model_docu33c21240414322166f3eab8f37e75a2e.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_filter_model_docu33c21240414322166f3eab8f37e75a2e" ]
+];

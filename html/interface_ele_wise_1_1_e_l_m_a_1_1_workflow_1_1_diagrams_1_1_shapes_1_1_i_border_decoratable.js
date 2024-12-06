@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_i_border_decoratable =
+[
+    [ "GetBorderDecoratorModel", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_diagrams_1_1_shapes_1_1_i_border_decoratable.html#a82b3b1bbecb59226343cc1638a7a1283", null ]
+];

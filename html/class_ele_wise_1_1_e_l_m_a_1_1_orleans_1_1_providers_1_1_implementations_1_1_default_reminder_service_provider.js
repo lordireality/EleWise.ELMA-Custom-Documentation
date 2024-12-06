@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_reminder_service_provider =
+[
+    [ "ConfigureReminderService", "class_ele_wise_1_1_e_l_m_a_1_1_orleans_1_1_providers_1_1_implementations_1_1_default_reminder_service_provider.html#ad1fc89bc0ccce6926d9c81d2d064367f", null ]
+];

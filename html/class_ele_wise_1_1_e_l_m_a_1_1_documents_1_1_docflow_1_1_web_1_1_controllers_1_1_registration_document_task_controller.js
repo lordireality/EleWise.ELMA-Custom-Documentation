@@ -1,0 +1,10 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller =
+[
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#ab7be1b17e067b0b80fcd5046874f6639", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#a2221c888483af4ce68f56442a0239371", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#a988dae60bec4176cce38fd0f1b440028", null ],
+    [ "Execute", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#a565ff24784dfc735db4cb9eb6361b89b", null ],
+    [ "EntityService", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#a39c668de28946ac73ee3218c41fa2ad3", null ],
+    [ "RegistrationCardManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#a8e61d7f7123bbafd4e4298cd3efa1552", null ],
+    [ "RegistrationDocumentTaskManager", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_controllers_1_1_registration_document_task_controller.html#ac9258491836b2ec73316529ddb90f433", null ]
+];

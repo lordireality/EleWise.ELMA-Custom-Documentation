@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_history_1_1_base_audit_question_event_render =
+[
+    [ "CanRenderCheckClasses", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_history_1_1_base_audit_question_event_render.html#aa6144fa2dafda51cda93df5caea19a07", null ],
+    [ "CanRenderTypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_history_1_1_base_audit_question_event_render.html#a8c3e743bae4d19545c334b2e2ed9842d", null ],
+    [ "CheckShowAll", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_history_1_1_base_audit_question_event_render.html#ae8c66bbe24e2c36172676e2d6c435c28", null ],
+    [ "AuthenticationService", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_tasks_1_1_models_1_1_history_1_1_base_audit_question_event_render.html#a3378853359c4f2472554fdfc3de0555c", null ]
+];

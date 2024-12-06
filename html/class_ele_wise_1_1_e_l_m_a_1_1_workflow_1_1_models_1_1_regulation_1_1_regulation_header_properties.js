@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties =
+[
+    [ "RegulationHeaderProperties", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a9eed5af6bfe152dd15d37ea71ad2ccf3", null ],
+    [ "ChangesAccept", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a6ba3e812acf1a3fb7c45d2a358e3c88d", null ],
+    [ "ChangesAcceptRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a020a8271aee58c0f9b6997ebb3aa1519", null ],
+    [ "CheckerJob", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a53779189aaccfe2b12bbeec8d87aea30", null ],
+    [ "CheckerJobRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a0d8e218c6078f0b62c2196b12010c37a", null ],
+    [ "City", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a94c9220d7a5892a44693b642f4ac3b95", null ],
+    [ "CityRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a8b66131d312e7999496177429141ce71", null ],
+    [ "CompanyName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a586f2755f12ec564bf0d14e8ae97b538", null ],
+    [ "CompanyNameRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a18f203cdf7ca83d6f105803c8d8fe707", null ],
+    [ "Coordinations", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a6246a0c28fc977a4994578947e02d805", null ],
+    [ "DeveloperJob", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a9e0fe86ec25a3bd8315e05906ec18a45", null ],
+    [ "DeveloperJobRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a0aef858a30ff4bcad4ab536cfbed3da6", null ],
+    [ "DirectorFIO", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a29af0e26375b55398dba3257611dcd6a", null ],
+    [ "DirectorFirstName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#aeadccee0057b443a2c0057d539287761", null ],
+    [ "DirectorFirstNameRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a2186f8853c4be9e03d5a9c16146e8c8f", null ],
+    [ "DirectorJobName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#ade5066c9e3d5da961311c986b7f9e7aa", null ],
+    [ "DirectorJobNameRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#abf07b04030f0682e03b45f35c6f25764", null ],
+    [ "DirectorLastName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#a1f9c5b8d4474677e1951f85e6d3838e2", null ],
+    [ "DirectorLastNameRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#ad7b3bb983b9305a3de4b1f38bad11337", null ],
+    [ "DirectorMiddleName", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#ac63b99d3439a9f32b3ba55de56b03c02", null ],
+    [ "DirectorMiddleNameRename", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#ab02261bf1a9a3bd57ed3a8f938ee670d", null ],
+    [ "Uses", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_regulation_1_1_regulation_header_properties.html#ae2ca4c97a8fb4ba9c17d5d16a4f3bd17", null ]
+];

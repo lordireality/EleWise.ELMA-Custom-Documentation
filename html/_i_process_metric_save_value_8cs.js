@@ -1,0 +1,4 @@
+var _i_process_metric_save_value_8cs =
+[
+    [ "EleWise.ELMA.Workflow.ProcessMetricExtensions.IProcessMetricSaveValue", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_process_metric_extensions_1_1_i_process_metric_save_value.html", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_process_metric_extensions_1_1_i_process_metric_save_value" ]
+];

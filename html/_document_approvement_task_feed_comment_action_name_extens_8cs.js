@@ -1,0 +1,4 @@
+var _document_approvement_task_feed_comment_action_name_extens_8cs =
+[
+    [ "EleWise.ELMA.Documents.Components.Feed.DocumentApprovementTaskFeedCommentActionNameExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_approvement_task_ff60974dda8ed0c54186203e87b244f6a" ]
+];

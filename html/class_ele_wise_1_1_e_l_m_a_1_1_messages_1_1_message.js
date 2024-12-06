@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message =
+[
+    [ "ActionUid", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a012d4134754dd725b912565563d44f5f", null ],
+    [ "AttachmentIds", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a76a74d177511b29a5d96cd0bf8c94f34", null ],
+    [ "AttachmentsBySingleFile", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#af145a07f2cebcec3681e7a11f0b94bcd", null ],
+    [ "Author", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a74fb536774d9dd7581c8fb417a4aa642", null ],
+    [ "AuthorId", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a4e88e561806cf9d4f54948b7febcd3e0", null ],
+    [ "AuthorText", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a12979539f18864373a17b06ccb7d7c21", null ],
+    [ "Channels", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#afcfe25b6c7b553824b3ddd3b3bce48ca", null ],
+    [ "CustomMessages", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a958ca59573b0c65d58a7ed40ead6a3fa", null ],
+    [ "Delayed", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#af0fdf1582e808de22e221e4c941efc45", null ],
+    [ "FullMessageHtml", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#abeaab111f6d89c98313f757e9e62fb3c", null ],
+    [ "FullMessageText", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a003ca78208802fac85d234e27c1ca242", null ],
+    [ "MessageAttachments", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a3d032a42b63e3333e58c0d345f4e25ae", null ],
+    [ "ObjectId", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#ab8503ebe1a243630fc188e70e39b1c45", null ],
+    [ "ObjectUid", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a2fad3174823a510dea5048956adf99b7", null ],
+    [ "Priority", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a70fa1cfcbc0920e901a2c20e3cb1e196", null ],
+    [ "Recipient", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#addc429d000eb7fc761d42365c44f61fb", null ],
+    [ "RecipientId", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a773866d18b8ca0218f814c92299edf18", null ],
+    [ "RecipientIds", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#ac1f364c6b9ae3024bdeb05382d3cbe6b", null ],
+    [ "Recipients", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#abbb6f71bba17d04ba7578ea6a0e7fd4f", null ],
+    [ "SendToAuthor", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#ab1e0e5c58e70a4f9f79730cf04da763b", null ],
+    [ "ShortMessageHtml", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a7c72d77e8c86941cae998f880794f339", null ],
+    [ "ShortMessageText", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a8fafe049c3783cdae6c54aa82011f62c", null ],
+    [ "Subject", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a6d15bbd466500052d4e980ac74f088d6", null ],
+    [ "URL", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_message.html#a6e64925f09f23cb65e252150b8564c3e", null ]
+];

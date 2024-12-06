@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_grid_state_permission_resolver =
+[
+    [ "HasPermission", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_components_1_1_grid_state_permission_resolver.html#af5c84aa17588a2fa13ae47b642a9e1d3", null ]
+];

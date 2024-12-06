@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_view_items_1_1_project_task_process_header_with_context_var_view_item =
+[
+    [ "ProjectTaskProcessHeaderWithContextVarViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_view_items_1_1_project_task_process_header_with_context_var_view_item.html#aa41ece708b8ad2b8149c1801d2627f98", null ],
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_view_items_1_1_project_task_process_header_with_context_var_view_item.html#a499c93afee1e82b8a4675145454137ff", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_view_items_1_1_project_task_process_header_with_context_var_view_item.html#a80bd7c7a3abe887cb8aff8d2474f10ed", null ]
+];

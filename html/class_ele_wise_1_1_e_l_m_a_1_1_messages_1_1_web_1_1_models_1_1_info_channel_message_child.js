@@ -1,0 +1,25 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child =
+[
+    [ "InfoChannelMessageChild", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#ad8490c6735090dc6a36237a7e9cc4904", null ],
+    [ "AllowComment", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a5f84c49bff76234dbffe68742f4b8462", null ],
+    [ "AllowDelete", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a3e521a452c7980c1e79082007195e2ea", null ],
+    [ "AllowEdit", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a58053d98297623b3b412618ad5968369", null ],
+    [ "CommentModel", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a73099fb54936ddc45b1b1e3d7614739c", null ],
+    [ "CompactView", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#ae9a2c404630874f73ddfaa0441dfcf15", null ],
+    [ "CreationAuthor", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a0664458cb68d3cdaf2580d45eafd63c0", null ],
+    [ "CreationDate", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a2017940042ed84e92443298354713859", null ],
+    [ "DiscussionObjects", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a974345ec9c6beddb5c8c2958fa1e40a9", null ],
+    [ "DiscussionObjectsOriginal", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#aadf24d72eb39353ae1d0ffa987b653fa", null ],
+    [ "FullMessageHtml", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#ad59ce80b6f9773d81a1764893e8ee235", null ],
+    [ "FullMessageText", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a346aa4f2c8f28fdf5ad715fde94738cf", null ],
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a0b0e52ec77074e5235c0d1f726ac26c5", null ],
+    [ "Message", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a8c1c3efcad960a194a96d3f7a17dc305", null ],
+    [ "Messages", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a3f3501147f088383d2020b56da582745", null ],
+    [ "ObjectId", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a503a7cf5a0cdf6410aec37236c6ce8c0", null ],
+    [ "Parent", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a6ee0bd7b0e2f294f87f32a42592551d7", null ],
+    [ "Recipients", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a0a4b00c7429b6fb6614768ae6afbb5fc", null ],
+    [ "ShortMessageHtml", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#af1058403408c3ff5e6e6151545af83fc", null ],
+    [ "ShortMessageText", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#a10fdc83a8dd13f29b4a5433a66efa8f7", null ],
+    [ "Subject", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#aef2bb088c887b6c0dd24f54bba606ab5", null ],
+    [ "URL", "class_ele_wise_1_1_e_l_m_a_1_1_messages_1_1_web_1_1_models_1_1_info_channel_message_child.html#ac01c67fc20ba721f9aca2066d0621c47", null ]
+];

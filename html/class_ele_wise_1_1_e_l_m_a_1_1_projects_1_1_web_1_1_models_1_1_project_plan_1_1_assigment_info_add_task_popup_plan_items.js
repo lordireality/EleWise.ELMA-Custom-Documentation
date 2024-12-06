@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_1_1_assigment_info_add_task_popup_plan_items =
+[
+    [ "ItemId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_1_1_assigment_info_add_task_popup_plan_items.html#ad0155d0de1de8698d2371c962b0bf931", null ],
+    [ "PlanId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_1_1_assigment_info_add_task_popup_plan_items.html#ab00589f63659bdce50d02e547cd52c89", null ],
+    [ "Subject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_1_1_assigment_info_add_task_popup_plan_items.html#a15fd6922b54772cf6d116f6279df7713", null ],
+    [ "TaskId", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_project_plan_1_1_assigment_info_add_task_popup_plan_items.html#a398f775a64b106d037241c4d5843332d", null ]
+];

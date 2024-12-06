@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_value_view_types_1_1_performance_value_view_average =
+[
+    [ "Performance", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_value_view_types_1_1_performance_value_view_average.html#a02296b9ad6f0fd4009a1b63c37bfdab0", null ],
+    [ "Guid", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_value_view_types_1_1_performance_value_view_average.html#a0730f42586c8c6214ac07dd8bad86ec4", null ],
+    [ "ToolTip", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_value_view_types_1_1_performance_value_view_average.html#ad3663dab7b4065b13381afe52836acba", null ],
+    [ "ViewType", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_components_1_1_performance_value_view_types_1_1_performance_value_view_average.html#a32f45f78ef0d3c1359be14e239b94aed", null ]
+];

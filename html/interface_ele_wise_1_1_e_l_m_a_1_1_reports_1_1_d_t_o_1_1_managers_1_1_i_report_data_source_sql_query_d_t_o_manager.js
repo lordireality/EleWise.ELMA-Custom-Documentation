@@ -1,0 +1,5 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_sql_query_d_t_o_manager =
+[
+    [ "GetSqlQueryReturnTypes", "interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_sql_query_d_t_o_manager.html#a7d52439836705bba1619d346037f4b0c", null ],
+    [ "IsSqlQueryValid", "interface_ele_wise_1_1_e_l_m_a_1_1_reports_1_1_d_t_o_1_1_managers_1_1_i_report_data_source_sql_query_d_t_o_manager.html#a58df07c02f5f9433093c9d7ac4ef8345", null ]
+];

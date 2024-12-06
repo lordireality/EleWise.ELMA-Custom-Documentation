@@ -1,0 +1,7 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_reserved_reg_number_entity_filter_provider =
+[
+    [ "ApplyFilter", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_reserved_reg_number_entity_filter_provider.html#a4308fb17e1448f279ee70396a40018d4", null ],
+    [ "GetFilter", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_reserved_reg_number_entity_filter_provider.html#ac34115ec2d6a101e34b055d9ef3fbf58", null ],
+    [ "GetFilterProviderData", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_reserved_reg_number_entity_filter_provider.html#a3a2e8d0f28c975036b4103d454202961", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_components_1_1_reserved_reg_number_entity_filter_provider.html#a165440e2e988095a588d85bd061960a5", null ]
+];

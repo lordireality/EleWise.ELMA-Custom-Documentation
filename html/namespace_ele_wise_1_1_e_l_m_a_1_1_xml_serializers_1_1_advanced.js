@@ -1,0 +1,5 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_xml_serializers_1_1_advanced =
+[
+    [ "SchemaImporterExtension", "class_ele_wise_1_1_e_l_m_a_1_1_xml_serializers_1_1_advanced_1_1_schema_importer_extension.html", "class_ele_wise_1_1_e_l_m_a_1_1_xml_serializers_1_1_advanced_1_1_schema_importer_extension" ],
+    [ "SchemaImporterExtensionCollection", "class_ele_wise_1_1_e_l_m_a_1_1_xml_serializers_1_1_advanced_1_1_schema_importer_extension_collection.html", "class_ele_wise_1_1_e_l_m_a_1_1_xml_serializers_1_1_advanced_1_1_schema_importer_extension_collection" ]
+];

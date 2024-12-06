@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_components_1_1_crypto_pro_auth_provider =
+[
+    [ "CryptoProAuthProvider", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_components_1_1_crypto_pro_auth_provider.html#a3fa32fe573faf5684c2d94668e60d5b2", null ],
+    [ "Module", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_components_1_1_crypto_pro_auth_provider.html#a79941cd1447169e1d8e96984945fb059", null ],
+    [ "ProviderUid", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_crypto_pro_1_1_components_1_1_crypto_pro_auth_provider.html#a3895a3e82b65b76d339db882ffc68ba4", null ]
+];

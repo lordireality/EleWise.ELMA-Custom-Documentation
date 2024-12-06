@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_holiday_interval_view_model =
+[
+    [ "Entity", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_models_1_1_resources_1_1_add_holiday_interval_view_model.html#ac623d2659851336f5add0bb6c41a92bd", null ]
+];

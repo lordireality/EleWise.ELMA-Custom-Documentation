@@ -1,0 +1,4 @@
+var _i_integration_module_authentication_8cs =
+[
+    [ "EleWise.ELMA.IntegrationModules.ExtensionPoint.IIntegrationModuleAuthentication", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_extension_point_1_1_i_integration_module_authentication.html", "interface_ele_wise_1_1_e_l_m_a_1_1_integration_modules_1_1_extension_point_1_1_i_integration_module_authentication" ]
+];

@@ -1,0 +1,27 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller =
+[
+    [ "ProjectRoleController", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a9ccc449293f7cda70b0ece2ccab14602", null ],
+    [ "AddUsers", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#ab75805b4c74c53c6e44d424407600847", null ],
+    [ "AddUsersAjax", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a94232ddaf0a39838e10062eaf7620f5a", null ],
+    [ "AddUsersToProject", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a66e0cbced09e8e28b405b8147ac9ad74", null ],
+    [ "Assign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#ae9717849d72a03b0d86f31ae57bdf158", null ],
+    [ "Assign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#aad1a50377915630126af0920282140f1", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a7a9e8dac995039cc85dac5258f549955", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a61837a27418f39f64b10da2acd9c5402", null ],
+    [ "CreateFilterForGrid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#ac795198233ba0045f114037e01419b16", null ],
+    [ "Delete", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#afd1b7fa870f1da56ef2b54805b1d7bed", null ],
+    [ "Delete", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a858b34279829c145cd95cf9909128fb1", null ],
+    [ "DeleteParticipant", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#aa1408853755dfc680488d9d1b8f123a1", null ],
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#ab9d5966aa4101705b4a6a72c1e387d09", null ],
+    [ "Edit", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a877cad5fa7c959d7c2befd5722d3ce75", null ],
+    [ "Grid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a38ad8bd28a0a9d73748841c1f951ecff", null ],
+    [ "Index", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#aca21a78b5677328f28a58065404defc5", null ],
+    [ "List", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#ac3af5251cd5711f9c5e8f709fc332bdf", null ],
+    [ "RemoveAssign", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#aad0a13d44b5f4e9c09f2cb60f8dcf18a", null ],
+    [ "View", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#aba29ee6f212e9763397bfe16cb695758", null ],
+    [ "PermissionsModelService", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#af4dce2aedd3c757edd5acb6c70cf4cdc", null ],
+    [ "ProjectManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a5423103f830ed5c61bb7f21989c4df30", null ],
+    [ "ProjectRoleManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a8f58af0f962dc04150621a23af6d5987", null ],
+    [ "PublishPlanStateInfoManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a0250cd23fb4836248df6c2658f5f7960", null ],
+    [ "UserManager", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_controllers_1_1_project_role_controller.html#a02e5890ae8166fda2057e9b91dd83cf4", null ]
+];

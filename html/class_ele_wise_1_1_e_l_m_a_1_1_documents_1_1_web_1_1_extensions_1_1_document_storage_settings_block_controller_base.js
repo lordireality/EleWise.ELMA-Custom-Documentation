@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base =
+[
+    [ "DocumentStorageSettingsBlockControllerBase", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#ab1199f660a27353b5f3e5760874621e3", null ],
+    [ "Header", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#ab28a64783c25efe23a08d9bd7a5573be", null ],
+    [ "RenderDisplay", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#ae7e561d075a69e62eb94f460a3a65b9f", null ],
+    [ "RenderEdit", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#a0a30075b16cc030974234a37ef07e90c", null ],
+    [ "SaveSettings", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#aef59301ec77cac165e0a5821bf11b75a", null ],
+    [ "Block", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_extensions_1_1_document_storage_settings_block_controller_base.html#a30ee258f609764d06532709461aadc51", null ]
+];

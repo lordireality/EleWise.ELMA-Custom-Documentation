@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_work_log_1_1_project_work_log_history_object_extension =
+[
+    [ "ProjectWorkLogHistoryObjectExtension", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_work_log_1_1_project_work_log_history_object_extension.html#ab00c24f3d95958624b0b5124cf3332bc", null ],
+    [ "CanHandle", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_work_log_1_1_project_work_log_history_object_extension.html#abcac8c08c3c45c3a72e716125343fa7d", null ],
+    [ "Visible", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_components_1_1_work_log_1_1_project_work_log_history_object_extension.html#a2a3722e0514299f889f73ff36c662f0e", null ]
+];

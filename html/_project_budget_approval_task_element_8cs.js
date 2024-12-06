@@ -1,0 +1,5 @@
+var _project_budget_approval_task_element_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Elements.Tasks.ProjectBudgetApprovalTaskElement", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj9bbf184d2752911d6334a9f9d7f80adc" ],
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Elements.Tasks.ProjectBudgetApprovalTaskElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj6b4e8a49d5e69ad5cf88b632783f4c07.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj6b4e8a49d5e69ad5cf88b632783f4c07" ]
+];

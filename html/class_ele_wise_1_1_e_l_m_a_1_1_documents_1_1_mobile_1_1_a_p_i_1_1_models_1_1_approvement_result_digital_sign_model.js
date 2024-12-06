@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model =
+[
+    [ "ApprovementItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model.html#a1f1b4b47e80e8e5599afc5cdd4de443a", null ],
+    [ "ApprovementStatus", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model.html#a20efd6f15d8d895ec58292d8970e1f71", null ],
+    [ "ApprovementtDocument", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model.html#a911432ee3cb53e60088a224143a9ad5f", null ],
+    [ "ApprovementVersion", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model.html#a279313ff765640688298527f874b22c1", null ],
+    [ "IdDigitalSign", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_mobile_1_1_a_p_i_1_1_models_1_1_approvement_result_digital_sign_model.html#a29d778e2f771a7c1af0375b9e1a8ded7", null ]
+];

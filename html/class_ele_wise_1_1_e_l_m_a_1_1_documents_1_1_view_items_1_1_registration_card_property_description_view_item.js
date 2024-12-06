@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_registration_card_property_description_view_item =
+[
+    [ "RegistrationCardPropertyDescriptionViewItem", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_view_items_1_1_registration_card_property_description_view_item.html#af206d7db885f68467872e58c5f618295", null ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_elma_object_generator_global_data_source =
+[
+    [ "ElmaObjectGeneratorGlobalDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_elma_object_generator_global_data_source.html#a0b8d2083f1fb4bfbbb718812bf312c53", null ],
+    [ "GetValue", "class_ele_wise_1_1_e_l_m_a_1_1_templates_1_1_template_generator_1_1_elma_object_generator_global_data_source.html#a944af8d432b0ae4752e695703ffaa2dd", null ]
+];

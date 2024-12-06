@@ -1,0 +1,12 @@
+digraph "Web/Modules/EleWise.ELMA.BPM.Web.Security/Components/FilterProviders"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_e783e324a23f8e6a1ebc40e41cbacc1f {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="Components", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_e783e324a23f8e6a1ebc40e41cbacc1f.html",tooltip=""]
+  dir_634a7a58f02bdaf55b4f085a8fa1563e [label="FilterProviders", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_634a7a58f02bdaf55b4f085a8fa1563e.html",tooltip=""];
+  }
+}

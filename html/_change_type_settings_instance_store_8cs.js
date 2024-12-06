@@ -1,0 +1,4 @@
+var _change_type_settings_instance_store_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Models.ChangeProcessVersion.ChangeTypeSettingsInstanceStore", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_type_settings_instance_store.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_change_process_version_1_1_change_type_settings_instance_store" ]
+];

@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_global_variable_1_1_global_variable_value_editor_view_item =
+[
+    [ "IsChildValid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_global_variable_1_1_global_variable_value_editor_view_item.html#a76eb3f36487412ff14a220da7a0026d9", null ],
+    [ "IsValid", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_view_items_1_1_global_variable_1_1_global_variable_value_editor_view_item.html#a294ff4b959b28c2b3e6811ea2c73bfaf", null ]
+];

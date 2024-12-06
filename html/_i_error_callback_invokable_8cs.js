@@ -1,0 +1,4 @@
+var _i_error_callback_invokable_8cs =
+[
+    [ "EleWise.ELMA.Model.BackgroundOperations.IErrorCallbackInvokable", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_error_callback_invokable.html", "interface_ele_wise_1_1_e_l_m_a_1_1_model_1_1_background_operations_1_1_i_error_callback_invokable" ]
+];

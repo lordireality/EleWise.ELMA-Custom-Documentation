@@ -1,0 +1,27 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services =
+[
+    [ "HistoryOrder", "namespace_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_history_order.html", null ],
+    [ "BlobStore", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_blob_store.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_blob_store" ],
+    [ "BlobStoreConfigurationService", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_blob_store_configuration_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_blob_store_configuration_service" ],
+    [ "CatalogPropertyPermissionAdapter", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_catalog_property_permission_adapter.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_catalog_property_permission_adapter" ],
+    [ "DuplicateService", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_duplicate_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_duplicate_service" ],
+    [ "EntityModelHistoryService", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_entity_model_history_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_entity_model_history_service" ],
+    [ "HistoryIdParams", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_history_id_params.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_history_id_params" ],
+    [ "ICatalogProfileUpdaterService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_catalog_profile_updater_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_catalog_profile_updater_service" ],
+    [ "IDuplicateService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_duplicate_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_duplicate_service" ],
+    [ "IEntityHistoryRestrictionService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_history_restriction_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_history_restriction_service" ],
+    [ "IEntityModelHistoryRestrictionService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_model_history_restriction_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_model_history_restriction_service" ],
+    [ "IEntityTaskModelDraftExtensionPoint", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_task_model_draft_extension_point.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_task_model_draft_extension_point" ],
+    [ "IEntityTaskModelDraftService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_task_model_draft_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_entity_task_model_draft_service" ],
+    [ "IHistoryIdentifierExtensionPoint", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_identifier_extension_point.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_identifier_extension_point" ],
+    [ "IHistoryIdParams", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_id_params.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_id_params" ],
+    [ "IHistoryOrder", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_order.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_history_order" ],
+    [ "IObjectAttachmentsArchiveService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service" ],
+    [ "IObjectAttachmentsArchiveServiceCheckFileExt", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_check_file_ext.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_check_file_ext" ],
+    [ "IObjectAttachmentsArchiveServiceExt", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_ext.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_object_attachments_archive_service_ext" ],
+    [ "IScheduledRestartService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_scheduled_restart_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_scheduled_restart_service" ],
+    [ "IServerRestartMessageService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_server_restart_message_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_server_restart_message_service" ],
+    [ "IWatchEntityService", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_watch_entity_service.html", "interface_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_i_watch_entity_service" ],
+    [ "WatchEntityService", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_watch_entity_service.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_watch_entity_service" ],
+    [ "WatchKey", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_watch_key.html", "class_ele_wise_1_1_e_l_m_a_1_1_common_1_1_services_1_1_watch_key" ]
+];

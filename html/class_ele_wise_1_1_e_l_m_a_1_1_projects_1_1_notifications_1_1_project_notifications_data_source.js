@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_notifications_data_source =
+[
+    [ "ProjectNotificationsDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_notifications_1_1_project_notifications_data_source.html#a90bd54636697efef67491aceb7fd288f", null ]
+];

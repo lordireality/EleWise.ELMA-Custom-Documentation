@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portd622e0a71ef2947fce4f6a65d7412eca =
+[
+    [ "Id", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portd622e0a71ef2947fce4f6a65d7412eca.html#a201761fdf53606387eb8f2fbdf2ae7e0", null ],
+    [ "Visible", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_processes_1_1_web_1_1_portlets_1_1_my_processes_portd622e0a71ef2947fce4f6a65d7412eca.html#a5b3a835428730b709d19ff25e5eff38a", null ]
+];

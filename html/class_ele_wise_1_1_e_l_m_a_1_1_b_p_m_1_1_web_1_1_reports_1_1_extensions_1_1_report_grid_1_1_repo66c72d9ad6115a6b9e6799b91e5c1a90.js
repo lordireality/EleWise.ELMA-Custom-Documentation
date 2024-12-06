@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo66c72d9ad6115a6b9e6799b91e5c1a90 =
+[
+    [ "ReportGridPagerNumericSectionBuilder", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo66c72d9ad6115a6b9e6799b91e5c1a90.html#a6beb7265c8a792a965ad41b45111255d", null ],
+    [ "Create", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_reports_1_1_extensions_1_1_report_grid_1_1_repo66c72d9ad6115a6b9e6799b91e5c1a90.html#ab0ab821b877095a29de5f91daa447466", null ]
+];

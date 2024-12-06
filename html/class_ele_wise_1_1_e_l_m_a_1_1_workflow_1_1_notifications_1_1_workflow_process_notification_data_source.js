@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_notifications_1_1_workflow_process_notification_data_source =
+[
+    [ "WorkflowProcessNotificationDataSource", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_notifications_1_1_workflow_process_notification_data_source.html#a00a83d8d4fea42548fbe087fa76b8c0a", null ]
+];

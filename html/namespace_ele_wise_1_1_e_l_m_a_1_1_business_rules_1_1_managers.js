@@ -1,0 +1,11 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers =
+[
+    [ "ApprovementListManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_approvement_list_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_approvement_list_manager" ],
+    [ "BusinessRuleExecuteTaskManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_execute_task_manager.html", null ],
+    [ "BusinessRuleManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_manager" ],
+    [ "BusinessRuleTableManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_table_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_table_manager" ],
+    [ "BusinessRuleVersionApprovalTaskManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_approval_task_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_approval_task_manager" ],
+    [ "BusinessRuleVersionManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_business_rule_version_manager" ],
+    [ "GlobalVariableManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_global_variable_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_global_variable_manager" ],
+    [ "RuleProcessLinkManager", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_rule_process_link_manager.html", "class_ele_wise_1_1_e_l_m_a_1_1_business_rules_1_1_managers_1_1_rule_process_link_manager" ]
+];

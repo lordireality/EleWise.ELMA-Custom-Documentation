@@ -1,0 +1,4 @@
+var _custom_diagnostics_session_metrics_8cs =
+[
+    [ "EleWise.ELMA.Diagnostics.Metrics.CustomDiagnosticsSessionMetrics", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_custom_diagnostics_session_metrics.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_metrics_1_1_custom_diagnostics_session_metrics" ]
+];

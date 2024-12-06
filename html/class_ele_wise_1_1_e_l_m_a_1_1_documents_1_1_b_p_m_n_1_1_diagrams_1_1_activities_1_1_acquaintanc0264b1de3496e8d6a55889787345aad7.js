@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0264b1de3496e8d6a55889787345aad7 =
+[
+    [ "AcquaintanceItemInfo", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0264b1de3496e8d6a55889787345aad7.html#a27cf43f91cd49b2f986731a3f637399a", null ],
+    [ "User", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_b_p_m_n_1_1_diagrams_1_1_activities_1_1_acquaintanc0264b1de3496e8d6a55889787345aad7.html#a8e2b9789afde7f7d4f9bf471734717dd", null ]
+];

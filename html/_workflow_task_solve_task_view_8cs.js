@@ -1,0 +1,4 @@
+var _workflow_task_solve_task_view_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Web.Integration.Portlets.WorkflowTaskSolveTaskView", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_portlets_1_1_workflow_task_solve_task_view.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_web_1_1_integration_1_1_portlets_1_1_workflow_task_solve_task_view" ]
+];

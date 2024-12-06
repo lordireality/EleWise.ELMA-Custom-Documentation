@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_portlets_1_1_models_1_1_portlets_part_record =
+[
+    [ "PortletsLayout", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_portlets_1_1_models_1_1_portlets_part_record.html#ad89c3daed54a64308095c95501661d6d", null ]
+];

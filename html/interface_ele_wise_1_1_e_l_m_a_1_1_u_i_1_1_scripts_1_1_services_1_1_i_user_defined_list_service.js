@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_u_i_1_1_scripts_1_1_services_1_1_i_user_defined_list_service =
+[
+    [ "GetUserDefinedList", "interface_ele_wise_1_1_e_l_m_a_1_1_u_i_1_1_scripts_1_1_services_1_1_i_user_defined_list_service.html#a77edcc0d8d6ad411ba87e6d05e4c72ca", null ]
+];

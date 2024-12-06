@@ -1,0 +1,5 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_project_create_shape =
+[
+    [ "ProjectCreateShape", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_project_create_shape.html#a5445b298edd4847c0850ac7b7289617e", null ],
+    [ "UpdateDecorators", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_tasks_1_1_project_create_shape.html#ac05212b3ec002ea39c5820fc30c93e1a", null ]
+];

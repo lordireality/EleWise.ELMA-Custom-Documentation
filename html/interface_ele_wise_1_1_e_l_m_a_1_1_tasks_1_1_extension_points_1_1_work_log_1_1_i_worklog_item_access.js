@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_work_log_1_1_i_worklog_item_access =
+[
+    [ "HasPermission", "interface_ele_wise_1_1_e_l_m_a_1_1_tasks_1_1_extension_points_1_1_work_log_1_1_i_worklog_item_access.html#a2da5f0853cf0c79f9d3281f44e810d95", null ]
+];

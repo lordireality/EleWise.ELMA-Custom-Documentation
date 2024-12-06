@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_task_feed_object_group_extension =
+[
+    [ "DocumentTaskFeedObjectGroupExtension", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_task_feed_object_group_extension.html#a2bfa3671cb9dd9a3c2fd751758ec3e9d", null ],
+    [ "IsSupport", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_task_feed_object_group_extension.html#a36d5ad0d9b47483e7f94897e8725b9bc", null ],
+    [ "MessageTypeCssClass", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_components_1_1_feed_1_1_document_task_feed_object_group_extension.html#a2df396302be2cf451e89554177c90afc", null ]
+];

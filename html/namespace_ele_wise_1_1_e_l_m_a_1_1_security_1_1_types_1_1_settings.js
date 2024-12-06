@@ -1,0 +1,8 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings =
+[
+    [ "ComplexExecutorSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_complex_executor_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_complex_executor_settings" ],
+    [ "EntityUserSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_entity_user_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_entity_user_settings" ],
+    [ "OrganizationDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_diagram_type_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_diagram_type_settings" ],
+    [ "OrganizationItemSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_item_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_item_settings" ],
+    [ "OrganizationSubDiagramTypeSettings", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_sub_diagram_type_settings.html", "class_ele_wise_1_1_e_l_m_a_1_1_security_1_1_types_1_1_settings_1_1_organization_sub_diagram_type_settings" ]
+];

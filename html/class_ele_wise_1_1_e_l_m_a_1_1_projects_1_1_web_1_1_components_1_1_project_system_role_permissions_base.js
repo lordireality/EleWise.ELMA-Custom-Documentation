@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissions_base =
+[
+    [ "PermissionContainer", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissiobfcf7fc4f67badbccaaae8c621428c62" ],
+    [ "GetPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissions_base.html#a87e14462aa1571e11efef3d489085afd", null ],
+    [ "IsSystem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissions_base.html#a0c9a2651825a2a7a16436b6923049478", null ],
+    [ "IsSystemRole", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissions_base.html#ada555637f11c74df71d6777339a30f53", null ],
+    [ "EntityType", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_web_1_1_components_1_1_project_system_role_permissions_base.html#aab60c0b696579960183b6e292fd47475", null ]
+];

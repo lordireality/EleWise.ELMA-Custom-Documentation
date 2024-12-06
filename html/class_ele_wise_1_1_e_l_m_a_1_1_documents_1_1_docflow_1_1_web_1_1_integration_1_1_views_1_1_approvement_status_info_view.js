@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_approvement_status_info_view =
+[
+    [ "ApprovementStatusInfoView", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_approvement_status_info_view.html#a76ccdfec64c1944d56444d03c4cf0009", null ],
+    [ "CanRenderInZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_approvement_status_info_view.html#afaf5d8fadf5ae2f84f04cb62d7a1b726", null ],
+    [ "RenderZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_views_1_1_approvement_status_info_view.html#ada19b2c3859bd7b42b4ef069d9b010db", null ]
+];

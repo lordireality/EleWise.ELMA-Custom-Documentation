@@ -1,0 +1,9 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d =
+[
+    [ "NotProjectBudgetApproveTaskConnectorStatus", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#a1c82ba5c7e42005a63d70552a8e22fa1", null ],
+    [ "DefaultFirstConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#a918999705021249bf2ea0e3ac72feb2b", null ],
+    [ "DefaultSecondConnector", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#afb84ae9144ce6af1f6bcc0169df8c31a", null ],
+    [ "DisplayName", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#a02a8878493d9af2838d2c51cbb3e95a8", null ],
+    [ "ElementTypes", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#a606fe72a15edb5c74b3101605b696dee", null ],
+    [ "Uid", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_connectors_1_1_not_project_92b590505bdd5de606dd161f22a8e55d.html#ab4212afa142322a96351a2911284f638", null ]
+];

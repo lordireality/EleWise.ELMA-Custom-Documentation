@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_entity_base_controller_1_1_grid_result =
+[
+    [ "GridData", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_entity_base_controller_1_1_grid_result.html#a5f4c7627210d87962c8af0e0a5a080a8", null ],
+    [ "GridTableView", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_entity_base_controller_1_1_grid_result.html#a135612b09c3d7c130708c114291224b8", null ],
+    [ "ParentId", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_common_1_1_controllers_1_1_entity_base_controller_1_1_grid_result.html#a5e9fb30405da56fc6421c59e855c5d9d", null ]
+];

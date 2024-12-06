@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_history_part_merge =
+[
+    [ "GetMergeButton", "interface_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_extension_points_1_1_i_history_part_merge.html#a993b993b5055dd219fdbd280408350ad", null ]
+];

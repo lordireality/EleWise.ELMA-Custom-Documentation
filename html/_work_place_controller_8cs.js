@@ -1,0 +1,5 @@
+var _work_place_controller_8cs =
+[
+    [ "EleWise.ELMA.BPM.Web.Content.Controllers.WorkPlaceController", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_controller.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_controller" ],
+    [ "EleWise.ELMA.BPM.Web.Content.Controllers.WorkPlaceCustomizerController", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_customizer_controller.html", "class_ele_wise_1_1_e_l_m_a_1_1_b_p_m_1_1_web_1_1_content_1_1_controllers_1_1_work_place_customizer_controller" ]
+];

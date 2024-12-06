@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_background_operation_result =
+[
+    [ "BackgroundOperationResult", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_background_operation_result.html#aaed26adc83c01c42de0e2f16870a3b81", null ],
+    [ "IsError", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_background_operation_result.html#aac2cfb50b564797b373ca20f29f32825", null ],
+    [ "SerializedResult", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_models_1_1_background_operations_1_1_background_operation_result.html#aa77abcfe25c98f235e0ae5f96ce946ef", null ]
+];

@@ -1,0 +1,4 @@
+var _performance_matrix_permissions_page_8cs =
+[
+    [ "EleWise.ELMA.KPI.Web.Security.PerformanceMatrixPermissionsPage", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_performance_matrix_permissions_page.html", "class_ele_wise_1_1_e_l_m_a_1_1_k_p_i_1_1_web_1_1_security_1_1_performance_matrix_permissions_page" ]
+];

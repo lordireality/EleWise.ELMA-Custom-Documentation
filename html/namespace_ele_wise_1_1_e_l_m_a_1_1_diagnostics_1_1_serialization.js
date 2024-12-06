@@ -1,0 +1,6 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization =
+[
+    [ "DiagnosticsMethodInfoConverter", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_diagnostics_method_info_converter.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_diagnostics_method_info_converter" ],
+    [ "DiagnosticsWorkTreeIgnoreConverter", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_diagnostics_work_tree_ignore_converter.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_diagnostics_work_tree_ignore_converter" ],
+    [ "MvcHtmlStringJsonConverter", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_mvc_html_string_json_converter.html", "class_ele_wise_1_1_e_l_m_a_1_1_diagnostics_1_1_serialization_1_1_mvc_html_string_json_converter" ]
+];

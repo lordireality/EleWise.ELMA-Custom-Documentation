@@ -1,0 +1,8 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape =
+[
+    [ "ExternalSubprocessShape", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape.html#a4eb7fd482ca38528e1eda8a1fae8326a", null ],
+    [ "UpdateDecorators", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape.html#a29d0a0ec75af7be1eb5edce9c539f237", null ],
+    [ "EndColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape.html#a16eee259b6bb97b5375e4321bfe1687b", null ],
+    [ "StartColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape.html#a251bc02053fd8ea5e6b9f3e78199dda8", null ],
+    [ "StrokeColor", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_sub_process_1_1_external_subprocess_shape.html#a0debc224afbd4f9b7a11dc52b1df4fee", null ]
+];

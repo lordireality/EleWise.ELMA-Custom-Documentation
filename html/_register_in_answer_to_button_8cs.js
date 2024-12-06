@@ -1,0 +1,5 @@
+var _register_in_answer_to_button_8cs =
+[
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.RegisterInAnswerToButtonZone", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_in_answer_to_button_zone.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_in_answer_to_button_zone" ],
+    [ "EleWise.ELMA.Documents.Docflow.Web.Integration.Buttons.RegisterInAnswerToButton", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_in_answer_to_button.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_docflow_1_1_web_1_1_integration_1_1_buttons_1_1_register_in_answer_to_button" ]
+];

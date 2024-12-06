@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_documents_2_documents_2_listeners_2_document_metadata_head_listener_8cs =
+[
+    [ "EleWise.ELMA.Documents.Listeners.DocumentMetadataHeadListener", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_listeners_1_1_document_metadata_head_listener.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_listeners_1_1_document_metadata_head_listener" ]
+];

@@ -1,0 +1,4 @@
+var _ele_wise_8_e_l_m_a_8_s_d_k_2_ele_wise_2_e_l_m_a_2_model_2_dependencies_2_module_dependency_8cs =
+[
+    [ "EleWise.ELMA.Model.Dependencies.ModuleDependency", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_dependencies_1_1_module_dependency.html", "class_ele_wise_1_1_e_l_m_a_1_1_model_1_1_dependencies_1_1_module_dependency" ]
+];

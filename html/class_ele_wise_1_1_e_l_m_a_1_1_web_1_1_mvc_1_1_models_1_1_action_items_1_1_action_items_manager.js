@@ -1,0 +1,4 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_action_items_1_1_action_items_manager =
+[
+    [ "ProcessItem", "class_ele_wise_1_1_e_l_m_a_1_1_web_1_1_mvc_1_1_models_1_1_action_items_1_1_action_items_manager.html#a068be8e736a21f723d7be0492e66d3b2", null ]
+];

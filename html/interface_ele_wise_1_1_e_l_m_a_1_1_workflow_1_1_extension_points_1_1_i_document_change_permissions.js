@@ -1,0 +1,4 @@
+var interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_document_change_permissions =
+[
+    [ "GetAllDocuments", "interface_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_extension_points_1_1_i_document_change_permissions.html#a15ff6d035f24cdd8717f5594141c6c01", null ]
+];

@@ -1,0 +1,4 @@
+var _filter_model_document_filter_properties_zone_panel_8cs =
+[
+    [ "EleWise.ELMA.Documents.Web.Components.Filter.FilterModelDocumentFilterPropertiesZonePanel", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_filter_model_docuaf76ec6ab0586b81f35dcd01fc6375b0.html", "class_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_web_1_1_components_1_1_filter_1_1_filter_model_docuaf76ec6ab0586b81f35dcd01fc6375b0" ]
+];

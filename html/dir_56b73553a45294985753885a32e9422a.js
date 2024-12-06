@@ -1,0 +1,6 @@
+var dir_56b73553a45294985753885a32e9422a =
+[
+    [ "iPadLicensedModuleAccessGroup.cs", "_ele_wise_8_e_l_m_a_8i_pad_8_k_p_i_2_ele_wise_2_e_l_m_a_2i_pad_2_k_p_i_2_security_2i_pad_licensed_module_access_group_8cs.html", "_ele_wise_8_e_l_m_a_8i_pad_8_k_p_i_2_ele_wise_2_e_l_m_a_2i_pad_2_k_p_i_2_security_2i_pad_licensed_module_access_group_8cs" ],
+    [ "PermissionsProvider.cs", "_ele_wise_8_e_l_m_a_8i_pad_8_k_p_i_2_ele_wise_2_e_l_m_a_2i_pad_2_k_p_i_2_security_2_permissions_provider_8cs.html", "_ele_wise_8_e_l_m_a_8i_pad_8_k_p_i_2_ele_wise_2_e_l_m_a_2i_pad_2_k_p_i_2_security_2_permissions_provider_8cs" ],
+    [ "PublicApplicationAuthValidator.cs", "_ele_wise_8_e_l_m_a_8i_pad_8_k_p_i_2_ele_wise_2_e_l_m_a_2i_pad_2_k_p_i_2_security_2_public_application_auth_validator_8cs.html", null ]
+];

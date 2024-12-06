@@ -1,0 +1,5 @@
+var _project_create_element_8cs =
+[
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Elements.Tasks.ProjectCreateElement", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_create_element.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_project_create_element" ],
+    [ "EleWise.ELMA.Projects.BPMN.Diagrams.Elements.Tasks.ProjectCreateElement.ToolboxItem", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj2b013e423470432777ede5d53db69793.html", "class_ele_wise_1_1_e_l_m_a_1_1_projects_1_1_b_p_m_n_1_1_diagrams_1_1_elements_1_1_tasks_1_1_proj2b013e423470432777ede5d53db69793" ]
+];

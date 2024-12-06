@@ -1,0 +1,9 @@
+var dir_89ac8291db76bcec9751d06981e26356 =
+[
+    [ "ContractorFullTextSearchExtension.cs", "_contractor_full_text_search_extension_8cs.html", null ],
+    [ "FullTextSearchContractorHandlerExtension.cs", "_full_text_search_contractor_handler_extension_8cs.html", "_full_text_search_contractor_handler_extension_8cs" ],
+    [ "FullTextSearchCreateFilePreviewItemIndex.cs", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_create_file_preview_item_index_8cs.html", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_create_file_preview_item_index_8cs" ],
+    [ "FullTextSearchCRMAttachmentHandlerExtension.cs", "_full_text_search_c_r_m_attachment_handler_extension_8cs.html", "_full_text_search_c_r_m_attachment_handler_extension_8cs" ],
+    [ "FullTextSearchDocumentHandlerExtension.cs", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_document_handler_extension_8cs.html", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_document_handler_extension_8cs" ],
+    [ "FullTextSearchPermissionHandlerExtension.cs", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_permission_handler_extension_8cs.html", "_ele_wise_8_e_l_m_a_8_c_r_m_2_c_r_m_2_full_text_search_2_components_2_full_text_search_permission_handler_extension_8cs" ]
+];

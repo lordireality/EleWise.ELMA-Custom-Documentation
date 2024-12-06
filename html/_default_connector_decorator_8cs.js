@@ -1,0 +1,4 @@
+var _default_connector_decorator_8cs =
+[
+    [ "EleWise.ELMA.Workflow.BPMN.Diagrams.Shapes.Decorators.DefaultConnectorDecorator", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_decorators_1_1_default_connector_decorator.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_b_p_m_n_1_1_diagrams_1_1_shapes_1_1_decorators_1_1_default_connector_decorator" ]
+];

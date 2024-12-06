@@ -1,0 +1,4 @@
+var namespace_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_document_audit_events =
+[
+    [ "IDocumentEventHandler", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_document_audit_events_1_1_i_document_event_handler.html", "interface_ele_wise_1_1_e_l_m_a_1_1_documents_1_1_document_audit_events_1_1_i_document_event_handler" ]
+];

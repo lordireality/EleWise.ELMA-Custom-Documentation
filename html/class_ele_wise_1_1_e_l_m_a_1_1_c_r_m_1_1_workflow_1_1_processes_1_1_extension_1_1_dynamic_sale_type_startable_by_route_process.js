@@ -1,0 +1,6 @@
+var class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_dynamic_sale_type_startable_by_route_process =
+[
+    [ "DynamicSaleTypeStartableByRouteProcess", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_dynamic_sale_type_startable_by_route_process.html#a7ca19206b7bf6e74e352fd9764c1cee6", null ],
+    [ "GetRouteIds", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_dynamic_sale_type_startable_by_route_process.html#ab20389a5ab5e31711aaadaed00ed8b27", null ],
+    [ "TypeUid", "class_ele_wise_1_1_e_l_m_a_1_1_c_r_m_1_1_workflow_1_1_processes_1_1_extension_1_1_dynamic_sale_type_startable_by_route_process.html#af0ad74e26a92aaef99b3a148078515d9", null ]
+];

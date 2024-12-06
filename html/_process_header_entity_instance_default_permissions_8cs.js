@@ -1,0 +1,4 @@
+var _process_header_entity_instance_default_permissions_8cs =
+[
+    [ "EleWise.ELMA.Workflow.Security.ProcessHeaderEntityInstanceDefaultPermissions", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_security_1_1_process_header_entity_instance_default_permissions.html", "class_ele_wise_1_1_e_l_m_a_1_1_workflow_1_1_security_1_1_process_header_entity_instance_default_permissions" ]
+];
